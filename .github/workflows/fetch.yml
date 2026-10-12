@@ -2,10 +2,11 @@ name: fetch-inbox
 # Two ways in:
 #  - inbox/want.txt: one Dropbox file name per line. Downloads the shared folder (link stored in
 #    the DROPBOX_FOLDER_URL secret) and keeps only those files. Used by the background task.
+#  - inbox/want_trials.txt: same, from the trial-reels folder (DROPBOX_TRIALS_URL), into inbox/trials/.
 #  - inbox/links.txt: name|url lines (temporary links). Used from chat.
 on:
   push:
-    paths: ['inbox/links.txt', 'inbox/want.txt']
+    paths: ['inbox/links.txt', 'inbox/want.txt', 'inbox/want_trials.txt']
   workflow_dispatch:
 permissions:
   contents: write
@@ -17,6 +18,7 @@ jobs:
       - name: Download
         env:
           FOLDER_URL: ${{ secrets.DROPBOX_FOLDER_URL }}
+          TRIALS_URL: ${{ secrets.DROPBOX_TRIALS_URL }}
         run: |
           set -e
           mkdir -p inbox/videos
@@ -36,6 +38,23 @@ jobs:
             fi
           fi
           rm -f inbox/want.txt
+          if [ -s inbox/want_trials.txt ]; then
+            mkdir -p inbox/trials
+            if [ -z "$TRIALS_URL" ]; then echo "DROPBOX_TRIALS_URL secret missing" >> inbox/failed.txt; else
+              url=$(echo "$TRIALS_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
+              case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
+              curl -sSL --fail --retry 3 -o /tmp/trials.zip "$url" || echo "FAILED trials folder download" >> inbox/failed.txt
+              if [ -f /tmp/trials.zip ]; then
+                mkdir -p /tmp/trials && unzip -qo /tmp/trials.zip -d /tmp/trials || true
+                while IFS= read -r name; do
+                  [ -z "$name" ] && continue
+                  src=$(find /tmp/trials -type f -name "$name" | head -1)
+                  if [ -n "$src" ]; then cp "$src" "inbox/trials/$name"; else echo "MISSING $name" >> inbox/failed.txt; fi
+                done < inbox/want_trials.txt
+              fi
+            fi
+          fi
+          rm -f inbox/want_trials.txt
           if [ -s inbox/links.txt ]; then
             while IFS='|' read -r name url; do
               [ -z "$name" ] && continue
@@ -45,7 +64,7 @@ jobs:
           rm -f inbox/links.txt
           sudo apt-get -qq update >/dev/null 2>&1 || true
           sudo apt-get -qq install -y ffmpeg >/dev/null 2>&1 || true
-          for f in inbox/videos/*; do
+          for f in inbox/videos/* inbox/trials/*; do
             [ -f "$f" ] || continue
             size=$(stat -c %s "$f")
             if [ "$size" -gt 95000000 ]; then

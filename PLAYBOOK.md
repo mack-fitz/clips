@@ -48,10 +48,38 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Watch for: failed posts, account health issues, sudden non-follower reach drops.
 - Remind Mack to check Instagram Account Status weekly.
 
-## Phase 2 (trial reels)
-- When IG follower count passes 200, try trial reels (retry up to 1,000).
-- Then: 3 trials/day; next morning repost the best (watch time, shares, saves)
-  as a regular reel with a new caption and cover.
+## Trial reels: @mackygolfs (A) and @mackthegolfer (B) on Instagram
+Zernio profile "golf trials" (6acce55e3ae18f8990ef2008). Account IDs: see accounts_list
+(filter by that profile). Trial reels ONLY on these two accounts; @moremackygolfs keeps posting
+regular reels as above. X and TikTok setups are not touched by any of this.
+
+- **Source:** Dropbox trial folder (name in the line below once Mack gives it), captioned reels
+  only. Pull in random order. Relay via `inbox/want_trials.txt` (names only), files land in
+  `inbox/trials/`. Track in `state/trials.json` (per reel: Dropbox ID, A version + date + post ID,
+  B version + date + post ID, opening style, views/shares/saves/watch time when available).
+  Trial folder: (not set yet)
+- **NO burned-in text on any A or B video.** Don't add hook text, subtitles, captions or labels to
+  the picture. Mack's own captions already in the video stay as they are. Covers: strongest frame,
+  no text.
+- **A (@mackygolfs):** post the original, unedited, opening on the shirt wipe ALWAYS. If the reel
+  looks like it was already posted on A (compare against A's existing reels), make a different edit
+  for A instead: new cut points and punch-ins, still opening on the shirt wipe.
+- **B (@mackthegolfer):** its own clean edit. NEVER the shirt wipe. Open either on the first spoken
+  line right after the wipe, or on a 1-2 s teaser of a later payoff moment then cut back to Mack
+  talking. Alternate the two and track which holds better. Fully clean: no innuendo in captions,
+  nothing suggestive in covers, no OF tie-in, no story shares or links to A or the other accounts.
+- **Every IG account gets its own version.** If a reel has also gone out on @moremackygolfs (or
+  the other trial account), make sure cuts and cover differ from those versions. Never skip a reel
+  for being a duplicate: re-edit it.
+- **Timing:** post a reel to A first; B's version goes up 2-4 days later, never the same day.
+- **Pace:** start at 3 trial reels a day per account (A ~9:30-10:30am, 1-2pm, 6:30-7:30pm MT;
+  B offset by ~45 min). Raise to 4-5 a day only if reach holds and no Account Status warnings.
+  Stay under 10 a day.
+- **Posting:** Zernio posts_create_post, instagram, platformSpecificData
+  `{"trialParams": {"graduationStrategy": "SS_PERFORMANCE"}}` (Instagram auto-shares strong
+  trials to followers), `instagramThumbnail` for the cover. Captions: same dumb lowercase voice,
+  no hashtags or links.
+- **Weekly review:** compare A vs B and the two B openings; say which trials graduated.
 
 ## Files
 - Finished clips: queue/NNN_slug.mp4, queue/NNN_slug_cover.jpg, queue/NNN_slug_full.mp4
