@@ -50,7 +50,7 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 
 ## Trial reels: @mackygolfs (A) and @mackthegolfer (B) on Instagram
 Two Zernio profiles, one per account: "mackygolfs" (6acce3f0662265cf261fca4a) holds A (account 6acce837f3bd55021dad245f),
-"mackthegolfer trials" (6acce6402daf1733722343d0) holds B. Get account IDs with accounts_list
+"mackthegolfer trials" (6acce6402daf1733722343d0) holds B (account 6accea22c485191e985aa1cb). Get account IDs with accounts_list
 filtered by profile, and always post by exact account ID: a B edit must never land on A. Trial reels ONLY on these two accounts; @moremackygolfs keeps posting
 regular reels as above. X and TikTok setups are not touched by any of this.
 
