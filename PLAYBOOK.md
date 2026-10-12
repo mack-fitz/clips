@@ -58,8 +58,9 @@ regular reels as above. X and TikTok setups are not touched by any of this.
   only. Pull in random order. Relay via `inbox/want_trials.txt` (names only), files land in
   `inbox/trials/`. Track in `state/trials.json` (per reel: Dropbox ID, A version + date + post ID,
   B version + date + post ID, opening style, views/shares/saves/watch time when available).
-  Trial folder: (not set yet)
-- **NO burned-in text on any A or B video.** Don't add hook text, subtitles, captions or labels to
+  Trial folder: Dropbox `/Golf Captions` (secret DROPBOX_TRIALS_URL).
+- **NO burned-in text on any A or B video.** Render with `tools/render.sh src segs.json "" "" out.mp4`
+  (empty hooks = nothing drawn). Don't add hook text, subtitles, captions or labels to
   the picture. Mack's own captions already in the video stay as they are. Covers: strongest frame,
   no text.
 - **A (@mackygolfs):** post the original, unedited, opening on the shirt wipe ALWAYS. If the reel
@@ -81,6 +82,21 @@ regular reels as above. X and TikTok setups are not touched by any of this.
   trials to followers), `instagramThumbnail` for the cover. Captions: same dumb lowercase voice,
   no hashtags or links.
 - **Weekly review:** compare A vs B and the two B openings; say which trials graduated.
+
+### Trial pipeline (daily task "Golf trial reels daily run")
+1. List `/Golf Captions`; new = file IDs not in state/trials.json. Relay a few at a time (only what
+   the next 3 days need, plus 2 spare) via `inbox/want_trials.txt`; wait for "Fetch inbox videos";
+   copy files out of inbox/trials, `git rm -r inbox/trials`, commit, push.
+2. Check against A's existing reels: try pulling A's Instagram media (analytics_get_analytics for
+   A's account, source "all", or posts_list for that profile) and compare thumbnails/captions/
+   length. If it can't be checked, treat the reel as new for A.
+3. Make the versions: A = original (scale 1080x1920, ~4.5 Mbps, shirt wipe first) or, if already
+   on A, a different edit that still opens on the wipe. B = clean edit, no wipe (opening per rules).
+   Covers: plain strongest frame, no text. Save to trials/NNN_slug_{a,b}.mp4 + _{a,b}_cover.jpg.
+4. Schedule: keep 3 days of slots filled on each account (A now, B 2-4 days after that reel's A
+   post). posts_create_post with the account's exact ID and trialParams. Record in
+   state/trials.json.
+5. Fix it yourself rules apply. Then message Mack in the same short format as the main run.
 
 ## Files
 - Finished clips: queue/NNN_slug.mp4, queue/NNN_slug_cover.jpg, queue/NNN_slug_full.mp4

@@ -20,5 +20,7 @@ while read a b z fin fout; do
   ffmpeg -nostdin -v error -y -ss $a -i "$SRC" -t $d -vf "${V}scale=1080:1920,setsar=1" -af "$AF" -c:v libx264 -preset veryfast -crf 16 -pix_fmt yuv420p -r 30 -c:a aac -b:a 192k -ar 48000 $W/s$i.mp4
   echo "file 's$i.mp4'" >> $W/list.txt; i=$((i+1))
 done < $W/plan.txt
-ffmpeg -v error -y -f concat -safe 0 -i $W/list.txt -vf "drawtext=fontfile=$FONT:text='$H1':fontsize=68:fontcolor=white:box=1:boxcolor=black@0.75:boxborderw=22:x=(w-text_w)/2:y=300,drawtext=fontfile=$FONT:text='$H2':fontsize=68:fontcolor=white:box=1:boxcolor=black@0.75:boxborderw=22:x=(w-text_w)/2:y=410" -c:v libx264 -preset medium -b:v 4.5M -maxrate 6M -bufsize 10M -profile:v high -pix_fmt yuv420p -r 30 -g 60 -c:a aac -b:a 128k -ar 48000 -movflags +faststart "$OUT"
+# No hook text (trial accounts): pass "" "" and nothing is drawn on the video.
+if [ -z "$H1$H2" ]; then VF="null"; else VF="drawtext=fontfile=$FONT:text='$H1':fontsize=68:fontcolor=white:box=1:boxcolor=black@0.75:boxborderw=22:x=(w-text_w)/2:y=300,drawtext=fontfile=$FONT:text='$H2':fontsize=68:fontcolor=white:box=1:boxcolor=black@0.75:boxborderw=22:x=(w-text_w)/2:y=410"; fi
+ffmpeg -v error -y -f concat -safe 0 -i $W/list.txt -vf "$VF" -c:v libx264 -preset medium -b:v 4.5M -maxrate 6M -bufsize 10M -profile:v high -pix_fmt yuv420p -r 30 -g 60 -c:a aac -b:a 128k -ar 48000 -movflags +faststart "$OUT"
 rm -rf $W
