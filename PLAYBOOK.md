@@ -57,3 +57,41 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Finished clips: queue/NNN_slug.mp4, queue/NNN_slug_cover.jpg, queue/NNN_slug_full.mp4
 - Stories: stories/story_NNN.mp4
 - Media is served to Zernio from raw.githubusercontent.com/mack-fitz/clips/main/...
+
+## Daily pipeline (what the scheduled task does, in order)
+1. Clone this repo (add_repo mack-fitz/clips with push access, then git clone).
+2. **Pull new videos:** list Dropbox folder `/golfclips` (Dropbox connector). Skip file IDs in
+   `state/processed.json`. Photos (selfies) go to the story queue, videos to the reel queue.
+   My workspace can't download from Dropbox directly, so relay through GitHub:
+   get `download_link`s (900s), write `name|url` lines to `inbox/links.txt`, commit and push.
+   The `fetch-inbox` workflow downloads them into `inbox/videos/` (re-encodes >95 MB) and pushes.
+   Poll `git fetch` until the "Fetch inbox videos" commit lands, pull, copy the files out, then
+   `git rm -r inbox/videos`, commit, push (don't leave raw videos in the public repo).
+3. **Edit each new video** (rules above). Look at a 1 fps contact sheet + a speech map
+   (RMS per 0.1s) to plan cuts; snap cuts with `tools/snap.py`; render with
+   `tools/render.sh src segs.json "hook line 1" "hook line 2" out.mp4` (segments
+   `[start,end,zoom]`, zoom=1 punches in 15%). Make the cover (strongest frame + 1–3 blunt words,
+   Poppins Bold 120px, white with black outline, y≈1150-1200). Make the uncut X/TikTok version
+   (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (shirt wipe if present)
+   with a dumb one-liner at y≈1450. Save to queue/NNN_slug{.mp4,_cover.jpg,_full.mp4},
+   stories/story_NNN.mp4; commit + push. Add each Dropbox ID to state/processed.json.
+4. **Schedule:** 2 reels per day, one midday (11:30–1:00 MT) and one evening (6:00–8:00 MT),
+   varied minutes. Instagram = edited clip + cover + caption; X + TikTok = uncut + same caption
+   (TikTok settings in the X/TikTok section). Story teaser at the same time as each IG reel
+   (platformSpecificData.contentType "story"). Use Zernio `posts_create_post` with
+   `scheduled_for` in UTC (MT = UTC−6 during daylight time, UTC−7 after Nov 1).
+   Never schedule more than 2 reels on one day; extra clips wait for the next open slots.
+   Keep a schedule list in `state/schedule.json` (date, slot, clip, Zernio post IDs).
+5. **Dashboard** (https://claude.ai/artifact/WJAWEJC8DtJ9gipbhFCGbe): add each new post's Zernio
+   post ID + tags to the clips file (opening, length_s, version, hook, posted_mt) and refresh the
+   queue file (unposted clips, days left at 2/day). Upload the new JSON as an asset, then update
+   `datasets/clips` / `datasets/queue` url+updated (read the dataset first for if_version).
+6. **Daily summary** (send with SendUserMessage so it's delivered): yesterday per platform
+   (views, avg watch, follows), best + worst post, what's scheduled today, queue days left,
+   anything wrong (failed posts, disconnected account, reach drop). Warn when < 7 days of
+   content remain. Keep it short and plain.
+7. **Sundays:** also write the weekly review (good / bad / changes / 3–5 content ideas based on
+   what's performing + current golf content formats), add it to the reviews file on the
+   dashboard, and include it in the message. Remind Mack to check Instagram Account Status.
+
+Already processed before the task existed: clips 001–002 (from chat uploads).
