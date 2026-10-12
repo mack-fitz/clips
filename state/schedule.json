@@ -23,6 +23,54 @@
         "x_tiktok": "6acc45034a51666f14a86438"
       },
       "status": "published"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "midday",
+      "clip": "003_guess-my-score",
+      "scheduled_mt": "12:17",
+      "zernio": {
+        "instagram": "6acc6b18f0a0323fc3ba5856",
+        "x_tiktok": "6acc6b1f21d2fa6de4ee3fe3",
+        "story": "6acc6b1c760ad4c4c71297bd"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-12",
+      "slot": "evening",
+      "clip": "004_four-putt",
+      "scheduled_mt": "19:04",
+      "zernio": {
+        "instagram": "6acc6b2177e1d2a1a6128219",
+        "x_tiktok": "6acc6b2521d2fa6de4ee4000",
+        "story": "6acc6b2321d2fa6de4ee3fef"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "midday",
+      "clip": "005_cursed-ball",
+      "scheduled_mt": "11:48",
+      "zernio": {
+        "instagram": "6acc6b27760ad4c4c71297df",
+        "x_tiktok": "6acc6b2b21d2fa6de4ee400f",
+        "story": "6acc6b2977e1d2a1a6128236"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-13",
+      "slot": "evening",
+      "clip": "006_one-swing",
+      "scheduled_mt": "18:37",
+      "zernio": {
+        "instagram": "6acc6b2d760ad4c4c71297f7",
+        "x_tiktok": "6acc6b3121d2fa6de4ee43d2",
+        "story": "6acc6b2f3e6e81a1b2c2fc23"
+      },
+      "status": "scheduled"
     }
   ]
 }
