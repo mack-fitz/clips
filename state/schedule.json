@@ -64,7 +64,10 @@
     "story": "6acc6b2977e1d2a1a6128236"
    },
    "status": "scheduled",
-   "caption": "the ball is cursed not me"
+   "caption": "the ball is cursed not me",
+   "file": "queue/005_cursed-ball_v2.mp4",
+   "diff_check": "re-edited Oct 12: cold open on \"first ball was cursed\", then intro; cut \"lets see if they improve my game\", texas-wedge aside and dead air; 26% cut (55.4s->41.0s); 6 punch-ins; ends on \"could it be me the problem\" before Macks \"what do you think\"; new cover (orange lake ball) + LAKE BALL; new hook",
+   "note": "re-edited so it is clearly different from your original"
   },
   {
    "date": "2026-10-13",
