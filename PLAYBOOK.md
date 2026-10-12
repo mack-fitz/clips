@@ -177,3 +177,12 @@ Already processed before the task existed: clips 001–002 (from chat uploads).
 **Macky To Do** (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79): every run, ArtifactData `update` this account's doc in collection `queues` with `days_left` (number), `detail` (one plain line: what is left and the pace) and `updated` ("Mon D"). Sundays: add 2-3 new docs to `ideas` (fields order, title, where, effort, what, why) that fit Mack's masc/dry/silly vibe. Doc id(s) for this repo: golf-page.
 
 Base Camp schedule (same page): every run, ArtifactData `set` collection `schedule`, doc id(s) golf, to `{items: [{date: "YYYY-MM-DD" (Mountain), time: "HH:MM" 24h Mountain, caption, where?}]}` covering today and tomorrow for that account. The page is now named "Base Camp".
+
+## @moremackygolfs only posts footage Mack has ALREADY posted (Mack's rule, Oct 12)
+Never give @moremackygolfs a video Mack hasn't posted himself. Unused footage is reserved for the
+trial accounts (@mackygolfs / @mackthegolfer). Before scheduling any clip, confirm it matches a post
+on @mackygolfs or @mackthegolfer (analytics_get_analytics with profile_id 6acce3f0662265cf261fca4a
+and 6acce6402daf1733722343d0, source "all", paginate: compare videoDurationSeconds within 2 s plus
+the content/caption). No match = treat as unused: don't post it here, add its Dropbox ID to
+state/processed.json with note "unused -> trials", and tell Mack in the summary.
+(Oct 12: 010_wrong-clubs had no match and was pulled from Oct 14.)
