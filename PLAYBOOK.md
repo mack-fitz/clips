@@ -97,3 +97,11 @@ Operating rules for every edit and post. Scheduled runs read this file first.
    dashboard, and include it in the message. Remind Mack to check Instagram Account Status.
 
 Already processed before the task existed: clips 001–002 (from chat uploads).
+
+## YouTube promo clips
+- Mack (she/her) will send new YouTube golf videos to cut into vertical promo clips.
+- REMINDER to send her (in the daily message) whenever a long or horizontal YouTube video shows up
+  in Dropbox without a matching .srt: upload the clean video to YouTube with no burned-in captions,
+  let YouTube auto-caption it, fix the captions in Studio, then download the .srt and drop it in
+  Dropbox next to the video. Use the .srt to burn captions into the promo clips in reel style.
+- Promo text on clips: "full video on my yt" style. Still no links in captions.
