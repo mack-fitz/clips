@@ -58,6 +58,24 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Stories: stories/story_NNN.mp4
 - Media is served to Zernio from raw.githubusercontent.com/mack-fitz/clips/main/...
 
+## Fix it yourself (Mack's standing rule)
+Mack should never have to tell you to circle back. Every run, before messaging him:
+- **Failed posts:** find them (posts_list_failed, and any post in this account's schedule whose
+  status is failed/error). Fix the cause (re-encode or shrink media, swap a broken media URL for a
+  pinned-commit raw URL, re-crop, shorten a caption) and reschedule into the next open slot, or the
+  same slot if it hasn't passed. Retry transient errors once; if it fails again, change approach.
+- **Empty slots:** every slot for the next 3 days must have a post. Fill any gap.
+- **Bad content:** anything that breaks the rules here (AI tells, wrong crop, cut mid-word, hook
+  under the audio bar) gets replaced or re-edited before it goes out.
+- **Disconnected account / expired token:** this is the one thing you can't fix — tell Mack
+  exactly what to reconnect.
+- In the message, report fixes as done ("Thursday 8pm was empty — filled it with X"), not as
+  questions. Only ask Mack for things you truly can't do.
+
+## Mack's review
+Everything scheduled shows on the dashboard's "Up next" queue. Mack may look and ask for changes
+in chat; if he says nothing, proceed as planned. Never wait on his approval to post.
+
 ## Daily pipeline (what the scheduled task does, in order)
 1. Clone this repo (add_repo mack-fitz/clips with push access, then git clone).
 2. **Pull new videos:** list Dropbox folder `/golfclips` (Dropbox connector). Skip file IDs in
@@ -88,6 +106,10 @@ Operating rules for every edit and post. Scheduled runs read this file first.
    post ID + tags to the clips file (opening, length_s, version, hook, posted_mt) and refresh the
    queue file (unposted clips, days left at 2/day). Upload the new JSON as an asset, then update
    `datasets/clips` / `datasets/queue` url+updated (read the dataset first for if_version).
+   **Up next:** every slot in state/schedule.json keeps `caption` (and `hook`, `note` when there's
+   something to say, e.g. "re-edited: cut was mid-word"). After any scheduling change run
+   `python3 tools/upnext.py /tmp/upnext.json`, upload it as an asset to the dashboard, and update
+   `datasets/upnext` source.url + updated (read it first for if_version).
 6. **Daily summary** (send with SendUserMessage so it's delivered): yesterday per platform
    (views, avg watch, follows), best + worst post, what's scheduled today, queue days left,
    anything wrong (failed posts, disconnected account, reach drop). Warn when < 7 days of
