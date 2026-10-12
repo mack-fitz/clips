@@ -1,0 +1,28 @@
+{
+  "note": "Reels schedule. Times Mountain. 2 reels/day max (midday 11:30-1:00, evening 6:00-8:00).",
+  "slots": [
+    {
+      "date": "2026-10-11",
+      "slot": "evening",
+      "clip": "001_perfect-perfect-bogey",
+      "posted_mt": "19:48",
+      "zernio": {
+        "instagram": "6acc3c34878524710b8a7e22",
+        "x_tiktok": "6acc40fde6548c5eb520a151",
+        "story": "6acc4a0a4b0a5a0f716dbd94"
+      },
+      "status": "published"
+    },
+    {
+      "date": "2026-10-11",
+      "slot": "evening",
+      "clip": "002_beach-day",
+      "posted_mt": "20:30",
+      "zernio": {
+        "instagram": "6acc45004a51666f14a86433",
+        "x_tiktok": "6acc45034a51666f14a86438"
+      },
+      "status": "published"
+    }
+  ]
+}
