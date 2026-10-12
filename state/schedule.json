@@ -71,6 +71,136 @@
         "story": "6acc6b2f3e6e81a1b2c2fc23"
       },
       "status": "scheduled"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "midday",
+      "clip": "010_wrong-clubs",
+      "scheduled_mt": "12:41",
+      "caption": "putting with a driver is the move",
+      "zernio": {
+        "instagram": "6acc7d4519e1faf028eaee17",
+        "x_tiktok": "6acc7d4a19e1faf028eaee4b",
+        "story": "6acc7d4c19e1faf028eaee50"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-14",
+      "slot": "evening",
+      "clip": "007_ugly-bounce",
+      "scheduled_mt": "19:22",
+      "caption": "who put those rocks there",
+      "zernio": {
+        "instagram": "6acc7d537e27b3dfe33585b9",
+        "x_tiktok": "6acc7d5519e1faf028eaee85",
+        "story": "6acc7d5719e1faf028eaee8e"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "midday",
+      "clip": "015_hole-in-one-attempt",
+      "scheduled_mt": "11:53",
+      "caption": "basically a hole in one",
+      "zernio": {
+        "instagram": "6acc7d5877bf0c5c34d4f1ed",
+        "x_tiktok": "6acc7d5b7e27b3dfe33585db",
+        "story": "6acc7d5d19e1faf028eaeead"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-15",
+      "slot": "evening",
+      "clip": "016_help-my-swing",
+      "scheduled_mt": "18:14",
+      "caption": "pls help me",
+      "zernio": {
+        "instagram": "6acc7d6319e1faf028eaeec6",
+        "x_tiktok": "6acc7d657e27b3dfe3358603",
+        "story": "6acc7d673aa5ee18622fbdb4"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "midday",
+      "clip": "014_no-pars-yet",
+      "scheduled_mt": "12:26",
+      "caption": "par is a myth",
+      "zernio": {
+        "instagram": "6acc7d6819e1faf028eaeedb",
+        "x_tiktok": "6acc7d6b19e1faf028eaeee8",
+        "story": "6acc7d6c7e27b3dfe3358613"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-16",
+      "slot": "evening",
+      "clip": "009_new-shirt",
+      "scheduled_mt": "19:47",
+      "caption": "at least the shirt is nice",
+      "zernio": {
+        "instagram": "6acc7d724e8780bc15e62ee3",
+        "x_tiktok": "6acc7d7419e1faf028eaeefb",
+        "story": "6acc7d7619e1faf028eaef08"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "midday",
+      "clip": "008_almost-eagle",
+      "scheduled_mt": "11:37",
+      "caption": "eagle was right there guys",
+      "zernio": {
+        "instagram": "6acc7d784e8780bc15e62f00",
+        "x_tiktok": "6acc7d7a4e8780bc15e62f0b",
+        "story": "6acc7d7c4e8780bc15e62f10"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "evening",
+      "clip": "012_great-drive",
+      "scheduled_mt": "18:52",
+      "caption": "great drive tho",
+      "zernio": {
+        "instagram": "6acc7d8119e1faf028eaef28",
+        "x_tiktok": "6acc7d8419e1faf028eaef3d",
+        "story": "6acc7d853aa5ee18622fbde0"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "midday",
+      "clip": "013_cliff-par-5",
+      "scheduled_mt": "12:08",
+      "caption": "very well deserved triple",
+      "zernio": {
+        "instagram": "6acc7d8719e1faf028eaef46",
+        "x_tiktok": "6acc7d8977bf0c5c34d4f213",
+        "story": "6acc7d8b4e8780bc15e62f28"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "evening",
+      "clip": "011_king-of-the-world",
+      "scheduled_mt": "19:31",
+      "caption": "king of the world for 1 second",
+      "zernio": {
+        "instagram": "6acc7d8d4e8780bc15e62f2f",
+        "x_tiktok": "6acc7d9019e1faf028eaef59",
+        "story": "6acc7d914e8780bc15e62f3b"
+      },
+      "status": "scheduled"
     }
   ]
 }
