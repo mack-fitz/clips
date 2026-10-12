@@ -62,11 +62,13 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 1. Clone this repo (add_repo mack-fitz/clips with push access, then git clone).
 2. **Pull new videos:** list Dropbox folder `/golfclips` (Dropbox connector). Skip file IDs in
    `state/processed.json`. Photos (selfies) go to the story queue, videos to the reel queue.
-   My workspace can't download from Dropbox directly, so relay through GitHub:
-   get `download_link`s (900s), write `name|url` lines to `inbox/links.txt`, commit and push.
-   The `fetch-inbox` workflow downloads them into `inbox/videos/` (re-encodes >95 MB) and pushes.
-   Poll `git fetch` until the "Fetch inbox videos" commit lands, pull, copy the files out, then
-   `git rm -r inbox/videos`, commit, push (don't leave raw videos in the public repo).
+   My workspace can't download from Dropbox directly, so relay through GitHub: write the new
+   file NAMES (one per line, names only, never URLs) to `inbox/want.txt`, commit, push. The
+   `fetch-inbox` workflow downloads the shared folder using the DROPBOX_FOLDER_URL repo secret and
+   puts those files in `inbox/videos/` (re-encodes >95 MB). Never commit Dropbox links (GitHub
+   blocks the push). Poll `git fetch` until the "Fetch inbox videos" commit lands, pull, check
+   `inbox/failed.txt`, copy the files out, then `git rm -r inbox/videos inbox/failed.txt`, commit,
+   push (don't leave raw videos in the public repo).
 3. **Edit each new video** (rules above). Look at a 1 fps contact sheet + a speech map
    (RMS per 0.1s) to plan cuts; snap cuts with `tools/snap.py`; render with
    `tools/render.sh src segs.json "hook line 1" "hook line 2" out.mp4` (segments
