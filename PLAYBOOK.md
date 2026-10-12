@@ -172,3 +172,6 @@ Already processed before the task existed: clips 001–002 (from chat uploads).
   let YouTube auto-caption it, fix the captions in Studio, then download the .srt and drop it in
   Dropbox next to the video. Use the .srt to burn captions into the promo clips in reel style.
 - Promo text on clips: "full video on my yt" style. Still no links in captions.
+
+## Macky To Do page
+**Macky To Do** (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79): every run, ArtifactData `update` this account's doc in collection `queues` with `days_left` (number), `detail` (one plain line: what is left and the pace) and `updated` ("Mon D"). Sundays: add 2-3 new docs to `ideas` (fields order, title, where, effort, what, why) that fit Mack's masc/dry/silly vibe. Doc id(s) for this repo: golf-page.
