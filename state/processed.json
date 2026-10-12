@@ -1,11 +1,21 @@
 {
   "note": "Dropbox file IDs already turned into posts. The daily task skips these. id:...Eog = copy_2CC073A6 (clip 002).",
   "dropbox_golfclips_processed": [
-    "id:etyjxrk_8sAAAAAAAAAEog"
+    "id:etyjxrk_8sAAAAAAAAAEog",
+    "id:etyjxrk_8sAAAAAAAAAEoQ",
+    "id:etyjxrk_8sAAAAAAAAAEnQ",
+    "id:etyjxrk_8sAAAAAAAAAEnA",
+    "id:etyjxrk_8sAAAAAAAAAEnw"
   ],
   "posted_from_chat_uploads": [
     "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
     "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
   ],
-  "next_clip_number": 3
+  "next_clip_number": 7,
+  "clip_map": {
+    "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
+    "004_four-putt": "17ad39c4 (EnQ)",
+    "005_cursed-ball": "0cef0458 (EnA)",
+    "006_one-swing": "copy_2A97DD30 (Enw)"
+  }
 }
