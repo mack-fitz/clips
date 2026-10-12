@@ -5,17 +5,37 @@
     "id:etyjxrk_8sAAAAAAAAAEoQ",
     "id:etyjxrk_8sAAAAAAAAAEnQ",
     "id:etyjxrk_8sAAAAAAAAAEnA",
-    "id:etyjxrk_8sAAAAAAAAAEnw"
+    "id:etyjxrk_8sAAAAAAAAAEnw",
+    "id:etyjxrk_8sAAAAAAAAAEqQ",
+    "id:etyjxrk_8sAAAAAAAAAEqg",
+    "id:etyjxrk_8sAAAAAAAAAEqw",
+    "id:etyjxrk_8sAAAAAAAAAErg",
+    "id:etyjxrk_8sAAAAAAAAAE2A",
+    "id:etyjxrk_8sAAAAAAAAAEpw",
+    "id:etyjxrk_8sAAAAAAAAAEpA",
+    "id:etyjxrk_8sAAAAAAAAAEpQ",
+    "id:etyjxrk_8sAAAAAAAAAEpg",
+    "id:etyjxrk_8sAAAAAAAAAEqA"
   ],
   "posted_from_chat_uploads": [
     "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
     "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
   ],
-  "next_clip_number": 7,
+  "next_clip_number": 17,
   "clip_map": {
     "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
     "004_four-putt": "17ad39c4 (EnQ)",
     "005_cursed-ball": "0cef0458 (EnA)",
-    "006_one-swing": "copy_2A97DD30 (Enw)"
+    "006_one-swing": "copy_2A97DD30 (Enw)",
+    "007_ugly-bounce": "IMG_6391 (EqQ)",
+    "008_almost-eagle": "IMG_6394 (Eqg)",
+    "009_new-shirt": "Video 5_43_32 (Eqw)",
+    "010_wrong-clubs": "Video 5_49_54 (Erg)",
+    "011_king-of-the-world": "Video 5_51_18 (E2A)",
+    "012_great-drive": "copy_292850AB (Epw)",
+    "013_cliff-par-5": "copy_4E5F508B (EpA)",
+    "014_no-pars-yet": "copy_6FFD8A7C (EpQ)",
+    "015_hole-in-one-attempt": "copy_99A28E54 (Epg)",
+    "016_help-my-swing": "copy_A526847D (EqA)"
   }
 }
