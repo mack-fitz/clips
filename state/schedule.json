@@ -41,14 +41,17 @@
    "date": "2026-10-12",
    "slot": "evening",
    "clip": "004_four-putt",
-   "scheduled_mt": "18:04",
+   "scheduled_mt": "18:58",
    "zernio": {
     "instagram": "6acc6b2177e1d2a1a6128219",
     "x_tiktok": "6acc6b2521d2fa6de4ee4000",
     "story": "6acc6b2321d2fa6de4ee3fef"
    },
    "status": "scheduled",
-   "caption": "emotionally that was a par"
+   "caption": "emotionally that was a par",
+   "file": "queue/004_four-putt_v2.mp4",
+   "diff_check": "re-edited Oct 12: cold open on the \"phone blew over / wouldnt lie about four putting\" line, then shirt wipe; 25% cut (40.5s->30.5s); 3 punch-ins; ends on phone falling in grass instead of Mack's last line; new cover frame + NOT MY FAULT; new hook",
+   "note": "re-edited so it is clearly different from your original"
   },
   {
    "date": "2026-10-13",
