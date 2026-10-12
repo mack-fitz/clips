@@ -49,8 +49,9 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Remind Mack to check Instagram Account Status weekly.
 
 ## Trial reels: @mackygolfs (A) and @mackthegolfer (B) on Instagram
-Zernio profile "golf trials" (6acce55e3ae18f8990ef2008). Account IDs: see accounts_list
-(filter by that profile). Trial reels ONLY on these two accounts; @moremackygolfs keeps posting
+Two Zernio profiles, one per account: "mackygolfs trials" (6acce55e3ae18f8990ef2008) holds A,
+"mackthegolfer trials" (6acce6402daf1733722343d0) holds B. Get account IDs with accounts_list
+filtered by profile, and always post by exact account ID: a B edit must never land on A. Trial reels ONLY on these two accounts; @moremackygolfs keeps posting
 regular reels as above. X and TikTok setups are not touched by any of this.
 
 - **Source:** Dropbox trial folder (name in the line below once Mack gives it), captioned reels
