@@ -28,6 +28,17 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Cover: strongest frame (action or reaction, never suggestive out of context),
   1–3 blunt words in big text inside the center square (grid crop).
 - Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast.
+- **Must be CLEARLY different from Mack's original (Mack, Oct 12).** Every @moremackygolfs edit
+  needs ALL of: a restructured order (not just trims of the original timeline — move a later
+  moment or payoff earlier, or open on a different beat than Mack's version); 25–40% of the
+  runtime removed; at least 3 punch-ins (alternate 1.0 and ~1.15 zoom, not one long zoom);
+  a different ending point than the original; the hook text; a different cover frame than
+  Mack's. Keeping the shirt wipe is fine, but it must not open the reel the same way Mack's
+  post does if Mack's post opened on it — put the hook moment or a 1–2 s teaser before it.
+  Before scheduling, make a side-by-side contact sheet (original vs edit, one frame every 3 s)
+  and Read it. If the edit still reads as the same video, re-edit. Log `diff_check` in
+  state/schedule.json for the slot (what changed). Never reduce length just to be different
+  beyond the 25–40% cut.
 
 ## X and TikTok
 - Post Mack's original, uncut (shirt wipe kept). Light trims only.
