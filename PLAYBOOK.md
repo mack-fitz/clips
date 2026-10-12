@@ -77,7 +77,7 @@ Operating rules for every edit and post. Scheduled runs read this file first.
    (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (shirt wipe if present)
    with a dumb one-liner at y≈1450. Save to queue/NNN_slug{.mp4,_cover.jpg,_full.mp4},
    stories/story_NNN.mp4; commit + push. Add each Dropbox ID to state/processed.json.
-4. **Schedule:** 2 reels per day, one midday (11:30–1:00 MT) and one evening (6:00–8:00 MT),
+4. **Schedule:** 2 reels per day, one midday (11:30–1:00 MT) and one evening (5:00–7:00 MT),
    varied minutes. Instagram = edited clip + cover + caption; X + TikTok = uncut + same caption
    (TikTok settings in the X/TikTok section). Story teaser at the same time as each IG reel
    (platformSpecificData.contentType "story"). Use Zernio `posts_create_post` with
