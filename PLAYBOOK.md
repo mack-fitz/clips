@@ -197,3 +197,10 @@ and 6acce6402daf1733722343d0, source "all", paginate: compare videoDurationSecon
 the content/caption). No match = treat as unused: don't post it here, add its Dropbox ID to
 state/processed.json with note "unused -> trials", and tell Mack in the summary.
 (Oct 12: 010_wrong-clubs had no match and was pulled from Oct 14.)
+
+## Bought engagement — exclude from analytics (Mack, Oct 12)
+Mack bought engagement for Instagram @moremackygolfs on Oct 12 (night): 300 followers, 1,000 views, 100 likes, arriving gradually over roughly Oct 13–17. None of it counts as real performance:
+- Followers: on the next run, record the follower count in state/bought.json as the baseline (date + count) if not already there. Report follower growth as (current − baseline − bought followers that have landed); assume all 300 land by Oct 17. Label it "real growth (excl. bought)". Never cite the raw jump as a win.
+- Views/likes: the 1,000 views and 100 likes may land on one or several posts. Any @moremackygolfs post published before Oct 13 whose views or likes jump unusually between runs during Oct 13–17 is marked `inflated: true` in state/schedule.json (note how much). Subtract up to 1,000 views and 100 likes total across those posts. Leave inflated posts out of best/worst post, averages, and any "what's working" conclusions; mention them as "excluded (bought)".
+- Dashboards (Clip Page Stats): same exclusions; add a note line "Excludes bought engagement (Oct 12: 300 followers, 1,000 views, 100 likes)".
+- Applies only to @moremackygolfs. X/TikTok @mackygolfs and the trial accounts are unaffected.
