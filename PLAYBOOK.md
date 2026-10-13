@@ -25,8 +25,8 @@ Operating rules for every edit and post. Scheduled runs read this file first.
   frame — LOW enough to clear the reel's audio info bar (not at the very top).
 - Keep Mack's captions untouched (they sit mid-frame).
 - Target length: tight, usually 30–70s depending on the story.
-- Cover: strongest frame (action or reaction, never suggestive out of context),
-  1–3 blunt words in big text inside the center square (grid crop).
+- Cover: ALWAYS a shirt-wipe frame (Mack, Oct 12), from early in the wipe with the face
+  covered, plus 1–3 blunt words in big text inside the center square (grid crop).
 - Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast.
 - **Must be CLEARLY different from Mack's original (Mack, Oct 12).** Every @moremackygolfs edit
   needs ALL of: a restructured order (not just trims of the original timeline — move a later
