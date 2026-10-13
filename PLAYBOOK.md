@@ -21,20 +21,22 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Tighten: remove filler talk, dead air, waiting between shots. Keep every shot
   with its tracer fully visible (strike to landing), and every payoff line.
 - Punch in ~15% on reaction moments.
-- Hook text: 2 short lines, white on black box, placed in the top fifth of the
-  frame — LOW enough to clear the reel's audio info bar (not at the very top).
+- NO hook text or any added text on the video (Mack, Oct 12) — render with "" "".
 - Keep Mack's captions untouched (they sit mid-frame).
 - Target length: tight, usually 30–70s depending on the story.
-- Cover: ALWAYS a shirt-wipe frame (Mack, Oct 12), from early in the wipe with the face
-  covered, plus 1–3 blunt words in big text inside the center square (grid crop).
+- Cover: always a shirt-wipe frame (Mack, Oct 12), from early in the wipe with the face
+  covered. Cover text styles rotate per the grid reference
+  (/home/claude/mackygolfs-mackthegolfer/covers/grid-reference.png and the "Cover text style"
+  section of that repo's PLAYBOOK.md): mostly "Macky vs. ___" pill / some typewriter note /
+  occasional big red question / sometimes no words. No two consecutive posts with the same style;
+  mid-frame (45–70% down), inside the center square.
 - Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast.
 - **Must be CLEARLY different from Mack's original (Mack, Oct 12).** Every @moremackygolfs edit
   needs ALL of: a restructured order (not just trims of the original timeline — move a later
   moment or payoff earlier, or open on a different beat than Mack's version); 25–40% of the
   runtime removed; at least 3 punch-ins (alternate 1.0 and ~1.15 zoom, not one long zoom);
-  a different ending point than the original; the hook text; a different cover frame than
-  Mack's. Keeping the shirt wipe is fine, but it must not open the reel the same way Mack's
-  post does if Mack's post opened on it — put the hook moment or a 1–2 s teaser before it.
+  a different ending point than the original; a different cover than Mack's. Keeping the shirt wipe is fine, but it must not open the reel the same way Mack's
+  post does if Mack's post opened on it — put a later payoff moment or a 1–2 s teaser before it.
   Before scheduling, make a side-by-side contact sheet (original vs edit, one frame every 3 s)
   and Read it. If the edit still reads as the same video, re-edit. Log `diff_check` in
   state/schedule.json for the slot (what changed). Never reduce length just to be different
@@ -52,7 +54,7 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 
 ## Stories
 - Post a 15s teaser story with each new IG reel ("full disaster on my page" style),
-  built from the original, no top hook text.
+  built from the original, no added text.
 
 ## Account safety
 - No bio link (Mack's choice). No fake engagement, no automated scrolling.
@@ -121,8 +123,8 @@ Mack should never have to tell you to circle back. Every run, before messaging h
   pinned-commit raw URL, re-crop, shorten a caption) and reschedule into the next open slot, or the
   same slot if it hasn't passed. Retry transient errors once; if it fails again, change approach.
 - **Empty slots:** every slot for the next 3 days must have a post. Fill any gap.
-- **Bad content:** anything that breaks the rules here (AI tells, wrong crop, cut mid-word, hook
-  under the audio bar) gets replaced or re-edited before it goes out.
+- **Bad content:** anything that breaks the rules here (AI tells, wrong crop, cut mid-word, any
+  added text on the video) gets replaced or re-edited before it goes out.
 - **Disconnected account / expired token:** this is the one thing you can't fix — tell Mack
   exactly what to reconnect.
 - In the message, report fixes as done ("Thursday 8pm was empty — filled it with X"), not as
@@ -145,9 +147,9 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
    push (don't leave raw videos in the public repo).
 3. **Edit each new video** (rules above). Look at a 1 fps contact sheet + a speech map
    (RMS per 0.1s) to plan cuts; snap cuts with `tools/snap.py`; render with
-   `tools/render.sh src segs.json "hook line 1" "hook line 2" out.mp4` (segments
-   `[start,end,zoom]`, zoom=1 punches in 15%). Make the cover (strongest frame + 1–3 blunt words,
-   Poppins Bold 120px, white with black outline, y≈1150-1200). Make the uncut X/TikTok version
+   `tools/render.sh src segs.json "" "" out.mp4` (segments `[start,end,zoom]`, zoom=1 punches
+   in 15%; no text on the video). Make the cover (shirt-wipe frame + rotating grid text style,
+   see the Cover bullet above). Make the uncut X/TikTok version
    (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (shirt wipe if present)
    with a dumb one-liner at y≈1450. Save to queue/NNN_slug{.mp4,_cover.jpg,_full.mp4},
    stories/story_NNN.mp4; commit + push. Add each Dropbox ID to state/processed.json.
@@ -159,10 +161,10 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
    Never schedule more than 2 reels on one day; extra clips wait for the next open slots.
    Keep a schedule list in `state/schedule.json` (date, slot, clip, Zernio post IDs).
 5. **Dashboard** (https://claude.ai/artifact/WJAWEJC8DtJ9gipbhFCGbe): add each new post's Zernio
-   post ID + tags to the clips file (opening, length_s, version, hook, posted_mt) and refresh the
+   post ID + tags to the clips file (opening, length_s, version, posted_mt) and refresh the
    queue file (unposted clips, days left at 2/day). Upload the new JSON as an asset, then update
    `datasets/clips` / `datasets/queue` url+updated (read the dataset first for if_version).
-   **Up next:** every slot in state/schedule.json keeps `caption` (and `hook`, `note` when there's
+   **Up next:** every slot in state/schedule.json keeps `caption` (and `note` when there's
    something to say, e.g. "re-edited: cut was mid-word"). After any scheduling change run
    `python3 tools/upnext.py /tmp/upnext.json`, upload it as an asset to the dashboard, and update
    `datasets/upnext` source.url + updated (read it first for if_version).
