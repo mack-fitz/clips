@@ -130,8 +130,8 @@
    },
    "status": "scheduled",
    "file": "queue/007_ugly-bounce_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on \"ive lost count, just trying to get this in the hole\" + the putter-drop fall (Macks ending), then shirt wipe; cut ankle line, waiting and most of the putting marathon; 29% cut (90.2s->64.2s); 10 punch-ins; ends on the final putt instead of the fall; new cover (close-up face) + NIGHTMARE; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on \"ive lost count, just trying to get this in the hole\" + the putter-drop fall (Macks ending), then shirt wipe; cut ankle line, waiting and most of the putting marathon; 29% cut (90.2s->64.2s); 10 punch-ins; ends on the final putt instead of the fall; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (64.2s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-15",
@@ -146,8 +146,8 @@
    },
    "status": "scheduled",
    "file": "queue/015_hole-in-one-attempt_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on Macks closing line \"wasnt quite a hole in one\", then shirt wipe + \"watch this hole in one\"; cut walk-up and both setups; 27% cut (34.3s->25.1s); 4 punch-ins; ends on her watching the ball and turning back instead of the finger-point line; new cover (grin) + NOT QUITE; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on Macks closing line \"wasnt quite a hole in one\", then shirt wipe + \"watch this hole in one\"; cut walk-up and both setups; 27% cut (34.3s->25.1s); 4 punch-ins; ends on her watching the ball and turning back instead of the finger-point line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (25.1s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-15",
@@ -162,8 +162,8 @@
    },
    "status": "scheduled",
    "file": "queue/016_help-my-swing_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on \"i am a pretty freaking good golfer / holy shit that was awesome\", then shirt wipe + \"help me\"; cut the 110-out/9-iron talk, \"gotta do that more often\", putt waiting; texas-wedge line moved right after the chip; 26% cut (70.1s->51.9s); 6 punch-ins; ends on \"little chip under the green\" before Macks \"getting better you guys\"; new cover (bunker exit face) + NOT PRETTY; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on \"i am a pretty freaking good golfer / holy shit that was awesome\", then shirt wipe + \"help me\"; cut the 110-out/9-iron talk, \"gotta do that more often\", putt waiting; texas-wedge line moved right after the chip; 26% cut (70.1s->51.9s); 6 punch-ins; ends on \"little chip under the green\" before Macks \"getting better you guys\"; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (51.9s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-16",
@@ -178,8 +178,8 @@
    },
    "status": "scheduled",
    "file": "queue/014_no-pars-yet_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on Macks closing \"finished pretty weak with a triple / tough to see\", then shirt wipe; cut \"not great but we can still save this\", the 190-out talk, \"50 out from the green\", putt waiting; 25% cut (62.0s->46.2s); 6 punch-ins; ends on the par putt rolling instead of the triple line; new cover (tee swing) + NO PARS; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on Macks closing \"finished pretty weak with a triple / tough to see\", then shirt wipe; cut \"not great but we can still save this\", the 190-out talk, \"50 out from the green\", putt waiting; 25% cut (62.0s->46.2s); 6 punch-ins; ends on the par putt rolling instead of the triple line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (46.2s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-16",
@@ -194,8 +194,8 @@
    },
    "status": "scheduled",
    "file": "queue/009_new-shirt_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on \"that was a tough four putt\", then shirt wipe; cut \"lets play a par 3\", \"working on that being my thing\", the repeat \"dont know what happened\", \"DC of the G\" and putt waiting; 26% cut (66.0s->49.0s); 6 punch-ins; ends on \"at least i look so cute in my new shirt\" instead of Macks \"shank it golf\"; new cover (face at the putt) + FOUR PUTT; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on \"that was a tough four putt\", then shirt wipe; cut \"lets play a par 3\", \"working on that being my thing\", the repeat \"dont know what happened\", \"DC of the G\" and putt waiting; 26% cut (66.0s->49.0s); 6 punch-ins; ends on \"at least i look so cute in my new shirt\" instead of Macks \"shank it golf\"; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (49.0s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-17",
@@ -210,8 +210,8 @@
    },
    "status": "scheduled",
    "file": "queue/008_almost-eagle_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on the arms-out celebration at the pin, then shirt wipe; cut the repeat \"first birdie on a par five\", \"if I miss this Im gonna be so mad\", \"I think in my life\", waiting between shots; 27% cut (39.0s->28.4s); 4 punch-ins; ends as the putt drops instead of Macks \"thats a bird\" face; new cover (close-up at the green) + BIRDIE; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on the arms-out celebration at the pin, then shirt wipe; cut the repeat \"first birdie on a par five\", \"if I miss this Im gonna be so mad\", \"I think in my life\", waiting between shots; 27% cut (39.0s->28.4s); 4 punch-ins; ends as the putt drops instead of Macks \"thats a bird\" face; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (28.4s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-17",
@@ -226,8 +226,8 @@
    },
    "status": "scheduled",
    "file": "queue/012_great-drive_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on Macks closing \"hate to see a great drive turn into a triple\", then shirt wipe; cut \"you know what ive been thinking\", setup and putt waiting; 25% cut (47.7s->35.6s); 6 punch-ins; ends on the last putt instead of the triple line; new cover (crouched after the skulled chip) + SKULLED IT; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on Macks closing \"hate to see a great drive turn into a triple\", then shirt wipe; cut \"you know what ive been thinking\", setup and putt waiting; 25% cut (47.7s->35.6s); 6 punch-ins; ends on the last putt instead of the triple line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (35.6s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   },
   {
    "date": "2026-10-18",
@@ -242,8 +242,8 @@
    },
    "status": "scheduled",
    "file": "queue/013_cliff-par-5_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on \"oh pulled it and I am in the bunker\", then shirt wipe; cut the obstacles/cliffs-on-the-back talk, setups, the middle putt and waiting; 26% cut (75.9s->56.3s); 8 punch-ins; ends on \"well deserved triple\" before Macks \"given the circumstances\"; new cover (pointing at the cliff) + THE CLIFF; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "diff_check": "re-edited Oct 12: cold open on \"oh pulled it and I am in the bunker\", then shirt wipe; cut the obstacles/cliffs-on-the-back talk, setups, the middle putt and waiting; 26% cut (75.9s->56.3s); 8 punch-ins; ends on \"well deserved triple\" before Macks \"given the circumstances\"; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (56.3s); cover: grid-style cover already in repo",
+   "note": "re-rendered: removed burned-in hook text (no added text rule)"
   }
  ]
 }
