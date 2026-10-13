@@ -206,3 +206,5 @@ Mack bought engagement for Instagram @moremackygolfs on Oct 12 (night): 300 foll
 - Views/likes: the 1,000 views and 100 likes may land on one or several posts. Any @moremackygolfs post published before Oct 13 whose views or likes jump unusually between runs during Oct 13–17 is marked `inflated: true` in state/schedule.json (note how much). Subtract up to 1,000 views and 100 likes total across those posts. Leave inflated posts out of best/worst post, averages, and any "what's working" conclusions; mention them as "excluded (bought)".
 - Dashboards (Clip Page Stats): same exclusions; add a note line "Excludes bought engagement (Oct 12: 300 followers, 1,000 views, 100 likes)".
 - Applies only to @moremackygolfs. X/TikTok @mackygolfs and the trial accounts are unaffected.
+
+- NEVER cut swearing or profanity out of any edit (Mack, Oct 13).
