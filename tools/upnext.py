@@ -2,7 +2,8 @@
 """Build the dashboard's "Up next" file: every scheduled post that hasn't gone out yet.
 
 Usage: python3 tools/upnext.py out.json
-Reads state/schedule.json and queue/<clip>_cover.jpg. Each row gets a small cover thumbnail
+Reads state/schedule.json; uses the slot's "file" (e.g. queue/<clip>_v2.mp4) and its
+matching _cover.jpg when present, else queue/<clip>.mp4 and queue/<clip>_cover.jpg. Each row gets a small cover thumbnail
 (data URI) so the dashboard can show it without loading anything from another site.
 """
 import base64, json, subprocess, sys, tempfile, os
@@ -34,6 +35,10 @@ def main(out):
         if when < now:
             continue
         clip = s["clip"]
+        video = s.get("file") or f"queue/{clip}.mp4"
+        cover = video[:-4] + "_cover.jpg"
+        if not os.path.exists(cover):
+            cover = f"queue/{clip}_cover.jpg"
         rows.append({
             "when": when.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "when_mt": local.strftime("%a %b %-d · %-I:%M%p").replace("AM", "am").replace("PM", "pm"),
@@ -42,8 +47,8 @@ def main(out):
             "caption": s.get("caption", ""),
             "hook": s.get("hook", ""),
             "where": "IG reel + story · X · TikTok",
-            "thumb": thumb(f"queue/{clip}_cover.jpg"),
-            "ig_url": RAW + f"queue/{clip}.mp4",
+            "thumb": thumb(cover),
+            "ig_url": RAW + video,
             "full_url": RAW + f"queue/{clip}_full.mp4",
             "note": s.get("note", ""),
         })
