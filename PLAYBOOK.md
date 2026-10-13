@@ -211,3 +211,5 @@ Mack bought engagement for Instagram @moremackygolfs on Oct 12 (night): 300 foll
 
 ## Base Camp queue count (Mack, Oct 13)
 golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the page refills from Mack's ~130 already-posted videos, so it is never "out" — note the source count in detail).
+
+- NEVER CUT OUT SHOTS (Mack, Oct 13): every golf shot/stroke in the source must stay in the edit (tee shots, approaches, chips, every putt, penalty drops). Her comments refer to them, so cutting a shot makes the talking make no sense. Only cut dead air, walking, waiting, ball-searching and pauses between sentences. This applies to every account and every edit, including re-edits and compilations.
