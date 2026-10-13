@@ -208,3 +208,6 @@ Mack bought engagement for Instagram @moremackygolfs on Oct 12 (night): 300 foll
 - Applies only to @moremackygolfs. X/TikTok @mackygolfs and the trial accounts are unaffected.
 
 - NEVER cut swearing or profanity out of any edit (Mack, Oct 13).
+
+## Base Camp queue count (Mack, Oct 13)
+golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the page refills from Mack's ~130 already-posted videos, so it is never "out" — note the source count in detail).
