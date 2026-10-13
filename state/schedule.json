@@ -34,7 +34,7 @@
     "x_tiktok": "6acc6b1f21d2fa6de4ee3fe3",
     "story": "6acc6b1c760ad4c4c71297bd"
    },
-   "status": "scheduled",
+   "status": "published",
    "caption": "guess wrong and we're enemies"
   },
   {
@@ -47,11 +47,29 @@
     "x_tiktok": "6acc6b2521d2fa6de4ee4000",
     "story": "6acc6b2321d2fa6de4ee3fef"
    },
-   "status": "scheduled",
+   "status": "published",
    "caption": "emotionally that was a par",
    "file": "queue/004_four-putt_v2.mp4",
    "diff_check": "re-edited Oct 12: cold open on the \"phone blew over / wouldnt lie about four putting\" line, then shirt wipe; 25% cut (40.5s->30.5s); 3 punch-ins; ends on phone falling in grass instead of Mack's last line; new cover frame + NOT MY FAULT; new hook",
-   "note": "re-edited so it is clearly different from your original"
+   "note": "re-edited so it is clearly different from your original",
+   "inflated": true,
+   "inflated_note": "bought engagement landed here: 1,142 views / 100 likes but reach 127 (Oct 13). Real ~142 views, 0 likes. Excluded from best/worst."
+  },
+  {
+   "date": "2026-10-13",
+   "slot": "morning (off-schedule)",
+   "clip": "011_king-of-the-world",
+   "scheduled_mt": "08:40",
+   "caption": "king of the world for 1 second",
+   "zernio": {
+    "instagram": "6acc7d8d4e8780bc15e62f2f",
+    "x_tiktok": "6acc7d9019e1faf028eaef59",
+    "story": "6acc7d914e8780bc15e62f3b"
+   },
+   "status": "published",
+   "file": "queue/011_king-of-the-world_v3.mp4",
+   "diff_check": "re-edited Oct 12: cold open on the \"king of the world\" hilltop moment, then shirt wipe; cut \"glad I got your attention\", \"should be incredible\", setups and the walk to the ball; 25% cut (39.7s->29.8s); 6 punch-ins; ends as the final putt drops instead of Mack picking the ball out; new cover (arms-out hilltop) + NAILED IT; new hook",
+   "note": "published Oct 13 8:40am MT by another session (v3, no hook text)"
   },
   {
    "date": "2026-10-13",
@@ -70,10 +88,10 @@
    "note": "re-edited so it is clearly different from your original"
   },
   {
-   "date": "2026-10-13",
-   "slot": "evening",
+   "date": "2026-10-14",
+   "slot": "midday",
    "clip": "006_one-swing",
-   "scheduled_mt": "17:37",
+   "scheduled_mt": "12:41",
    "zernio": {
     "instagram": "6acc6b2d760ad4c4c71297f7",
     "x_tiktok": "6acc6b3121d2fa6de4ee43d2",
@@ -83,7 +101,7 @@
    "caption": "be honest. but nice",
    "file": "queue/006_one-swing_v2.mp4",
    "diff_check": "re-edited Oct 12: cold open on the post-swing reaction (Macks ending), then shirt wipe; cut walk-up and waiting at address; 22% cut (15.3s->11.9s, short clip); 3 punch-ins; ends on the swing follow-through instead of Macks talking-head; cover: shirt-wipe frame + typewriter \"one shot. / no practice swing.\"; no added text on the video (Oct 13)",
-   "note": "re-edited so it is clearly different from your original"
+   "note": "moved from Tue 5:37pm to Wed 12:41pm: 011 went out Tue morning, so Tue would have had 3 reels; also fills the empty Wed midday slot"
   },
   {
    "date": "2026-10-14",
@@ -225,22 +243,6 @@
    "status": "scheduled",
    "file": "queue/013_cliff-par-5_v2.mp4",
    "diff_check": "re-edited Oct 12: cold open on \"oh pulled it and I am in the bunker\", then shirt wipe; cut the obstacles/cliffs-on-the-back talk, setups, the middle putt and waiting; 26% cut (75.9s->56.3s); 8 punch-ins; ends on \"well deserved triple\" before Macks \"given the circumstances\"; new cover (pointing at the cliff) + THE CLIFF; new hook",
-   "note": "re-edited so it is clearly different from your original"
-  },
-  {
-   "date": "2026-10-18",
-   "slot": "evening",
-   "clip": "011_king-of-the-world",
-   "scheduled_mt": "18:31",
-   "caption": "king of the world for 1 second",
-   "zernio": {
-    "instagram": "6acc7d8d4e8780bc15e62f2f",
-    "x_tiktok": "6acc7d9019e1faf028eaef59",
-    "story": "6acc7d914e8780bc15e62f3b"
-   },
-   "status": "scheduled",
-   "file": "queue/011_king-of-the-world_v2.mp4",
-   "diff_check": "re-edited Oct 12: cold open on the \"king of the world\" hilltop moment, then shirt wipe; cut \"glad I got your attention\", \"should be incredible\", setups and the walk to the ball; 25% cut (39.7s->29.8s); 6 punch-ins; ends as the final putt drops instead of Mack picking the ball out; new cover (arms-out hilltop) + NAILED IT; new hook",
    "note": "re-edited so it is clearly different from your original"
   }
  ]
