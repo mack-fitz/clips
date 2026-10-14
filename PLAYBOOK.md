@@ -213,3 +213,10 @@ Mack bought engagement for Instagram @moremackygolfs on Oct 12 (night): 300 foll
 golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the page refills from Mack's ~130 already-posted videos, so it is never "out" — note the source count in detail).
 
 - NEVER CUT OUT SHOTS (Mack, Oct 13): every golf shot/stroke in the source must stay in the edit (tee shots, approaches, chips, every putt, penalty drops). Her comments refer to them, so cutting a shot makes the talking make no sense. Only cut dead air, walking, waiting, ball-searching and pauses between sentences. This applies to every account and every edit, including re-edits and compilations.
+
+## 3 reels a day + untouched originals for X/TikTok (Oct 14 run)
+- @moremackygolfs now runs 3 reels/day: morning 8:00–9:30, midday 11:30–1:00, evening 5:00–7:00 MT (varied minutes), never more than 3. Keep 3 days scheduled. Each reel keeps its X/TikTok post + IG story at the same time.
+- X/TikTok uncut = Mack's untouched original file (queue/NNN_slug_orig.{mov,mp4}, byte-identical copy of the Dropbox file), set per platform with posts_update_post / posts_create_post `customMedia` on the tiktok entry.
+- X doesn't take HEVC, and GitHub raw can't host files over 100 MiB: in those cases use ONE high-quality H.264 export from the original (queue/NNN_slug_x.mp4: libx264 crf 18, maxrate 9.5M, preset slow, source fps, audio copied). X gets _x.mp4 when the original is HEVC; TikTok gets _x.mp4 only when the original is over 100 MiB.
+- The workspace can't reach media.zernio.com / R2 presigned uploads (proxy), so media is always served from pinned-commit raw.githubusercontent.com URLs.
+- Cover style order must still alternate after any reshuffle (no two consecutive posts with the same style).
