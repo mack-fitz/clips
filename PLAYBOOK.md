@@ -221,3 +221,12 @@ golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the pa
 - The workspace can't reach media.zernio.com / R2 presigned uploads (proxy), so media is always served from pinned-commit raw.githubusercontent.com URLs.
 - Cover style order must still alternate after any reshuffle (no two consecutive posts with the same style).
 - HARD RULE (Mack, Oct 14): @moremackygolfs may only use footage Mack has truly already posted — prove it by naming the exact post (account, date, caption, link) containing >= 15 s of that source, from mackygolfs-mackthegolfer state/posted_index.json. Compilation bits and our own trial posts don't count. If you can't name the post, the video is NEW and is off-limits here.
+
+## FACEBOOK PAGE (Mack, Oct 14) — 3 posts/day, starts Oct 15
+- Account: Facebook PAGE "macky.golfs", Zernio account 6ad052a5a442d9968f306c31. HARD RULE: Facebook posts go ONLY to this account id — never any other Facebook account, never Mack's personal profile. Always pass account_id explicitly; if Zernio ever lists more than one Facebook account, stop and ask Mack.
+- Format: Facebook Reels (vertical 9:16), clean files, no watermarks, no added text (except shorties, which already carry their one line). Captions short, clean, dry, lowercase; optionally ONE hashtag (#golf); a question ("guess my score", "what would you hit here?") is good on FB. Never mention OnlyFans in captions (the Page bio is Mack's business).
+- 3 a day (Mountain): morning 7:30–9:00, lunch 11:30–1:00, evening 6:30–8:30.
+  - Morning + lunch = 2 UNEDITED originals (Mack's untouched files — the same ones that go/went to TikTok; same day or a day after is fine). Facebook doesn't penalize cross-platform reposts of clean files.
+  - Evening = 1 already-approved EDIT, COMPILATION or SHORTY that has already posted elsewhere (mackygolfs-mackthegolfer review db: decision approved / status posted; or a published @moremackygolfs edit). Never anything Mack hasn't approved.
+- Never the same video twice on the Facebook Page within 30 days. Keep 3 days scheduled. Track FB posts in state/schedule.json with platform "facebook".
+- Reporting: include Facebook (views, watch time, follows, comments) in the daily summary, Base Camp schedule (doc "facebook") and queues (doc "facebook-page": days of content left; warn under 2), and the Clip Page Stats dashboard.
