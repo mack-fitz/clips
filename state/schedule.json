@@ -98,7 +98,7 @@
     "x_tiktok": "6acc7d5b7e27b3dfe33585db",
     "story": "6acc7d5d19e1faf028eaeead"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/015_hole-in-one-attempt_v2.mp4",
    "diff_check": "re-edited Oct 12: cold open on Macks closing line \"wasnt quite a hole in one\", then shirt wipe + \"watch this hole in one\"; cut walk-up and both setups; 27% cut (34.3s->25.1s); 4 punch-ins; ends on her watching the ball and turning back instead of the finger-point line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (25.1s); cover: grid-style cover already in repo",
    "note": "re-rendered: removed burned-in hook text (no added text rule); Oct 14: moved for 3/day schedule",
@@ -116,7 +116,7 @@
     "x_tiktok": "6acc6b3121d2fa6de4ee43d2",
     "story": "6acc6b2f3e6e81a1b2c2fc23"
    },
-   "status": "scheduled",
+   "status": "published",
    "caption": "be honest. but nice",
    "file": "queue/006_one-swing_v2.mp4",
    "diff_check": "re-edited Oct 12: cold open on the post-swing reaction (Macks ending), then shirt wipe; cut walk-up and waiting at address; 22% cut (15.3s->11.9s, short clip); 3 punch-ins; ends on the swing follow-through instead of Macks talking-head; cover: shirt-wipe frame + typewriter \"one shot. / no practice swing.\"; no added text on the video (Oct 13)",
@@ -150,7 +150,7 @@
     "x_tiktok": "6acc7d5519e1faf028eaee85",
     "story": "6acc7d5719e1faf028eaee8e"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/007_ugly-bounce_v3.mp4",
    "diff_check": "re-edited Oct 12: cold open on \"ive lost count, just trying to get this in the hole\" + the putter-drop fall (Macks ending), then shirt wipe; cut ankle line, waiting and most of the putting marathon; 29% cut (90.2s->64.2s); 10 punch-ins; ends on the final putt instead of the fall; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (64.2s); cover: grid-style cover already in repo",
    "note": "v3 Oct 13: restored cut shots (never cut shots rule): 2 putts at src ~74.7s and ~81.5s, chip at 50.9s, ball flight 43.5-44.8s, swing starts from address; 73.4s",
@@ -171,7 +171,7 @@
     "x_tiktok": "6acc7d6b19e1faf028eaeee8",
     "story": "6acc7d6c7e27b3dfe3358613"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/014_no-pars-yet_v3.mp4",
    "diff_check": "re-edited Oct 12: cold open on Macks closing \"finished pretty weak with a triple / tough to see\", then shirt wipe; cut \"not great but we can still save this\", the 190-out talk, \"50 out from the green\", putt waiting; 25% cut (62.0s->46.2s); 6 punch-ins; ends on the par putt rolling instead of the triple line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (46.2s); cover: grid-style cover already in repo",
    "note": "v3 Oct 13: restored the last putt + tap-in (src 54.3-57.9s) and the takeaway of the 26.9s shot; 50.3s; Oct 14: moved for 3/day schedule",
@@ -300,7 +300,7 @@
    "zernio": {
     "facebook": "6ad0613fd1af32a677897977"
    },
-   "status": "scheduled",
+   "status": "published",
    "already_posted_proof": "@mackygolfs 2026-09-09 10:25 MT https://www.instagram.com/reel/DdEr6ajNC0R/ (37 s audio)",
    "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
@@ -456,7 +456,13 @@
    "already_posted": "@mackthegolfer 2026-10-07 14:30 MT \"Bomb City, TX / Population: @mackthegolfer\" https://www.instagram.com/reel/DeNN0iEs4G7/ (62 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on Mack's closing \"nothing worse than a perfect drive and then being shit the rest of the time, here we are for bogey\", then shirt wipe + bomb city line; cut the \"since you're already here\" cart selfie, \"who would have thought\", \"let's get on the green\", \"you know what I mean\", the first \"absolutely perfect\", walking/waiting; every shot kept (drive, approach, chip, par putt, tap-in); 28.8% cut (87.8s->62.5s); 4 punch-ins alternating; ends on the tap-in pickup instead of her walking off; cover: wipe frame + typewriter note. Contact sheet checked.",
    "xt_note": "original 105.5 MB > GitHub's 100 MiB raw limit -> one HQ H.264 export (crf 18, capped 9 Mbps, audio copied) for X + TikTok",
-   "status": "scheduled"
+   "status": "scheduled",
+   "zernio": {
+    "instagram": "6ad0ec304990024a3b6b4e07",
+    "x_tiktok": "6ad0ec33c44785677dcf78cc",
+    "story": "6ad0ec344990024a3b6b4e2f"
+   },
+   "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646"
   },
   {
    "date": "2026-10-17",
@@ -472,7 +478,13 @@
    "already_posted": "@mackthegolfer 2026-10-08 17:48 MT \"that's why she's blue boys\" https://www.instagram.com/reel/DeQJNjZtEN_/ (76 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the between-the-legs tap-in + her closing \"definitely not my best hole, but you know that\", then shirt wipe; cut \"should be a pretty straight shot\" x2, teeing up, watching ball flights, \"eat this right up / something I know for sure\", the 4 s wait after the lag; every shot kept (drive, 2nd, 3rd, chip, lag putt, taps, tweener); 25.8% cut (97.5s->72.3s); 5 punch-ins alternating; ends on the tweener dropping instead of the talking head; cover: wipe frame + yellow pill. Contact sheet checked.",
    "xt_note": "original 126.6 MB > 100 MiB -> one HQ H.264 export (crf 18, capped 8 Mbps, audio copied) for X + TikTok",
-   "status": "scheduled"
+   "status": "scheduled",
+   "zernio": {
+    "instagram": "6ad0ec3855330c267530c7c0",
+    "x_tiktok": "6ad0ec3b83b9438fdfcb90bf",
+    "story": "6ad0ec3d83b9438fdfcb90cd"
+   },
+   "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646"
   },
   {
    "date": "2026-10-17",
@@ -488,7 +500,13 @@
    "already_posted": "@mackthegolfer 2026-10-11 17:38 MT \"does anyone know the lag masta's schedule actually\" https://www.instagram.com/reel/DeX0u_Ox_W3/ (136 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on \"so as it turns out, I'm pissed\", then shirt wipe; cut \"wide open fairways\", \"still rolling\", the whole \"no idea what to do / slot it through the trees / what about this cart path\" stretch, \"whatever\", the first \"another tough lie\", all waiting/walking; lunch-break line moved after the final tap-in; every shot kept (drive, drop, accidental ball nudge, punch-out, 3rd, chip, 2 putts, tap-in); 27.5% cut (140.6s->101.9s); 12 punch-ins alternating; ends on \"lag master was on a lunch break after all\" instead of \"boom\"; cover: wipe frame + typewriter note. Contact sheet checked.",
    "xt_note": "original 196 MB and 140.6 s: one HQ H.264 export (crf 18, capped 5.6 Mbps, audio copied) trimmed to 139.97 s for X's 2:20 limit (last 0.6 s after \"boom\"); same file for TikTok",
-   "status": "scheduled"
+   "status": "scheduled",
+   "zernio": {
+    "instagram": "6ad0ec3f83b9438fdfcb912c",
+    "x_tiktok": "6ad0ec4255330c267530c7ed",
+    "story": "6ad0ec4383b9438fdfcb9274"
+   },
+   "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646"
   }
  ]
 }

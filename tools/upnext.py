@@ -34,6 +34,8 @@ def main(out):
         when = local.astimezone(timezone.utc)
         if when < now:
             continue
+        if s.get("platform") == "facebook" or "clip" not in s:
+            continue  # Facebook Page posts live on Facebook Stats / Base Camp, not this list
         clip = s["clip"]
         video = s.get("file") or f"queue/{clip}.mp4"
         cover = video[:-4] + "_cover.jpg"
@@ -49,7 +51,7 @@ def main(out):
             "where": "IG reel + story · X · TikTok",
             "thumb": thumb(cover),
             "ig_url": RAW + video,
-            "full_url": RAW + f"queue/{clip}_full.mp4",
+            "full_url": RAW + (s.get("tiktok_file") or f"queue/{clip}_full.mp4"),
             "note": s.get("note", ""),
         })
     rows.sort(key=lambda r: r["when"])
