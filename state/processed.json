@@ -21,7 +21,7 @@
     "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
     "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
   ],
-  "next_clip_number": 17,
+  "next_clip_number": 20,
   "clip_map": {
     "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
     "004_four-putt": "17ad39c4 (EnQ)",
@@ -36,6 +36,15 @@
     "013_cliff-par-5": "copy_4E5F508B (EpA)",
     "014_no-pars-yet": "copy_6FFD8A7C (EpQ)",
     "015_hole-in-one-attempt": "copy_99A28E54 (Epg)",
-    "016_help-my-swing": "copy_A526847D (EqA)"
-  }
+    "016_help-my-swing": "copy_A526847D (EqA)",
+    "017_bomb-city": "Golf Captions 'Video Oct 12 2026, 7 19 40 AM.mov' (already posted @mackthegolfer Oct 7)",
+    "018_lag-master": "Golf Captions 'Video Oct 12 2026, 7 13 58 AM.mov' (already posted @mackthegolfer Oct 8)",
+    "019_cart-path": "Golf Captions 'Video Oct 12 2026, 7 16 02 AM.mov' (already posted @mackthegolfer Oct 11)"
+  },
+  "golf_captions_used": [
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+  ],
+  "golf_captions_note": "Oct 15: /golfclips had nothing new, so @moremackygolfs now refills from Mack's already-posted /Golf Captions videos (proof post logged per slot in schedule.json). 3 golfclips files are byte-identical to Golf Captions files ((2).mp4=009, 9 02 57 AM.mp4=011, (3).mp4=010) - never reuse those. Skipped 12 00 30 AM (48.7 s): can't reach a 25% cut without cutting shots or payoff lines."
 }
