@@ -28,8 +28,17 @@ Operating rules for every edit and post. Scheduled runs read this file first.
   covered. Cover text styles rotate per the grid reference
   (/home/claude/mackygolfs-mackthegolfer/covers/grid-reference.png and the "Cover text style"
   section of that repo's PLAYBOOK.md): mostly "Macky vs. ___" pill / some typewriter note /
-  occasional big red question / sometimes no words. No two consecutive posts with the same style;
-  mid-frame (45–70% down), inside the center square.
+  occasional big red question / sometimes no words. No two consecutive posts with the same style.
+- **Cover text NEVER over her chest (Mack, Oct 17: "You've been putting the text over my cleavage
+  a lot").** Her chest / cleavage / bra must stay visible. Put the words over the shirt-over-face /
+  head area above the chest, or below the chest (stomach/waist), whichever is clear, with the whole
+  block inside the centered 3:4 grid crop (middle 1080x1440 of the 1080x1920 cover = 12.5%-87.5%
+  of the height) and below Instagram's top bar (no higher than ~15%). Find the chest per frame by
+  looking: `python3 /home/claude/mackygolfs-mackthegolfer/tools/cover_a.py --guide video t guide.jpg`
+  draws %-of-height lines + the grid crop; then make the cover with that tool and an explicit
+  `COVER_Y=<fraction>` (required, no default; never reuse another cover's y). No clear spot on the
+  frame = use a nearby frame. Verify every cover at grid-thumbnail size (center 3:4 crop, ~240-360 px
+  wide) AND full size before scheduling.
 - Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast.
 - **Must be CLEARLY different from Mack's original (Mack, Oct 12).** Every @moremackygolfs edit
   needs ALL of: a restructured order (not just trims of the original timeline — move a later
