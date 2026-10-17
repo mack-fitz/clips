@@ -602,7 +602,7 @@
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "pill (red) \"Macky vs. a Triple Dipper\"",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "scheduled",
@@ -763,6 +763,22 @@
     "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
    },
    "status": "scheduled"
+  },
+  {
+   "date": "2026-10-20",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "scheduled_mt": "12:17",
+   "caption": "par 3 over water. wet or dry? guess before it lands",
+   "kind": "original",
+   "status": "scheduled",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 35 57 AM.mov (25.3 s, H.264, untouched, X + TikTok)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2035%2057%20AM.mov",
+   "zernio": {
+    "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
+   },
+   "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
   }
  ]
 }
