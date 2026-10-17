@@ -661,6 +661,108 @@
     "facebook": "6ad38359f8718bdb13ba878d"
    },
    "status": "scheduled"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-19",
+   "slot": "morning",
+   "scheduled_mt": "08:52",
+   "caption": "please help. a cactus attacked me and i still have to finish this par 5",
+   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 30 44 AM.mov (175.3 s, sha256 83c967fe..., H.264)",
+   "tiktok_file": "queue/tt_cactus_x.mp4",
+   "x_file": null,
+   "media_commit": "361bffe9fd430e72d97eebc649d1321f3a9f07ed",
+   "xt_note": "TikTok only: original 248 MB > 100 MiB -> one HQ H.264 export (crf 18, capped, audio copied). No X: 175 s and only ~5 s of dead air without a shot, so it can't get under 2:20 without cutting shots.",
+   "ig_first": "@mackygolfs trial A 2026-10-15 07:42 MT 'the cactus won this one' (published; Zernio 6ace7f9651d1c74101cdfdcb)",
+   "x_segs": null,
+   "zernio": {
+    "x_tiktok": "6ad38c2b41221a11e108a678"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-19",
+   "slot": "midday",
+   "scheduled_mt": "12:22",
+   "caption": "if you guessed higher than a 4 we can't be friends",
+   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 17 58 AM.mov (111.8 s, sha256 153fbde7..., H.264)",
+   "tiktok_file": "queue/tt_lock-it-in_x.mp4",
+   "x_file": "queue/tt_lock-it-in_x.mp4",
+   "media_commit": "361bffe9fd430e72d97eebc649d1321f3a9f07ed",
+   "xt_note": "original 114 MB > 100 MiB -> one HQ H.264 export for X + TikTok (crf 18, capped, audio copied)",
+   "ig_first": "@mackygolfs trial A 2026-10-15 18:52 MT 'guess my score. be honest' (published; Zernio 6acfe80cb278a89ea3578c8e)",
+   "x_segs": null,
+   "zernio": {
+    "x_tiktok": "6ad38c2e82f31cc8f6dbb3b0"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-19",
+   "slot": "evening",
+   "scheduled_mt": "17:48",
+   "caption": "6 months of golf. better or worse than average? be honest",
+   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov (148.9 s, sha256 28438619..., H.264)",
+   "tiktok_file": "queue/tt_six-months_x.mp4",
+   "x_file": "queue/tt_six-months_xshort.mp4",
+   "media_commit": "361bffe9fd430e72d97eebc649d1321f3a9f07ed",
+   "xt_note": "TikTok: one HQ H.264 export of the full original (182 MB > 100 MiB). X: dead-air-only trim in original order to 139.97 s (cut post-tracer standing/walking after 3 shots + short pauses between sentences; every shot and line kept; segs in work notes)",
+   "ig_first": "@mackygolfs trial A 2026-10-16 18:44 MT 'six months of golf. rate me' (published; Zernio 6ace82e3e772f83f474792a3)",
+   "x_segs": [
+    [
+     0,
+     4.79
+    ],
+    [
+     5.17,
+     12.03
+    ],
+    [
+     12.23,
+     22.81
+    ],
+    [
+     24.89,
+     35.93
+    ],
+    [
+     36.51,
+     61.15
+    ],
+    [
+     62.85,
+     81.09
+    ],
+    [
+     82.73,
+     87.9
+    ],
+    [
+     88.25,
+     94.5
+    ],
+    [
+     94.75,
+     105.27
+    ],
+    [
+     106.67,
+     134.05
+    ],
+    [
+     134.35,
+     148.81
+    ]
+   ],
+   "zernio": {
+    "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
+   },
+   "status": "scheduled"
   }
  ]
 }
