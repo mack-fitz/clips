@@ -234,7 +234,7 @@
     "x_tiktok": "6acc7d7419e1faf028eaeefb",
     "story": "6acc7d7619e1faf028eaef08"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/009_new-shirt_v3.mp4",
    "diff_check": "re-edited Oct 12: cold open on \"that was a tough four putt\", then shirt wipe; cut \"lets play a par 3\", \"working on that being my thing\", the repeat \"dont know what happened\", \"DC of the G\" and putt waiting; 26% cut (66.0s->49.0s); 6 punch-ins; ends on \"at least i look so cute in my new shirt\" instead of Macks \"shank it golf\"; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (49.0s); cover: grid-style cover already in repo",
    "note": "v3 Oct 13: putt at src 53.2s now starts at its scene start (backswing was clipped); 49.2s; Oct 14: moved for 3/day schedule",
@@ -255,7 +255,7 @@
     "x_tiktok": "6acc7d8977bf0c5c34d4f213",
     "story": "6acc7d8b4e8780bc15e62f28"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/013_cliff-par-5_v3.mp4",
    "diff_check": "re-edited Oct 12: cold open on \"oh pulled it and I am in the bunker\", then shirt wipe; cut the obstacles/cliffs-on-the-back talk, setups, the middle putt and waiting; 26% cut (75.9s->56.3s); 8 punch-ins; ends on \"well deserved triple\" before Macks \"given the circumstances\"; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (56.3s); cover: grid-style cover already in repo",
    "note": "v3 Oct 13: restored the middle putt (src 62.8-67.4s) and the takeaway of the 27.3s shot; 61.3s; Oct 14: moved for 3/day schedule",
@@ -276,7 +276,7 @@
     "x_tiktok": "6acc7d8419e1faf028eaef3d",
     "story": "6acc7d853aa5ee18622fbde0"
    },
-   "status": "scheduled",
+   "status": "published",
    "file": "queue/012_great-drive_v3.mp4",
    "diff_check": "re-edited Oct 12: cold open on Macks closing \"hate to see a great drive turn into a triple\", then shirt wipe; cut \"you know what ive been thinking\", setup and putt waiting; 25% cut (47.7s->35.6s); 6 punch-ins; ends on the last putt instead of the triple line; Oct 13: re-rendered frame-exact with the same cuts, NO hook text (it was burned in), single crf17 pass (35.6s); cover: grid-style cover already in repo",
    "note": "v3 Oct 13: restored tap-in at src ~43.9s; drive/second shot/approach now start from address; 39.6s; Oct 14: moved for 3/day schedule",
@@ -370,7 +370,7 @@
    "zernio": {
     "facebook": "6ad0614ae4248b4b73056b06"
    },
-   "status": "scheduled",
+   "status": "published",
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio)",
    "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
@@ -388,7 +388,7 @@
    "zernio": {
     "facebook": "6ad0614ce4248b4b73056b14"
    },
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "platform": "facebook",
@@ -613,6 +613,54 @@
    },
    "media_commit": "8de691c51c604d0c82bd181ce563bcc5e06e1db4",
    "xt_media_commit": "28327bfa4d487ab3c2561298247e1208bc825699"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-19",
+   "slot": "morning",
+   "scheduled_mt": "08:16",
+   "caption": "par is a myth. prove me wrong #golf",
+   "kind": "published @moremackygolfs edit (in an originals slot: no short already-posted original left that isn't already on FB)",
+   "source": "014_no-pars-yet (golfclips copy_6FFD8A7C)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/014_no-pars-yet_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-15 08:51 MT \"par is a myth\" (published)",
+   "zernio": {
+    "facebook": "6ad38353fa35a96b9d6d983f"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-19",
+   "slot": "lunch",
+   "scheduled_mt": "12:33",
+   "caption": "rate the shirt. not the golf",
+   "kind": "published @moremackygolfs edit (in an originals slot: no short already-posted original left that isn't already on FB)",
+   "source": "009_new-shirt (golfclips Video 5_43_32 = Golf Captions 9 02 57 AM (2))",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/009_new-shirt_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-16 09:13 MT \"at least the shirt is nice\" https://www.instagram.com/reel/Dej1HftCZfC/",
+   "zernio": {
+    "facebook": "6ad38358fb31baab4fb1c51c"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-19",
+   "slot": "evening",
+   "scheduled_mt": "19:07",
+   "caption": "great drive. don't ask what happened next",
+   "kind": "published @moremackygolfs edit",
+   "source": "012_great-drive (golfclips copy_292850AB)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/012_great-drive_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-16 18:29 MT \"great drive tho\" https://www.instagram.com/reel/Dek02HajybI/",
+   "zernio": {
+    "facebook": "6ad38359f8718bdb13ba878d"
+   },
+   "status": "scheduled"
   }
  ]
 }
