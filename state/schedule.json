@@ -604,7 +604,7 @@
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "typewriter \"who invented the triple dipper\" (below chest, y 0.77)",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "scheduled",
@@ -665,6 +665,23 @@
    "x_segs": null,
    "zernio": {
     "x_tiktok": "6ad38c2b41221a11e108a678"
+   },
+   "status": "scheduled"
+  },
+  {
+   "date": "2026-10-19",
+   "slot": "morning",
+   "platform": "instagram",
+   "clip": "shorty_youtube-lessons",
+   "scheduled_mt": "09:06",
+   "caption": "it worked though",
+   "kind": "shorty \"me after 3 youtube lessons\" (approved on Trial Reels Review r2, post_account @moremackygolfs)",
+   "source": "mackygolfs-mackthegolfer shorties/youtube-lessons_r2_ig.mp4 (IG-safe single export from Mack's original, level 4.1)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/240c6ee42d9ccdc48be448697e4a5c2662471e66/shorties/youtube-lessons_r2_ig.mp4",
+   "cover_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/02e2912f7e73c2c5763434a386924920638bdcd3/shorties/youtube-lessons_r2_cover_opt3.jpg",
+   "already_posted_proof": "@mackygolfs 2026-09-04 10:05 MT https://www.instagram.com/reel/Dc1Mym2tnuh/ (63 s audio)",
+   "zernio": {
+    "instagram": "6ad523c20ea8fab52ef9467b"
    },
    "status": "scheduled"
   },
@@ -789,7 +806,7 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
   },
   {
    "platform": "facebook",
@@ -822,7 +839,7 @@
    },
    "status": "scheduled",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "filled by nightly check Oct 17; 7 33 50 \u2248 7 38 06 alt take \u2014 neither on TikTok before"
+   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before"
   },
   {
    "platform": "facebook",
