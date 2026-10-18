@@ -161,6 +161,24 @@
    "xt_note": "Oct 14: swapped the old 4 Mbps re-encode for Mack's untouched original"
   },
   {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-15",
+   "slot": "morning",
+   "scheduled_mt": "08:12",
+   "caption": "hi i'm mack. really good golfer btw",
+   "kind": "original",
+   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM.mp4",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad0613fd1af32a677897977"
+   },
+   "status": "published",
+   "already_posted_proof": "@mackygolfs 2026-09-09 10:25 MT https://www.instagram.com/reel/DdEr6ajNC0R/ (37 s audio)",
+   "note": "untouched original, byte-identical to Dropbox (size checked)"
+  },
+  {
    "date": "2026-10-15",
    "slot": "morning",
    "clip": "014_no-pars-yet",
@@ -203,6 +221,24 @@
    "xt_note": "Oct 14: swapped the old 4 Mbps re-encode for Mack's untouched original; X gets HQ H.264 (X doesn't take HEVC)"
   },
   {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-15",
+   "slot": "lunch",
+   "scheduled_mt": "12:26",
+   "caption": "the bandana was doing a lot of the work",
+   "kind": "original",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad06144e4248b4b73056ae1"
+   },
+   "status": "published",
+   "already_posted_proof": "@mackthegolfer 2026-10-02 09:52 MT https://www.instagram.com/reel/Dd_2QCYxGiQ/ (27.6 s audio)",
+   "note": "untouched original, byte-identical to Dropbox (size checked)"
+  },
+  {
    "date": "2026-10-15",
    "slot": "evening",
    "clip": "008_almost-eagle",
@@ -222,6 +258,40 @@
    "tiktok_file": "queue/008_almost-eagle_x.mp4",
    "x_file": "queue/008_almost-eagle_x.mp4",
    "xt_note": "Oct 14: swapped the old 4 Mbps re-encode for Mack's untouched original (original too big for GitHub hosting: single HQ H.264 export instead)"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-15",
+   "slot": "evening",
+   "scheduled_mt": "19:08",
+   "caption": "it's out of my control",
+   "kind": "compilation \"every excuse I've ever made\" (comp3, approved r5, posted @mackthegolfer Oct 14)",
+   "source": "compilations/comp3_excuses.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/4a9251bfcc32c3a8d684a12b3aa760d395fcd5b1/compilations/comp3_excuses.mp4",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad06146d1af32a677897996"
+   },
+   "status": "published"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-16",
+   "slot": "morning",
+   "scheduled_mt": "07:53",
+   "caption": "what do you call a pent-bogey? #golf",
+   "kind": "original",
+   "source": "/Golf Captions/Video Sep 21 2026, 7 24 34 PM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Sep%2021%202026%2C%207%2024%2034%20PM.mov",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad06148d1af32a67789799a"
+   },
+   "status": "published",
+   "already_posted_proof": "@mackygolfs 2026-09-22 09:40 MT https://www.instagram.com/reel/DdmFF-0hUDO/ (26 s)",
+   "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
   {
    "date": "2026-10-16",
@@ -266,6 +336,24 @@
    "xt_note": "Oct 14: swapped the old 4 Mbps re-encode for Mack's untouched original (original too big for GitHub hosting: single HQ H.264 export instead)"
   },
   {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-16",
+   "slot": "lunch",
+   "scheduled_mt": "12:44",
+   "caption": "par 3 at sunset. rate it",
+   "kind": "original",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 35 57 AM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2035%2057%20AM.mov",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad0614ae4248b4b73056b06"
+   },
+   "status": "published",
+   "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio)",
+   "note": "untouched original, byte-identical to Dropbox (size checked)"
+  },
+  {
    "date": "2026-10-16",
    "slot": "evening",
    "clip": "012_great-drive",
@@ -285,94 +373,6 @@
    "tiktok_file": "queue/012_great-drive_orig.mov",
    "x_file": "queue/012_great-drive_x.mp4",
    "xt_note": "Oct 14: swapped the old 4 Mbps re-encode for Mack's untouched original; X gets HQ H.264 (X doesn't take HEVC)"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-15",
-   "slot": "morning",
-   "scheduled_mt": "08:12",
-   "caption": "hi i'm mack. really good golfer btw",
-   "kind": "original",
-   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM.mp4",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad0613fd1af32a677897977"
-   },
-   "status": "published",
-   "already_posted_proof": "@mackygolfs 2026-09-09 10:25 MT https://www.instagram.com/reel/DdEr6ajNC0R/ (37 s audio)",
-   "note": "untouched original, byte-identical to Dropbox (size checked)"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-15",
-   "slot": "lunch",
-   "scheduled_mt": "12:26",
-   "caption": "the bandana was doing a lot of the work",
-   "kind": "original",
-   "source": "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad06144e4248b4b73056ae1"
-   },
-   "status": "published",
-   "already_posted_proof": "@mackthegolfer 2026-10-02 09:52 MT https://www.instagram.com/reel/Dd_2QCYxGiQ/ (27.6 s audio)",
-   "note": "untouched original, byte-identical to Dropbox (size checked)"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-15",
-   "slot": "evening",
-   "scheduled_mt": "19:08",
-   "caption": "it's out of my control",
-   "kind": "compilation \"every excuse I've ever made\" (comp3, approved r5, posted @mackthegolfer Oct 14)",
-   "source": "compilations/comp3_excuses.mp4",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/4a9251bfcc32c3a8d684a12b3aa760d395fcd5b1/compilations/comp3_excuses.mp4",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad06146d1af32a677897996"
-   },
-   "status": "published"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-16",
-   "slot": "morning",
-   "scheduled_mt": "07:53",
-   "caption": "what do you call a pent-bogey? #golf",
-   "kind": "original",
-   "source": "/Golf Captions/Video Sep 21 2026, 7 24 34 PM.mov",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Sep%2021%202026%2C%207%2024%2034%20PM.mov",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad06148d1af32a67789799a"
-   },
-   "status": "published",
-   "already_posted_proof": "@mackygolfs 2026-09-22 09:40 MT https://www.instagram.com/reel/DdmFF-0hUDO/ (26 s)",
-   "note": "untouched original, byte-identical to Dropbox (size checked)"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-16",
-   "slot": "lunch",
-   "scheduled_mt": "12:44",
-   "caption": "par 3 at sunset. rate it",
-   "kind": "original",
-   "source": "/Golf Captions/Video Oct 12 2026, 7 35 57 AM.mov",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2035%2057%20AM.mov",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad0614ae4248b4b73056b06"
-   },
-   "status": "published",
-   "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio)",
-   "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
   {
    "platform": "facebook",
@@ -409,40 +409,6 @@
    "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
   {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-17",
-   "slot": "lunch",
-   "scheduled_mt": "11:52",
-   "caption": "guess my score. be nice",
-   "kind": "original",
-   "source": "/Golf Captions/Video Oct 12 2026, 7 33 50 AM.mov",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2033%2050%20AM.mov",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad06150e4248b4b73056b29"
-   },
-   "status": "scheduled",
-   "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "untouched original, byte-identical to Dropbox (size checked)"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-17",
-   "slot": "evening",
-   "scheduled_mt": "18:56",
-   "caption": "why do i like this sport",
-   "kind": "compilation \"what it's like playing with me\" (comp1, approved r2, posted @mackthegolfer Oct 13)",
-   "source": "compilations/comp1_playing-with-me.mp4",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/compilations/comp1_playing-with-me.mp4",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad06152e4248b4b73056b3a"
-   },
-   "status": "scheduled"
-  },
-  {
    "date": "2026-10-17",
    "slot": "morning",
    "clip": "017_bomb-city",
@@ -463,6 +429,24 @@
     "story": "6ad0ec344990024a3b6b4e2f"
    },
    "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-17",
+   "slot": "lunch",
+   "scheduled_mt": "11:52",
+   "caption": "guess my score. be nice",
+   "kind": "original",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 33 50 AM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2033%2050%20AM.mov",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad06150e4248b4b73056b29"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
+   "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
   {
    "date": "2026-10-17",
@@ -512,6 +496,22 @@
   {
    "platform": "facebook",
    "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-17",
+   "slot": "evening",
+   "scheduled_mt": "18:56",
+   "caption": "why do i like this sport",
+   "kind": "compilation \"what it's like playing with me\" (comp1, approved r2, posted @mackthegolfer Oct 13)",
+   "source": "compilations/comp1_playing-with-me.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/compilations/comp1_playing-with-me.mp4",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad06152e4248b4b73056b3a"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
    "date": "2026-10-18",
    "slot": "morning",
    "scheduled_mt": "08:24",
@@ -528,38 +528,19 @@
    "note": "untouched original, byte-identical to Dropbox (44,233,173 bytes)"
   },
   {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
+   "platform": "x_tiktok",
    "date": "2026-10-18",
-   "slot": "lunch",
-   "scheduled_mt": "12:37",
-   "caption": "this ball is cursed. not me",
-   "kind": "original",
-   "source": "/golfclips/0cef0458001241e4b2c974c97174e51f.MOV (clip 005)",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8de691c51c604d0c82bd181ce563bcc5e06e1db4/queue/005_cursed-ball_orig.mov",
-   "format": "Facebook Reel",
+   "slot": "morning",
+   "scheduled_mt": "08:47",
+   "caption": "we don't talk about this par 4",
+   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left)",
+   "source": "/Golf Captions/Video Oct 12 2026, 12 00 30 AM.mov (H.264, untouched, X + TikTok)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%2012%2000%2030%20AM.mov",
    "zernio": {
-    "facebook": "6ad237d1148b75e0f94d5892"
+    "x_tiktok": "6ad237d92a8e8fa3021af1c0"
    },
    "status": "scheduled",
-   "already_posted_proof": "@mackygolfs 2026-07-31 09:28 MT https://www.instagram.com/reel/DbdlY0qx_Gu/ (52.7 s audio)",
-   "note": "untouched original relayed byte-for-byte (72,517,377 bytes = Dropbox), 55.4 s"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-18",
-   "slot": "evening",
-   "scheduled_mt": "19:18",
-   "caption": "i'm my biggest fan",
-   "kind": "compilation \"the sh*t I be saying while 4 putting every hole\" (comp7, approved r5, posted @mackthegolfer Oct 15)",
-   "source": "compilations/comp7_putting_r5.mp4",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/compilations/comp7_putting_r5.mp4",
-   "format": "Facebook Reel",
-   "zernio": {
-    "facebook": "6ad236580882cf0f9b157527"
-   },
-   "status": "scheduled"
+   "already_posted_proof": "@mackygolfs 2026-07-26 https://www.instagram.com/reel/DbQq2MYRmJX/"
   },
   {
    "date": "2026-10-18",
@@ -580,21 +561,6 @@
   {
    "platform": "x_tiktok",
    "date": "2026-10-18",
-   "slot": "morning",
-   "scheduled_mt": "08:47",
-   "caption": "we don't talk about this par 4",
-   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left)",
-   "source": "/Golf Captions/Video Oct 12 2026, 12 00 30 AM.mov (H.264, untouched, X + TikTok)",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%2012%2000%2030%20AM.mov",
-   "zernio": {
-    "x_tiktok": "6ad237d92a8e8fa3021af1c0"
-   },
-   "status": "scheduled",
-   "already_posted_proof": "@mackygolfs 2026-07-26 https://www.instagram.com/reel/DbQq2MYRmJX/"
-  },
-  {
-   "platform": "x_tiktok",
-   "date": "2026-10-18",
    "slot": "midday",
    "scheduled_mt": "12:14",
    "caption": "what do you call a pent-bogey",
@@ -607,6 +573,24 @@
    },
    "status": "scheduled",
    "already_posted_proof": "@mackygolfs 2026-09-22 https://www.instagram.com/reel/DdmFF-0hUDO/"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-18",
+   "slot": "lunch",
+   "scheduled_mt": "12:37",
+   "caption": "this ball is cursed. not me",
+   "kind": "original",
+   "source": "/golfclips/0cef0458001241e4b2c974c97174e51f.MOV (clip 005)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8de691c51c604d0c82bd181ce563bcc5e06e1db4/queue/005_cursed-ball_orig.mov",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad237d1148b75e0f94d5892"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackygolfs 2026-07-31 09:28 MT https://www.instagram.com/reel/DbdlY0qx_Gu/ (52.7 s audio)",
+   "note": "untouched original relayed byte-for-byte (72,517,377 bytes = Dropbox), 55.4 s"
   },
   {
    "date": "2026-10-18",
@@ -635,6 +619,22 @@
   {
    "platform": "facebook",
    "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-18",
+   "slot": "evening",
+   "scheduled_mt": "19:18",
+   "caption": "i'm my biggest fan",
+   "kind": "compilation \"the sh*t I be saying while 4 putting every hole\" (comp7, approved r5, posted @mackthegolfer Oct 15)",
+   "source": "compilations/comp7_putting_r5.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/compilations/comp7_putting_r5.mp4",
+   "format": "Facebook Reel",
+   "zernio": {
+    "facebook": "6ad236580882cf0f9b157527"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
    "date": "2026-10-19",
    "slot": "morning",
    "scheduled_mt": "08:16",
@@ -645,38 +645,6 @@
    "posted_elsewhere": "@moremackygolfs 2026-10-15 08:51 MT \"par is a myth\" (published)",
    "zernio": {
     "facebook": "6ad38353fa35a96b9d6d983f"
-   },
-   "status": "scheduled"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-19",
-   "slot": "lunch",
-   "scheduled_mt": "12:33",
-   "caption": "rate the shirt. not the golf",
-   "kind": "published @moremackygolfs edit (in an originals slot: no short already-posted original left that isn't already on FB)",
-   "source": "009_new-shirt (golfclips Video 5_43_32 = Golf Captions 9 02 57 AM (2))",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/009_new-shirt_v3.mp4",
-   "posted_elsewhere": "@moremackygolfs 2026-10-16 09:13 MT \"at least the shirt is nice\" https://www.instagram.com/reel/Dej1HftCZfC/",
-   "zernio": {
-    "facebook": "6ad38358fb31baab4fb1c51c"
-   },
-   "status": "scheduled"
-  },
-  {
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "date": "2026-10-19",
-   "slot": "evening",
-   "scheduled_mt": "19:07",
-   "caption": "great drive. don't ask what happened next",
-   "kind": "published @moremackygolfs edit",
-   "source": "012_great-drive (golfclips copy_292850AB)",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/012_great-drive_v3.mp4",
-   "posted_elsewhere": "@moremackygolfs 2026-10-16 18:29 MT \"great drive tho\" https://www.instagram.com/reel/Dek02HajybI/",
-   "zernio": {
-    "facebook": "6ad38359f8718bdb13ba878d"
    },
    "status": "scheduled"
   },
@@ -715,6 +683,22 @@
    "x_segs": null,
    "zernio": {
     "x_tiktok": "6ad38c2e82f31cc8f6dbb3b0"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-19",
+   "slot": "lunch",
+   "scheduled_mt": "12:33",
+   "caption": "rate the shirt. not the golf",
+   "kind": "published @moremackygolfs edit (in an originals slot: no short already-posted original left that isn't already on FB)",
+   "source": "009_new-shirt (golfclips Video 5_43_32 = Golf Captions 9 02 57 AM (2))",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/009_new-shirt_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-16 09:13 MT \"at least the shirt is nice\" https://www.instagram.com/reel/Dej1HftCZfC/",
+   "zernio": {
+    "facebook": "6ad38358fb31baab4fb1c51c"
    },
    "status": "scheduled"
   },
@@ -783,6 +767,55 @@
    "status": "scheduled"
   },
   {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-19",
+   "slot": "evening",
+   "scheduled_mt": "19:07",
+   "caption": "great drive. don't ask what happened next",
+   "kind": "published @moremackygolfs edit",
+   "source": "012_great-drive (golfclips copy_292850AB)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/86498842e03c951ebb1d8516f04bb75be86e0b5d/queue/012_great-drive_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-16 18:29 MT \"great drive tho\" https://www.instagram.com/reel/Dek02HajybI/",
+   "zernio": {
+    "facebook": "6ad38359f8718bdb13ba878d"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-20",
+   "slot": "morning",
+   "scheduled_mt": "08:21",
+   "caption": "basically a hole in one. you'd count it right?",
+   "kind": "published @moremackygolfs edit (in an originals slot: no short already-posted original left that isn't already on FB)",
+   "source": "015_hole-in-one-attempt (golfclips copy_99A28E54)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/6528b688128a9850584fbe6cfd40c1d1a1f241d8/queue/015_hole-in-one-attempt_v2.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-14 morning \"basically a hole in one\" (published)",
+   "zernio": {
+    "facebook": "6ad44b250f1de227d54e14b4"
+   },
+   "status": "scheduled",
+   "note": "filled by nightly check Oct 17"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-20",
+   "slot": "morning",
+   "scheduled_mt": "08:43",
+   "caption": "trying to break 100. please help, this is getting embarrassing",
+   "kind": "original (never on TikTok yet)",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov (35.2 s, H.264, untouched, X + TikTok)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov",
+   "zernio": {
+    "x_tiktok": "6ad44b209fed2a23d3eb7611"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackthegolfer 2026-10-02 09:52 MT https://www.instagram.com/reel/Dd_2QCYxGiQ/ (27.6 s audio)",
+   "note": "filled by nightly check Oct 17"
+  },
+  {
    "date": "2026-10-20",
    "slot": "midday",
    "platform": "x_tiktok",
@@ -797,6 +830,56 @@
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
    "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-20",
+   "slot": "lunch",
+   "scheduled_mt": "12:41",
+   "caption": "four putts. emotionally a par. back me up",
+   "kind": "published @moremackygolfs edit (in an originals slot)",
+   "source": "004_four-putt (golfclips 17ad39c4)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/6528b688128a9850584fbe6cfd40c1d1a1f241d8/queue/004_four-putt_v2.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-12 18:58 MT \"emotionally that was a par\" (published)",
+   "zernio": {
+    "facebook": "6ad44b270f1de227d54e14c0"
+   },
+   "status": "scheduled",
+   "note": "filled by nightly check Oct 17"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-20",
+   "slot": "evening",
+   "scheduled_mt": "17:56",
+   "caption": "guess my handicap off this par 5. if you say 30 we can't be friends",
+   "kind": "original (never on TikTok yet)",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 33 50 AM.mov (29.1 s, H.264, untouched, X + TikTok)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2033%2050%20AM.mov",
+   "zernio": {
+    "x_tiktok": "6ad44b230f1de227d54e14a6"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
+   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-20",
+   "slot": "evening",
+   "scheduled_mt": "19:12",
+   "caption": "eagle was right there. what went wrong #golf",
+   "kind": "published @moremackygolfs edit",
+   "source": "008_almost-eagle (golfclips IMG_6394)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/6528b688128a9850584fbe6cfd40c1d1a1f241d8/queue/008_almost-eagle_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-15 evening \"eagle was right there guys\" (published)",
+   "zernio": {
+    "facebook": "6ad44b289fed2a23d3eb82b5"
+   },
+   "status": "scheduled",
+   "note": "filled by nightly check Oct 17"
   }
  ]
 }

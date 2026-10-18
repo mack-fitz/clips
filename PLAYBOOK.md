@@ -39,7 +39,7 @@ Operating rules for every edit and post. Scheduled runs read this file first.
   `COVER_Y=<fraction>` (required, no default; never reuse another cover's y). No clear spot on the
   frame = use a nearby frame. Verify every cover at grid-thumbnail size (center 3:4 crop, ~240-360 px
   wide) AND full size before scheduling.
-- Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast.
+- Export H.264 1080x1920, keep files small (~4–5 Mbps) so publishing is fast. **IG reels: final file must be H.264 High@4.1, ≤5 Mbps, AAC, +faststart** (Oct 17: 018 at ~10 Mbps / level 5.0 failed on IG with "Video Transcoding Error: XPV publish blocking encoding missing"; re-encoding fixed it). If render.sh outputs higher, re-encode before scheduling.
 - **Must be CLEARLY different from Mack's original (Mack, Oct 12).** Every @moremackygolfs edit
   needs ALL of: a restructured order (not just trims of the original timeline — move a later
   moment or payoff earlier, or open on a different beat than Mack's version); 25–40% of the
