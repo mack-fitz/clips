@@ -21,7 +21,7 @@
     "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
     "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
   ],
-  "next_clip_number": 21,
+  "next_clip_number": 22,
   "clip_map": {
     "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
     "004_four-putt": "17ad39c4 (EnQ)",
@@ -40,13 +40,15 @@
     "017_bomb-city": "Golf Captions 'Video Oct 12 2026, 7 19 40 AM.mov' (already posted @mackthegolfer Oct 7)",
     "018_lag-master": "Golf Captions 'Video Oct 12 2026, 7 13 58 AM.mov' (already posted @mackthegolfer Oct 8)",
     "019_cart-path": "Golf Captions 'Video Oct 12 2026, 7 16 02 AM.mov' (already posted @mackthegolfer Oct 11)",
-    "020_triple-dipper": "Golf Captions 'Video Oct 12 2026, 12 17 30 AM.mov' (already posted @mackygolfs Oct 14, Mack's own)"
+    "020_triple-dipper": "Golf Captions 'Video Oct 12 2026, 12 17 30 AM.mov' (already posted @mackygolfs Oct 14, Mack's own)",
+    "021_lucy-goosey": "Golf Captions 12 22 39 AM (E3w), proof @mackthegolfer 2026-10-10 DeUZyg5xywP (123 s)"
   },
   "golf_captions_used": [
     "Video Oct 12 2026, 7 19 40 AM.mov",
     "Video Oct 12 2026, 7 13 58 AM.mov",
     "Video Oct 12 2026, 7 16 02 AM.mov",
-    "Video Oct 12 2026, 12 17 30 AM.mov"
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov"
   ],
-  "golf_captions_note": "Oct 15: /golfclips had nothing new, so @moremackygolfs now refills from Mack's already-posted /Golf Captions videos (proof post logged per slot in schedule.json). 3 golfclips files are byte-identical to Golf Captions files ((2).mp4=009, 9 02 57 AM.mp4=011, (3).mp4=010) - never reuse those. Skipped 12 00 30 AM (48.7 s): can't reach a 25% cut without cutting shots or payoff lines. Oct 16: 12 17 30 used for 020. Remaining already-posted Golf Captions sources can't make a rule-compliant @moremackygolfs edit: 12 03 20 / 12 11 12 / 12 14 03 only appear in our own Zernio trial posts (not proof); 12 05 56 = clip 003 and 9 02 57 (1) = clip 001 footage (already on this account); 12 00 30, 7 34 47, 7 33 50/7 38 06, 7 35 57/7 37 01, Sep 21 7 24 34 are 25-49 s with every second a shot or line, so a 25% cut would cut shots. Pool for new edits is empty until Mack adds more already-posted videos."
+  "golf_captions_note": "Oct 15: /golfclips had nothing new, so @moremackygolfs now refills from Mack's already-posted /Golf Captions videos (proof post logged per slot in schedule.json). 3 golfclips files are byte-identical to Golf Captions files ((2).mp4=009, 9 02 57 AM.mp4=011, (3).mp4=010) - never reuse those. Skipped 12 00 30 AM (48.7 s): can't reach a 25% cut without cutting shots or payoff lines. Oct 16: 12 17 30 used for 020. Remaining already-posted Golf Captions sources can't make a rule-compliant @moremackygolfs edit: 12 03 20 / 12 11 12 / 12 14 03 only appear in our own Zernio trial posts (not proof); 12 05 56 = clip 003 and 9 02 57 (1) = clip 001 footage (already on this account); 12 00 30, 7 34 47, 7 33 50/7 38 06, 7 35 57/7 37 01, Sep 21 7 24 34 are 25-49 s with every second a shot or line, so a 25% cut would cut shots. Pool for new edits is empty until Mack adds more already-posted videos. Oct 18: 12 22 39 AM was missed by the Oct 16 note - it IS already posted (Mack's own @mackthegolfer Oct 10 reels DeUZyg5xywP / DeUa5Q3x63d, 123 s audio match) and makes a compliant edit: used for 021. Pool is now empty again."
 }

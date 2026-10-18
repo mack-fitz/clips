@@ -422,7 +422,7 @@
    "already_posted": "@mackthegolfer 2026-10-07 14:30 MT \"Bomb City, TX / Population: @mackthegolfer\" https://www.instagram.com/reel/DeNN0iEs4G7/ (62 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on Mack's closing \"nothing worse than a perfect drive and then being shit the rest of the time, here we are for bogey\", then shirt wipe + bomb city line; cut the \"since you're already here\" cart selfie, \"who would have thought\", \"let's get on the green\", \"you know what I mean\", the first \"absolutely perfect\", walking/waiting; every shot kept (drive, approach, chip, par putt, tap-in); 28.8% cut (87.8s->62.5s); 4 punch-ins alternating; ends on the tap-in pickup instead of her walking off; cover: wipe frame + typewriter note. Contact sheet checked.",
    "xt_note": "original 105.5 MB > GitHub's 100 MiB raw limit -> one HQ H.264 export (crf 18, capped 9 Mbps, audio copied) for X + TikTok",
-   "status": "scheduled",
+   "status": "published",
    "zernio": {
     "instagram": "6ad0ec304990024a3b6b4e07",
     "x_tiktok": "6ad0ec33c44785677dcf78cc",
@@ -444,7 +444,7 @@
    "zernio": {
     "facebook": "6ad06150e4248b4b73056b29"
    },
-   "status": "scheduled",
+   "status": "published",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
    "note": "untouched original, byte-identical to Dropbox (size checked)"
   },
@@ -485,7 +485,7 @@
    "already_posted": "@mackthegolfer 2026-10-11 17:38 MT \"does anyone know the lag masta's schedule actually\" https://www.instagram.com/reel/DeX0u_Ox_W3/ (136 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on \"so as it turns out, I'm pissed\", then shirt wipe; cut \"wide open fairways\", \"still rolling\", the whole \"no idea what to do / slot it through the trees / what about this cart path\" stretch, \"whatever\", the first \"another tough lie\", all waiting/walking; lunch-break line moved after the final tap-in; every shot kept (drive, drop, accidental ball nudge, punch-out, 3rd, chip, 2 putts, tap-in); 27.5% cut (140.6s->101.9s); 12 punch-ins alternating; ends on \"lag master was on a lunch break after all\" instead of \"boom\"; cover: wipe frame + typewriter note. Contact sheet checked.",
    "xt_note": "original 196 MB and 140.6 s: one HQ H.264 export (crf 18, capped 5.6 Mbps, audio copied) trimmed to 139.97 s for X's 2:20 limit (last 0.6 s after \"boom\"); same file for TikTok",
-   "status": "scheduled",
+   "status": "published",
    "zernio": {
     "instagram": "6ad0ec3f83b9438fdfcb912c",
     "x_tiktok": "6ad0ec4255330c267530c7ed",
@@ -507,7 +507,7 @@
    "zernio": {
     "facebook": "6ad06152e4248b4b73056b3a"
    },
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "platform": "facebook",
@@ -548,7 +548,7 @@
    "clip": "018_lag-master",
    "scheduled_mt": "09:12",
    "caption": "tween the legs was the safe play",
-   "file": "queue/018_lag-master_v2.mp4",
+   "file": "queue/018_lag-master_v3.mp4",
    "cover_style": "pill (yellow) \"Macky vs. the Lag\"",
    "already_posted": "@mackthegolfer 2026-10-08 17:48 MT \"that's why she's blue boys\" https://www.instagram.com/reel/DeQJNjZtEN_/ (76 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the between-the-legs tap-in + her closing \"definitely not my best hole, but you know that\", then shirt wipe; cut \"should be a pretty straight shot\" x2, teeing up, watching ball flights, \"eat this right up / something I know for sure\", the 4 s wait after the lag; every shot kept (drive, 2nd, 3rd, chip, lag putt, taps, tweener); 25.8% cut (97.5s->72.3s); 5 punch-ins alternating; ends on the tweener dropping instead of the talking head; cover: wipe frame + yellow pill. Contact sheet checked.",
@@ -556,7 +556,8 @@
    "zernio": {
     "instagram": "6ad0ec3855330c267530c7c0"
    },
-   "note": "rescheduled after Oct 17 IG failure; re-encoded v2 (playbook ~4-5 Mbps). IG only: X/TikTok and story already ran Oct 17."
+   "note": "rescheduled after Oct 17 IG failure; re-encoded v2 (playbook ~4-5 Mbps). IG only: X/TikTok and story already ran Oct 17. | Oct 18 run: media swapped to v3 = ONE IG-safe export straight from Mack's original (v2 was a re-encode of the crf-17 render = two encodes).",
+   "media_commit": "21b005b6261cf7bc54d121189a357ac039b2e4df"
   },
   {
    "platform": "x_tiktok",
@@ -598,12 +599,12 @@
    "clip": "020_triple-dipper",
    "scheduled_mt": "17:41",
    "caption": "the triple dipper got me",
-   "file": "queue/020_triple-dipper_v2.mp4",
+   "file": "queue/020_triple-dipper_v3.mp4",
    "tiktok_file": "queue/020_triple-dipper_x.mp4",
    "x_file": "queue/020_triple-dipper_xshort.mp4",
-   "cover_style": "pill (red) \"Macky vs. a Triple Dipper\"",
+   "cover_style": "typewriter \"who invented the triple dipper\" (below chest, y 0.77)",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "scheduled",
@@ -612,9 +613,9 @@
     "story": "6ad237d50c3e7676b1583180",
     "x_tiktok": "6ad23a2bce2a019fade3d017"
    },
-   "media_commit": "8de691c51c604d0c82bd181ce563bcc5e06e1db4",
+   "media_commit": "0dd8003786b8427931de54ec6f63a48d464796ad",
    "xt_media_commit": "28327bfa4d487ab3c2561298247e1208bc825699",
-   "note": "Nightly check Oct 17: 018 (same render pipeline, ~10 Mbps, level 5.0) failed on IG with a transcoding error, so the IG reel media was swapped pre-emptively to a v2 re-encode (H.264 High@4.1, ~4.7 Mbps, AAC 128k, faststart). Same cut, same cover."
+   "note": "Nightly check Oct 17: 018 (same render pipeline, ~10 Mbps, level 5.0) failed on IG with a transcoding error, so the IG reel media was swapped pre-emptively to a v2 re-encode (H.264 High@4.1, ~4.7 Mbps, AAC 128k, faststart). Same cut, same cover. | Oct 18 run: v3 = one IG-safe export from the original (no double encode); cover changed pill->typewriter because 018 (pill) now posts right before it."
   },
   {
    "platform": "facebook",
@@ -703,68 +704,27 @@
    "status": "scheduled"
   },
   {
-   "platform": "x_tiktok",
    "date": "2026-10-19",
    "slot": "evening",
-   "scheduled_mt": "17:48",
-   "caption": "6 months of golf. better or worse than average? be honest",
-   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
-   "source": "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov (148.9 s, sha256 28438619..., H.264)",
-   "tiktok_file": "queue/tt_six-months_x.mp4",
-   "x_file": "queue/tt_six-months_xshort.mp4",
-   "media_commit": "361bffe9fd430e72d97eebc649d1321f3a9f07ed",
-   "xt_note": "TikTok: one HQ H.264 export of the full original (182 MB > 100 MiB). X: dead-air-only trim in original order to 139.97 s (cut post-tracer standing/walking after 3 shots + short pauses between sentences; every shot and line kept; segs in work notes)",
-   "ig_first": "@mackygolfs trial A 2026-10-16 18:44 MT 'six months of golf. rate me' (published; Zernio 6ace82e3e772f83f474792a3)",
-   "x_segs": [
-    [
-     0,
-     4.79
-    ],
-    [
-     5.17,
-     12.03
-    ],
-    [
-     12.23,
-     22.81
-    ],
-    [
-     24.89,
-     35.93
-    ],
-    [
-     36.51,
-     61.15
-    ],
-    [
-     62.85,
-     81.09
-    ],
-    [
-     82.73,
-     87.9
-    ],
-    [
-     88.25,
-     94.5
-    ],
-    [
-     94.75,
-     105.27
-    ],
-    [
-     106.67,
-     134.05
-    ],
-    [
-     134.35,
-     148.81
-    ]
-   ],
+   "clip": "021_lucy-goosey",
+   "scheduled_mt": "18:22",
+   "caption": "the marshal gave me a lesson. i lost count after that",
+   "file": "queue/021_lucy-goosey.mp4",
+   "tiktok_file": "queue/021_lucy-goosey_x.mp4",
+   "x_file": "queue/021_lucy-goosey_xshort.mp4",
+   "story_file": "stories/story_021.mp4",
+   "cover_style": "pill (blue) \"Macky vs. the Marshal\" (over shirt/head, y 0.24)",
+   "source": "/Golf Captions/Video Oct 12 2026, 12 22 39 AM.mov (161.3 s, sha256 1b81b14f..., byte-for-byte relay, 9.9 Mbps H.264)",
+   "already_posted": "@mackthegolfer 2026-10-10 09:29 MT \"LGB LOOSEY GOOSEY BABY #neverforget\" https://www.instagram.com/reel/DeUZyg5xywP/ (123 s audio match, Mack's own post, not via Zernio); also her 09:41 repost DeUa5Q3x63d",
+   "diff_check": "cold open on the closing beat (arms out on the green: 'LGB loosey goosey baby, and I will unfuck that marshal') moved to the front, then shirt wipe + 'come play this par 5 with me'; cut the elephant-noise bit, the practice swing + 'that would have been terrible', 'what was that', the repeated 'that's the only thing', the Ben Hogan small talk, the second 'it doesn't even matter... LGB LGB' run, dead air/waiting; every shot kept (tee, 2nd, waste-area shot, drop + tree shot, approach, both bunker shots, putt); swearing kept; 25.1% cut (161.3->120.8 s); 10 alternating punch-ins; ends on the putt dropping instead of the marshal line; differs from the B trial (opened talk-first, ended on the marshal line). Contact sheet checked.",
+   "xt_note": "original 201 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18 capped 4.7M, audio copied, 93 MiB); X gets a dead-air-only trim in original order (138.9 s, nothing reordered, no shots or lines cut).",
+   "status": "scheduled",
+   "media_commit": "0dd8003786b8427931de54ec6f63a48d464796ad",
    "zernio": {
-    "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
-   },
-   "status": "scheduled"
+    "instagram": "6ad4dee477a5527bbfa35fcb",
+    "story": "6ad4dee579fb0650e7ee9147",
+    "x_tiktok": "6ad4dee977a5527bbfa35fec"
+   }
   },
   {
    "platform": "facebook",
@@ -829,7 +789,7 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
   },
   {
    "platform": "facebook",
@@ -862,7 +822,7 @@
    },
    "status": "scheduled",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before"
+   "note": "filled by nightly check Oct 17; 7 33 50 \u2248 7 38 06 alt take \u2014 neither on TikTok before"
   },
   {
    "platform": "facebook",
@@ -880,6 +840,118 @@
    },
    "status": "scheduled",
    "note": "filled by nightly check Oct 17"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-21",
+   "slot": "morning",
+   "scheduled_mt": "08:13",
+   "caption": "king of the world for 1 second. guess the score #golf",
+   "kind": "published @moremackygolfs edit (originals slot: no short already-posted original left that isn't on FB in 30 days)",
+   "source": "011_king-of-the-world (golfclips Video 5_51_18)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/21b005b6261cf7bc54d121189a357ac039b2e4df/queue/011_king-of-the-world_v3.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-13 \"king of the world for 1 second\" (published)",
+   "zernio": {
+    "facebook": "6ad4dd0556375cdba72993b0"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-21",
+   "slot": "morning",
+   "scheduled_mt": "08:52",
+   "caption": "6 months of golf. better or worse than average? be honest",
+   "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov (148.9 s, sha256 28438619..., H.264)",
+   "tiktok_file": "queue/tt_six-months_x.mp4",
+   "x_file": "queue/tt_six-months_xshort.mp4",
+   "media_commit": "361bffe9fd430e72d97eebc649d1321f3a9f07ed",
+   "xt_note": "TikTok: one HQ H.264 export of the full original (182 MB > 100 MiB). X: dead-air-only trim in original order to 139.97 s (cut post-tracer standing/walking after 3 shots + short pauses between sentences; every shot and line kept; segs in work notes)",
+   "ig_first": "@mackygolfs trial A 2026-10-16 18:44 MT 'six months of golf. rate me' (published; Zernio 6ace82e3e772f83f474792a3)",
+   "x_segs": [
+    [
+     0,
+     4.79
+    ],
+    [
+     5.17,
+     12.03
+    ],
+    [
+     12.23,
+     22.81
+    ],
+    [
+     24.89,
+     35.93
+    ],
+    [
+     36.51,
+     61.15
+    ],
+    [
+     62.85,
+     81.09
+    ],
+    [
+     82.73,
+     87.9
+    ],
+    [
+     88.25,
+     94.5
+    ],
+    [
+     94.75,
+     105.27
+    ],
+    [
+     106.67,
+     134.05
+    ],
+    [
+     134.35,
+     148.81
+    ]
+   ],
+   "zernio": {
+    "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
+   },
+   "status": "scheduled",
+   "note": " | moved from Oct 19 17:48 to Oct 21 08:52 to make room for 021 on Oct 19 evening."
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-21",
+   "slot": "lunch",
+   "scheduled_mt": "12:26",
+   "caption": "rate my swing. be honest. but nice",
+   "kind": "published @moremackygolfs edit (originals slot)",
+   "source": "006_one-swing (golfclips copy_2A97DD30)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/21b005b6261cf7bc54d121189a357ac039b2e4df/queue/006_one-swing_v2.mp4",
+   "posted_elsewhere": "@moremackygolfs 2026-10-14 \"be honest. but nice\" (published)",
+   "zernio": {
+    "facebook": "6ad4dd07e9ab31790d2a8d6c"
+   },
+   "status": "scheduled"
+  },
+  {
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "date": "2026-10-21",
+   "slot": "evening",
+   "scheduled_mt": "19:24",
+   "caption": "being a good golfer is all about mindset. mine is delusional",
+   "kind": "compilation \"delusional\" (comp2, approved r6, posted @mackthegolfer, Zernio 6ad0b0046c00626d876f0640)",
+   "source": "compilations/comp2_delusional_r6.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/71f6be7f99b79573cc23e657f0776e9750670d71/compilations/comp2_delusional_r6.mp4",
+   "zernio": {
+    "facebook": "6ad4dd09f92bb9877841d3e4"
+   },
+   "status": "scheduled"
   }
  ]
 }
