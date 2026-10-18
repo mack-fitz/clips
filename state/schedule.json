@@ -614,7 +614,7 @@
    "clip": "020_triple-dipper",
    "scheduled_mt": "17:41",
    "caption": "the triple dipper got me",
-   "file": "queue/020_triple-dipper.mp4",
+   "file": "queue/020_triple-dipper_v2.mp4",
    "tiktok_file": "queue/020_triple-dipper_x.mp4",
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "pill (red) \"Macky vs. a Triple Dipper\"",
@@ -629,7 +629,8 @@
     "x_tiktok": "6ad23a2bce2a019fade3d017"
    },
    "media_commit": "8de691c51c604d0c82bd181ce563bcc5e06e1db4",
-   "xt_media_commit": "28327bfa4d487ab3c2561298247e1208bc825699"
+   "xt_media_commit": "28327bfa4d487ab3c2561298247e1208bc825699",
+   "note": "Nightly check Oct 17: 018 (same render pipeline, ~10 Mbps, level 5.0) failed on IG with a transcoding error, so the IG reel media was swapped pre-emptively to a v2 re-encode (H.264 High@4.1, ~4.7 Mbps, AAC 128k, faststart). Same cut, same cover."
   },
   {
    "platform": "facebook",
