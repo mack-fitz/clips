@@ -39,7 +39,10 @@ PY
 )
 # VMAXRATE (optional, e.g. 8M): cap the crf-17 video so the file stays under GitHub raw's 100 MiB
 # limit (media is served from raw.githubusercontent.com). Still one pass from the source.
-CAP=(); if [ -n "$VMAXRATE" ]; then CAP=(-maxrate "$VMAXRATE" -bufsize "$VMAXRATE"); fi
+CAP=(); if [ -n "$VMAXRATE" ]; then CAP=(-maxrate "$VMAXRATE" -bufsize "${VBUFSIZE:-$VMAXRATE}"); fi
+# LEVEL (optional, e.g. 4.1): IG reels must be H.264 High@4.1 <=5 Mbps (Oct 17 transcoding failure) ->
+# render IG edits with VMAXRATE=4.8M VBUFSIZE=9.6M LEVEL=4.1 so the single export is already IG-safe.
+if [ -n "$LEVEL" ]; then CAP+=(-level:v "$LEVEL"); fi
 ffmpeg -nostdin -v error -y "${ARGS[@]}" -map "[v]" -map "[a]" \
   -c:v libx264 -crf 17 "${CAP[@]}" -preset slow -profile:v high -pix_fmt yuv420p -fps_mode passthrough \
   -c:a aac -b:a 192k -ar 48000 -movflags +faststart "$OUT"
