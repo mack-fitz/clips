@@ -864,15 +864,24 @@
    "date": "2026-10-21",
    "slot": "morning",
    "scheduled_mt": "08:13",
-   "caption": "king of the world for 1 second. guess the score #golf",
-   "kind": "published @moremackygolfs edit (originals slot: no short already-posted original left that isn't on FB in 30 days)",
-   "source": "011_king-of-the-world (golfclips Video 5_51_18)",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/21b005b6261cf7bc54d121189a357ac039b2e4df/queue/011_king-of-the-world_v3.mp4",
-   "posted_elsewhere": "@moremackygolfs 2026-10-13 \"king of the world for 1 second\" (published)",
+   "caption": "par 5. bunker, then a hot dog. guess my score #golf",
+   "kind": "original",
+   "source": "/Golf Captions/Video Sep 21 2026, 7 28 37 PM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/eb961f319a65f280efd83f6fe12a93cf3e3ebcf0/inbox/videos/Video%20Sep%2021%202026%2C%207%2028%2037%20PM.mov",
    "zernio": {
-    "facebook": "6ad4dd0556375cdba72993b0"
+    "facebook": "6ad51c6da6da3c2dd0bd4809"
    },
-   "status": "scheduled"
+   "status": "scheduled",
+   "format": "Facebook Reel",
+   "already_posted_proof": "@mackygolfs 2026-10-17 18:46 MT https://www.instagram.com/reel/DenbgB_DgEk/ (Mack-approved full untouched original, 29 s; never-posted rule: IG first, done)",
+   "note": "untouched original (41,209,297 bytes, 29.0 s HEVC). Swapped in Oct 18 for SAME-SOURCE SPACING: the 011 king-of-the-world edit would have gone out 6 d 0 h after FB posted that same source (Golf Captions 9 02 57 AM.mp4 = golfclips 011) on Oct 15 08:12.",
+   "spacing_swap": {
+    "at": "2026-10-18",
+    "removed_zernio": "6ad4dd0556375cdba72993b0",
+    "removed": "011_king-of-the-world_v3 edit (source 9 02 57 AM.mp4 / golfclips 011)",
+    "reason": "same source on FB Oct 15 08:12 (6ad0613fd1af32a677897977) -> 6 d 0 h 1 m, rule needs >= 7 d",
+    "cross_account_flag": "7 28 37 was on @mackygolfs IG Oct 17 18:46 (3 d 13 h before; different account, allowed)"
+   }
   },
   {
    "platform": "x_tiktok",

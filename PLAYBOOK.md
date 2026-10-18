@@ -2,6 +2,24 @@
 
 Operating rules for every edit and post. Scheduled runs read this file first.
 
+## SAME-SOURCE SPACING (Mack, Oct 18) — HARD RULE, check before scheduling, moving or swapping ANY post
+**Same-source spacing ≥7 days; @mackygolfs and @mackthegolfer count as one pool; TikTok, comps and shorties exempt.**
+- Two posts that use footage from the same original source video (original vs edit, edit vs edit, any cut)
+  must be at least 7 FULL days apart (≥ 168 h) on the same account.
+- Accounts checked separately: @moremackygolfs IG, X @mackygolfs, Facebook macky.golfs each on its own.
+  Instagram @mackygolfs + @mackthegolfer are ONE pool (an original on @mackygolfs Oct 20 = no edit of it on
+  @mackthegolfer before Oct 27, and the other way round).
+- Exempt: TikTok (never moved for spacing, never counted), compilations, shorties. IG stories ride with their reel.
+- Same source = same Golf Captions/golfclips original, incl. byte-identical twins and alt takes
+  (golfclips 009 = Golf Captions 9 02 57 AM (2); 010 = (3); 011 = 9 02 57 AM.mp4; clip 001 = (1);
+  7 33 50 ≈ 7 38 06; 7 35 57 ≈ 7 37 01). Resolve sources from schedule.json `source`, the mackygolfs-mackthegolfer
+  trials.json / review docs / posted_index.json, and fingerprints (tools/match_fp.py) when unclear; never guess.
+- Count already-published posts (Zernio + Mack's own posts, posts_list_posts source "external") from the last 7 days.
+- Cross-account repeats inside 7 days (e.g. @moremackygolfs edit + FB edit of the same source) are allowed but
+  get flagged in the daily summary. Prefer the least-recently-used original so the same 5–6 aren't recycled.
+- Fixing: clip-pipeline slots (@moremackygolfs, X, FB) may be swapped for an eligible original/edit. Approval-gated
+  @mackygolfs/@mackthegolfer posts are only ever moved (same time-of-day slot), never replaced without Mack's OK.
+
 ## Accounts (Zernio)
 - Instagram @moremackygolfs — account ID 6acc2885bac230e9d1133105 (edited clips)
 - X @mackygolfs — account ID 6acc3edbda858fbeab423c5a (uncut)
