@@ -478,13 +478,14 @@
    "already_posted": "@mackthegolfer 2026-10-08 17:48 MT \"that's why she's blue boys\" https://www.instagram.com/reel/DeQJNjZtEN_/ (76 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the between-the-legs tap-in + her closing \"definitely not my best hole, but you know that\", then shirt wipe; cut \"should be a pretty straight shot\" x2, teeing up, watching ball flights, \"eat this right up / something I know for sure\", the 4 s wait after the lag; every shot kept (drive, 2nd, 3rd, chip, lag putt, taps, tweener); 25.8% cut (97.5s->72.3s); 5 punch-ins alternating; ends on the tweener dropping instead of the talking head; cover: wipe frame + yellow pill. Contact sheet checked.",
    "xt_note": "original 126.6 MB > 100 MiB -> one HQ H.264 export (crf 18, capped 8 Mbps, audio copied) for X + TikTok",
-   "status": "scheduled",
+   "status": "failed_rescheduled",
    "zernio": {
     "instagram": "6ad0ec3855330c267530c7c0",
     "x_tiktok": "6ad0ec3b83b9438fdfcb90bf",
     "story": "6ad0ec3d83b9438fdfcb90cd"
    },
-   "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646"
+   "media_commit": "8816490d1ff997b4e22f9b7d0e8d147f9e962646",
+   "note": "IG reel failed Oct 17 12:19 MT (Instagram 'Video Transcoding Error: XPV publish blocking encoding missing'; file was ~10 Mbps, level 5.0). Nightly check re-encoded to queue/018_lag-master_v2.mp4 (H.264 High@4.1, ~4.7 Mbps, AAC 128k, faststart, 42 MB) and moved the IG post to Sun Oct 18 09:12 MT. X/TikTok + story published as planned."
   },
   {
    "date": "2026-10-17",
@@ -561,6 +562,22 @@
    "status": "scheduled"
   },
   {
+   "date": "2026-10-18",
+   "slot": "morning",
+   "clip": "018_lag-master",
+   "scheduled_mt": "09:12",
+   "caption": "tween the legs was the safe play",
+   "file": "queue/018_lag-master_v2.mp4",
+   "cover_style": "pill (yellow) \"Macky vs. the Lag\"",
+   "already_posted": "@mackthegolfer 2026-10-08 17:48 MT \"that's why she's blue boys\" https://www.instagram.com/reel/DeQJNjZtEN_/ (76 s audio match, Mack's own post, not via Zernio)",
+   "diff_check": "cold open on the between-the-legs tap-in + her closing \"definitely not my best hole, but you know that\", then shirt wipe; cut \"should be a pretty straight shot\" x2, teeing up, watching ball flights, \"eat this right up / something I know for sure\", the 4 s wait after the lag; every shot kept (drive, 2nd, 3rd, chip, lag putt, taps, tweener); 25.8% cut (97.5s->72.3s); 5 punch-ins alternating; ends on the tweener dropping instead of the talking head; cover: wipe frame + yellow pill. Contact sheet checked.",
+   "status": "scheduled",
+   "zernio": {
+    "instagram": "6ad0ec3855330c267530c7c0"
+   },
+   "note": "rescheduled after Oct 17 IG failure; re-encoded v2 (playbook ~4-5 Mbps). IG only: X/TikTok and story already ran Oct 17."
+  },
+  {
    "platform": "x_tiktok",
    "date": "2026-10-18",
    "slot": "morning",
@@ -602,7 +619,7 @@
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "pill (red) \"Macky vs. a Triple Dipper\"",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "scheduled",
@@ -778,7 +795,7 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
   }
  ]
 }
