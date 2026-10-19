@@ -48,7 +48,7 @@ def main(out):
             "clip": clip,
             "caption": s.get("caption", ""),
             "hook": s.get("hook", ""),
-            "where": "IG reel + story · X · TikTok",
+            "where": "IG reel only" if s.get("platform") == "instagram" else "IG reel + story · X · TikTok",
             "thumb": thumb(cover),
             "ig_url": RAW + video,
             "full_url": RAW + (s.get("tiktok_file") or f"queue/{clip}_full.mp4"),

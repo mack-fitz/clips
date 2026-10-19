@@ -45,6 +45,12 @@
    "followers": 276,
    "real": null,
    "note": "272 -> 276 (+4 since Oct 17). Still under the 442 baseline (bought-account purge), so real growth can't be separated yet."
+  },
+  {
+   "date": "2026-10-19",
+   "followers": 316,
+   "real": null,
+   "note": "276 -> 316 (+40 since Oct 18). Still under the 442 baseline (bought-account purge/churn), so real growth can't be separated yet."
   }
  ]
 }

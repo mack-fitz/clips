@@ -572,7 +572,7 @@
    "zernio": {
     "x_tiktok": "6ad237dc0c3e7676b15831ba"
    },
-   "status": "scheduled",
+   "status": "published",
    "already_posted_proof": "@mackygolfs 2026-09-22 https://www.instagram.com/reel/DdmFF-0hUDO/"
   },
   {
@@ -589,7 +589,7 @@
    "zernio": {
     "facebook": "6ad237d1148b75e0f94d5892"
    },
-   "status": "scheduled",
+   "status": "published",
    "already_posted_proof": "@mackygolfs 2026-07-31 09:28 MT https://www.instagram.com/reel/DbdlY0qx_Gu/ (52.7 s audio)",
    "note": "untouched original relayed byte-for-byte (72,517,377 bytes = Dropbox), 55.4 s"
   },
@@ -607,7 +607,7 @@
    "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
-   "status": "scheduled",
+   "status": "published",
    "zernio": {
     "instagram": "6ad237d3148b75e0f94d589a",
     "story": "6ad237d50c3e7676b1583180",
@@ -631,7 +631,7 @@
    "zernio": {
     "facebook": "6ad236580882cf0f9b157527"
    },
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "platform": "facebook",
@@ -647,7 +647,7 @@
    "zernio": {
     "facebook": "6ad38353fa35a96b9d6d983f"
    },
-   "status": "scheduled"
+   "status": "published"
   },
   {
    "platform": "x_tiktok",
@@ -978,6 +978,61 @@
     "facebook": "6ad4dd09f92bb9877841d3e4"
    },
    "status": "scheduled"
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-19",
+   "slot": "afternoon (extra)",
+   "scheduled_mt": "15:41",
+   "caption": "bunker, then a hot dog. if you say that's not a par we can't be friends",
+   "kind": "original (never on TikTok yet); red Hawaiian batch 1/6, IG first on @mackygolfs Oct 17 18:46 (published, Zernio 6ad05e862ced7f681aed9a7a)",
+   "source": "/Golf Captions/Video Sep 21 2026, 7 28 37 PM.mov (29.0 s HEVC, 41,209,297 bytes = Dropbox, sha256 19416a37...)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/eb961f319a65f280efd83f6fe12a93cf3e3ebcf0/inbox/videos/Video%20Sep%2021%202026%2C%207%2028%2037%20PM.mov",
+   "x_file": "queue/tt_hot-dog_x.mp4",
+   "media_commit": "48869e170e214b83ac30983f4c4fe3867f19dc04",
+   "xt_note": "TikTok = untouched original; X = one HQ H.264 export (HEVC original)",
+   "zernio": {
+    "x_tiktok": "6ad629140080039542adb930"
+   },
+   "status": "scheduled",
+   "note": "Oct 19 run: was due on TikTok Sun Oct 18 per Mack's Hawaiian schedule and had been missed; added today as a 4th X/TikTok post. Cross-account flag: same source on FB Oct 21 08:13 (different account, allowed)."
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-21",
+   "slot": "midday",
+   "scheduled_mt": "12:19",
+   "caption": "one tee shot, one pond. if it goes wet i'm blaming the wind",
+   "kind": "original (never on TikTok yet); red Hawaiian batch 2/6, IG first on @mackthegolfer Oct 18 19:31 (published, Zernio 6ad05e97694b4089c8713977)",
+   "source": "/Golf Captions/Video Sep 21 2026, 7 12 01 PM.mov (21.5 s HEVC, 30,473,272 bytes = Dropbox, sha256 e332bf43...)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/8591482e41c0734ed53cb481fae41fe313a113ba/inbox/videos/Video%20Sep%2021%202026%2C%207%2012%2001%20PM.mov",
+   "x_file": "queue/tt_pond-par-3_x.mp4",
+   "media_commit": "48869e170e214b83ac30983f4c4fe3867f19dc04",
+   "xt_note": "TikTok = untouched original; X = one HQ H.264 export (HEVC original)",
+   "zernio": {
+    "x_tiktok": "6ad62921dc3704c1fa359c16"
+   },
+   "status": "scheduled",
+   "note": "Oct 19 run: filled empty Oct 21 midday X/TikTok slot. Mack's schedule had it Mon Oct 19; today already has 4 X/TikTok posts, so it went to the first empty slot."
+  },
+  {
+   "platform": "x_tiktok",
+   "date": "2026-10-21",
+   "slot": "evening",
+   "scheduled_mt": "17:47",
+   "caption": "i called the hole in one out loud. please don't ask how it went",
+   "kind": "original (never on TikTok yet)",
+   "source": "/Golf Captions/Video Oct 12 2026, 12 14 03 AM.mov (99.9 s H.264, 140,457,986 bytes = Dropbox, sha256 a3b77574...)",
+   "tiktok_file": "queue/tt_hole-in-one-loading_x.mp4",
+   "x_file": "queue/tt_hole-in-one-loading_x.mp4",
+   "media_commit": "4ff850c9c895a936c2e0e326225c1e35c61dbdb3",
+   "xt_note": "original 140 MB > 100 MiB -> one HQ H.264 export for X + TikTok (crf 18, capped 7.4M, audio copied, 94 MB, full length, nothing cut)",
+   "already_posted_proof": "@mackthegolfer 2026-10-12 14:06 MT https://www.instagram.com/reel/DeaDVVTAJu_/ (95.4 s audio) + @mackygolfs trial original Oct 13",
+   "zernio": {
+    "x_tiktok": "6ad62a848136124f93e237be"
+   },
+   "status": "scheduled",
+   "note": "Oct 19 run: filled empty Oct 21 evening X/TikTok slot. X: first use of this source on X."
   }
  ]
 }
