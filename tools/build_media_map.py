@@ -92,6 +92,8 @@ MANUAL = {
     "mackygolfs-mackthegolfer:trials/047_reverse-round-driver-putter_b.mp4": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
     "mackygolfs-mackthegolfer:trials/048_guess-my-score-par-3-wipe_a.mp4": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
     "mackygolfs-mackthegolfer:trials/049_kids-par-4-talk-first_b.mp4": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "mackygolfs-mackthegolfer:trials/050_help-my-swing-talk-first_b.mp4": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+    "mackygolfs-mackthegolfer:trials/051_cliff-par-5-talk-first_b.mp4": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
 }
 OVERRIDES_FILE = os.path.join(CLIPS, "state", "media_manual.json")  # optional extra MANUAL entries
 
