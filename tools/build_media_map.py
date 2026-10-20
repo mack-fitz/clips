@@ -98,6 +98,16 @@ MANUAL = {
 OVERRIDES_FILE = os.path.join(CLIPS, "state", "media_manual.json")  # optional extra MANUAL entries
 
 
+def lsdir(d):
+    """os.listdir + tracked files git keeps out of a sparse checkout (repos are cloned without videos)."""
+    names = set(os.listdir(d)) if os.path.isdir(d) else set()
+    import subprocess
+    r = subprocess.run(["git", "-C", os.path.dirname(d.rstrip("/")), "ls-files", "--", os.path.basename(d.rstrip("/"))],
+                       capture_output=True, text=True).stdout.split("\n")
+    names |= {x.split("/", 1)[1] for x in r if "/" in x and x.count("/") == 1}
+    return sorted(names)
+
+
 def canon_map():
     """every known file name -> source id"""
     m = {}
@@ -145,8 +155,8 @@ def build():
     import subprocess
     hist = subprocess.run(["git", "-C", CLIPS, "log", "--all", "--name-only", "--format=", "--", "queue", "stories"],
                           capture_output=True, text=True).stdout.split()
-    qfiles = sorted({h.split("/", 1)[1] for h in hist if h.startswith("queue/")} | set(os.listdir(os.path.join(CLIPS, "queue"))))
-    sfiles = sorted({h.split("/", 1)[1] for h in hist if h.startswith("stories/")} | set(os.listdir(os.path.join(CLIPS, "stories"))))
+    qfiles = sorted({h.split("/", 1)[1] for h in hist if h.startswith("queue/")} | set(lsdir(os.path.join(CLIPS, "queue"))))
+    sfiles = sorted({h.split("/", 1)[1] for h in hist if h.startswith("stories/")} | set(lsdir(os.path.join(CLIPS, "stories"))))
     for f in qfiles:
         m = re.match(r"(\d{3})_", f)
         if m and m.group(1) in CLIP_SRC:
@@ -184,7 +194,7 @@ def build():
         lst = d if isinstance(d, list) else d.get("bits") or []
         srcs = [canon(x.get("src") or x.get("source") or "") for x in lst if isinstance(x, dict)]
         bits[(m.group(1), m.group(2) or "r1")] = [s for s in srcs if s]
-    for f in sorted(os.listdir(comp_dir)):
+    for f in lsdir(comp_dir):
         if not f.endswith(".mp4"):
             continue
         m = re.match(r"(comp[^_]+)_[a-z0-9-]+?(?:_(r\d+))?\.mp4$", f)
@@ -207,7 +217,7 @@ def build():
                 srcs.append(canon(m.group(1)) if m else (CLIP_SRC.get(q.group(1)) if q else None))
         srcs = [s for s in srcs if s]
         if srcs:
-            for f in os.listdir(comp_dir):
+            for f in lsdir(comp_dir):
                 if f.startswith(comp + "_") and f.endswith(".mp4") and "mackygolfs-mackthegolfer:compilations/" + f not in media:
                     add(media, "mackygolfs-mackthegolfer:compilations/" + f, srcs, "comp", "from notes table")
     # 4. shorties
@@ -218,7 +228,7 @@ def build():
         m = re.search(r"(Video [A-Z][a-z]{2} \d+ 2026, [\d ]+[AP]M(?: \(\d\))?\.(?:mov|mp4|MOV|MP4))", txt)
         q = re.search(r"queue/(\d{3})_", txt)
         sid = canon(m.group(1)) if m else (CLIP_SRC.get(q.group(1)) if q else None)
-        for f in os.listdir(sh):
+        for f in lsdir(sh):
             if f.startswith(slug) and f.endswith(".mp4") and (f == slug + ".mp4" or f[len(slug)] == "_"):
                 add(media, "mackygolfs-mackthegolfer:shorties/" + f, [sid], "shorty")
     # 5. originals in inbox/videos (and parts)

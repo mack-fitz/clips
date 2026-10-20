@@ -1,0 +1,173 @@
+name: ingest
+# Heavy per-video analysis on the runner (Oct 20 ingest). Nothing big touches the workspace or the repo.
+# Push inbox/ingest.txt: one /golfclips file name per line (DROPBOX_FOLDER_URL secret = /golfclips).
+# 4 shards in parallel; each downloads the folder zip, extracts ONLY its own files (python zipfile), and writes
+#   state/ingest/info/<name>.json        sha256, Dropbox content_hash, size, ffprobe (duration, codec, size, rotation, bitrate)
+#   state/ingest/fp/<name>.json          tools/fingerprint.py video --dense (mackygolfs-mackthegolfer tools)
+#   state/ingest/transcripts/<name>.json faster-whisper small.en, word timestamps (same format as transcribe.yml)
+#   state/ingest/sheets/<name>.jpg       8 frames, 200 px wide (contact sheet)
+#   state/ingest/frames/<name>_{1,2,3}.jpg  3 frames at 25/50/75 %, 540 px wide (burned-in caption check)
+# Only those small files are committed. Raw videos never enter the repo.
+on:
+  push:
+    paths: ['inbox/ingest.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+jobs:
+  shard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/ingest.txt
+          sparse-checkout-cone-mode: false
+      - uses: actions/checkout@v4
+        with:
+          repository: mack-fitz/mackygolfs-mackthegolfer
+          path: mg
+          sparse-checkout: |
+            /tools/
+          sparse-checkout-cone-mode: false
+      - name: Free disk + tools
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          df -h / | tail -1
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg libchromaprint-tools >/dev/null
+          pip install -q imagehash pillow numpy faster-whisper
+      - name: Download + extract this shard
+        env:
+          FOLDER_URL: ${{ secrets.DROPBOX_FOLDER_URL }}
+        run: |
+          set -e
+          mkdir -p /tmp/v
+          python3 - "${{ matrix.shard }}" <<'PY'
+          import sys
+          shard = int(sys.argv[1])
+          names = [l.strip() for l in open("inbox/ingest.txt") if l.strip()]
+          mine = [n for i, n in enumerate(names) if i % 4 == shard]
+          open("/tmp/mine.txt", "w").write("\n".join(mine) + ("\n" if mine else ""))
+          print(len(mine), "files")
+          PY
+          [ -s /tmp/mine.txt ] || exit 0
+          url=$(echo "$FOLDER_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
+          case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
+          curl -sSL --fail --retry 3 -o /tmp/folder.zip "$url"
+          ls -la /tmp/folder.zip
+          python3 - <<'PY'
+          import zipfile, os, shutil
+          want = [l.strip() for l in open("/tmp/mine.txt") if l.strip()]
+          z = zipfile.ZipFile("/tmp/folder.zip")
+          by = {}
+          for i in z.infolist():
+              by.setdefault(os.path.basename(i.filename), i)
+          miss = []
+          for n in want:
+              i = by.get(n)
+              if not i:
+                  miss.append(n); continue
+              with z.open(i) as src, open(os.path.join("/tmp/v", n), "wb") as dst:
+                  shutil.copyfileobj(src, dst, 1 << 22)
+          open("/tmp/missing.txt", "w").write("\n".join(miss))
+          print("extracted", len(want) - len(miss), "missing", miss)
+          PY
+          rm -f /tmp/folder.zip; df -h / | tail -1
+      - name: Analyse
+        run: |
+          [ -s /tmp/mine.txt ] || exit 0
+          mkdir -p out/info out/fp out/transcripts out/sheets out/frames
+          cp /tmp/missing.txt out/missing_${{ matrix.shard }}.txt
+          python3 - <<'PY'
+          import os, json, hashlib, subprocess
+          import numpy as np
+          from faster_whisper import WhisperModel
+          m = WhisperModel("small.en", device="cpu", compute_type="int8")
+          for n in [l.strip() for l in open("/tmp/mine.txt") if l.strip()]:
+              f = os.path.join("/tmp/v", n)
+              if not os.path.exists(f):
+                  continue
+              sha, blocks = hashlib.sha256(), []
+              with open(f, "rb") as fh:
+                  while True:
+                      b = fh.read(4 << 20)
+                      if not b: break
+                      sha.update(b); blocks.append(hashlib.sha256(b).digest())
+              pr = json.loads(subprocess.run(["ffprobe", "-v", "error", "-show_format", "-show_streams", "-of", "json", f],
+                                             capture_output=True, text=True).stdout)
+              v = next((s for s in pr["streams"] if s["codec_type"] == "video"), {})
+              rot = 0
+              for sd in v.get("side_data_list", []) or []:
+                  rot = int(sd.get("rotation", 0) or 0)
+              rot = rot or int((v.get("tags") or {}).get("rotate", 0) or 0)
+              dur = float(pr["format"]["duration"])
+              info = {"name": n, "bytes": os.path.getsize(f), "sha256": sha.hexdigest(),
+                      "dropbox_content_hash": hashlib.sha256(b"".join(blocks)).hexdigest(),
+                      "duration": round(dur, 2), "vcodec": v.get("codec_name"), "width": v.get("width"),
+                      "height": v.get("height"), "rotation": rot, "fps": v.get("r_frame_rate"),
+                      "bit_rate": int(pr["format"].get("bit_rate", 0) or 0),
+                      "acodec": next((s["codec_name"] for s in pr["streams"] if s["codec_type"] == "audio"), None),
+                      "creation_time": (pr["format"].get("tags") or {}).get("creation_time")}
+              json.dump(info, open(f"out/info/{n}.json", "w"), indent=1)
+              subprocess.run(["python3", "mg/tools/fingerprint.py", "video", f, f"out/fp/{n}.json", "--dense",
+                              f"name=golfclips/{n}", f"bytes={info['bytes']}"], stdin=subprocess.DEVNULL)
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-vf",
+                              f"fps=8/{dur},scale=200:-2,tile=8x1", "-frames:v", "1", "-q:v", "5", f"out/sheets/{n}.jpg"])
+              for k, frac in ((1, .25), (2, .5), (3, .75)):
+                  subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{dur*frac:.2f}", "-i", f,
+                                  "-frames:v", "1", "-vf", "scale=540:-2", "-q:v", "4", f"out/frames/{n}_{k}.jpg"])
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-ac", "1", "-ar", "16000", "-f", "s16le", "/tmp/a.raw"])
+              segs, ti = m.transcribe(np.fromfile("/tmp/a.raw", dtype=np.int16).astype(np.float32) / 32768.0,
+                                      word_timestamps=True, vad_filter=False, beam_size=5)
+              out = {"source": "golfclips/" + n, "duration": ti.duration, "segments": []}
+              for s in segs:
+                  out["segments"].append({"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip(),
+                                          "words": [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]})
+              json.dump(out, open(f"out/transcripts/{n}.json", "w"), indent=0, ensure_ascii=False)
+              os.remove(f); os.remove("/tmp/a.raw")
+              print("done", n, info["duration"], len(out["segments"]), flush=True)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ingest-${{ matrix.shard }}
+          path: out
+          if-no-files-found: ignore
+  commit:
+    if: always()
+    needs: shard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /state/ingest/
+            /inbox/
+          sparse-checkout-cone-mode: false
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: ingest-*
+          path: /tmp/out
+          merge-multiple: true
+      - name: Commit (small analysis files only)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          [ -d /tmp/out ] || { echo nothing; exit 0; }
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p state/ingest && cp -r /tmp/out/. state/ingest/
+            git rm -q --ignore-unmatch inbox/ingest.txt
+            git add state/ingest
+            git commit -q -m "Ingest analysis [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
