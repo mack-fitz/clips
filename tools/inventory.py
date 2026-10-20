@@ -131,7 +131,7 @@ def main():
         ok = []
         for s in order:
             near = [x for x in ev if x[0] == s and x[1] in C.POOL and abs(x[2] - t) < C.WEEK and x[7] not in ("shorty", "story")
-                    and (x[7] != "comp" or x[6])]  # comps count only by their lead clip
+                    and x[7] != "comp"]  # comps + shorties exempt (Mack, Oct 19 final)
             if not near:
                 ok.append(s)
         print(f"FREE at {C.mt(t)} ({len(ok)}): " + " | ".join(f"{s} [{(inv[s]['last_any'] or {}).get('when', 'never')}]" for s in ok))

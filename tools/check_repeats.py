@@ -2,17 +2,19 @@
 """Pre-scheduling repeat guard (Mack, Oct 19). RUN BEFORE SCHEDULING, MOVING OR SWAPPING ANY POST.
 Exit code 0 = clean, 1 = violations (do not schedule), 2 = could not verify (unknown media etc.).
 
-RULES CHECKED
- R1 EXACT DUPLICATE: the same media file (same bytes, any commit, any caption) may never post twice on
-    the same account, and never on two pool accounts within 7 days (the Oct 19 bug: FB macky.golfs
-    re-posted @moremackygolfs' Oct 15 "par is a myth" file 4 days later).
- R2 SAME FOOTAGE, 7 DAYS, ONE POOL: Instagram @mackygolfs, @mackthegolfer, @moremackygolfs, Facebook
-    macky.golfs and X @mackygolfs are ONE pool. Two posts that share a source video (Dropbox /Golf
-    Captions + /golfclips, twins/alt takes merged; originals, edits, re-edits, Mack's own posts) must be
-    >= 168 h apart. TikTok is exempt. Shorties are exempt. IG stories ride with their reel (skipped).
-    Compilations count ONLY through their lead (opening) clip (Mack, Oct 19: "original, re-edit or
-    comp lead"); the other bits in a comp don't count.
- Mack's own posts (not made through Zernio) count: they are fingerprinted (state/fp/posts in the
+RULES CHECKED (Mack's FINAL rule, Oct 19 evening — replaces every earlier version)
+ R2 MAIN-ACCOUNT POOL, 7 DAYS: the pool is Instagram @mackygolfs + @mackthegolfer ONLY. A reel — any version of it
+    (original, re-edit, Mack's own post) — must not post on either account within 7 days (168 h) of any version of
+    it posting on either of them. Same source = same Dropbox video (/Golf Captions + /golfclips; twins and alt takes
+    merged). Compilations and shorties are EXEMPT. TikTok, @moremackygolfs, X and Facebook do NOT count toward the pool
+    and are not restricted by it.
+ R3 NOT POSTED THIS PAST WEEK (Mack, Oct 19 night): a reel is only eligible for the review page or the schedule if NO
+    version of it (shorties/comps exempt) posted on @mackygolfs or @mackthegolfer since 00:00 MT seven calendar days
+    before TODAY (today Oct 19 -> nothing since Oct 12 00:00 MT) — "posted within the past week as of today" is a repeat
+    even if the slot itself lands 7 days later. Prefer clips last used on A/B 14+ days ago (tools/inventory.py --free).
+ R1 EXACT DUPLICATE, PER ACCOUNT: the same media file (same bytes, any commit/caption) never posts twice on the same
+    account (any account, incl. @moremackygolfs, FB, X). Different accounts are not an R1 problem.
+ Mack's own posts (not made through Zernio) count for R2: they are fingerprinted (state/fp/posts in the
  mackygolfs-mackthegolfer repo) and matched against every source fingerprint.
 
 INPUT: raw saved outputs of Zernio `posts_list_posts` (call_tool; from_date ~14 days back, to_date ~21
@@ -47,7 +49,7 @@ ACCOUNTS = {  # zernio account id -> pool key
     "6acc2885bac230e9d1133105": "ig:moremackygolfs", "6ad052a5a442d9968f306c31": "fb:macky.golfs",
     "6acc3edbda858fbeab423c5a": "x:mackygolfs", "6acc3fd31ce18dfecf0a2249": "tiktok:mackygolfs",
 }
-POOL = {"ig:mackygolfs", "ig:mackthegolfer", "ig:moremackygolfs", "fb:macky.golfs", "x:mackygolfs"}
+POOL = {"ig:mackygolfs", "ig:mackthegolfer"}  # Mack, Oct 19 final: main accounts only
 APPROVAL = {"ig:mackygolfs", "ig:mackthegolfer"}
 
 
@@ -215,17 +217,34 @@ def plan_uses(path, mmap):
 
 
 def conflict(a, b):
-    """shared footage that counts under R2, or None.
-    Mack, Oct 19: "No version of a reel (original, re-edit or comp lead) can post within 7 days of any
-    other version of it" -> a compilation counts ONLY through its lead (opening) clip; its other bits
-    don't count. Shorties and stories never count."""
-    if a.kind in ("shorty", "story") or b.kind in ("shorty", "story"):
+    """shared source footage that counts under R2, or None. Compilations and shorties are exempt (Mack, Oct 19 final)."""
+    if a.kind in ("shorty", "story", "comp") or b.kind in ("shorty", "story", "comp"):
         return None
-    sa = {a.main} if a.kind == "comp" else set(a.sources)
-    sb = {b.main} if b.kind == "comp" else set(b.sources)
-    hit = sa & sb
+    hit = set(a.sources) & set(b.sources)
     hit.discard(None)
     return hit or None
+
+
+def week_start(now):
+    """00:00 Mountain, 7 calendar days before today (Mountain)"""
+    off = 6 if now < dt.datetime(2026, 11, 1, 8, tzinfo=dt.timezone.utc) else 7
+    local = now - dt.timedelta(hours=off)
+    start_local = dt.datetime(local.year, local.month, local.day) - dt.timedelta(days=7)
+    return (start_local + dt.timedelta(hours=off)).replace(tzinfo=dt.timezone.utc)
+
+
+def recent_hits(u, uses, now):
+    """R3: versions of u's footage published on @mackygolfs/@mackthegolfer since week_start(now)"""
+    ws, out = week_start(now), []
+    if u.account not in POOL:
+        return out
+    for o in uses:
+        if o.post_id == u.post_id or o.status != "published" or o.account not in POOL or not (ws <= o.t <= now):
+            continue
+        hit = conflict(u, o)
+        if hit:
+            out.append(f"R3 {', '.join(sorted(hit))} posted this past week on {o.label()}")
+    return out
 
 
 def candidate_report(cands, uses, mmap, now):
@@ -241,7 +260,7 @@ def candidate_report(cands, uses, mmap, now):
                 url=None, blob=None, external=False, sources=info["sources"], main=info["main"], kind=info["kind"])
         if c["media"].startswith("mackygolfs-mackthegolfer:"):
             _, u.blob = media_key("https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/main/" + c["media"].split(":", 1)[1])
-        reasons, block_until = [], t
+        reasons, block_until = recent_hits(u, uses, now), t
         for o in uses:
             if o.status == "draft" or o.post_id == c["label"]:
                 continue
@@ -270,16 +289,19 @@ def check(uses, now, show_all=False):
                 continue
             if a.status == "draft" or b.status == "draft":
                 continue  # drafts don't post; they are checked when approved/scheduled
-            # R1 exact duplicate
-            if a.blob and a.blob == b.blob and a.account != "tiktok:mackygolfs" and b.account != "tiktok:mackygolfs":
-                if a.account == b.account or (a.account in POOL and b.account in POOL and b.t - a.t < WEEK):
-                    v.append(("R1 exact duplicate file", a, b, a.media))
-                    continue
+            # R1 exact duplicate (same file, same account)
+            if a.blob and a.blob == b.blob and a.account == b.account and a.account != "tiktok:mackygolfs":
+                v.append(("R1 exact duplicate file on one account", a, b, a.media))
+                continue
             # R2 same footage
             if a.account in POOL and b.account in POOL and b.t - a.t < WEEK:
                 hit = conflict(a, b)
                 if hit:
-                    v.append(("R2 same footage < 7 days", a, b, ", ".join(sorted(hit))))
+                    v.append(("R2 same reel on @mackygolfs/@mackthegolfer < 7 days", a, b, ", ".join(sorted(hit))))
+    for a in uses:
+        if a.status in ("scheduled", "pending", "planned") and a.t > now:
+            for r in recent_hits(a, uses, now):
+                v.append(("R3 posted on @mackygolfs/@mackthegolfer this past week", a, a, r))
     return v
 
 
