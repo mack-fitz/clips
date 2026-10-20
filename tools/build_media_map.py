@@ -23,8 +23,8 @@ When you make a new edit/comp/shorty, add it (MANUAL or the normal state files) 
 """
 import json, os, re, glob
 
-CLIPS = "/home/claude/clips"
-MG = "/home/claude/mackygolfs-mackthegolfer"
+CLIPS = os.environ.get("CLIPS_REPO", "/home/claude/clips")
+MG = os.environ.get("MG_REPO", "/home/claude/mackygolfs-mackthegolfer")
 
 # Source id = Dropbox file name of the canonical copy (Golf Captions name when there is one).
 GC = "/Golf Captions/"

@@ -20,3 +20,8 @@ Read this first after a container restart. Update after every step.
       processed.json clip_pages_only; sources.json clip_pages_only flag; inventory.py --free skips; check_repeats --candidates fails.
       No-proof clips are skipped for @moremackygolfs too -> list them in the report.
 - [x] posted_index refreshed (3 new posts fingerprinted, Oct 19-20).
+- [x] WORK DIR MOVED: another agent edits /home/claude/clips + /home/claude/mackygolfs-mackthegolfer concurrently (main
+      accounts, 30-day window). All ingest work happens in /home/claude/ingest/{clips,mackygolfs-mackthegolfer} (same sparse
+      recipe); export CLIPS_REPO=/home/claude/ingest/clips MG_REPO=/home/claude/ingest/mackygolfs-mackthegolfer.
+      Always `git pull --rebase` before commit; never touch the other agent's files.
+- [x] Tooling: tools/captions.py (Mack caption style -> .ass), render.sh SUBS=, relay.yml (scratch/relay branch).
