@@ -112,6 +112,7 @@ def main():
             "last_per_account": per,
             "next_scheduled": [{"when": C.mt(x[2]), "account": x[1], "caption": (x[4] or "")[:50]} for x in fut],
             "last_bit_or_shorty": {"when": C.mt(bits[-1][2]), "account": bits[-1][1], "kind": bits[-1][7]} if bits else None,
+            "clip_pages_only": bool(e.get("clip_pages_only")),
             "times_used_14d": len([x for x in past if now - x[2] < dt.timedelta(days=14) and x[1] in C.POOL]),
         }
     json.dump({"updated": now.isoformat(), "note": "Built by tools/inventory.py. last_any = any version on any account (originals, re-edits, comp LEADS; TikTok + Mack's own posts included). Comp bits and shorties are listed separately (last_bit_or_shorty).",
@@ -130,6 +131,8 @@ def main():
         t = C.parse_t(T)
         ok = []
         for s in order:
+            if cat.get(s, {}).get("clip_pages_only"):
+                continue  # HARD RULE 12: /golfclips-only footage is never offered to the main accounts
             near = [x for x in ev if x[0] == s and x[1] in C.POOL and abs(x[2] - t) < C.WEEK and x[7] not in ("shorty", "story")
                     and x[7] != "comp"]  # comps + shorties exempt (Mack, Oct 19 final)
             if not near:

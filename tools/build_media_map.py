@@ -131,6 +131,9 @@ def sources_catalog(cmap):
         e["files"].append(folder + name)
     for e in cat.values():
         e["files"] = sorted(set(e["files"]))
+        # HARD RULE 12 (Mack, Oct 20): nothing from /golfclips is ever used on @mackygolfs/@mackthegolfer.
+        # A source whose only copies are in /golfclips is clip-pages only (@moremackygolfs, X, TikTok, FB).
+        e["clip_pages_only"] = all(f.startswith(GCL) for f in e["files"])
     return cat
 
 

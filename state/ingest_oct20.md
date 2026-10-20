@@ -10,3 +10,13 @@ Read this first after a container restart. Update after every step.
 
 ## Next
 - [ ] 1 list /golfclips
+- [x] 1 Listed /golfclips (83 files, 1 page): 68 new (all modified 2026-10-20, none in processed.json). Listing: state/golfclips_listing_oct20.tsv
+- [x] 2a Byte dedupe by Dropbox content_hash: 13 within-batch twins, 4 identical to existing sources -> 51 new unique contents
+      (state/ingest_twins_oct20.json). All 55 reps size-match files fingerprinted earlier from Dropbox /Golf (whole /Golf folder
+      was copied in). Not using those /Golf fingerprints (off-limits folder); re-fingerprinting the /golfclips copies.
+- [~] Runner: .github/workflows/ingest.yml (clips) pushed with inbox/ingest.txt (55 reps) -> state/ingest/{info,fp,transcripts,sheets,frames}
+- [x] COORDINATOR (Oct 20): step 7 CANCELLED. Nothing from /golfclips (old or new) ever goes to @mackygolfs/@mackthegolfer.
+      Don't touch main-account schedule or the review page (another agent owns them). HARD RULE 12 added to both PLAYBOOKs;
+      processed.json clip_pages_only; sources.json clip_pages_only flag; inventory.py --free skips; check_repeats --candidates fails.
+      No-proof clips are skipped for @moremackygolfs too -> list them in the report.
+- [x] posted_index refreshed (3 new posts fingerprinted, Oct 19-20).

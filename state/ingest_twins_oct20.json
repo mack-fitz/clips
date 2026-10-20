@@ -1,0 +1,42 @@
+{
+ "note": "Oct 20 golfclips batch: byte twins confirmed by Dropbox content_hash (download_link metadata). Keys = kept representative (golfclips/<name>).",
+ "within_batch_twins": {
+  "Video Oct 03 2026, 9 51 31 PM (1).mp4": [
+   "Video Oct 05 2026, 8 04 13 AM (3).mp4",
+   "Video Oct 11 2026, 9 02 57 AM (18).mp4"
+  ],
+  "Video Oct 03 2026, 9 51 31 PM (2).mp4": [
+   "Video Oct 05 2026, 8 04 13 AM (5).mp4",
+   "Video Oct 11 2026, 9 02 57 AM (19).mp4"
+  ],
+  "Video Oct 03 2026, 9 51 31 PM (3).mp4": [
+   "Video Oct 05 2026, 8 04 12 AM.mp4",
+   "Video Oct 11 2026, 9 02 57 AM (20).mp4"
+  ],
+  "Video Oct 03 2026, 9 51 31 PM.mp4": [
+   "Video Oct 05 2026, 8 04 13 AM (1).mp4",
+   "Video Oct 11 2026, 9 02 57 AM (16).mp4"
+  ],
+  "Video Oct 05 2026, 8 04 13 AM (2).mp4": [
+   "Video Oct 11 2026, 9 02 57 AM (15).mp4"
+  ],
+  "Video Oct 05 2026, 8 04 13 AM (4).mp4": [
+   "Video Oct 11 2026, 9 02 57 AM (10).mp4"
+  ],
+  "Video Oct 05 2026, 8 04 13 AM (6).mp4": [
+   "Video Oct 11 2026, 9 02 57 AM (11).mp4"
+  ],
+  "Video Oct 05 2026, 8 04 13 AM (7).mp4": [
+   "Video Oct 11 2026, 9 02 57 AM (14).mp4"
+  ],
+  "Video Oct 05 2026, 8 04 13 AM.mp4": [
+   "Video Oct 11 2026, 9 02 57 AM (13).mp4"
+  ]
+ },
+ "same_as_existing_source": {
+  "Video Oct 11 2026, 9 02 57 AM (1).mp4": "Video Oct 11 2026, 9 02 57 AM.mp4 (Golf Captions; = golfclips Aug 27 5 51 18 PM, clip 011)",
+  "Video Oct 11 2026, 9 02 57 AM (2).mp4": "Video Oct 11 2026, 9 02 57 AM (2).mp4 (Golf Captions; = golfclips Aug 27 5 43 32 PM, clip 009)",
+  "Video Oct 11 2026, 9 02 57 AM (3).mp4": "Video Oct 11 2026, 9 02 57 AM (1).mp4 (Golf Captions; clip 001 footage)",
+  "Video Oct 11 2026, 9 02 57 AM (4).mp4": "Video Oct 11 2026, 9 02 57 AM (3).mp4 (Golf Captions; = golfclips Aug 27 5 49 54 PM, clip 010)"
+ }
+}
