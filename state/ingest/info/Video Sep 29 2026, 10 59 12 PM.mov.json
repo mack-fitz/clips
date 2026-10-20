@@ -1,0 +1,15 @@
+{
+ "name": "Video Sep 29 2026, 10 59 12 PM.mov",
+ "bytes": 35825844,
+ "sha256": "1e34b41cac5eceea472b20ca84d2fa08cce77dec59a59c790ef07333bbe0681a",
+ "dropbox_content_hash": "413e7c134e04fdd9d04882d291f3164529bca1b9c523f6444a02611675bbe4d3",
+ "duration": 25.8,
+ "vcodec": "hevc",
+ "width": 1080,
+ "height": 1920,
+ "rotation": 0,
+ "fps": "30/1",
+ "bit_rate": 11108788,
+ "acodec": "aac",
+ "creation_time": "2026-09-30T04:59:12Z"
+}

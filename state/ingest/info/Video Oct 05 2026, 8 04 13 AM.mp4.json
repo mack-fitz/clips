@@ -1,0 +1,15 @@
+{
+ "name": "Video Oct 05 2026, 8 04 13 AM.mp4",
+ "bytes": 92332564,
+ "sha256": "5d60a498085e3f6b84e46f70fdc0fdbf2984d9becbd1db23da0d7a877887feaf",
+ "dropbox_content_hash": "0cffe5e46ff07aaf1ae9c03d5eeeed044bd717e8f6bdb5666700688dae03cf4d",
+ "duration": 87.8,
+ "vcodec": "h264",
+ "width": 1920,
+ "height": 1080,
+ "rotation": -90,
+ "fps": "30/1",
+ "bit_rate": 8412989,
+ "acodec": "aac",
+ "creation_time": null
+}

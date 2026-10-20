@@ -1,0 +1,33 @@
+{
+"source": "golfclips/Video Sep 29 2026, 10 39 17 PM.mov",
+"duration": 24.5885,
+"segments": [
+{
+"start": 1.4,
+"end": 2.96,
+"text": "Should we golf together?",
+"words": [
+[
+1.4,
+2.24,
+" Should"
+],
+[
+2.24,
+2.34,
+" we"
+],
+[
+2.34,
+2.54,
+" golf"
+],
+[
+2.54,
+2.96,
+" together?"
+]
+]
+}
+]
+}
