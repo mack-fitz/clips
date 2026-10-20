@@ -45,3 +45,8 @@ Read this first after a container restart. Update after every step.
       028 026 030 (Oct 22). Still to do: IG 025 (Oct 21 08:28) + 027 (Oct 21 17:36) after render; stories x9; X-only Oct 20
       (022/023/024 _x); X+TikTok Oct 22 (028/026/030 _x; TikTok 026 = original .mov); processed.json; schedule.json; sync;
       Base Camp; Up next; scratch/relay branch delete.
+- [x] All posts scheduled (IG 9 + stories 9, X 6, TikTok 3, FB 7; ids /home/claude/ingest/work/posted.json); schedule.json slots added.
+      scratch/relay deleted. Trials 045/046/048/050/051 flagged by the guard came from the morning pull; coordinator confirms
+      they are no longer in Zernio -> a fresh pull clears them (no code change).
+- [ ] BLOCKED (approval prompt unanswered for reading the saved Zernio pull): sync_schedule.py, Base Camp schedule
+      (golf, facebook) + queues (golf-page, facebook-page), Up next. Next run: pull posts_list_posts (every page) -> sync -> upnext.
