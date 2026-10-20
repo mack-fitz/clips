@@ -337,3 +337,19 @@ Oct 20 batch: raw Texas / Colorado rounds), burn speech captions in her style:
 - Check every render frame by frame where captions change (contact sheet of each caption + a phone-size frame):
   legible, spelled right, inside the frame, never over her chest. Covers stay FRAME ONE (HARD RULE 8).
 - tools/autoplan.py lists every word + every ball strike (keep windows) and the cut % so edits only cut dead air.
+
+## POOL STATUS (Oct 20 ingest) — /golfclips 68-reel batch
+- 68 files = 40 distinct reels (13 byte twins, 4 byte-identical to existing sources, rest grouped by fingerprint).
+  20 reels are brand-new to the library, 20 are alternate files (raw/tracer/captioned exports) of reels already in it.
+  Registry: state/golfclips_oct20_sources.json; per-file status: state/processed.json "oct20_batch".
+- Proof posts (Mack's own post, >= 15 s): 28 reels yes, 12 no. NO-PROOF reels are not used on ANY clip page (and never on
+  the main accounts, HARD RULE 12).
+- Used Oct 20-22: @moremackygolfs edits 022-030 (+ stories) from G4, G22, G29, G1, G21, G28, G14, G3, G2; FB originals
+  Sep 28 8 36 20, Sep 25 5 01 57, Sep 25 5 07 02, Sep 29 10 51 47. X uncut: 022/023/024 (Oct 20), 028/026/030 (Oct 22, + TikTok).
+- Still in the clip-page pool with proof (status "in pool" in processed.json): e.g. G33 seven-iron (52 s; too short for a
+  compliant 25 % edit -> X/TikTok/FB original), Sep 25 4 59 28 / 4 41 09 / Sep 28 8 34 05 / 8 54 37 / 7 56 55,
+  Sep 29 10 14 07 + 5 05 52 (kids), 10 16 23 (= 003 footage), 10 43 52 group (bandana; = 7 34 47 on FB Oct 15),
+  Oct 11 (7)/(8)/(9) (= Lucy Goosey / triple dipper / lock-it-in, already edited 021/020/GC), Oct 05 (6)/(7)/8 04 13 (= 018/019/017).
+  Prefer reels never edited for @moremackygolfs; re-edits of 017-021 footage must differ from those edits.
+- Captions: these sources have no burned-in captions -> burn them in for @moremackygolfs per CAPTION STYLE (Oct 20).
+- Sources: relay with inbox/relay.txt (relay.yml, scratch/relay branch; '#delete' removes it). Heavy analysis: ingest.yml.
