@@ -41,3 +41,7 @@ Read this first after a container restart. Update after every step.
       FB: Oct20 am G18 orig (8 36 20), pm comp2_delusional_r6 | Oct21 lunch G19 orig (5 01 57), pm shorties/hero-shot_r3 |
           Oct22 am G20 orig (5 07 02), lunch G34 orig (10 51 47), pm comp13_asmr-golf_r3
       (G33 seven-iron 52 s: can't reach a 25 % cut without cutting shots -> spare FB original.)
+- [x] Scheduled (ids in /home/claude/ingest/work/posted.json): FB x7 (Oct 20-22); IG 022 023 024 (Oct 20), 029 (Oct 21 12:04),
+      028 026 030 (Oct 22). Still to do: IG 025 (Oct 21 08:28) + 027 (Oct 21 17:36) after render; stories x9; X-only Oct 20
+      (022/023/024 _x); X+TikTok Oct 22 (028/026/030 _x; TikTok 026 = original .mov); processed.json; schedule.json; sync;
+      Base Camp; Up next; scratch/relay branch delete.
