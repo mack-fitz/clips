@@ -2,57 +2,89 @@
 """Build the dashboard's "Up next" file: every scheduled post that hasn't gone out yet.
 
 Usage: python3 tools/upnext.py out.json
-Reads state/schedule.json; uses the slot's "file" (e.g. queue/<clip>_v2.mp4) and its
-matching _cover.jpg when present, else queue/<clip>.mp4 and queue/<clip>_cover.jpg. Each row gets a small cover thumbnail
-(data URI) so the dashboard can show it without loading anything from another site.
+
+HARD RULE (PLAYBOOK): first pull the live schedule from Zernio and run
+    python3 tools/sync_schedule.py --zernio p1.txt p2.txt
+so state/schedule.json matches Zernio. This script refuses to run if the sync is older than 2 hours.
+
+Reads state/schedule.json (status "scheduled", not Facebook, still in the future). Media come from the
+slot's live_media (what Zernio will actually post). Thumbnail = first frame of the TikTok video (TikTok
+covers are frame one), or the slot's _cover.jpg for an IG reel. Videos are read from this repo's queue/
+or, for raw originals, from the mackygolfs-mackthegolfer repo's git history.
 """
-import base64, json, subprocess, sys, tempfile, os
-from datetime import datetime, timezone
+import base64, json, subprocess, sys, tempfile, os, re
+from datetime import datetime, timezone, timedelta
+from urllib.parse import unquote
 from zoneinfo import ZoneInfo
 
 MT = ZoneInfo("America/Denver")
-RAW = "https://raw.githubusercontent.com/mack-fitz/clips/main/"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MG = os.environ.get("MG_REPO", os.path.join(os.path.dirname(ROOT), "mackygolfs-mackthegolfer"))
+RAW = re.compile(r"raw\.githubusercontent\.com/mack-fitz/([^/]+)/([^/]+)/(.+)$")
 
 
-def thumb(path, width=240):
-    if not os.path.exists(path):
-        return None
+def frame(src_path, width=240):
     with tempfile.NamedTemporaryFile(suffix=".jpg") as t:
-        subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-i", path,
-                        "-vf", f"scale={width}:-2", "-q:v", "5", t.name], check=True)
+        r = subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-i", src_path, "-frames:v", "1",
+                            "-vf", f"scale={width}:-2", "-q:v", "5", t.name])
+        if r.returncode or not os.path.getsize(t.name):
+            return None
         return "data:image/jpeg;base64," + base64.b64encode(open(t.name, "rb").read()).decode()
 
 
+def thumb_for(url):
+    m = RAW.search(url or "")
+    if not m:
+        return None
+    repo, ref, path = m.group(1), m.group(2), unquote(m.group(3))
+    if repo == "clips" and os.path.exists(os.path.join(ROOT, path)):
+        return frame(os.path.join(ROOT, path))
+    gitdir = ROOT if repo == "clips" else MG
+    with tempfile.NamedTemporaryFile(suffix=os.path.splitext(path)[1]) as t:
+        r = subprocess.run(["git", "-C", gitdir, "cat-file", "-p", f"{ref}:{path}"], stdout=t)
+        if r.returncode:
+            subprocess.run(["git", "-C", gitdir, "fetch", "-q", "origin", ref])
+            t.seek(0); t.truncate()
+            r = subprocess.run(["git", "-C", gitdir, "cat-file", "-p", f"{ref}:{path}"], stdout=t)
+        t.flush()
+        return frame(t.name) if r.returncode == 0 else None
+
+
 def main(out):
-    sched = json.load(open("state/schedule.json"))
+    sched = json.load(open(os.path.join(ROOT, "state", "schedule.json")))
     now = datetime.now(timezone.utc)
+    synced = sched.get("synced_from_zernio")
+    if not synced or now - datetime.strptime(synced[:16], "%Y-%m-%d %H:%M").replace(tzinfo=MT) > timedelta(hours=2):
+        sys.exit("state/schedule.json is not freshly synced with Zernio. Pull posts_list_posts and run "
+                 "tools/sync_schedule.py first (PLAYBOOK HARD RULE).")
     rows = []
     for s in sched.get("slots", []):
-        if s.get("status") not in ("scheduled", "fixed"):
+        if s.get("status") != "scheduled" or s.get("platform") == "facebook":
             continue
         local = datetime.strptime(f"{s['date']} {s['scheduled_mt']}", "%Y-%m-%d %H:%M").replace(tzinfo=MT)
         when = local.astimezone(timezone.utc)
         if when < now:
             continue
-        if s.get("platform") == "facebook" or "clip" not in s:
-            continue  # Facebook Page posts live on Facebook Stats / Base Camp, not this list
-        clip = s["clip"]
-        video = s.get("file") or f"queue/{clip}.mp4"
-        cover = video[:-4] + "_cover.jpg"
-        if not os.path.exists(cover):
-            cover = f"queue/{clip}_cover.jpg"
+        media = s.get("live_media") or {}
+        tt = media.get("TikTok") or media.get("IG") or media.get("X") or ""
+        x = media.get("X")
+        plats = [p for p in ("IG", "IG story", "X", "TikTok") if p in media]
+        where = " · ".join("IG reel" if p == "IG" else p for p in plats)
+        if "TikTok" in media:
+            where += " (cover = first frame)"
+        pid = next((v for v in (s.get("zernio") or {}).values() if isinstance(v, str)), "")
         rows.append({
             "when": when.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "when_mt": local.strftime("%a %b %-d · %-I:%M%p").replace("AM", "am").replace("PM", "pm"),
-            "slot": s.get("slot", ""),
-            "clip": clip,
+            "slot": "morning" if local.hour < 11 else ("midday" if local.hour < 16 else "evening"),
+            "clip": unquote(tt.split("/")[-1]).rsplit(".", 1)[0],
             "caption": s.get("caption", ""),
-            "hook": s.get("hook", ""),
-            "where": "IG reel only" if s.get("platform") == "instagram" else "IG reel + story · X · TikTok",
-            "thumb": thumb(cover),
-            "ig_url": RAW + video,
-            "full_url": RAW + (s.get("tiktok_file") or f"queue/{clip}_full.mp4"),
-            "note": s.get("note", ""),
+            "hook": "",
+            "where": where,
+            "thumb": thumb_for(tt),
+            "ig_url": x or tt,
+            "full_url": tt,
+            "note": "Matches Zernio " + pid,
         })
     rows.sort(key=lambda r: r["when"])
     json.dump(rows, open(out, "w"))
