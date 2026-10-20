@@ -120,6 +120,13 @@ def canon_map():
     for sid, others in ALIASES.items():
         for o in others:
             m[os.path.basename(o)] = sid
+    # Oct 20 /golfclips batch (state/golfclips_oct20_sources.json): keyed "golfclips/<name>" ONLY, because several
+    # names collide with different /Golf Captions files. Clip-pages only (HARD RULE 12).
+    reg = os.path.join(CLIPS, "state", "golfclips_oct20_sources.json")
+    if os.path.exists(reg):
+        for sid, e in json.load(open(reg))["sources"].items():
+            for f in e["golfclips_files"]:
+                m["golfclips/" + f] = sid
     return m
 
 
@@ -127,6 +134,9 @@ def sources_catalog(cmap):
     cat = {}
     for name, sid in cmap.items():
         e = cat.setdefault(sid, {"files": []})
+        if name.startswith("golfclips/"):
+            e["files"].append(GCL + name[len("golfclips/"):])
+            continue
         folder = GCL if (name in GOLFCLIPS_ONLY or name.startswith("Video Aug 27")) else GC
         e["files"].append(folder + name)
     for e in cat.values():
@@ -236,6 +246,8 @@ def build():
                 add(media, "mackygolfs-mackthegolfer:shorties/" + f, [sid], "shorty")
     # 5. originals in inbox/videos (and parts)
     for name, sid in cmap.items():
+        if name.startswith("golfclips/"):
+            continue
         add(media, "mackygolfs-mackthegolfer:inbox/videos/" + name, [sid], "original")
     # 6. manual
     manual = dict(MANUAL)

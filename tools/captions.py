@@ -20,16 +20,19 @@ import argparse, json, re
 
 NAMES = {"mack": "Mack", "macky": "Macky", "texas": "Texas", "amarillo": "Amarillo", "san": "San", "angelo": "Angelo",
          "colorado": "Colorado", "lucy": "Lucy", "goosey": "Goosey", "lpga": "LPGA", "pga": "PGA", "tiktok": "TikTok",
-         "instagram": "Instagram", "youtube": "YouTube", "titleist": "Titleist", "callaway": "Callaway"}
-SWEARS = [(r"\bfuck", "f*ck"), (r"\bshit", "sh*t"), (r"\bbitch", "b*tch"), (r"\bpussy", "p*ssy")]
+         "instagram": "Instagram", "youtube": "YouTube", "titleist": "Titleist", "callaway": "Callaway", "malibu": "Malibu", "french": "French", "lyme": "Lyme", "amarillian": "Amarillian", "bryson": "Bryson", "lucy": "Lucy"}
+SWEARS = [(r"fuck", "f*ck"), (r"shit", "sh*t"), (r"bitch", "b*tch"), (r"pussy", "p*ssy")]
 GOLF_FIX = {  # common faster-whisper misses on golf talk
+    r"\bmac\b": "mack", r"\bparkour\b": "par 4", r"\b(?:par|part|bar)[ -]+(?:four|4)\b": "par 4",
+    r"\b(?:par|part|bar)[ -]+(?:three|3)\b": "par 3", r"\b(?:par|part|bar)[ -]+(?:five|5)\b": "par 5",
+    r"\bchili cheese dough\b": "chili cheese dog", r"\bget a paw\b": "get a par", r"\btwainer\b": "tweener", r"\btap in\b": "tap-in", r"\bshot too\b": "shot two",
     r"\bpar three\b": "par 3", r"\bpar four\b": "par 4", r"\bpar five\b": "par 5", r"\bpar for\b": "par 4",
     r"\bbirdy\b": "birdie", r"\bbogie\b": "bogey", r"\bbogies\b": "bogeys", r"\bdouble bogie\b": "double bogey",
     r"\bfare way\b": "fairway", r"\bfairways\b": "fairways", r"\bpin seeker\b": "pin seeker", r"\bt box\b": "tee box",
     r"\btee shirt\b": "tee shot", r"\bbreak a hundred\b": "break 100", r"\bbreak one hundred\b": "break 100",
     r"\bhole in one\b": "hole in one", r"\bchip in\b": "chip in", r"\bshank\b": "shank", r"\bmulligan\b": "mulligan",
 }
-MAXL, GAP = 26, 0.45
+MAXL, GAP = 30, 0.45
 
 
 def words(tr):
@@ -40,6 +43,24 @@ def words(tr):
             if t:
                 out.append([float(w[0]), float(w[1]), t])
     return out
+
+
+def norm(w):
+    return re.sub(r"[^a-z0-9']", "", w.lower())
+
+
+def fix_words(ws, fixes):
+    """multi-word fixes on the word list BEFORE chunking (so a phrase split across captions still gets fixed):
+    the first word takes the replacement text and the end time of the last matched word."""
+    for k, v in (fixes or {}).items():
+        key = [norm(x) for x in k.split()]
+        i = 0
+        while i + len(key) <= len(ws):
+            if [norm(w[2]) for w in ws[i:i + len(key)]] == key:
+                ws[i] = [ws[i][0], ws[i + len(key) - 1][1], v]
+                del ws[i + 1:i + len(key)]
+            i += 1
+    return ws
 
 
 def clean(text, fixes):
@@ -59,32 +80,48 @@ def clean(text, fixes):
 
 
 def wrap(t):
-    ws, lines, cur = t.split(), [], ""
-    for w in ws:
-        if cur and len(cur) + 1 + len(w) > MAXL:
-            lines.append(cur); cur = w
-        else:
-            cur = (cur + " " + w).strip()
-    if cur:
-        lines.append(cur)
-    if len(lines) == 2 and len(lines[1]) <= 6 and len(lines[0]) + len(lines[1]) + 1 <= MAXL + 6:
-        return [lines[0] + " " + lines[1]] if len(lines[0]) + len(lines[1]) + 1 <= MAXL + 4 else lines
-    return lines
+    """1 line if it fits, else 2 balanced lines (never a lone word on line 2 when avoidable)."""
+    ws = t.split()
+    if len(t) <= MAXL or len(ws) < 2:
+        return [t]
+    best = None
+    for b in range(1, len(ws)):
+        a, c = " ".join(ws[:b]), " ".join(ws[b:])
+        score = max(len(a), len(c)) + (8 if b == len(ws) - 1 or b == 1 else 0)
+        if best is None or score < best[0]:
+            best = (score, [a, c])
+    return best[1]
 
 
 def chunks(ws):
-    """phrases: break on pauses, sentence ends, or when 2 lines would overflow."""
-    out, cur = [], []
+    """phrases: split into runs at pauses (> GAP) and sentence ends; a run too long for 2 lines / 3.6 s is cut into
+    evenly balanced pieces (preferring a break after a comma), so no single word is left stranded."""
+    runs, cur = [], []
     for w in ws:
-        if cur:
-            gap = w[0] - cur[-1][1]
-            txt = " ".join(x[2] for x in cur + [w])
-            end = re.search(r"[.?!]$", cur[-1][2])
-            if gap > GAP or end or len(txt) > 2 * MAXL - 4 or (w[1] - cur[0][0]) > 3.2:
-                out.append(cur); cur = []
+        if cur and (w[0] - cur[-1][1] > GAP or re.search(r"[.?!]$", cur[-1][2])):
+            runs.append(cur); cur = []
         cur.append(w)
     if cur:
-        out.append(cur)
+        runs.append(cur)
+    out = []
+    for r in runs:
+        txt = lambda x: " ".join(w[2].strip() for w in x)
+        k = 1
+        while len(txt(r)) / k > 2 * MAXL - 6 or (r[-1][1] - r[0][0]) / k > 3.6:
+            k += 1
+        k = min(k, len(r))
+        start = 0
+        for part in range(k, 0, -1):
+            if part == 1:
+                out.append(r[start:]); break
+            rest = r[start:]
+            target = len(txt(rest)) / part
+            best, bi = 1e9, 1
+            for b in range(1, len(rest) - part + 2):
+                score = abs(len(txt(rest[:b])) - target) - (6 if rest[b - 1][2].endswith(",") else 0)
+                if score < best:
+                    best, bi = score, b
+            out.append(rest[:bi]); start += bi
     return out
 
 
@@ -107,9 +144,15 @@ def build(tr, segs, skip, fixes, y):
     events = []
     off = 0.0
     for a, b, _ in segs:
-        ws = [w for w in words(tr) if w[0] >= a - 0.05 and w[1] <= b + 0.15 and not any(s0 <= (w[0] + w[1]) / 2 <= s1 for s0, s1 in skip)]
+        ws = [w for w in fix_words(words(tr), fixes) if w[0] >= a - 0.05 and w[1] <= b + 0.15]
         for c in chunks(ws):
-            st = off + max(c[0][0], a) - a
+            c0 = max(c[0][0], a)
+            for s0, s1 in skip:  # shirt wipe: the phrase keeps its words but only appears once the wipe is over
+                if s0 <= c0 < s1:
+                    c0 = s1
+            if c0 >= c[-1][1]:
+                continue
+            st = off + c0 - a
             en = off + min(c[-1][1] + 0.15, b) - a
             txt = clean(" ".join(x[2] for x in c), fixes)
             if txt and en - st > 0.12:

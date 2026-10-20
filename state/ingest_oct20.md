@@ -25,3 +25,19 @@ Read this first after a container restart. Update after every step.
       recipe); export CLIPS_REPO=/home/claude/ingest/clips MG_REPO=/home/claude/ingest/mackygolfs-mackthegolfer.
       Always `git pull --rebase` before commit; never touch the other agent's files.
 - [x] Tooling: tools/captions.py (Mack caption style -> .ass), render.sh SUBS=, relay.yml (scratch/relay branch).
+- [x] 2b Fingerprints (runner, ingest.yml -> state/ingest/fp) matched locally vs 332 posts + all sources:
+      68 files = 55 unique contents (13 byte twins) = 40 distinct reels (4 contents byte-identical to existing
+      sources; fingerprint same-reel groups at >= 60 % overlap). 20 reels brand-new to the library, 20 = alt files
+      of reels already in the library. Registry: state/golfclips_oct20_sources.json (+ state/ingest_groups_oct20.json).
+- [x] 4 Proof posts (Mack's own posts, posted_index refreshed Oct 20): 28 reels with proof, 12 without.
+- [x] 5 Captions: only 3 batch files carry Mack's captions (all byte twins of existing GC files). Style documented in
+      PLAYBOOK "CAPTION STYLE (Oct 20)"; tools/captions.py. Parakeet (/home/claude/tools/stt) used as 2nd opinion.
+- [x] Fixed check_repeats external_uses: only walks GC top level + golfclips (Golf/ fp overwrote GC '9 02 57 AM.mp4');
+      dropped the wrong cached match (DeW6yirRVE_ "absolutely brutal") from external_sources.json.
+- [~] 6 Edits (work dir /home/claude/ingest/work/edits, sources /home/claude/ingest/orig):
+      Oct 20: 022 hole-in-one-day (G4) | 023 malibu-bet (G22) | 024 gorgeous-day (G29)  + X-only originals
+      Oct 21: 025 amarillo-missing-flag (G1) | 029 cart-path-only (G3) | 027 singing-par-5 (G28)
+      Oct 22: 028 san-angelo-par-3 (G14) | 026 chili-cheese-dog (G21) | 030 soaking-wet-par-5 (G2) + X+TikTok originals
+      FB: Oct20 am G18 orig (8 36 20), pm comp2_delusional_r6 | Oct21 lunch G19 orig (5 01 57), pm shorties/hero-shot_r3 |
+          Oct22 am G20 orig (5 07 02), lunch G34 orig (10 51 47), pm comp13_asmr-golf_r3
+      (G33 seven-iron 52 s: can't reach a 25 % cut without cutting shots -> spare FB original.)

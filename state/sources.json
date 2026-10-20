@@ -1,17 +1,19 @@
 {
  "note": "Unique source videos (Dropbox /Golf Captions + /golfclips). Built by tools/build_media_map.py.",
- "count": 39,
+ "count": 59,
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
    "files": [
     "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (2).mp4",
-    "/golfclips/Video Aug 27 2026, 5 43 32 PM.MP4"
+    "/golfclips/Video Aug 27 2026, 5 43 32 PM.MP4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (2).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 30 44 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 30 44 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 30 44 AM.mov",
+    "/golfclips/Video Oct 03 2026, 8 16 49 PM.mov"
    ],
    "clip_pages_only": false
   },
@@ -24,20 +26,24 @@
   },
   "Video Oct 12 2026, 7 19 40 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 19 40 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 19 40 AM.mov",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM.mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (13).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 00 30 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 00 30 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 00 30 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM.mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 11 2026, 9 02 57 AM.mp4": {
    "files": [
     "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
-    "/golfclips/Video Aug 27 2026, 5 51 18 PM.MP4"
+    "/golfclips/Video Aug 27 2026, 5 51 18 PM.MP4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (1).mp4"
    ],
    "clip_pages_only": false
   },
@@ -49,81 +55,101 @@
   },
   "Video Oct 12 2026, 7 13 58 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 13 58 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 13 58 AM.mov",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (6).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (11).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 34 47 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov",
+    "/golfclips/Video Sep 29 2026, 10 43 52 PM.mov",
+    "/golfclips/Video Sep 29 2026, 11 01 07 PM.mov",
+    "/golfclips/Video Sep 29 2026, 11 02 38 PM.mov"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 35 57 AM.mov": {
    "files": [
     "/Golf Captions/Video Oct 12 2026, 7 35 57 AM.mov",
-    "/Golf Captions/Video Oct 12 2026, 7 37 01 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 37 01 AM.mov",
+    "/golfclips/Video Sep 29 2026, 10 57 25 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 59 12 PM.mov"
    ],
    "clip_pages_only": false
   },
   "Video Oct 11 2026, 9 02 57 AM (3).mp4": {
    "files": [
     "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (3).mp4",
-    "/golfclips/Video Aug 27 2026, 5 49 54 PM.MP4"
+    "/golfclips/Video Aug 27 2026, 5 49 54 PM.MP4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (4).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 05 56 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 05 56 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 05 56 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (9).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 17 58 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 17 58 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 17 58 AM.mov",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (4).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (10).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 26 20 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (2).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (15).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 11 2026, 9 02 57 AM (1).mp4": {
    "files": [
-    "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (1).mp4"
+    "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 14 03 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 14 03 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 14 03 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (5).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 7 16 02 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 7 16 02 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 7 16 02 AM.mov",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (7).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (14).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 03 20 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 03 20 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 03 20 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (12).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 17 30 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (8).mp4"
    ],
    "clip_pages_only": false
   },
   "Video Oct 12 2026, 12 22 39 AM.mov": {
    "files": [
-    "/Golf Captions/Video Oct 12 2026, 12 22 39 AM.mov"
+    "/Golf Captions/Video Oct 12 2026, 12 22 39 AM.mov",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (7).mp4"
    ],
    "clip_pages_only": false
   },
@@ -219,12 +245,15 @@
   },
   "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV": {
    "files": [
+    "/golfclips/Video Sep 29 2026, 10 16 23 PM.mov",
     "/golfclips/copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
    ],
    "clip_pages_only": true
   },
   "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV": {
    "files": [
+    "/golfclips/Video Sep 29 2026, 10 14 07 PM.mov",
+    "/golfclips/Video Sep 29 2026, 5 05 52 PM.mov",
     "/golfclips/copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
    ],
    "clip_pages_only": true
@@ -238,6 +267,145 @@
   "IMG_6391.MP4": {
    "files": [
     "/golfclips/IMG_6391.MP4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4": {
+   "files": [
+    "/golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (3).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (18).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4": {
+   "files": [
+    "/golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (5).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (19).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4": {
+   "files": [
+    "/golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "/golfclips/Video Oct 05 2026, 8 04 12 AM.mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (20).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4": {
+   "files": [
+    "/golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
+    "/golfclips/Video Oct 05 2026, 8 04 13 AM (1).mp4",
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (16).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 11 2026, 9 02 57 AM (17).mp4": {
+   "files": [
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (17).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4": {
+   "files": [
+    "/golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 25 2026, 4 41 09 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
+    "/golfclips/Video Sep 28 2026, 8 34 05 AM.mov",
+    "/golfclips/Video Sep 28 2026, 8 36 20 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 25 2026, 4 59 28 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
+    "/golfclips/Video Sep 25 2026, 5 01 57 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 25 2026, 5 07 02 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
+    "/golfclips/Video Sep 25 2026, 5 08 36 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 28 2026, 7 56 55 AM.mov": {
+   "files": [
+    "/golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+    "/golfclips/Video Sep 28 2026, 8 00 56 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 28 2026, 8 15 58 AM.mov": {
+   "files": [
+    "/golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
+    "/golfclips/Video Sep 28 2026, 8 23 24 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 28 2026, 8 39 29 AM.mov": {
+   "files": [
+    "/golfclips/Video Sep 28 2026, 8 39 29 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 28 2026, 8 54 37 AM.mov": {
+   "files": [
+    "/golfclips/Video Sep 28 2026, 8 54 37 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 28 2026, 8 58 32 AM.mov": {
+   "files": [
+    "/golfclips/Video Sep 28 2026, 8 58 32 AM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 17 37 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 17 37 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 21 37 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 23 36 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 37 44 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 37 44 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 39 17 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 41 10 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 41 10 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 42 12 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 47 07 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 47 07 PM.mov"
+   ],
+   "clip_pages_only": true
+  },
+  "golfclips/Video Sep 29 2026, 10 51 47 PM.mov": {
+   "files": [
+    "/golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 53 00 PM.mov",
+    "/golfclips/Video Sep 29 2026, 10 54 44 PM.mov"
    ],
    "clip_pages_only": true
   }

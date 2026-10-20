@@ -317,3 +317,23 @@ golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the pa
    tools/inventory.py --free never offers those sources and tools/check_repeats.py --candidates FAILS any @mackygolfs/
    @mackthegolfer candidate that contains one. A reel that also exists as its own file in /Golf Captions may still reach the
    main accounts only from the /Golf Captions file. @moremackygolfs still needs a named proof post (no proof = skip it).
+
+## CAPTION STYLE (Oct 20) — @moremackygolfs reels + stories from sources WITHOUT Mack's own burned-in captions
+Mack's /Golf Captions videos (measured Oct 20 on 12 00 30 AM, 9 02 57 AM, 9 02 57 AM (1)/(2)): her captions are the
+ONLY reference. When a source already has her captions, add nothing. When it has none (most /golfclips files from the
+Oct 20 batch: raw Texas / Colorado rounds), burn speech captions in her style:
+- Look: white, semi-bold rounded sans (TikTok/IG "Classic" look) -> Inter SemiBold 46 px on 1080x1920, black outline
+  3 px, no box, no shadow, centred, max 2 lines of <= 26 characters (her lines wrap at ~24-28).
+- Position: LOW, never high. Block bottom at y 1532 (single line ink ~1478-1530 = 77-80 % down, where hers sit).
+  Never over her chest: no captions during the shirt wipe (`--skip a-b` source span) — hers have none there either.
+- Words: shown only while she talks, phrase by phrase, snapped to faster-whisper word timestamps
+  (state/ingest/transcripts/*.json, or the transcribe workflow). Lower-case like hers except I / I'm / I've and names
+  (Mack, Amarillo, San Angelo); numbers as digits (par 4, break 100); no full stops or commas.
+- Swearing: never cut, never dropped from captions; spelled the way she spells it in her own captions (f*cking, sh*t).
+- Fix transcription misses before rendering (per-clip --fix JSON + GOLF_FIX in tools/captions.py): "Mac" -> Mack,
+  "parkour / part four / bar four" -> par 4, "paw" -> par, "chili cheese dough" -> chili cheese dog, etc.
+- Build: `python3 tools/captions.py transcript.json segs.json out.ass --skip <wipe> --fix fixes.json --print`, then
+  `SUBS=out.ass VMAXRATE=4.5M VBUFSIZE=9M LEVEL=4.1 tools/render.sh src segs.json "" "" out.mp4` (one encode).
+- Check every render frame by frame where captions change (contact sheet of each caption + a phone-size frame):
+  legible, spelled right, inside the frame, never over her chest. Covers stay FRAME ONE (HARD RULE 8).
+- tools/autoplan.py lists every word + every ball strike (keep windows) and the cut % so edits only cut dead air.

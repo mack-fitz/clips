@@ -1,0 +1,906 @@
+{
+ "note": "Oct 20 /golfclips batch (68 files) -> source ids. CLIP-PAGES ONLY (HARD RULE 12): never @mackygolfs/@mackthegolfer. Key = source id: an existing /Golf Captions or old /golfclips source when the new file is the same reel (byte twin or fingerprint overlap >= 60% of the shorter file), else 'golfclips/<file>'. proof_posts = Mack's OWN posts (not via Zernio) holding >= 15 s of the reel (or >= 80% of a short clip); empty = no proof -> not used on @moremackygolfs (or X/TikTok/FB). Files are referenced as golfclips/<name> (names can collide with /Golf Captions names).",
+ "sources": {
+  "Video Oct 12 2026, 7 30 44 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 03 2026, 8 16 49 PM.mov"
+   ],
+   "group": "G0",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-15T13:44",
+     "account": "mackygolfs",
+     "caption": "fr are they poisonous",
+     "url": "https://www.instagram.com/reel/DehF8YylZTQ/"
+    }
+   ]
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4": {
+   "golfclips_files": [
+    "Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "Video Oct 05 2026, 8 04 13 AM (3).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (18).mp4"
+   ],
+   "group": "G1",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-04T03:10",
+     "account": "mackygolfs",
+     "overlap_s": 175.8,
+     "caption": "or are they Amarillites?",
+     "url": "https://www.instagram.com/reel/DeDoeT5xUeq/"
+    },
+    {
+     "date": "2026-10-04T15:35",
+     "account": "mackygolfs",
+     "overlap_s": 175.8,
+     "caption": "or do you think they prefer to be called Amarillites?",
+     "url": "https://www.instagram.com/reel/DeE9_0BPiMB/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4": {
+   "golfclips_files": [
+    "Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "Video Oct 05 2026, 8 04 13 AM (5).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (19).mp4"
+   ],
+   "group": "G2",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-09T14:25",
+     "account": "mackygolfs",
+     "overlap_s": 131.2,
+     "caption": "if you catch me Lymed up you know why",
+     "url": "https://www.instagram.com/reel/DeRtszFRvN9/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4": {
+   "golfclips_files": [
+    "Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "Video Oct 05 2026, 8 04 12 AM.mp4",
+    "Video Oct 11 2026, 9 02 57 AM (20).mp4"
+   ],
+   "group": "G3",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-06T13:26",
+     "account": "mackthegolfer",
+     "overlap_s": 172.5,
+     "caption": "it’s not even wet or dry?????",
+     "url": "https://www.instagram.com/reel/DeJ4gtIPIrV/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4": {
+   "golfclips_files": [
+    "Video Oct 03 2026, 9 51 31 PM.mp4",
+    "Video Oct 05 2026, 8 04 13 AM (1).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (16).mp4"
+   ],
+   "group": "G4",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-04T03:23",
+     "account": "mackthegolfer",
+     "overlap_s": 113.3,
+     "caption": "it’s a Tuesday (imagine I post this on a Tuesday)",
+     "url": "https://www.instagram.com/reel/DeDqBGHMxRc/"
+    },
+    {
+     "date": "2026-10-04T15:45",
+     "account": "mackthegolfer",
+     "overlap_s": 111.7,
+     "caption": "it’s a Tuesday (pretend I posted this on a Tuesday)",
+     "url": "https://www.instagram.com/reel/DeE_JCShyV9/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 7 26 20 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 05 2026, 8 04 13 AM (2).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (15).mp4"
+   ],
+   "group": "G5",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-17T00:46",
+     "account": "mackygolfs",
+     "caption": "six months of golf. rate me",
+     "url": "https://www.instagram.com/reel/Dek2epXEhPv/"
+    }
+   ]
+  },
+  "Video Oct 12 2026, 7 17 58 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 05 2026, 8 04 13 AM (4).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (10).mp4"
+   ],
+   "group": "G6",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-16T00:54",
+     "account": "mackygolfs",
+     "caption": "guess my score pls",
+     "url": "https://www.instagram.com/reel/DeiSqzUFeUD/"
+    }
+   ]
+  },
+  "Video Oct 12 2026, 7 13 58 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 05 2026, 8 04 13 AM (6).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (11).mp4"
+   ],
+   "group": "G7",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-08T23:48",
+     "account": "mackthegolfer",
+     "overlap_s": 92.8,
+     "caption": "that’s why she’s blue boys",
+     "url": "https://www.instagram.com/reel/DeQJNjZtEN_/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 7 16 02 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 05 2026, 8 04 13 AM (7).mp4",
+    "Video Oct 11 2026, 9 02 57 AM (14).mp4"
+   ],
+   "group": "G8",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-11T23:38",
+     "account": "mackthegolfer",
+     "overlap_s": 136.4,
+     "caption": "does anyone know the lag masta’s schedule actually",
+     "url": "https://www.instagram.com/reel/DeX0u_Ox_W3/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 7 19 40 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 05 2026, 8 04 13 AM.mp4",
+    "Video Oct 11 2026, 9 02 57 AM (13).mp4"
+   ],
+   "group": "G9",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-07T20:30",
+     "account": "mackthegolfer",
+     "overlap_s": 67.3,
+     "caption": "Bomb City, TX Population: @mackthegolfer",
+     "url": "https://www.instagram.com/reel/DeNN0iEs4G7/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 12 03 20 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (12).mp4"
+   ],
+   "group": "G10",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-13T00:52",
+     "account": "mackygolfs",
+     "caption": "no disrespect to the san angels",
+     "url": "https://www.instagram.com/reel/DeakEGHEaxE/"
+    }
+   ]
+  },
+  "golfclips/Video Oct 11 2026, 9 02 57 AM (17).mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (17).mp4"
+   ],
+   "group": "G11",
+   "same_reel_as_existing": false,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-13T13:44",
+     "account": "mackygolfs",
+     "caption": "Keep watching there are a lot of twists",
+     "url": "https://www.instagram.com/reel/Deb8Tdpiq_8/"
+    }
+   ]
+  },
+  "Video Oct 11 2026, 9 02 57 AM (3).mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (4).mp4"
+   ],
+   "group": "G12",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-14T13:38",
+     "account": "mackygolfs",
+     "caption": "please send broomstick putter recs",
+     "url": "https://www.instagram.com/reel/Deegb6mm5ok/"
+    }
+   ]
+  },
+  "Video Oct 12 2026, 12 14 03 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (5).mp4"
+   ],
+   "group": "G13",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-12T20:06",
+     "account": "mackthegolfer",
+     "caption": "said hole in one. close enough",
+     "url": "https://www.instagram.com/reel/DeaDVVTAJu_/"
+    },
+    {
+     "date": "2026-10-16T13:39",
+     "account": "mackygolfs",
+     "caption": "called the hole in one. got the par",
+     "url": "https://www.instagram.com/reel/DejqP2LnQMH/"
+    }
+   ]
+  },
+  "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (6).mp4"
+   ],
+   "group": "G14",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-10T14:17",
+     "account": "mackygolfs",
+     "overlap_s": 107.1,
+     "caption": "dang hate to see the ball go exactly where I was aimed :/",
+     "url": "https://www.instagram.com/reel/DeURj36xvIg/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 12 22 39 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (7).mp4"
+   ],
+   "group": "G15",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-10T15:29",
+     "account": "mackthegolfer",
+     "overlap_s": 174.7,
+     "caption": "LGB LOOSEY GOOSEY BABY #neverforget",
+     "url": "https://www.instagram.com/reel/DeUZyg5xywP/"
+    },
+    {
+     "date": "2026-10-10T15:41",
+     "account": "mackthegolfer",
+     "overlap_s": 173.2,
+     "caption": "They call me Goosey, Lucy Goosey #LGB #neverforget",
+     "url": "https://www.instagram.com/reel/DeUa5Q3x63d/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 12 17 30 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (8).mp4"
+   ],
+   "group": "G16",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-14T20:19",
+     "account": "mackygolfs",
+     "overlap_s": 170.1,
+     "caption": "You me par four? 👉👈",
+     "url": "https://www.instagram.com/reel/DefODPLhS7S/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 12 05 56 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (9).mp4"
+   ],
+   "group": "G17",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-11T23:07",
+     "account": "mackygolfs",
+     "overlap_s": 150.4,
+     "caption": "I will take offense if you guess high based on the looks of ",
+     "url": "https://www.instagram.com/reel/DeXwYbIxwsB/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 25 2026, 4 41 09 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 25 2026, 4 41 09 PM.mov",
+    "Video Sep 28 2026, 8 34 05 AM.mov",
+    "Video Sep 28 2026, 8 36 20 AM.mov"
+   ],
+   "group": "G18",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-09-29T15:05",
+     "account": "mackygolfs",
+     "overlap_s": 24.0,
+     "caption": "please help me get better 🙏",
+     "url": "https://www.instagram.com/reel/Dd4CVkmxtX7/"
+    },
+    {
+     "date": "2026-09-29T15:05",
+     "account": "mackygolfs",
+     "overlap_s": 28.0,
+     "caption": "please help me get better 🙏",
+     "url": "https://www.instagram.com/reel/Dd4CVkmxtX7/"
+    },
+    {
+     "date": "2026-09-29T15:05",
+     "account": "mackygolfs",
+     "overlap_s": 34.0,
+     "caption": "please help me get better 🙏",
+     "url": "https://www.instagram.com/reel/Dd4CVkmxtX7/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 25 2026, 4 59 28 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 25 2026, 4 59 28 PM.mov",
+    "Video Sep 25 2026, 5 01 57 PM.mov"
+   ],
+   "group": "G19",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-03T16:02",
+     "account": "mackygolfs",
+     "overlap_s": 26.0,
+     "caption": "LOCK IT IN BOYS",
+     "url": "https://www.instagram.com/reel/DeCcRx-Rvie/"
+    },
+    {
+     "date": "2026-10-03T16:02",
+     "account": "mackygolfs",
+     "overlap_s": 30.5,
+     "caption": "LOCK IT IN BOYS",
+     "url": "https://www.instagram.com/reel/DeCcRx-Rvie/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 25 2026, 5 07 02 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 25 2026, 5 07 02 PM.mov",
+    "Video Sep 25 2026, 5 08 36 PM.mov"
+   ],
+   "group": "G20",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-06T02:37",
+     "account": "mackygolfs",
+     "overlap_s": 26.0,
+     "caption": "really fell apart near the green",
+     "url": "https://www.instagram.com/reel/DeIudBNxAuI/"
+    },
+    {
+     "date": "2026-10-06T02:37",
+     "account": "mackygolfs",
+     "overlap_s": 30.0,
+     "caption": "really fell apart near the green",
+     "url": "https://www.instagram.com/reel/DeIudBNxAuI/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 28 2026, 7 56 55 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 28 2026, 7 56 55 AM.mov",
+    "Video Sep 28 2026, 8 00 56 AM.mov"
+   ],
+   "group": "G21",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-06T13:15",
+     "account": "mackygolfs",
+     "overlap_s": 26.0,
+     "caption": "got that DAWG in me",
+     "url": "https://www.instagram.com/reel/DeJ3hCURFDS/"
+    },
+    {
+     "date": "2026-10-06T13:15",
+     "account": "mackygolfs",
+     "overlap_s": 50.4,
+     "caption": "got that DAWG in me",
+     "url": "https://www.instagram.com/reel/DeJ3hCURFDS/"
+    },
+    {
+     "date": "2026-10-11T13:44",
+     "account": "mackthegolfer",
+     "overlap_s": 24.8,
+     "caption": "I think I’m getting better guys",
+     "url": "https://www.instagram.com/reel/DeWyl5Bxbpk/"
+    },
+    {
+     "date": "2026-10-11T13:44",
+     "account": "mackthegolfer",
+     "overlap_s": 26.0,
+     "caption": "I think I’m getting better guys",
+     "url": "https://www.instagram.com/reel/DeWyl5Bxbpk/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 28 2026, 8 15 58 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 28 2026, 8 15 58 AM.mov",
+    "Video Sep 28 2026, 8 23 24 AM.mov"
+   ],
+   "group": "G22",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-09-28T14:59",
+     "account": "mackthegolfer",
+     "overlap_s": 28.0,
+     "caption": "I want to be clear that I hate these Malibu drinks",
+     "url": "https://www.instagram.com/reel/Dd1ZcqfRHXZ/"
+    },
+    {
+     "date": "2026-09-28T14:59",
+     "account": "mackthegolfer",
+     "overlap_s": 71.2,
+     "caption": "I want to be clear that I hate these Malibu drinks",
+     "url": "https://www.instagram.com/reel/Dd1ZcqfRHXZ/"
+    },
+    {
+     "date": "2026-10-02T15:44",
+     "account": "mackygolfs",
+     "overlap_s": 28.2,
+     "caption": "if I don’t get a bogey or better I am PUNISHED",
+     "url": "https://www.instagram.com/reel/Dd_1Jz5xaa8/"
+    },
+    {
+     "date": "2026-10-02T15:44",
+     "account": "mackygolfs",
+     "overlap_s": 76.5,
+     "caption": "if I don’t get a bogey or better I am PUNISHED",
+     "url": "https://www.instagram.com/reel/Dd_1Jz5xaa8/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 28 2026, 8 39 29 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 28 2026, 8 39 29 AM.mov"
+   ],
+   "group": "G23",
+   "same_reel_as_existing": false,
+   "proof_posts": [],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 28 2026, 8 54 37 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 28 2026, 8 54 37 AM.mov"
+   ],
+   "group": "G24",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-09-28T14:59",
+     "account": "mackthegolfer",
+     "overlap_s": 15.1,
+     "caption": "I want to be clear that I hate these Malibu drinks",
+     "url": "https://www.instagram.com/reel/Dd1ZcqfRHXZ/"
+    },
+    {
+     "date": "2026-10-02T15:44",
+     "account": "mackygolfs",
+     "overlap_s": 21.7,
+     "caption": "if I don’t get a bogey or better I am PUNISHED",
+     "url": "https://www.instagram.com/reel/Dd_1Jz5xaa8/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 28 2026, 8 58 32 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 28 2026, 8 58 32 AM.mov"
+   ],
+   "group": "G25",
+   "same_reel_as_existing": false,
+   "proof_posts": [],
+   "our_posts_only": []
+  },
+  "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 14 07 PM.mov",
+    "Video Sep 29 2026, 5 05 52 PM.mov"
+   ],
+   "group": "G26",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-09-29T23:12",
+     "account": "mackygolfs",
+     "overlap_s": 98.0,
+     "caption": "all children were safe (this time)  (if u liked this video y",
+     "url": "https://www.instagram.com/reel/Dd46Mo0RbtR/"
+    },
+    {
+     "date": "2026-09-29T23:12",
+     "account": "mackygolfs",
+     "overlap_s": 104.2,
+     "caption": "all children were safe (this time)  (if u liked this video y",
+     "url": "https://www.instagram.com/reel/Dd46Mo0RbtR/"
+    },
+    {
+     "date": "2026-09-30T15:00",
+     "account": "mackygolfs",
+     "overlap_s": 97.4,
+     "caption": "no children were harmed (this time) in the filming of this r",
+     "url": "https://www.instagram.com/reel/Dd6m3krvQv5/"
+    },
+    {
+     "date": "2026-09-30T15:00",
+     "account": "mackygolfs",
+     "overlap_s": 101.0,
+     "caption": "no children were harmed (this time) in the filming of this r",
+     "url": "https://www.instagram.com/reel/Dd6m3krvQv5/"
+    },
+    {
+     "date": "2026-10-06T18:45",
+     "account": "mackthegolfer",
+     "overlap_s": 92.4,
+     "caption": "no kids were harmed this time 🙌",
+     "url": "https://www.instagram.com/reel/DeKc-DyhcbS/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 16 23 PM.mov"
+   ],
+   "group": "G27",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-09-30T13:44",
+     "account": "mackthegolfer",
+     "overlap_s": 84.3,
+     "caption": "what do you thinking I’m shooting??",
+     "url": "https://www.instagram.com/reel/Dd6d_mRRLZj/"
+    },
+    {
+     "date": "2026-10-03T15:43",
+     "account": "mackygolfs",
+     "overlap_s": 82.5,
+     "caption": "WHAT AM I SHOOTING BE RESPECTFUL",
+     "url": "https://www.instagram.com/reel/DeCZ6bTxkd_/"
+    },
+    {
+     "date": "2026-10-11T13:45",
+     "account": "mackthegolfer",
+     "overlap_s": 81.2,
+     "caption": "don’t let the cover photo influence your guess listen to you",
+     "url": "https://www.instagram.com/reel/DeWyBqMxUqB/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 17 37 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 17 37 PM.mov"
+   ],
+   "group": "G28",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-09-30T15:00",
+     "account": "mackthegolfer",
+     "overlap_s": 168.9,
+     "caption": "what do I need to do to be better at golf (other than stop s",
+     "url": "https://www.instagram.com/reel/Dd6m4LOh7kQ/"
+    },
+    {
+     "date": "2026-10-05T13:33",
+     "account": "mackthegolfer",
+     "overlap_s": 117.5,
+     "caption": "do you think the singing is helping or hurting my game",
+     "url": "https://www.instagram.com/reel/DeHUflCxF6t/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 21 37 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 21 37 PM.mov",
+    "Video Sep 29 2026, 10 23 36 PM.mov"
+   ],
+   "group": "G29",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-01T15:15",
+     "account": "mackygolfs",
+     "overlap_s": 113.2,
+     "caption": "come play a par 4 with me??",
+     "url": "https://www.instagram.com/reel/Dd9NCdcRqTp/"
+    },
+    {
+     "date": "2026-10-01T15:15",
+     "account": "mackygolfs",
+     "overlap_s": 117.1,
+     "caption": "come play a par 4 with me??",
+     "url": "https://www.instagram.com/reel/Dd9NCdcRqTp/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 37 44 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 37 44 PM.mov",
+    "Video Sep 29 2026, 10 39 17 PM.mov"
+   ],
+   "group": "G30",
+   "same_reel_as_existing": false,
+   "proof_posts": [],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 41 10 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 41 10 PM.mov",
+    "Video Sep 29 2026, 10 42 12 PM.mov"
+   ],
+   "group": "G31",
+   "same_reel_as_existing": false,
+   "proof_posts": [],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 7 34 47 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 43 52 PM.mov",
+    "Video Sep 29 2026, 11 01 07 PM.mov",
+    "Video Sep 29 2026, 11 02 38 PM.mov"
+   ],
+   "group": "G32",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-10-02T15:52",
+     "account": "mackthegolfer",
+     "overlap_s": 27.5,
+     "caption": "idk something about that bandana made me feel a little Frenc",
+     "url": "https://www.instagram.com/reel/Dd_2QCYxGiQ/"
+    },
+    {
+     "date": "2026-10-02T15:52",
+     "account": "mackthegolfer",
+     "overlap_s": 30.0,
+     "caption": "idk something about that bandana made me feel a little Frenc",
+     "url": "https://www.instagram.com/reel/Dd_2QCYxGiQ/"
+    },
+    {
+     "date": "2026-10-02T15:52",
+     "account": "mackthegolfer",
+     "overlap_s": 30.5,
+     "caption": "idk something about that bandana made me feel a little Frenc",
+     "url": "https://www.instagram.com/reel/Dd_2QCYxGiQ/"
+    },
+    {
+     "date": "2026-10-02T19:45",
+     "account": "mackygolfs",
+     "overlap_s": 27.5,
+     "caption": "I have broken 100 once but it is starting to feel like a flu",
+     "url": "https://www.instagram.com/reel/DeAQ207xitv/"
+    },
+    {
+     "date": "2026-10-02T19:45",
+     "account": "mackygolfs",
+     "overlap_s": 27.6,
+     "caption": "I have broken 100 once but it is starting to feel like a flu",
+     "url": "https://www.instagram.com/reel/DeAQ207xitv/"
+    },
+    {
+     "date": "2026-10-02T19:45",
+     "account": "mackygolfs",
+     "overlap_s": 32.4,
+     "caption": "I have broken 100 once but it is starting to feel like a flu",
+     "url": "https://www.instagram.com/reel/DeAQ207xitv/"
+    },
+    {
+     "date": "2026-10-06T13:28",
+     "account": "mackthegolfer",
+     "overlap_s": 28.0,
+     "caption": "help pls 🙏",
+     "url": "https://www.instagram.com/reel/DeJ4-EhBNKg/"
+    },
+    {
+     "date": "2026-10-06T13:28",
+     "account": "mackthegolfer",
+     "overlap_s": 30.0,
+     "caption": "help pls 🙏",
+     "url": "https://www.instagram.com/reel/DeJ4-EhBNKg/"
+    },
+    {
+     "date": "2026-10-06T13:28",
+     "account": "mackthegolfer",
+     "overlap_s": 33.7,
+     "caption": "help pls 🙏",
+     "url": "https://www.instagram.com/reel/DeJ4-EhBNKg/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 47 07 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 47 07 PM.mov"
+   ],
+   "group": "G33",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-10-05T14:17",
+     "account": "mackygolfs",
+     "overlap_s": 49.4,
+     "caption": "not sure what the takeaway here is",
+     "url": "https://www.instagram.com/reel/DeHZlgLR82Q/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "golfclips/Video Sep 29 2026, 10 51 47 PM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 51 47 PM.mov",
+    "Video Sep 29 2026, 10 53 00 PM.mov",
+    "Video Sep 29 2026, 10 54 44 PM.mov"
+   ],
+   "group": "G34",
+   "same_reel_as_existing": false,
+   "proof_posts": [
+    {
+     "date": "2026-09-30T20:00",
+     "account": "mackygolfs",
+     "overlap_s": 22.0,
+     "caption": "does the putting perhaps give it away",
+     "url": "https://www.instagram.com/reel/Dd7JKFGPxsh/"
+    },
+    {
+     "date": "2026-09-30T20:00",
+     "account": "mackygolfs",
+     "overlap_s": 24.0,
+     "caption": "does the putting perhaps give it away",
+     "url": "https://www.instagram.com/reel/Dd7JKFGPxsh/"
+    },
+    {
+     "date": "2026-09-30T20:00",
+     "account": "mackygolfs",
+     "overlap_s": 26.0,
+     "caption": "does the putting perhaps give it away",
+     "url": "https://www.instagram.com/reel/Dd7JKFGPxsh/"
+    },
+    {
+     "date": "2026-10-14T17:38",
+     "account": "mackygolfs",
+     "overlap_s": 24.0,
+     "caption": "top 4",
+     "url": "https://www.instagram.com/reel/Dee717XRKRR/"
+    },
+    {
+     "date": "2026-10-14T17:38",
+     "account": "mackygolfs",
+     "overlap_s": 28.0,
+     "caption": "top 4",
+     "url": "https://www.instagram.com/reel/Dee717XRKRR/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 12 2026, 7 35 57 AM.mov": {
+   "golfclips_files": [
+    "Video Sep 29 2026, 10 57 25 PM.mov",
+    "Video Sep 29 2026, 10 59 12 PM.mov"
+   ],
+   "group": "G35",
+   "same_reel_as_existing": true,
+   "proof_posts": [],
+   "our_posts_only": [
+    {
+     "date": "2026-10-14T00:41",
+     "account": "mackygolfs",
+     "caption": "par 3 at sunset. rate it",
+     "url": "https://www.instagram.com/reel/DedHn04Docg/"
+    },
+    {
+     "date": "2026-10-14T00:41",
+     "account": "mackygolfs",
+     "caption": "par 3 at sunset. rate it",
+     "url": "https://www.instagram.com/reel/DedHn04Docg/"
+    },
+    {
+     "date": "2026-10-17T01:30",
+     "account": "mackthegolfer",
+     "caption": "wet or dry??",
+     "url": "https://www.instagram.com/reel/Dek7na1E7mk/"
+    }
+   ]
+  },
+  "Video Oct 12 2026, 12 00 30 AM.mov": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "group": "G36",
+   "same_reel_as_existing": true,
+   "proof_posts": [
+    {
+     "date": "2026-07-26T15:06",
+     "account": "mackygolfs",
+     "overlap_s": 45.9,
+     "caption": "we've got a DUMPER boys",
+     "url": "https://www.instagram.com/reel/DbQq2MYRmJX/"
+    },
+    {
+     "date": "2026-10-11T14:56",
+     "account": "mackygolfs",
+     "overlap_s": 45.9,
+     "caption": "absolutely brutal",
+     "url": "https://www.instagram.com/reel/DeW6yirRVE_/"
+    }
+   ],
+   "our_posts_only": []
+  },
+  "Video Oct 11 2026, 9 02 57 AM.mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "same_reel_as_existing": true,
+   "byte_identical": true
+  },
+  "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "same_reel_as_existing": true,
+   "byte_identical": true
+  },
+  "Video Oct 11 2026, 9 02 57 AM (1).mp4": {
+   "golfclips_files": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "same_reel_as_existing": true,
+   "byte_identical": true
+  }
+ }
+}

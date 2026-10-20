@@ -1184,13 +1184,6 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 16 02 AM.mov"
@@ -1198,6 +1191,13 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit",
    "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
@@ -1213,14 +1213,14 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1297,13 +1297,6 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 19 40 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 19 40 AM.mov"
@@ -1311,14 +1304,21 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
