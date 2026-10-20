@@ -6,7 +6,9 @@
 # no pre-encoded intermediates, no double encode, and no frame buffering when segments are out of order
 # (the old one-input version ran out of memory on restructured edits of long sources, Oct 15).
 # libx264 -crf 17 -preset slow, source frame rate kept, 1080x1920 (or the source size if bigger),
-# AAC 192k. The hook arguments are ignored: NO text is ever drawn on the video (Mack, Oct 12).
+# AAC 192k. The hook arguments are ignored: no hook text is ever drawn (Mack, Oct 12). The ONLY text allowed is
+# SUBS=<file.ass> from tools/captions.py: @moremackygolfs speech captions for sources WITHOUT Mack's own
+# burned-in captions (Oct 20, Mack's /Golf Captions style; PLAYBOOK "CAPTION STYLE").
 set -e
 SRC="$1"; SEGS="$2"; OUT="$5"
 if [ -n "$3$4" ]; then echo "render.sh: hook text ignored (no added text on videos)" >&2; fi
@@ -32,7 +34,15 @@ for i,(a,b,z) in enumerate(s):
     if fin: af.append("afade=t=in:d=0.03")
     if fout: af.append(f"afade=t=out:st={round(b-a-0.03,3)}:d=0.03")
     parts.append(f"[{i}:a]{','.join(af)},aresample=48000[a{i}]")
-parts.append("".join(f"[v{i}][a{i}]" for i in range(n))+f"concat=n={n}:v=1:a=1[v][a]")
+import os
+subs=os.environ.get("SUBS")
+if subs:
+    # SUBS=captions.ass (tools/captions.py): burned in AFTER the cut/punch-ins, same single encode
+    fd=os.environ.get("FONTSDIR","/usr/share/fonts/opentype/inter")
+    parts.append("".join(f"[v{i}][a{i}]" for i in range(n))+f"concat=n={n}:v=1:a=1[vc][a]")
+    parts.append(f"[vc]subtitles=filename='{subs}':fontsdir='{fd}'[v]")
+else:
+    parts.append("".join(f"[v{i}][a{i}]" for i in range(n))+f"concat=n={n}:v=1:a=1[v][a]")
 for x in args: print(x)
 print("-filter_complex"); print(";".join(parts))
 PY

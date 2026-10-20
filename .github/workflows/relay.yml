@@ -1,0 +1,85 @@
+name: relay
+# Raw originals for editing WITHOUT putting them in main's history (Oct 20).
+# Push inbox/relay.txt (one /golfclips file name per line, DROPBOX_FOLDER_URL secret = /golfclips).
+# The runner extracts just those files from the folder zip, splits files > 95 MB byte-for-byte
+# (<name>.partNN + <name>.sha256), and force-pushes them as the ONLY content of branch scratch/relay.
+# Workspace: git fetch origin scratch/relay, copy the files out (cat parts, check sha256),
+# then delete the branch: git push origin :scratch/relay. main only ever sees inbox/relay.txt (removed by the run).
+on:
+  push:
+    paths: ['inbox/relay.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: relay
+  cancel-in-progress: false
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/relay.txt
+          sparse-checkout-cone-mode: false
+      - name: Download + extract
+        env:
+          FOLDER_URL: ${{ secrets.DROPBOX_FOLDER_URL }}
+        run: |
+          set -e
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc || true
+          cp inbox/relay.txt /tmp/want.txt
+          url=$(echo "$FOLDER_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
+          case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
+          curl -sSL --fail --retry 3 -o /tmp/folder.zip "$url"
+          mkdir -p /tmp/out
+          python3 - <<'PY'
+          import zipfile, os, shutil
+          want = [l.strip() for l in open("/tmp/want.txt") if l.strip()]
+          z = zipfile.ZipFile("/tmp/folder.zip")
+          by = {}
+          for i in z.infolist():
+              by.setdefault(os.path.basename(i.filename), i)
+          miss = []
+          for n in want:
+              i = by.get(n)
+              if not i:
+                  miss.append(n); continue
+              with z.open(i) as src, open(os.path.join("/tmp/out", n), "wb") as dst:
+                  shutil.copyfileobj(src, dst, 1 << 22)
+          open("/tmp/out/failed.txt", "w").write("".join(f"MISSING {m}\n" for m in miss))
+          PY
+          rm -f /tmp/folder.zip
+          cd /tmp/out
+          for f in *; do
+            [ -f "$f" ] || continue
+            case "$f" in failed.txt) continue;; esac
+            if [ "$(stat -c %s "$f")" -gt 95000000 ]; then
+              sha256sum "$f" | cut -d' ' -f1 > "$f.sha256"
+              split -b 90000000 -d -a 2 "$f" "$f.part"; rm -f "$f"
+            else
+              sha256sum "$f" | cut -d' ' -f1 > "$f.sha256"
+            fi
+          done
+          ls -la
+      - name: Push scratch branch + clear the request on main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd /tmp/out
+          git init -q && git checkout -q -b scratch/relay
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add -A && git commit -qm "relay (scratch; delete after copying)"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" scratch/relay
+          cd $GITHUB_WORKSPACE
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            git rm -q --ignore-unmatch inbox/relay.txt
+            git commit -q -m "Relay done (files on scratch/relay) [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
