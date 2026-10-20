@@ -702,7 +702,8 @@
    "zernio": {
     "x_tiktok": "6ad38c2e82f31cc8f6dbb3b0"
    },
-   "status": "scheduled"
+   "status": "scheduled",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "facebook",
@@ -718,7 +719,8 @@
    "zernio": {
     "facebook": "6ad38358fb31baab4fb1c51c"
    },
-   "status": "scheduled"
+   "status": "removed_repeat",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "date": "2026-10-19",
@@ -741,7 +743,12 @@
     "instagram": "6ad4dee477a5527bbfa35fcb",
     "story": "6ad4dee579fb0650e7ee9147",
     "x_tiktok": "6ad4dee977a5527bbfa35fec"
-   }
+   },
+   "removed": [
+    "IG reel + story deleted Oct 19 (7-day pool rule)"
+   ],
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "facebook",
@@ -757,7 +764,8 @@
    "zernio": {
     "facebook": "6ad38359f8718bdb13ba878d"
    },
-   "status": "scheduled"
+   "status": "removed_repeat",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "facebook",
@@ -773,8 +781,9 @@
    "zernio": {
     "facebook": "6ad44b250f1de227d54e14b4"
    },
-   "status": "scheduled",
-   "note": "filled by nightly check Oct 17"
+   "status": "removed_repeat",
+   "note": "filled by nightly check Oct 17",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "x_tiktok",
@@ -790,7 +799,8 @@
    },
    "status": "scheduled",
    "already_posted_proof": "@mackthegolfer 2026-10-02 09:52 MT https://www.instagram.com/reel/Dd_2QCYxGiQ/ (27.6 s audio)",
-   "note": "filled by nightly check Oct 17"
+   "note": "filled by nightly check Oct 17",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "date": "2026-10-20",
@@ -806,7 +816,8 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts."
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts.",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "facebook",
@@ -839,7 +850,8 @@
    },
    "status": "scheduled",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before"
+   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "facebook",
@@ -855,8 +867,9 @@
    "zernio": {
     "facebook": "6ad44b289fed2a23d3eb82b5"
    },
-   "status": "scheduled",
-   "note": "filled by nightly check Oct 17"
+   "status": "removed_repeat",
+   "note": "filled by nightly check Oct 17",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "facebook",
@@ -871,7 +884,7 @@
    "zernio": {
     "facebook": "6ad51c6da6da3c2dd0bd4809"
    },
-   "status": "scheduled",
+   "status": "removed_repeat",
    "format": "Facebook Reel",
    "already_posted_proof": "@mackygolfs 2026-10-17 18:46 MT https://www.instagram.com/reel/DenbgB_DgEk/ (Mack-approved full untouched original, 29 s; never-posted rule: IG first, done)",
    "note": "untouched original (41,209,297 bytes, 29.0 s HEVC). Swapped in Oct 18 for SAME-SOURCE SPACING: the 011 king-of-the-world edit would have gone out 6 d 0 h after FB posted that same source (Golf Captions 9 02 57 AM.mp4 = golfclips 011) on Oct 15 08:12.",
@@ -881,7 +894,8 @@
     "removed": "011_king-of-the-world_v3 edit (source 9 02 57 AM.mp4 / golfclips 011)",
     "reason": "same source on FB Oct 15 08:12 (6ad0613fd1af32a677897977) -> 6 d 0 h 1 m, rule needs >= 7 d",
     "cross_account_flag": "7 28 37 was on @mackygolfs IG Oct 17 18:46 (3 d 13 h before; different account, allowed)"
-   }
+   },
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "x_tiktok",
@@ -946,7 +960,8 @@
     "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
    },
    "status": "scheduled",
-   "note": " | moved from Oct 19 17:48 to Oct 21 08:52 to make room for 021 on Oct 19 evening."
+   "note": " | moved from Oct 19 17:48 to Oct 21 08:52 to make room for 021 on Oct 19 evening.",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "facebook",
@@ -962,7 +977,8 @@
    "zernio": {
     "facebook": "6ad4dd07e9ab31790d2a8d6c"
    },
-   "status": "scheduled"
+   "status": "removed_repeat",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "facebook",
@@ -977,7 +993,8 @@
    "zernio": {
     "facebook": "6ad4dd09f92bb9877841d3e4"
    },
-   "status": "scheduled"
+   "status": "removed_repeat",
+   "repeat_fix": "Oct 19: removed - same footage within 7 days on another pool account (tools/check_repeats.py)"
   },
   {
    "platform": "x_tiktok",
@@ -995,7 +1012,8 @@
     "x_tiktok": "6ad629140080039542adb930"
    },
    "status": "scheduled",
-   "note": "Oct 19 run: was due on TikTok Sun Oct 18 per Mack's Hawaiian schedule and had been missed; added today as a 4th X/TikTok post. Cross-account flag: same source on FB Oct 21 08:13 (different account, allowed)."
+   "note": "Oct 19 run: was due on TikTok Sun Oct 18 per Mack's Hawaiian schedule and had been missed; added today as a 4th X/TikTok post. Cross-account flag: same source on FB Oct 21 08:13 (different account, allowed).",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "x_tiktok",
@@ -1013,7 +1031,8 @@
     "x_tiktok": "6ad62921dc3704c1fa359c16"
    },
    "status": "scheduled",
-   "note": "Oct 19 run: filled empty Oct 21 midday X/TikTok slot. Mack's schedule had it Mon Oct 19; today already has 4 X/TikTok posts, so it went to the first empty slot."
+   "note": "Oct 19 run: filled empty Oct 21 midday X/TikTok slot. Mack's schedule had it Mon Oct 19; today already has 4 X/TikTok posts, so it went to the first empty slot.",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   },
   {
    "platform": "x_tiktok",
@@ -1032,7 +1051,8 @@
     "x_tiktok": "6ad62a848136124f93e237be"
    },
    "status": "scheduled",
-   "note": "Oct 19 run: filled empty Oct 21 evening X/TikTok slot. X: first use of this source on X."
+   "note": "Oct 19 run: filled empty Oct 21 evening X/TikTok slot. X: first use of this source on X.",
+   "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one."
   }
  ]
 }

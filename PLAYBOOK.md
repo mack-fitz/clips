@@ -2,23 +2,14 @@
 
 Operating rules for every edit and post. Scheduled runs read this file first.
 
-## SAME-SOURCE SPACING (Mack, Oct 18) — HARD RULE, check before scheduling, moving or swapping ANY post
-**Same-source spacing ≥7 days; @mackygolfs and @mackthegolfer count as one pool; TikTok, comps and shorties exempt.**
-- Two posts that use footage from the same original source video (original vs edit, edit vs edit, any cut)
-  must be at least 7 FULL days apart (≥ 168 h) on the same account.
-- Accounts checked separately: @moremackygolfs IG, X @mackygolfs, Facebook macky.golfs each on its own.
-  Instagram @mackygolfs + @mackthegolfer are ONE pool (an original on @mackygolfs Oct 20 = no edit of it on
-  @mackthegolfer before Oct 27, and the other way round).
-- Exempt: TikTok (never moved for spacing, never counted), compilations, shorties. IG stories ride with their reel.
-- Same source = same Golf Captions/golfclips original, incl. byte-identical twins and alt takes
-  (golfclips 009 = Golf Captions 9 02 57 AM (2); 010 = (3); 011 = 9 02 57 AM.mp4; clip 001 = (1);
-  7 33 50 ≈ 7 38 06; 7 35 57 ≈ 7 37 01). Resolve sources from schedule.json `source`, the mackygolfs-mackthegolfer
-  trials.json / review docs / posted_index.json, and fingerprints (tools/match_fp.py) when unclear; never guess.
-- Count already-published posts (Zernio + Mack's own posts, posts_list_posts source "external") from the last 7 days.
-- Cross-account repeats inside 7 days (e.g. @moremackygolfs edit + FB edit of the same source) are allowed but
-  get flagged in the daily summary. Prefer the least-recently-used original so the same 5–6 aren't recycled.
-- Fixing: clip-pipeline slots (@moremackygolfs, X, FB) may be swapped for an eligible original/edit. Approval-gated
-  @mackygolfs/@mackthegolfer posts are only ever moved (same time-of-day slot), never replaced without Mack's OK.
+## REPEAT RULE (Mack, Oct 19) — HARD RULE, replaces the Oct 18 "same-source spacing" rule. Full text + checks: HARD RULES at the BOTTOM of this file (they win).
+- ONE POOL: Instagram @mackygolfs, @mackthegolfer, @moremackygolfs, Facebook macky.golfs and X @mackygolfs.
+- No version of a source video (original, re-edit, or a compilation's LEAD clip; Mack's own posts included)
+  may post within 7 days (168 h) of any other version of it anywhere in the pool. TikTok and shorties are exempt.
+  A compilation counts only through its lead (opening) clip.
+- Never the same media file twice on one account; never the same file on two pool accounts within 7 days.
+- Rotate through ALL clips in /Golf Captions + /golfclips, least-recently-used first (state/inventory.json in mack-fitz/clips).
+- Run `tools/check_repeats.py` before scheduling, moving, swapping, or putting anything on the review page.
 
 ## Accounts (Zernio)
 - Instagram @moremackygolfs — account ID 6acc2885bac230e9d1133105 (edited clips)
@@ -180,7 +171,7 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
    (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (shirt wipe if present)
    with a dumb one-liner at y≈1450. Save to queue/NNN_slug{.mp4,_cover.jpg,_full.mp4},
    stories/story_NNN.mp4; commit + push. Add each Dropbox ID to state/processed.json.
-4. **Schedule:** 2 reels per day, one midday (11:30–1:00 MT) and one evening (5:00–7:00 MT),
+4. **Schedule (run tools/check_repeats.py FIRST — HARD RULE 3 at the bottom; schedule only what passes, leave the rest empty):** 2 reels per day, one midday (11:30–1:00 MT) and one evening (5:00–7:00 MT),
    varied minutes. Instagram = edited clip + cover + caption; X + TikTok = uncut + same caption
    (TikTok settings in the X/TikTok section). Story teaser at the same time as each IG reel
    (platformSpecificData.contentType "story"). Use Zernio `posts_create_post` with
@@ -267,3 +258,48 @@ golf-page days_left = edited clips ready ÷ 3 per day; warn_under_days 2 (the pa
 - CAPTIONS + FRAMING (Mack, Oct 16) — from her own top golf reels (kids 719K, "please help me out" 272K, "dead to me" par 248K, "tired of triples" 191K, road to breaking 100 170K): every caption either ASKS FOR HELP ("please help, this is getting embarrassing"), PICKS A FIGHT about the score ("if you say this is a bogey we cant be friends"), or names the STAKES (kids, water, marshal, bet, lost ball) — in her dry voice, lowercase. Avoid neutral captions like "par 3 at sunset. rate it". Long videos are fine (kids one was 106 s); lead with the stakes, not the hole. Bring back the running series "road to breaking 100: day N" on suitable rounds. Do NOT shorten videos to get under a minute — TikTok originals over 60 s are wanted (Creator Rewards).
 - POOL STATUS (Oct 18 run): Golf Captions 12 22 39 AM (marshal / Lucy Goosey par 5) was already posted by Mack (@mackthegolfer Oct 10 DeUZyg5xywP, 123 s audio) and had been missed — used for 021 (Mon Oct 19 evening). Pool is empty again; IG Oct 20-21 open until Mack adds more already-posted videos.
 - ONE EXPORT FOR IG (Oct 18 run): render IG edits straight from the original with `VMAXRATE=4.5M VBUFSIZE=9M LEVEL=4.1 tools/render.sh ...` so the single export is IG-safe. Never re-encode a render (018/020 v2 were re-encodes; replaced with v3 single exports).
+
+## HARD RULES (Mack, Oct 19) — these WIN over anything above that conflicts
+Why: on Oct 19 Facebook macky.golfs posted the exact @moremackygolfs file from Oct 15 ("par is a myth") 4 days later,
+and most of the next 3 days re-used footage that had run on another account within the week. Mack: "Stop repeating
+stuff." Per-account spacing and the old 3-day / 5-day / Oct 18 rules are gone; this is the only spacing rule.
+
+1. ONE POOL, 7 DAYS. Instagram @mackygolfs, @mackthegolfer, @moremackygolfs, Facebook macky.golfs and X @mackygolfs are one
+   pool. Two posts that contain the same source video (Dropbox /Golf Captions + /golfclips; byte-identical twins and alt
+   takes count as one source — see mack-fitz/clips state/sources.json) must be >= 168 h apart, on any accounts. Counts:
+   originals, edits, re-edits, Mack's OWN posts (fingerprinted), and a compilation's LEAD (opening) clip. Exempt: TikTok,
+   shorties, IG stories, and the non-lead bits of a compilation.
+2. EXACT DUPLICATES. The same media file (same bytes, any commit/caption) never posts twice on one account, and never on two
+   pool accounts within 7 days. Facebook's "already-posted edit" slot is NOT exempt.
+3. RUN THE GUARD before scheduling, moving, swapping or approving-to-schedule ANY post, and before putting ANYTHING on the
+   Trial Reels Review page (no review card and no Zernio draft unless its candidate check PASSES):
+     # both repos cloned side by side: /home/claude/clips and /home/claude/mackygolfs-mackthegolfer
+     # Zernio call_tool posts_list_posts {from_date: today-14d, to_date: today+21d, limit 100, sort_by scheduled-asc},
+     #   every page -> save each raw answer to a file (p1.txt, p2.txt ...)
+     # analytics_get_analytics per IG account (source all, from_date today-14d) -> an_*.txt  (Mack's own posts)
+     python3 /home/claude/clips/tools/build_media_map.py          # after adding any new edit/comp/shorty
+     python3 tools/check_repeats.py --zernio p1.txt p2.txt --analytics an_*.txt              # whole schedule
+     python3 tools/check_repeats.py --zernio p1.txt p2.txt --analytics an_*.txt --candidates cands.json   # review gate
+   cands.json = [{"label", "account": "ig:mackygolfs|ig:mackthegolfer|ig:moremackygolfs|fb:macky.golfs|x:mackygolfs",
+   "media": "repo:path", "time": "2026-10-21T09:31:00-06:00"}]. Exit 0 = OK. Exit 1 = violation: do NOT schedule; leave
+   the slot EMPTY rather than repeat (or move the post to the next slot that clears). Exit 2 = unknown media or a missing
+   fingerprint: fix the map / fingerprint Mack's new post first. Mack's approval does NOT override this rule. Approval
+   accounts (@mackygolfs, @mackthegolfer): unschedule to Zernio draft and re-ask; never swap in unapproved content.
+   Mack's own new posts: fingerprint them (fp/want_posts.tsv -> fingerprint workflow) so the guard can see them.
+4. FRESH FIRST / ROTATION. Pick footage least-recently-used first across ALL clips in both folders
+   (python3 /home/claude/clips/tools/inventory.py ... --md table.md --free <times> lists, per slot time, the sources that
+   are clear, oldest first). Spread trips/courses; no more than 1-2 Texas (Oct 12 batch) reels a week across A+B.
+5. DEBUT RULE. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs
+   (@moremackygolfs keeps its already-posted proof rule).
+6. COVERS. TikTok: ALWAYS the video's FIRST frame — tiktokSettings.videoCoverTimestampMs = 0, no videoCoverImageUrl
+   (already-published TikToks can't be changed). @moremackygolfs: ALWAYS frame one too — no custom shirt-wipe/text covers;
+   extract frame 0 (ffmpeg -ss 0 -frames:v 1) and use it as instagramThumbnail. @mackygolfs / @mackthegolfer covers
+   unchanged (cover options on the review page, never text over her chest).
+7. ZERNIO GOTCHA: when moving a post's time, set BOTH the top-level scheduled_for AND each platform entry's scheduledFor
+   (posts_update_post with platforms[]) — updating only the top level leaves the platform at the old time.
+8. FILE SIZE: renders for raw.githubusercontent must stay under 100 MiB: use /home/claude/clips/tools/render.sh with
+   VMAXRATE=10M VBUFSIZE=20M for long edits (this repo's render.sh has no cap).
+9. CLIP PIPELINE (this repo): @moremackygolfs, Facebook and X fill only with footage the guard clears. X counts in the pool
+   (X+TikTok posts whose X side fails: drop X, keep TikTok). With 39 unique sources and a 7-day pool, expect far fewer
+   pipeline posts per day — empty slots are correct; repeats are not. Facebook may reuse an approved edit/comp/shorty only
+   if rules 1-2 pass (shorties are exempt from rule 1 but still fall under rule 2's exact-file rule).

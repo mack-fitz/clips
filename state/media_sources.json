@@ -1,0 +1,2366 @@
+{
+ "note": "media file (repo:path) -> source videos in it; main = opening clip. Built by tools/build_media_map.py.",
+ "media": {
+  "clips:queue/001_perfect-perfect-bogey.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/001_perfect-perfect-bogey_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/001_perfect-perfect-bogey_full.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "original"
+  },
+  "clips:queue/002_beach-day.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/002_beach-day_cover.jpg": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/002_beach-day_full.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "original"
+  },
+  "clips:queue/003_guess-my-score.mp4": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/003_guess-my-score_cover.jpg": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/003_guess-my-score_full.mp4": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "original"
+  },
+  "clips:queue/004_four-putt.mp4": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/004_four-putt_cover.jpg": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/004_four-putt_full.mp4": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "original"
+  },
+  "clips:queue/004_four-putt_v2.mp4": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/004_four-putt_v2_cover.jpg": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball.mp4": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball_cover.jpg": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball_full.mp4": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "original"
+  },
+  "clips:queue/005_cursed-ball_orig.mov": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "original"
+  },
+  "clips:queue/005_cursed-ball_v2.mp4": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball_v2_cover.jpg": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball_v3.mp4": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/005_cursed-ball_v3_segs.json": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/006_one-swing.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/006_one-swing_cover.jpg": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/006_one-swing_full.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "original"
+  },
+  "clips:queue/006_one-swing_orig.mov": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "original"
+  },
+  "clips:queue/006_one-swing_v2.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/006_one-swing_v2_cover.jpg": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/006_one-swing_x.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "original"
+  },
+  "clips:queue/007_ugly-bounce.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/007_ugly-bounce_cover.jpg": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/007_ugly-bounce_full.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "original"
+  },
+  "clips:queue/007_ugly-bounce_orig.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "original"
+  },
+  "clips:queue/007_ugly-bounce_v2.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/007_ugly-bounce_v2_cover.jpg": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/007_ugly-bounce_v3.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/007_ugly-bounce_v3_segs.json": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_cover.jpg": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_full.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "original"
+  },
+  "clips:queue/008_almost-eagle_v2.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_v2_cover.jpg": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_v3.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_v3_segs.json": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "edit"
+  },
+  "clips:queue/008_almost-eagle_x.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "original"
+  },
+  "clips:queue/009_new-shirt.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/009_new-shirt_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/009_new-shirt_full.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "original"
+  },
+  "clips:queue/009_new-shirt_orig.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "original"
+  },
+  "clips:queue/009_new-shirt_v2.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/009_new-shirt_v2_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/009_new-shirt_v3.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/009_new-shirt_v3_segs.json": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/010_wrong-clubs.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/010_wrong-clubs_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "edit"
+  },
+  "clips:queue/010_wrong-clubs_full.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "original"
+  },
+  "clips:queue/010_wrong-clubs_full.mp4.rms": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "original"
+  },
+  "clips:queue/011_king-of-the-world.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/011_king-of-the-world_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/011_king-of-the-world_full.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "original"
+  },
+  "clips:queue/011_king-of-the-world_v2.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/011_king-of-the-world_v2_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/011_king-of-the-world_v3.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/011_king-of-the-world_v3_cover.jpg": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_cover.jpg": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_full.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "original"
+  },
+  "clips:queue/012_great-drive_orig.mov": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "original"
+  },
+  "clips:queue/012_great-drive_v2.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_v2_cover.jpg": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_v3.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_v3_segs.json": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/012_great-drive_x.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "original"
+  },
+  "clips:queue/013_cliff-par-5.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_cover.jpg": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_full.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "original"
+  },
+  "clips:queue/013_cliff-par-5_v2.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_v2_cover.jpg": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_v3.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_v3_segs.json": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/013_cliff-par-5_x.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "original"
+  },
+  "clips:queue/014_no-pars-yet.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_cover.jpg": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_full.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "original"
+  },
+  "clips:queue/014_no-pars-yet_orig.mov": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "original"
+  },
+  "clips:queue/014_no-pars-yet_v2.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_v2_cover.jpg": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_v3.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_v3_segs.json": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/014_no-pars-yet_x.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "original"
+  },
+  "clips:queue/015_hole-in-one-attempt.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/015_hole-in-one-attempt_cover.jpg": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/015_hole-in-one-attempt_full.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "original"
+  },
+  "clips:queue/015_hole-in-one-attempt_orig.mov": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "original"
+  },
+  "clips:queue/015_hole-in-one-attempt_v2.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/015_hole-in-one-attempt_v2_cover.jpg": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/015_hole-in-one-attempt_x.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "original"
+  },
+  "clips:queue/016_help-my-swing.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_cover.jpg": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_full.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "original"
+  },
+  "clips:queue/016_help-my-swing_orig.mov": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "original"
+  },
+  "clips:queue/016_help-my-swing_v2.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_v2_cover.jpg": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_v3.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_v3_segs.json": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "edit"
+  },
+  "clips:queue/016_help-my-swing_x.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "original"
+  },
+  "clips:queue/017_bomb-city.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/017_bomb-city_cover.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/017_bomb-city_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/017_bomb-city_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/018_lag-master.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/018_lag-master_cover.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/018_lag-master_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/018_lag-master_v2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/018_lag-master_v3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/018_lag-master_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/019_cart-path.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/019_cart-path_cover.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/019_cart-path_cover_v2.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/019_cart-path_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/019_cart-path_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/020_triple-dipper.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_cover.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_cover_v2.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_cover_v3.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_v2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_v3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/020_triple-dipper_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/020_triple-dipper_xshort.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/020_triple-dipper_xshort_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/021_lucy-goosey.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/021_lucy-goosey_cover.jpg": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/021_lucy-goosey_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/021_lucy-goosey_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/021_lucy-goosey_xshort.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/021_lucy-goosey_xshort_segs.json": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "edit"
+  },
+  "clips:queue/tt_cactus_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_hole-in-one-loading_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_hot-dog_x.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 28 37 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 28 37 PM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_lock-it-in_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_pond-par-3_x.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 12 01 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 12 01 PM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_six-months_x.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/tt_six-months_xshort.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "original"
+  },
+  "clips:queue/xt_pent-bogey_x.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 24 34 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 24 34 PM.mov",
+   "kind": "original"
+  },
+  "clips:stories/story_001.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "story"
+  },
+  "clips:stories/story_003.mp4": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_004.mp4": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_005.mp4": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_006.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_007.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "story"
+  },
+  "clips:stories/story_008.mp4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "story"
+  },
+  "clips:stories/story_009.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "story"
+  },
+  "clips:stories/story_010.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "story"
+  },
+  "clips:stories/story_011.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "story"
+  },
+  "clips:stories/story_012.mp4": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_013.mp4": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_014.mp4": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_015.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_016.mp4": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "story"
+  },
+  "clips:stories/story_017.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "story"
+  },
+  "clips:stories/story_018.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "story"
+  },
+  "clips:stories/story_019.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "story"
+  },
+  "clips:stories/story_020.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "story"
+  },
+  "clips:stories/story_021.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "story"
+  },
+  "mackygolfs-mackthegolfer:trials/001_eleven-on-a-par-4_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 00 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 00 30 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/002_guess-my-score_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/042_new-shirt-four-putt_b_r3.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 35 57 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 35 57 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 35 57 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 35 57 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/013_par-3-hey-mack_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 35 57 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 35 57 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/017_par-5-blue_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/018_breaking-100_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 34 47 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/023_lucy-goosey-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/024_perfect-drive-bogey_b.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/026_triple-dipper-par-4_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/029_worst-hole-par-5_b.mp4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/030_par-5-red-shirt_a.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 28 37 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 28 37 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/034_pond-par-3-red-shirt_b.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 12 01 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 12 01 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/031_bunker-par-4-red-shirt_a.mp4": {
+   "sources": [
+    "Video Sep 23 2026, 1 04 53 PM.mov"
+   ],
+   "main": "Video Sep 23 2026, 1 04 53 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/035_mountain-par-3-red-shirt_b.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 31 40 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 31 40 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/032_pine-par-4-red-shirt_a.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 09 34 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 09 34 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/033_tree-par-4-red-shirt_a.mp4": {
+   "sources": [
+    "Video Sep 23 2026, 1 07 33 PM.mov"
+   ],
+   "main": "Video Sep 23 2026, 1 07 33 PM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/043_king-of-the-world-wipe_a.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp11_guess-my-score.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp12_golf-math.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp13_asmr-golf.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 12 2026, 7 35 57 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp13_asmr-golf_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 26 20 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 34 47 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 7 33 50 AM.mov",
+    "Video Oct 12 2026, 7 35 57 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp13_asmr-golf_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 26 20 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 34 47 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 7 33 50 AM.mov",
+    "Video Oct 12 2026, 7 35 57 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp14_golf-lingo.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp14_golf-lingo_r2.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp14_golf-lingo_r3.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp15_course-management.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp15_course-management_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp16_comment-section.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp17_texas.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp18_trees.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp19_macky-vs-nature.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp20_where-did-it-go.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp21_the-beach.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Sep 21 2026, 7 28 37 PM.mov",
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp2_delusional.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp2_delusional_r6.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp3_excuses.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp4_golf-ball.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp6_course-hates-me.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_hype_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_hype_r4.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_not-bad.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_not-bad_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_putting_r5.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp7_putting_r6.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 12 2026, 7 17 58 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp9_me-vs-putting.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp_edging_mackygolfs.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 7 33 50 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "comp",
+   "note": "from notes table"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp_wipes_mackygolfs.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "Video Oct 12 2026, 7 13 58 AM.mov",
+    "Video Oct 12 2026, 7 33 50 AM.mov",
+    "Video Oct 12 2026, 7 35 57 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 7 19 40 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 14 03 AM.mov",
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "comp",
+   "note": "from notes table"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp1_playing-with-me.mp4": {
+   "sources": [
+    "IMG_6391.MP4",
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 17 30 AM.mov",
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "comp",
+   "note": "from notes table"
+  },
+  "mackygolfs-mackthegolfer:shorties/easy-up-and-down-lag.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/easy-up-and-down.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 34 47 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/easy-up-and-down_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 34 47 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/easy-up-and-down_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 34 47 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/easy-chip.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/youtube-lessons.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/youtube-lessons_r2_ig.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/youtube-lessons_r2.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/safe-line.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/safe-line_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/improve-my-lie_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/improve-my-lie.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/not-to-putt-it.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/chipping-tip.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/fairway-to-hit.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/listening-to-the-comments_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/listening-to-the-comments.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/tree-high-enough.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/read-the-putt_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/read-the-putt.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/group-watching_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/group-watching.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/hero-shot_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/hero-shot.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:shorties/hero-shot_r2.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "shorty"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 11 2026, 9 02 57 AM (2).mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 30 44 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 33 50 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 19 40 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 00 30 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 00 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 00 30 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 11 2026, 9 02 57 AM.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 11 12 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 13 58 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 13 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 13 58 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 34 47 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 34 47 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 34 47 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 37 01 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 35 57 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 35 57 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 11 2026, 9 02 57 AM (3).mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 05 56 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 35 57 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 35 57 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 35 57 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 17 58 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 26 20 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 11 2026, 9 02 57 AM (1).mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 14 03 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 16 02 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 03 20 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 7 38 06 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 17 30 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 17 30 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Oct 12 2026, 12 22 39 AM.mov": {
+   "sources": [
+    "Video Oct 12 2026, 12 22 39 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 22 39 AM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 21 2026, 7 09 34 PM.mov": {
+   "sources": [
+    "Video Sep 21 2026, 7 09 34 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 09 34 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 21 2026, 7 12 01 PM.mov": {
+   "sources": [
+    "Video Sep 21 2026, 7 12 01 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 12 01 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 21 2026, 7 24 34 PM.mov": {
+   "sources": [
+    "Video Sep 21 2026, 7 24 34 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 24 34 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 21 2026, 7 28 37 PM.mov": {
+   "sources": [
+    "Video Sep 21 2026, 7 28 37 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 28 37 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 21 2026, 7 31 40 PM.mov": {
+   "sources": [
+    "Video Sep 21 2026, 7 31 40 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 31 40 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 23 2026, 1 04 53 PM.mov": {
+   "sources": [
+    "Video Sep 23 2026, 1 04 53 PM.mov"
+   ],
+   "main": "Video Sep 23 2026, 1 04 53 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Sep 23 2026, 1 07 33 PM.mov": {
+   "sources": [
+    "Video Sep 23 2026, 1 07 33 PM.mov"
+   ],
+   "main": "Video Sep 23 2026, 1 07 33 PM.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/IMG_6394.MP4": {
+   "sources": [
+    "IMG_6394.MP4"
+   ],
+   "main": "IMG_6394.MP4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV": {
+   "sources": [
+    "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV"
+   ],
+   "main": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV": {
+   "sources": [
+    "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV"
+   ],
+   "main": "copy_292850AB-28FF-4896-87F6-BAE3D3750515.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/0cef0458001241e4b2c974c97174e51f.MOV": {
+   "sources": [
+    "0cef0458001241e4b2c974c97174e51f.MOV"
+   ],
+   "main": "0cef0458001241e4b2c974c97174e51f.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/17ad39c4cb414ab3a7e6618492d7c7a3.MOV": {
+   "sources": [
+    "17ad39c4cb414ab3a7e6618492d7c7a3.MOV"
+   ],
+   "main": "17ad39c4cb414ab3a7e6618492d7c7a3.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV": {
+   "sources": [
+    "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV"
+   ],
+   "main": "copy_4E5F508B-EA57-40DF-AC16-CF253290B923.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV": {
+   "sources": [
+    "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV"
+   ],
+   "main": "copy_6FFD8A7C-C1C6-458D-A2EE-21B81C660A11.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/IMG_6391.MP4": {
+   "sources": [
+    "IMG_6391.MP4"
+   ],
+   "main": "IMG_6391.MP4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Aug 27 2026, 5 43 32 PM.MP4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Aug 27 2026, 5 49 54 PM.MP4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/Video Aug 27 2026, 5 51 18 PM.MP4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM.mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:trials/036_san-angelo-wipe-open_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/037_guess-my-score-wipe_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/038_handicap-par-5-wipe_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 33 50 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 33 50 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/019_beach-day-par-4_b.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/044_san-angelo-lesson-wipe_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 03 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/045_hole-in-one-attempt-wipe_a.mp4": {
+   "sources": [
+    "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV"
+   ],
+   "main": "copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/046_one-swing-pond-par-3_b.mp4": {
+   "sources": [
+    "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV"
+   ],
+   "main": "copy_2A97DD30-DDC0-49D9-8870-4C269E760E1D.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/047_reverse-round-driver-putter_b.mp4": {
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/048_guess-my-score-par-3-wipe_a.mp4": {
+   "sources": [
+    "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV"
+   ],
+   "main": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/049_kids-par-4-talk-first_b.mp4": {
+   "sources": [
+    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV"
+   ],
+   "main": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+   "kind": "edit",
+   "note": "manual"
+  }
+ }
+}
