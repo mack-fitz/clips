@@ -22,8 +22,8 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 - Assume every video has already been posted on Mack's other accounts.
 
 ## Instagram edit (always edit — duplicate-content risk)
-- Open on the attention moment if there is one (e.g. the shirt wipe) and keep it,
-  then the first full sentence. Otherwise open on the strongest action.
+- OPEN ON THE SHIRT WIPE (Mack, Oct 21 — see the rule at the bottom), then the first full sentence.
+  Only if the source has no wipe: open on the strongest action (and list the clip in the run report).
 - Never start or end a cut mid-word or mid-sentence. Cut only on measured audio
   pauses (no transcription available — snap cuts to the quietest point nearby).
 - Tighten: remove filler talk, dead air, waiting between shots. Keep every shot
@@ -52,8 +52,9 @@ Operating rules for every edit and post. Scheduled runs read this file first.
   needs ALL of: a restructured order (not just trims of the original timeline — move a later
   moment or payoff earlier, or open on a different beat than Mack's version); 25–40% of the
   runtime removed; at least 3 punch-ins (alternate 1.0 and ~1.15 zoom, not one long zoom);
-  a different ending point than the original; a different cover than Mack's. Keeping the shirt wipe is fine, but it must not open the reel the same way Mack's
-  post does if Mack's post opened on it — put a later payoff moment or a 1–2 s teaser before it.
+  a different ending point than the original; a different cover than Mack's. The shirt wipe ALWAYS opens the reel (Mack, Oct 21; replaces the old "must not open the same
+  way / later payoff or teaser before it" rule) — do the restructuring AFTER the wipe + first sentence
+  (e.g. drop the 1–2 s payoff teaser right after her opening line).
   Before scheduling, make a side-by-side contact sheet (original vs edit, one frame every 3 s)
   and Read it. If the edit still reads as the same video, re-edit. Log `diff_check` in
   state/schedule.json for the slot (what changed). Never reduce length just to be different
@@ -71,7 +72,7 @@ Operating rules for every edit and post. Scheduled runs read this file first.
 
 ## Stories
 - Post a 15s teaser story with each new IG reel ("full disaster on my page" style),
-  built from the original, no added text.
+  built from the original, no added text. Stories open on the shirt wipe (Mack, Oct 21).
 
 ## Account safety
 - No bio link (Mack's choice). No fake engagement, no automated scrolling.
@@ -167,7 +168,7 @@ in chat; if he says nothing, proceed as planned. Never wait on his approval to p
    `tools/render.sh src segs.json "" "" out.mp4` (segments `[start,end,zoom]`, zoom=1 punches
    in 15%; no text on the video). Make the cover (shirt-wipe frame + rotating grid text style,
    see the Cover bullet above). Make the uncut X/TikTok version
-   (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (shirt wipe if present)
+   (scale 1080x1920, ~4 Mbps). Make a 15s story teaser from the original (opens on the shirt wipe)
    with a dumb one-liner at y≈1450. Save to queue/NNN_slug{.mp4,_cover.jpg,_full.mp4},
    stories/story_NNN.mp4; commit + push. Add each Dropbox ID to state/processed.json.
 4. **Schedule (run tools/check_repeats.py FIRST — HARD RULE 5 at the bottom; schedule only what passes):** 2 reels per day, one midday (11:30–1:00 MT) and one evening (5:00–7:00 MT),
@@ -381,3 +382,20 @@ Oct 20 batch: raw Texas / Colorado rounds), burn speech captions in her style:
   the next open slot under this cadence (midday exists only on 3-post days).
 - Base Camp queues: golf-page days_left = edited clips ready / 2.5 per day; facebook-page days_left = FB-ready videos /
   2.5 per day; TikTok ~2.5/day. The schedule docs "golf" and "facebook" show 2 slots on 2-post days.
+
+## SHIRT WIPE OPENS EVERY @moremackygolfs REEL (Mack, Oct 21) — newest rule, wins over anything above
+Mack, Oct 21 10:01am: "everything on moremackygolfs ig should be starting with the shirt wipe" and "basically everything
+always starts with the shirt wipe except for mackthegolfer".
+- EVERY video on every golf account opens on Mack's shirt wipe, EXCEPT @mackthegolfer (never the wipe there, its comps and
+  shorties included): @moremackygolfs IG reels AND their stories; @mackygolfs IG (originals, re-edits, comps, shorties);
+  macky.golfs Facebook (edits, comps, shorties); X/TikTok/Facebook originals.
+- @moremackygolfs edits: wipe -> her first full sentence -> restructured order after that (a later payoff/teaser can sit
+  right after the opening line). Still ALL of: 25-40 % cut, >= 3 punch-ins, a different ending than hers, never cut shots or
+  swearing, her-style burned-in captions with NONE during the wipe (`--skip <wipe>`). Cover = frame one = a wipe frame.
+  This replaces "must not open the reel the same way Mack's post does" and the Oct 20 cold-open-on-a-payoff pattern.
+- Compilations and shorties (@mackygolfs, @moremackygolfs, Facebook): a shirt wipe comes first, then the bits / the moment.
+- X/TikTok/Facebook originals stay Mack's untouched files: just confirm they open on the wipe (if her original has a cold
+  open before the wipe, leave it untouched and note it in the report).
+- Source with no wipe at all: open on the strongest action as before, and list the clip in the run report.
+- Oct 21: IG 029/027/028/026/030 re-cut wipe-first (`queue/NNN_slug_w.mp4` + frame-one `_w_cover.jpg`, `_w_segs.json`) and
+  swapped on their existing Zernio posts; stories 025-030 already open on the wipe.
