@@ -1199,13 +1199,6 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 12 11 12 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
@@ -1213,14 +1206,21 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1276,13 +1276,6 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 17 58 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
@@ -1297,11 +1290,11 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
    "sources": [
-    "Video Oct 12 2026, 7 19 40 AM.mov"
+    "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
-   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
@@ -1311,14 +1304,21 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -1625,6 +1625,15 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "comp"
   },
+  "mackygolfs-mackthegolfer:compilations/comp18_trees_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
   "mackygolfs-mackthegolfer:compilations/comp19_macky-vs-nature.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov",
@@ -1651,6 +1660,15 @@
     "Video Oct 12 2026, 12 22 39 AM.mov",
     "Video Oct 12 2026, 12 14 03 AM.mov",
     "Video Oct 12 2026, 12 17 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp20_where-did-it-go_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "comp"
@@ -2731,6 +2749,22 @@
     "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
    ],
    "main": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/025_amarillo-missing-flag_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4"
+   ],
+   "main": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:stories/story_025b.mp4": {
+   "sources": [
+    "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4"
+   ],
+   "main": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
    "kind": "edit",
    "note": "manual"
   }
