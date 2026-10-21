@@ -1623,43 +1623,27 @@
    "date": "2026-10-21",
    "scheduled_mt": "08:28",
    "slot": "morning",
-   "platform": "x_tiktok",
-   "caption": "",
-   "zernio": {
-    "post": "6ad73cea33dc5d71669eb461"
-   },
-   "status": "scheduled",
-   "live_platforms": [
-    "IG story"
-   ],
-   "live_media": {
-    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_025.mp4"
-   },
-   "added_by_sync": "2026-10-20 08:13 MT"
-  },
-  {
-   "date": "2026-10-21",
-   "scheduled_mt": "08:28",
-   "slot": "morning",
    "platform": "instagram",
    "caption": "nobody in amarillo knows where the pin is. including me",
    "zernio": {
     "post": "6ad737af17bdd5719942f0ce"
    },
-   "status": "scheduled",
+   "status": "removed",
    "live_platforms": [
     "IG"
    ],
    "live_media": {
     "IG": "https://raw.githubusercontent.com/mack-fitz/clips/922a7b76a11c3e413cae74d0768f15a6d1a33176/queue/025_amarillo-missing-flag.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "synced": "2026-10-21 12:06 MT",
+   "removed_reason": "stuck 'publishing' after the Oct 21 disconnect; deleted 11:28 MT (old edit didn't open on the shirt wipe). Re-created wipe-first as 025_w Sat Oct 24 08:36 (Zernio 6ad8fa8c3a6ff2921045331a)."
   },
   {
    "platform": "x_tiktok",
    "date": "2026-10-21",
    "slot": "morning",
-   "scheduled_mt": "08:52",
+   "scheduled_mt": "08:53",
    "caption": "6 months of golf. better or worse than average? be honest",
    "kind": "original only (no @moremackygolfs reel: no usable already-posted footage left); never-on-TikTok original, posted on IG first",
    "source": "/Golf Captions/Video Oct 12 2026, 7 26 20 AM.mov (148.9 s, sha256 28438619..., H.264)",
@@ -1717,7 +1701,7 @@
    "zernio": {
     "x_tiktok": "6ad38c3282f31cc8f6dbb3bd"
    },
-   "status": "scheduled",
+   "status": "published",
    "note": " | moved from Oct 19 17:48 to Oct 21 08:52 to make room for 021 on Oct 19 evening.",
    "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one.",
    "live_platforms": [
@@ -1727,36 +1711,61 @@
    "live_media": {
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/361bffe9fd430e72d97eebc649d1321f3a9f07ed/queue/tt_six-months_xshort.mp4",
     "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/361bffe9fd430e72d97eebc649d1321f3a9f07ed/queue/tt_six-months_x.mp4"
-   }
+   },
+   "posted_mt": "2026-10-21 08:53",
+   "synced": "2026-10-21 12:06 MT"
   },
   {
    "date": "2026-10-21",
-   "scheduled_mt": "12:04",
+   "scheduled_mt": "11:28",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "",
+   "zernio": {
+    "post": "6ad73cea33dc5d71669eb461"
+   },
+   "status": "published",
+   "live_platforms": [
+    "IG story"
+   ],
+   "live_media": {
+    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_025.mp4"
+   },
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "posted_mt": "2026-10-21 11:28",
+   "synced": "2026-10-21 12:06 MT",
+   "note": "published 11:28 MT on Oct 21 when Zernio re-enqueued it after Mack's 11:27 reconnect (before it could be deleted). story_025 opens on the wipe. Sat Oct 24 gets a NEW teaser story_025b (exact-dup rule)."
+  },
+  {
+   "date": "2026-10-21",
+   "scheduled_mt": "12:05",
    "slot": "midday",
    "platform": "x_tiktok",
    "caption": "",
    "zernio": {
     "post": "6ad73ceb33dc5d71669eb469"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG story"
    ],
    "live_media": {
     "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_029.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "posted_mt": "2026-10-21 12:05",
+   "synced": "2026-10-21 12:06 MT"
   },
   {
    "date": "2026-10-21",
-   "scheduled_mt": "12:04",
+   "scheduled_mt": "12:05",
    "slot": "midday",
    "platform": "instagram",
    "caption": "cart path only and i lost my ball twice. please help",
    "zernio": {
     "post": "6ad732b3b7975e64f7fafcd8"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG"
    ],
@@ -1766,7 +1775,9 @@
    "added_by_sync": "2026-10-20 08:13 MT",
    "cover": "https://raw.githubusercontent.com/mack-fitz/clips/b966d4a99bb195c11a220d74b57855802b26062b/queue/029_cart-path-only_w_cover.jpg",
    "diff_check": "Oct 21 re-edit (Mack: every @moremackygolfs reel opens on the shirt wipe): wipe 0-1.4 + \"it's cart path only, today so I'm pissed\" (0-3.5), then the 73.6-75.7 \"holy sh*t\" tracer teaser, then the Oct 20 restructured cut. Same runtime/cut % (25-40 %), punch-ins, ending and burned-in captions as the Oct 20 edit; no captions during the wipe. Cover = frame one (wipe). Story already opens on the wipe.",
-   "note": "re-edited Oct 21: opens on the shirt wipe"
+   "note": "re-edited Oct 21: opens on the shirt wipe",
+   "posted_mt": "2026-10-21 12:05",
+   "synced": "2026-10-21 12:06 MT"
   },
   {
    "platform": "x_tiktok",
@@ -2305,9 +2316,57 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83e8cc98443a9f43cf21fc0a4d5101b62f1d095/compilations/comp14_golf-lingo_r3.mp4"
    },
    "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-24",
+   "scheduled_mt": "08:36",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "",
+   "zernio": {
+    "post": "6ad8fa8e3c132c3cc5ef2460"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "IG story"
+   ],
+   "live_media": {
+    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/5114d6ba070fc929f873d717a5b2ac6f59870cb6/stories/story_025b.mp4"
+   },
+   "added_by_sync": "2026-10-21 12:06 MT",
+   "clip": "story_025b",
+   "kind": "IG story teaser for 025_w: wipe -> opening line -> pin line -> 'hole is filled with sand' (13.6 s, captions none during wipe)",
+   "segs": "stories/story_025b_segs.json"
+  },
+  {
+   "date": "2026-10-24",
+   "scheduled_mt": "08:36",
+   "slot": "morning",
+   "platform": "instagram",
+   "caption": "nobody in amarillo knows where the pin is. including me",
+   "zernio": {
+    "post": "6ad8fa8c3a6ff2921045331a"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/clips/5b4fae2994047786b56448197420c4d024b2086f/queue/025_amarillo-missing-flag_w.mp4"
+   },
+   "added_by_sync": "2026-10-21 12:06 MT",
+   "clip": "025_amarillo-missing-flag_w",
+   "kind": "wipe-first re-edit (Mack, Oct 21): shirt wipe -> 'I'm in Amarillo' -> rest of the 025 edit; 1.8 s sand cold open dropped",
+   "segs": "queue/025_amarillo-missing-flag_w_segs.json",
+   "cover": "frame one (wipe frame) queue/025_amarillo-missing-flag_w_cover.jpg",
+   "captions": "her style, --skip 0-1.0 (none during the wipe), fix role->roll",
+   "cut_pct": 31,
+   "export": "H.264 High@4.1 4.53 Mbps, AAC 192k, faststart, 1080x1920, 122.97 s",
+   "why_sat": "Fri Oct 23 3 IG slots reserved for 022/023/024 (ig_pending_reschedule); Sat Oct 24 = 2-post day, morning slot",
+   "guard": "check_repeats --candidates PASS"
   }
  ],
- "synced_from_zernio": "2026-10-21 08:24 MT",
+ "synced_from_zernio": "2026-10-21 12:06 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -2334,6 +2393,6 @@
     "target": "2026-10-23 17:39 MT"
    }
   ],
-  "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created."
+  "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created. | Oct 21: 029 reel+story published 12:05 MT after reconnect. 025 reel deleted (stuck) and re-created wipe-first for Sat Oct 24 08:36; story_025 published 11:28 on reconnect. NOTE: 022/023/024 media above are pre-wipe edits -> need wipe-first re-cuts before re-creation."
  }
 }

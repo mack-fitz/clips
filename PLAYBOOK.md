@@ -401,3 +401,7 @@ Mack, Oct 21 11:20am: "If it's a shorty or a comp that doesn't have a wipe then 
 - Source with no wipe at all: open on the strongest action as before, and list the clip in the run report.
 - Oct 21: IG 029/027/028/026/030 re-cut wipe-first (`queue/NNN_slug_w.mp4` + frame-one `_w_cover.jpg`, `_w_segs.json`) and
   swapped on their existing Zernio posts; stories 025-030 already open on the wipe.
+- Oct 21 (after reconnect): 025 re-cut wipe-first (`queue/025_amarillo-missing-flag_w.mp4`, 1.8 s sand cold open dropped,
+  segs/cover alongside) -> Sat Oct 24 08:36 reel + new teaser `stories/story_025b.mp4` (story_025 itself published
+  11:28 Oct 21 when Zernio re-enqueued it on reconnect). 022/023/024 (ig_pending_reschedule, Fri Oct 23) are still
+  pre-wipe edits: re-cut wipe-first before re-creating them.
