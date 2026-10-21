@@ -1352,14 +1352,15 @@
    "zernio": {
     "post": "6ad73ce6bfdbb565a251b67d"
    },
-   "status": "scheduled",
+   "status": "removed",
    "live_platforms": [
     "IG story"
    ],
    "live_media": {
     "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_023.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "synced": "2026-10-21 08:24 MT"
   },
   {
    "date": "2026-10-20",
@@ -1370,14 +1371,15 @@
    "zernio": {
     "post": "6ad732ae2997a8e75e4207c8"
    },
-   "status": "scheduled",
+   "status": "removed",
    "live_platforms": [
     "IG"
    ],
    "live_media": {
     "IG": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/023_malibu-bet.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "synced": "2026-10-21 08:24 MT"
   },
   {
    "date": "2026-10-20",
@@ -1458,14 +1460,15 @@
    "zernio": {
     "post": "6ad73ce87aa41fb62b51c14b"
    },
-   "status": "scheduled",
+   "status": "removed",
    "live_platforms": [
     "IG story"
    ],
    "live_media": {
     "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_024.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "synced": "2026-10-21 08:24 MT"
   },
   {
    "date": "2026-10-20",
@@ -1476,14 +1479,15 @@
    "zernio": {
     "post": "6ad732b0b7975e64f7fafcd4"
    },
-   "status": "scheduled",
+   "status": "removed",
    "live_platforms": [
     "IG"
    ],
    "live_media": {
     "IG": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/024_gorgeous-day.mp4"
    },
-   "added_by_sync": "2026-10-20 08:13 MT"
+   "added_by_sync": "2026-10-20 08:13 MT",
+   "synced": "2026-10-21 08:24 MT"
   },
   {
    "date": "2026-10-20",
@@ -1597,21 +1601,23 @@
   },
   {
    "date": "2026-10-21",
-   "scheduled_mt": "08:13",
+   "scheduled_mt": "08:14",
    "slot": "morning",
    "platform": "facebook",
    "caption": "par 5. bunker, then a hot dog. guess my score #golf",
    "zernio": {
     "post": "6ad6b2d11f9ab33d0e825196"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/eb961f319a65f280efd83f6fe12a93cf3e3ebcf0/inbox/videos/Video%20Sep%2021%202026%2C%207%2028%2037%20PM.mov"
    },
-   "added_by_sync": "2026-10-19 23:36 MT"
+   "added_by_sync": "2026-10-19 23:36 MT",
+   "posted_mt": "2026-10-21 08:14",
+   "synced": "2026-10-21 08:24 MT"
   },
   {
    "date": "2026-10-21",
@@ -2140,7 +2146,179 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/c3740663646afdea9d89d069e0d336251da68d5f/compilations/comp13_asmr-golf_r3.mp4"
    },
    "added_by_sync": "2026-10-20 08:13 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "08:06",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "par 3. guess my score before i ruin it",
+   "zernio": {
+    "post": "6ad8cb0547e54010eb5b7c7b"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/0f9041c20e6eb87edfe63864679027e4d9d9e87d/queue/fb_par-3-together_orig.mov"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "08:41",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "called the hole in one out loud. it went exactly how you think",
+   "zernio": {
+    "post": "6ad8c985a0deb30c82a527d2"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/7a6b6ee9f955cb37056aa57c2cd68cfd037bf5a4/queue/022_hole-in-one-day_x.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "08:47",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "guess my score. if it's over a 4 keep it to yourself",
+   "zernio": {
+    "post": "6ad8c9ac47e54010eb5b76c9"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/361bffe9fd430e72d97eebc649d1321f3a9f07ed/queue/tt_lock-it-in_x.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "12:22",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "bogey or better or i chug the malibu. you can guess how this went",
+   "zernio": {
+    "post": "6ad8c9a847e54010eb5b76ad"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/0d9a8f39db124e67ba8211428e7bcc8248671378/queue/023_malibu-bet_x.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "12:31",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "bunker, then a hot dog. emotionally that's a birdie",
+   "zernio": {
+    "post": "6ad8c9ae47e54010eb5b76d3"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/48869e170e214b83ac30983f4c4fe3867f19dc04/queue/tt_hot-dog_x.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "12:48",
+   "slot": "midday",
+   "platform": "facebook",
+   "caption": "played the whole hole with a 7 iron. guess my score #golf",
+   "zernio": {
+    "post": "6ad8cb06803500978d5172a1"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/0f9041c20e6eb87edfe63864679027e4d9d9e87d/queue/fb_seven-iron_orig.mov"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "17:39",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "best lag of your life. pardon my french",
+   "zernio": {
+    "post": "6ad8c9aa47e54010eb5b76b6"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/f4f865cdc2f965a741f0a822b151d84ae3b8d523/queue/024_gorgeous-day_x.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
+  },
+  {
+   "date": "2026-10-23",
+   "scheduled_mt": "19:16",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "i know all the golf words. just not what they mean",
+   "zernio": {
+    "post": "6ad8ca1322b409002ec1d874"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83e8cc98443a9f43cf21fc0a4d5101b62f1d095/compilations/comp14_golf-lingo_r3.mp4"
+   },
+   "added_by_sync": "2026-10-21 08:24 MT"
   }
  ],
- "synced_from_zernio": "2026-10-21 08:14 MT"
+ "synced_from_zernio": "2026-10-21 08:24 MT",
+ "ig_pending_reschedule": {
+  "since": "2026-10-21",
+  "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
+  "items": [
+   {
+    "clip": "022_hole-in-one-day",
+    "media": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/022_hole-in-one-day.mp4",
+    "story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_022.mp4",
+    "caption": "called the hole in one out loud. it went exactly how you think",
+    "target": "2026-10-23 08:41 MT (TikTok uncut already there)"
+   },
+   {
+    "clip": "023_malibu-bet",
+    "media": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/023_malibu-bet.mp4",
+    "story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_023.mp4",
+    "caption": "bogey or better or i chug the malibu. you can guess how this went",
+    "target": "2026-10-23 12:22 MT"
+   },
+   {
+    "clip": "024_gorgeous-day",
+    "media": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/024_gorgeous-day.mp4",
+    "story": "https://raw.githubusercontent.com/mack-fitz/clips/fdd1c5bf12bd03cb70868fc75e4b4d32e15f0399/stories/story_024.mp4",
+    "caption": "best lag of your life. pardon my french",
+    "target": "2026-10-23 17:39 MT"
+   }
+  ],
+  "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created."
+ }
 }
