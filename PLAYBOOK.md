@@ -353,3 +353,31 @@ Oct 20 batch: raw Texas / Colorado rounds), burn speech captions in her style:
   Prefer reels never edited for @moremackygolfs; re-edits of 017-021 footage must differ from those edits.
 - Captions: these sources have no burned-in captions -> burn them in for @moremackygolfs per CAPTION STYLE (Oct 20).
 - Sources: relay with inbox/relay.txt (relay.yml, scratch/relay branch; '#delete' removes it). Heavy analysis: ingest.yml.
+
+## CLONING (Oct 21)
+- The repos hold ~7-9 GB of video at HEAD. A plain or `--depth 1` clone runs a fresh container out of disk/time (every
+  scheduled task errored out after ~20 min on Oct 21). ALWAYS clone blobless + sparse:
+  `git clone --filter=blob:none --no-checkout https://github.com/mack-fitz/<repo>; cd <repo>; git sparse-checkout init --no-cone;`
+  write `.git/info/sparse-checkout` = `/*` `!*.mp4` `!*.mov` `!*.MOV` `!*.MP4` `!*.m4v` `!*.part[0-9][0-9]` (one per line); `git checkout main`.
+  (clips: ~70 MB, ~5 s.)
+- Fetch an individual video only when you actually need it (`git show HEAD:path > file`, or the Dropbox relay). Never
+  check out all videos. Committing a new video still works: `git add --sparse path/to/file.mp4` (plain `git add` refuses
+  paths outside the sparse cone); push as usual.
+- The tools (check_repeats.py, sync_schedule.py, inventory.py, build_media_map.py, upnext.py) work without video files
+  present: they read state/*.json and list dirs via `git ls-files`.
+
+## CADENCE (Mack, Oct 21): 2.5/day
+- Mack: "change the moremackygolfs/tiktok/facebook/X posting schedule to average out to 2.5 posts per day. not 3 every
+  day anymore. some days 2 some days 3." Replaces every "3 reels/day", "3 posts/day", "~3/day" and "Never more than 3"
+  rule above for @moremackygolfs IG (reel + story), @mackygolfs X, @mackygolfs TikTok and the macky.golfs Facebook Page.
+  Does NOT apply to the @mackygolfs/@mackthegolfer IG trial reels or @heyymackyy.
+- Starts Fri Oct 23 (Oct 21-22 stay as already scheduled). Alternate 3-post and 2-post days, per platform:
+  a day is a 2-POST day when (date - 2026-10-23) in days is ODD -> Oct 23 = 3, Oct 24 = 2, Oct 25 = 3, Oct 26 = 2, ...
+  - 3-post days: morning 8:00-9:30, midday 11:30-1:00, evening 5:00-7:00 MT (as before).
+  - 2-post days: morning + evening only; NO midday. Each IG reel keeps its X/TikTok uncut post + IG story.
+  - Facebook: 3-post days = morning + lunch originals + evening approved edit; 2-post days = morning original + evening
+    edit, no lunch.
+- Never more than 3 on any day; keep 3 days scheduled. An approved compilation going to @moremackygolfs ("next") takes
+  the next open slot under this cadence (midday exists only on 3-post days).
+- Base Camp queues: golf-page days_left = edited clips ready / 2.5 per day; facebook-page days_left = FB-ready videos /
+  2.5 per day; TikTok ~2.5/day. The schedule docs "golf" and "facebook" show 2 slots on 2-post days.
