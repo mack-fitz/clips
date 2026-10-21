@@ -386,14 +386,16 @@ Oct 20 batch: raw Texas / Colorado rounds), burn speech captions in her style:
 ## SHIRT WIPE OPENS EVERY @moremackygolfs REEL (Mack, Oct 21) — newest rule, wins over anything above
 Mack, Oct 21 10:01am: "everything on moremackygolfs ig should be starting with the shirt wipe" and "basically everything
 always starts with the shirt wipe except for mackthegolfer".
-- EVERY video on every golf account opens on Mack's shirt wipe, EXCEPT @mackthegolfer (never the wipe there, its comps and
-  shorties included): @moremackygolfs IG reels AND their stories; @mackygolfs IG (originals, re-edits, comps, shorties);
-  macky.golfs Facebook (edits, comps, shorties); X/TikTok/Facebook originals.
+Mack, Oct 21 11:20am: "If it's a shorty or a comp that doesn't have a wipe then yeah you don't need to add one in."
+- EVERY regular reel/edit opens on Mack's shirt wipe, EXCEPT @mackthegolfer (never the wipe there, its comps and
+  shorties included): @moremackygolfs IG reels AND their stories; @mackygolfs IG (originals, re-edits);
+  macky.golfs Facebook edits; X/TikTok/Facebook originals.
 - @moremackygolfs edits: wipe -> her first full sentence -> restructured order after that (a later payoff/teaser can sit
   right after the opening line). Still ALL of: 25-40 % cut, >= 3 punch-ins, a different ending than hers, never cut shots or
   swearing, her-style burned-in captions with NONE during the wipe (`--skip <wipe>`). Cover = frame one = a wipe frame.
   This replaces "must not open the reel the same way Mack's post does" and the Oct 20 cold-open-on-a-payoff pattern.
-- Compilations and shorties (@mackygolfs, @moremackygolfs, Facebook): a shirt wipe comes first, then the bits / the moment.
+- Compilations and shorties are EXEMPT on every account: don't add a wipe. If a comp/shorty already contains a wipe, that's
+  fine; leave it as it is. Never a wipe on anything for @mackthegolfer.
 - X/TikTok/Facebook originals stay Mack's untouched files: just confirm they open on the wipe (if her original has a cold
   open before the wipe, leave it untouched and note it in the report).
 - Source with no wipe at all: open on the strongest action as before, and list the clip in the run report.
