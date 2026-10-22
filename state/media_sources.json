@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1213,14 +1213,14 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1255,14 +1255,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
@@ -1283,14 +1283,14 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -1634,7 +1634,26 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "comp"
   },
+  "mackygolfs-mackthegolfer:compilations/comp18_trees_r4.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
   "mackygolfs-mackthegolfer:compilations/comp19_macky-vs-nature.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp19_tweeners.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov",
     "Video Oct 11 2026, 9 02 57 AM.mp4",
@@ -1668,6 +1687,14 @@
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov",
     "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp20_where-did-it-go_r4.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov",
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
@@ -1707,6 +1734,18 @@
     "Video Oct 12 2026, 12 17 30 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp24_rules-of-golf.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov",
+    "Video Oct 12 2026, 12 05 56 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov",
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "comp"
   },
   "mackygolfs-mackthegolfer:compilations/comp2_delusional.mp4": {
