@@ -2393,6 +2393,7 @@
     "target": "2026-10-23 17:39 MT"
    }
   ],
-  "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created. | Oct 21: 029 reel+story published 12:05 MT after reconnect. 025 reel deleted (stuck) and re-created wipe-first for Sat Oct 24 08:36; story_025 published 11:28 on reconnect. NOTE: 022/023/024 media above are pre-wipe edits -> need wipe-first re-cuts before re-creation."
+  "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created. | Oct 21: 029 reel+story published 12:05 MT after reconnect. 025 reel deleted (stuck) and re-created wipe-first for Sat Oct 24 08:36; story_025 published 11:28 on reconnect. NOTE: 022/023/024 media above are pre-wipe edits -> need wipe-first re-cuts before re-creation.",
+  "resolved": "Oct 22: 022/023/024 re-cut wipe-first (queue/*_w.mp4) and re-created for Fri Oct 23 08:41/12:22/17:39 with stories 022/023/024 (already open on the wipe)."
  }
 }

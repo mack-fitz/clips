@@ -1,579 +1,584 @@
 {
-  "note": "Dropbox file IDs already turned into posts. The daily task skips these. id:...Eog = copy_2CC073A6 (clip 002).",
-  "dropbox_golfclips_processed": [
-    "id:etyjxrk_8sAAAAAAAAAEog",
-    "id:etyjxrk_8sAAAAAAAAAEoQ",
-    "id:etyjxrk_8sAAAAAAAAAEnQ",
-    "id:etyjxrk_8sAAAAAAAAAEnA",
-    "id:etyjxrk_8sAAAAAAAAAEnw",
-    "id:etyjxrk_8sAAAAAAAAAEqQ",
-    "id:etyjxrk_8sAAAAAAAAAEqg",
-    "id:etyjxrk_8sAAAAAAAAAEqw",
-    "id:etyjxrk_8sAAAAAAAAAErg",
-    "id:etyjxrk_8sAAAAAAAAAE2A",
-    "id:etyjxrk_8sAAAAAAAAAEpw",
-    "id:etyjxrk_8sAAAAAAAAAEpA",
-    "id:etyjxrk_8sAAAAAAAAAEpQ",
-    "id:etyjxrk_8sAAAAAAAAAEpg",
-    "id:etyjxrk_8sAAAAAAAAAEqA",
-    "id:etyjxrk_8sAAAAAAAAAFIA",
-    "id:etyjxrk_8sAAAAAAAAAFTg",
-    "id:etyjxrk_8sAAAAAAAAAFNw",
-    "id:etyjxrk_8sAAAAAAAAAFHQ",
-    "id:etyjxrk_8sAAAAAAAAAFTQ",
-    "id:etyjxrk_8sAAAAAAAAAFOQ",
-    "id:etyjxrk_8sAAAAAAAAAFLw",
-    "id:etyjxrk_8sAAAAAAAAAFHw",
-    "id:etyjxrk_8sAAAAAAAAAFHg",
-    "id:etyjxrk_8sAAAAAAAAAFQA",
-    "id:etyjxrk_8sAAAAAAAAAFSQ",
-    "id:etyjxrk_8sAAAAAAAAAFSg",
-    "id:etyjxrk_8sAAAAAAAAAFFg"
+ "note": "Dropbox file IDs already turned into posts. The daily task skips these. id:...Eog = copy_2CC073A6 (clip 002).",
+ "dropbox_golfclips_processed": [
+  "id:etyjxrk_8sAAAAAAAAAEog",
+  "id:etyjxrk_8sAAAAAAAAAEoQ",
+  "id:etyjxrk_8sAAAAAAAAAEnQ",
+  "id:etyjxrk_8sAAAAAAAAAEnA",
+  "id:etyjxrk_8sAAAAAAAAAEnw",
+  "id:etyjxrk_8sAAAAAAAAAEqQ",
+  "id:etyjxrk_8sAAAAAAAAAEqg",
+  "id:etyjxrk_8sAAAAAAAAAEqw",
+  "id:etyjxrk_8sAAAAAAAAAErg",
+  "id:etyjxrk_8sAAAAAAAAAE2A",
+  "id:etyjxrk_8sAAAAAAAAAEpw",
+  "id:etyjxrk_8sAAAAAAAAAEpA",
+  "id:etyjxrk_8sAAAAAAAAAEpQ",
+  "id:etyjxrk_8sAAAAAAAAAEpg",
+  "id:etyjxrk_8sAAAAAAAAAEqA",
+  "id:etyjxrk_8sAAAAAAAAAFIA",
+  "id:etyjxrk_8sAAAAAAAAAFTg",
+  "id:etyjxrk_8sAAAAAAAAAFNw",
+  "id:etyjxrk_8sAAAAAAAAAFHQ",
+  "id:etyjxrk_8sAAAAAAAAAFTQ",
+  "id:etyjxrk_8sAAAAAAAAAFOQ",
+  "id:etyjxrk_8sAAAAAAAAAFLw",
+  "id:etyjxrk_8sAAAAAAAAAFHw",
+  "id:etyjxrk_8sAAAAAAAAAFHg",
+  "id:etyjxrk_8sAAAAAAAAAFQA",
+  "id:etyjxrk_8sAAAAAAAAAFSQ",
+  "id:etyjxrk_8sAAAAAAAAAFSg",
+  "id:etyjxrk_8sAAAAAAAAAFFg"
+ ],
+ "posted_from_chat_uploads": [
+  "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
+  "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
+ ],
+ "next_clip_number": 35,
+ "clip_map": {
+  "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
+  "004_four-putt": "17ad39c4 (EnQ)",
+  "005_cursed-ball": "0cef0458 (EnA)",
+  "006_one-swing": "copy_2A97DD30 (Enw)",
+  "007_ugly-bounce": "IMG_6391 (EqQ)",
+  "008_almost-eagle": "IMG_6394 (Eqg)",
+  "009_new-shirt": "Video 5_43_32 (Eqw)",
+  "010_wrong-clubs": "Video 5_49_54 (Erg)",
+  "011_king-of-the-world": "Video 5_51_18 (E2A)",
+  "012_great-drive": "copy_292850AB (Epw)",
+  "013_cliff-par-5": "copy_4E5F508B (EpA)",
+  "014_no-pars-yet": "copy_6FFD8A7C (EpQ)",
+  "015_hole-in-one-attempt": "copy_99A28E54 (Epg)",
+  "016_help-my-swing": "copy_A526847D (EqA)",
+  "017_bomb-city": "Golf Captions 'Video Oct 12 2026, 7 19 40 AM.mov' (already posted @mackthegolfer Oct 7)",
+  "018_lag-master": "Golf Captions 'Video Oct 12 2026, 7 13 58 AM.mov' (already posted @mackthegolfer Oct 8)",
+  "019_cart-path": "Golf Captions 'Video Oct 12 2026, 7 16 02 AM.mov' (already posted @mackthegolfer Oct 11)",
+  "020_triple-dipper": "Golf Captions 'Video Oct 12 2026, 12 17 30 AM.mov' (already posted @mackygolfs Oct 14, Mack's own)",
+  "021_lucy-goosey": "Golf Captions 12 22 39 AM (E3w), proof @mackthegolfer 2026-10-10 DeUZyg5xywP (123 s)",
+  "022_hole-in-one-day": "golfclips Video Oct 03 2026, 9 51 31 PM.mp4 (id:etyjxrk_8sAAAAAAAAAFIA), proof: https://www.instagram.com/reel/DeDqBGHMxRc/",
+  "023_malibu-bet": "golfclips Video Sep 28 2026, 8 15 58 AM.mov (id:etyjxrk_8sAAAAAAAAAFTg), proof: https://www.instagram.com/reel/Dd1ZcqfRHXZ/",
+  "024_gorgeous-day": "golfclips Video Sep 29 2026, 10 23 36 PM.mov (id:etyjxrk_8sAAAAAAAAAFNw), proof: https://www.instagram.com/reel/Dd9NCdcRqTp/",
+  "025_amarillo-missing-flag": "golfclips Video Oct 03 2026, 9 51 31 PM (1).mp4 (id:etyjxrk_8sAAAAAAAAAFHQ), proof: https://www.instagram.com/reel/DeDoeT5xUeq/",
+  "026_chili-cheese-dog": "golfclips Video Sep 28 2026, 8 00 56 AM.mov (id:etyjxrk_8sAAAAAAAAAFTQ), proof: https://www.instagram.com/reel/DeJ3hCURFDS/",
+  "027_singing-par-5": "golfclips Video Sep 29 2026, 10 17 37 PM.mov (id:etyjxrk_8sAAAAAAAAAFOQ), proof: https://www.instagram.com/reel/Dd6m4LOh7kQ/",
+  "028_san-angelo-par-3": "golfclips Video Oct 11 2026, 9 02 57 AM (6).mp4 (id:etyjxrk_8sAAAAAAAAAFLw), proof: https://www.instagram.com/reel/DeURj36xvIg/",
+  "029_cart-path-only": "golfclips Video Oct 03 2026, 9 51 31 PM (3).mp4 (id:etyjxrk_8sAAAAAAAAAFHw), proof: https://www.instagram.com/reel/DeJ4gtIPIrV/",
+  "030_soaking-wet-par-5": "golfclips Video Oct 03 2026, 9 51 31 PM (2).mp4 (id:etyjxrk_8sAAAAAAAAAFHg), proof: https://www.instagram.com/reel/DeRtszFRvN9/",
+  "031_kids-par-4": "golfclips Video Sep 29 2026, 10 14 07 PM.mov (id:etyjxrk_8sAAAAAAAAAFOw; G26 kids hole, re-edit of 002 footage), proof: https://www.instagram.com/reel/Dd46Mo0RbtR/ (@mackygolfs 2026-09-29 'all children were safe (this time)', 98 s overlap)",
+  "032_lock-your-guess": "golfclips Video Oct 11 2026, 9 02 57 AM (9).mp4 (id:etyjxrk_8sAAAAAAAAAFMg; G17 = Golf Captions 12 05 56 AM), proof: https://www.instagram.com/reel/DeXwYbIxwsB/ (@mackygolfs 2026-10-11 'I will take offense if you guess high', 150 s overlap)",
+  "033_lag-master-par-3": "golfclips Video Sep 29 2026, 10 16 23 PM.mov (id:etyjxrk_8sAAAAAAAAAFOg; G27 = 003 footage), proof: https://www.instagram.com/reel/Dd6d_mRRLZj/ (@mackthegolfer 2026-09-30 'what do you thinking I'm shooting??', 84 s overlap)",
+  "034_ugly-bounce-par-5": "golfclips IMG_6391.MP4 (id:etyjxrk_8sAAAAAAAAAEqQ; same footage as 007, queue/007_ugly-bounce_orig.mp4) - wipe-first re-edit, differs from 007/_v2/_v3 (proof as for 007)"
+ },
+ "golf_captions_used": [
+  "Video Oct 12 2026, 7 19 40 AM.mov",
+  "Video Oct 12 2026, 7 13 58 AM.mov",
+  "Video Oct 12 2026, 7 16 02 AM.mov",
+  "Video Oct 12 2026, 12 17 30 AM.mov",
+  "Video Oct 12 2026, 12 22 39 AM.mov"
+ ],
+ "golf_captions_note": "Oct 15: /golfclips had nothing new, so @moremackygolfs now refills from Mack's already-posted /Golf Captions videos (proof post logged per slot in schedule.json). 3 golfclips files are byte-identical to Golf Captions files ((2).mp4=009, 9 02 57 AM.mp4=011, (3).mp4=010) - never reuse those. Skipped 12 00 30 AM (48.7 s): can't reach a 25% cut without cutting shots or payoff lines. Oct 16: 12 17 30 used for 020. Remaining already-posted Golf Captions sources can't make a rule-compliant @moremackygolfs edit: 12 03 20 / 12 11 12 / 12 14 03 only appear in our own Zernio trial posts (not proof); 12 05 56 = clip 003 and 9 02 57 (1) = clip 001 footage (already on this account); 12 00 30, 7 34 47, 7 33 50/7 38 06, 7 35 57/7 37 01, Sep 21 7 24 34 are 25-49 s with every second a shot or line, so a 25% cut would cut shots. Pool for new edits is empty until Mack adds more already-posted videos. Oct 18: 12 22 39 AM was missed by the Oct 16 note - it IS already posted (Mack's own @mackthegolfer Oct 10 reels DeUZyg5xywP / DeUa5Q3x63d, 123 s audio match) and makes a compliant edit: used for 021. Pool is now empty again.",
+ "clip_pages_only": {
+  "rule": "HARD RULE 12 (Mack, Oct 20): nothing from /golfclips (old or new) is ever used for @mackygolfs or @mackthegolfer. These files feed only @moremackygolfs, @mackygolfs X/TikTok and the Facebook Page.",
+  "file_ids": [
+   "id:etyjxrk_8sAAAAAAAAAE2A",
+   "id:etyjxrk_8sAAAAAAAAAEnA",
+   "id:etyjxrk_8sAAAAAAAAAEnQ",
+   "id:etyjxrk_8sAAAAAAAAAEnw",
+   "id:etyjxrk_8sAAAAAAAAAEoQ",
+   "id:etyjxrk_8sAAAAAAAAAEog",
+   "id:etyjxrk_8sAAAAAAAAAEpA",
+   "id:etyjxrk_8sAAAAAAAAAEpQ",
+   "id:etyjxrk_8sAAAAAAAAAEpg",
+   "id:etyjxrk_8sAAAAAAAAAEpw",
+   "id:etyjxrk_8sAAAAAAAAAEqA",
+   "id:etyjxrk_8sAAAAAAAAAEqQ",
+   "id:etyjxrk_8sAAAAAAAAAEqg",
+   "id:etyjxrk_8sAAAAAAAAAEqw",
+   "id:etyjxrk_8sAAAAAAAAAErg",
+   "id:etyjxrk_8sAAAAAAAAAFEA",
+   "id:etyjxrk_8sAAAAAAAAAFEQ",
+   "id:etyjxrk_8sAAAAAAAAAFEg",
+   "id:etyjxrk_8sAAAAAAAAAFEw",
+   "id:etyjxrk_8sAAAAAAAAAFFA",
+   "id:etyjxrk_8sAAAAAAAAAFFQ",
+   "id:etyjxrk_8sAAAAAAAAAFFg",
+   "id:etyjxrk_8sAAAAAAAAAFFw",
+   "id:etyjxrk_8sAAAAAAAAAFGA",
+   "id:etyjxrk_8sAAAAAAAAAFGQ",
+   "id:etyjxrk_8sAAAAAAAAAFGg",
+   "id:etyjxrk_8sAAAAAAAAAFGw",
+   "id:etyjxrk_8sAAAAAAAAAFHA",
+   "id:etyjxrk_8sAAAAAAAAAFHQ",
+   "id:etyjxrk_8sAAAAAAAAAFHg",
+   "id:etyjxrk_8sAAAAAAAAAFHw",
+   "id:etyjxrk_8sAAAAAAAAAFIA",
+   "id:etyjxrk_8sAAAAAAAAAFIQ",
+   "id:etyjxrk_8sAAAAAAAAAFIg",
+   "id:etyjxrk_8sAAAAAAAAAFIw",
+   "id:etyjxrk_8sAAAAAAAAAFJA",
+   "id:etyjxrk_8sAAAAAAAAAFJQ",
+   "id:etyjxrk_8sAAAAAAAAAFJg",
+   "id:etyjxrk_8sAAAAAAAAAFJw",
+   "id:etyjxrk_8sAAAAAAAAAFKA",
+   "id:etyjxrk_8sAAAAAAAAAFKQ",
+   "id:etyjxrk_8sAAAAAAAAAFKg",
+   "id:etyjxrk_8sAAAAAAAAAFKw",
+   "id:etyjxrk_8sAAAAAAAAAFLA",
+   "id:etyjxrk_8sAAAAAAAAAFLQ",
+   "id:etyjxrk_8sAAAAAAAAAFLg",
+   "id:etyjxrk_8sAAAAAAAAAFLw",
+   "id:etyjxrk_8sAAAAAAAAAFMA",
+   "id:etyjxrk_8sAAAAAAAAAFMQ",
+   "id:etyjxrk_8sAAAAAAAAAFMg",
+   "id:etyjxrk_8sAAAAAAAAAFMw",
+   "id:etyjxrk_8sAAAAAAAAAFNA",
+   "id:etyjxrk_8sAAAAAAAAAFNQ",
+   "id:etyjxrk_8sAAAAAAAAAFNg",
+   "id:etyjxrk_8sAAAAAAAAAFNw",
+   "id:etyjxrk_8sAAAAAAAAAFOA",
+   "id:etyjxrk_8sAAAAAAAAAFOQ",
+   "id:etyjxrk_8sAAAAAAAAAFOg",
+   "id:etyjxrk_8sAAAAAAAAAFOw",
+   "id:etyjxrk_8sAAAAAAAAAFPA",
+   "id:etyjxrk_8sAAAAAAAAAFPQ",
+   "id:etyjxrk_8sAAAAAAAAAFPg",
+   "id:etyjxrk_8sAAAAAAAAAFPw",
+   "id:etyjxrk_8sAAAAAAAAAFQA",
+   "id:etyjxrk_8sAAAAAAAAAFQQ",
+   "id:etyjxrk_8sAAAAAAAAAFQg",
+   "id:etyjxrk_8sAAAAAAAAAFQw",
+   "id:etyjxrk_8sAAAAAAAAAFRA",
+   "id:etyjxrk_8sAAAAAAAAAFRQ",
+   "id:etyjxrk_8sAAAAAAAAAFRg",
+   "id:etyjxrk_8sAAAAAAAAAFRw",
+   "id:etyjxrk_8sAAAAAAAAAFSA",
+   "id:etyjxrk_8sAAAAAAAAAFSQ",
+   "id:etyjxrk_8sAAAAAAAAAFSg",
+   "id:etyjxrk_8sAAAAAAAAAFSw",
+   "id:etyjxrk_8sAAAAAAAAAFTA",
+   "id:etyjxrk_8sAAAAAAAAAFTQ",
+   "id:etyjxrk_8sAAAAAAAAAFTg",
+   "id:etyjxrk_8sAAAAAAAAAFTw",
+   "id:etyjxrk_8sAAAAAAAAAFUA",
+   "id:etyjxrk_8sAAAAAAAAAFUQ",
+   "id:etyjxrk_8sAAAAAAAAAFUg",
+   "id:etyjxrk_8sAAAAAAAAAFUw"
   ],
-  "posted_from_chat_uploads": [
-    "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
-    "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
-  ],
-  "next_clip_number": 31,
-  "clip_map": {
-    "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
-    "004_four-putt": "17ad39c4 (EnQ)",
-    "005_cursed-ball": "0cef0458 (EnA)",
-    "006_one-swing": "copy_2A97DD30 (Enw)",
-    "007_ugly-bounce": "IMG_6391 (EqQ)",
-    "008_almost-eagle": "IMG_6394 (Eqg)",
-    "009_new-shirt": "Video 5_43_32 (Eqw)",
-    "010_wrong-clubs": "Video 5_49_54 (Erg)",
-    "011_king-of-the-world": "Video 5_51_18 (E2A)",
-    "012_great-drive": "copy_292850AB (Epw)",
-    "013_cliff-par-5": "copy_4E5F508B (EpA)",
-    "014_no-pars-yet": "copy_6FFD8A7C (EpQ)",
-    "015_hole-in-one-attempt": "copy_99A28E54 (Epg)",
-    "016_help-my-swing": "copy_A526847D (EqA)",
-    "017_bomb-city": "Golf Captions 'Video Oct 12 2026, 7 19 40 AM.mov' (already posted @mackthegolfer Oct 7)",
-    "018_lag-master": "Golf Captions 'Video Oct 12 2026, 7 13 58 AM.mov' (already posted @mackthegolfer Oct 8)",
-    "019_cart-path": "Golf Captions 'Video Oct 12 2026, 7 16 02 AM.mov' (already posted @mackthegolfer Oct 11)",
-    "020_triple-dipper": "Golf Captions 'Video Oct 12 2026, 12 17 30 AM.mov' (already posted @mackygolfs Oct 14, Mack's own)",
-    "021_lucy-goosey": "Golf Captions 12 22 39 AM (E3w), proof @mackthegolfer 2026-10-10 DeUZyg5xywP (123 s)",
-    "022_hole-in-one-day": "golfclips Video Oct 03 2026, 9 51 31 PM.mp4 (id:etyjxrk_8sAAAAAAAAAFIA), proof: https://www.instagram.com/reel/DeDqBGHMxRc/",
-    "023_malibu-bet": "golfclips Video Sep 28 2026, 8 15 58 AM.mov (id:etyjxrk_8sAAAAAAAAAFTg), proof: https://www.instagram.com/reel/Dd1ZcqfRHXZ/",
-    "024_gorgeous-day": "golfclips Video Sep 29 2026, 10 23 36 PM.mov (id:etyjxrk_8sAAAAAAAAAFNw), proof: https://www.instagram.com/reel/Dd9NCdcRqTp/",
-    "025_amarillo-missing-flag": "golfclips Video Oct 03 2026, 9 51 31 PM (1).mp4 (id:etyjxrk_8sAAAAAAAAAFHQ), proof: https://www.instagram.com/reel/DeDoeT5xUeq/",
-    "026_chili-cheese-dog": "golfclips Video Sep 28 2026, 8 00 56 AM.mov (id:etyjxrk_8sAAAAAAAAAFTQ), proof: https://www.instagram.com/reel/DeJ3hCURFDS/",
-    "027_singing-par-5": "golfclips Video Sep 29 2026, 10 17 37 PM.mov (id:etyjxrk_8sAAAAAAAAAFOQ), proof: https://www.instagram.com/reel/Dd6m4LOh7kQ/",
-    "028_san-angelo-par-3": "golfclips Video Oct 11 2026, 9 02 57 AM (6).mp4 (id:etyjxrk_8sAAAAAAAAAFLw), proof: https://www.instagram.com/reel/DeURj36xvIg/",
-    "029_cart-path-only": "golfclips Video Oct 03 2026, 9 51 31 PM (3).mp4 (id:etyjxrk_8sAAAAAAAAAFHw), proof: https://www.instagram.com/reel/DeJ4gtIPIrV/",
-    "030_soaking-wet-par-5": "golfclips Video Oct 03 2026, 9 51 31 PM (2).mp4 (id:etyjxrk_8sAAAAAAAAAFHg), proof: https://www.instagram.com/reel/DeRtszFRvN9/"
-  },
-  "golf_captions_used": [
-    "Video Oct 12 2026, 7 19 40 AM.mov",
-    "Video Oct 12 2026, 7 13 58 AM.mov",
-    "Video Oct 12 2026, 7 16 02 AM.mov",
-    "Video Oct 12 2026, 12 17 30 AM.mov",
-    "Video Oct 12 2026, 12 22 39 AM.mov"
-  ],
-  "golf_captions_note": "Oct 15: /golfclips had nothing new, so @moremackygolfs now refills from Mack's already-posted /Golf Captions videos (proof post logged per slot in schedule.json). 3 golfclips files are byte-identical to Golf Captions files ((2).mp4=009, 9 02 57 AM.mp4=011, (3).mp4=010) - never reuse those. Skipped 12 00 30 AM (48.7 s): can't reach a 25% cut without cutting shots or payoff lines. Oct 16: 12 17 30 used for 020. Remaining already-posted Golf Captions sources can't make a rule-compliant @moremackygolfs edit: 12 03 20 / 12 11 12 / 12 14 03 only appear in our own Zernio trial posts (not proof); 12 05 56 = clip 003 and 9 02 57 (1) = clip 001 footage (already on this account); 12 00 30, 7 34 47, 7 33 50/7 38 06, 7 35 57/7 37 01, Sep 21 7 24 34 are 25-49 s with every second a shot or line, so a 25% cut would cut shots. Pool for new edits is empty until Mack adds more already-posted videos. Oct 18: 12 22 39 AM was missed by the Oct 16 note - it IS already posted (Mack's own @mackthegolfer Oct 10 reels DeUZyg5xywP / DeUa5Q3x63d, 123 s audio match) and makes a compliant edit: used for 021. Pool is now empty again.",
-  "clip_pages_only": {
-    "rule": "HARD RULE 12 (Mack, Oct 20): nothing from /golfclips (old or new) is ever used for @mackygolfs or @mackthegolfer. These files feed only @moremackygolfs, @mackygolfs X/TikTok and the Facebook Page.",
-    "file_ids": [
-      "id:etyjxrk_8sAAAAAAAAAE2A",
-      "id:etyjxrk_8sAAAAAAAAAEnA",
-      "id:etyjxrk_8sAAAAAAAAAEnQ",
-      "id:etyjxrk_8sAAAAAAAAAEnw",
-      "id:etyjxrk_8sAAAAAAAAAEoQ",
-      "id:etyjxrk_8sAAAAAAAAAEog",
-      "id:etyjxrk_8sAAAAAAAAAEpA",
-      "id:etyjxrk_8sAAAAAAAAAEpQ",
-      "id:etyjxrk_8sAAAAAAAAAEpg",
-      "id:etyjxrk_8sAAAAAAAAAEpw",
-      "id:etyjxrk_8sAAAAAAAAAEqA",
-      "id:etyjxrk_8sAAAAAAAAAEqQ",
-      "id:etyjxrk_8sAAAAAAAAAEqg",
-      "id:etyjxrk_8sAAAAAAAAAEqw",
-      "id:etyjxrk_8sAAAAAAAAAErg",
-      "id:etyjxrk_8sAAAAAAAAAFEA",
-      "id:etyjxrk_8sAAAAAAAAAFEQ",
-      "id:etyjxrk_8sAAAAAAAAAFEg",
-      "id:etyjxrk_8sAAAAAAAAAFEw",
-      "id:etyjxrk_8sAAAAAAAAAFFA",
-      "id:etyjxrk_8sAAAAAAAAAFFQ",
-      "id:etyjxrk_8sAAAAAAAAAFFg",
-      "id:etyjxrk_8sAAAAAAAAAFFw",
-      "id:etyjxrk_8sAAAAAAAAAFGA",
-      "id:etyjxrk_8sAAAAAAAAAFGQ",
-      "id:etyjxrk_8sAAAAAAAAAFGg",
-      "id:etyjxrk_8sAAAAAAAAAFGw",
-      "id:etyjxrk_8sAAAAAAAAAFHA",
-      "id:etyjxrk_8sAAAAAAAAAFHQ",
-      "id:etyjxrk_8sAAAAAAAAAFHg",
-      "id:etyjxrk_8sAAAAAAAAAFHw",
-      "id:etyjxrk_8sAAAAAAAAAFIA",
-      "id:etyjxrk_8sAAAAAAAAAFIQ",
-      "id:etyjxrk_8sAAAAAAAAAFIg",
-      "id:etyjxrk_8sAAAAAAAAAFIw",
-      "id:etyjxrk_8sAAAAAAAAAFJA",
-      "id:etyjxrk_8sAAAAAAAAAFJQ",
-      "id:etyjxrk_8sAAAAAAAAAFJg",
-      "id:etyjxrk_8sAAAAAAAAAFJw",
-      "id:etyjxrk_8sAAAAAAAAAFKA",
-      "id:etyjxrk_8sAAAAAAAAAFKQ",
-      "id:etyjxrk_8sAAAAAAAAAFKg",
-      "id:etyjxrk_8sAAAAAAAAAFKw",
-      "id:etyjxrk_8sAAAAAAAAAFLA",
-      "id:etyjxrk_8sAAAAAAAAAFLQ",
-      "id:etyjxrk_8sAAAAAAAAAFLg",
-      "id:etyjxrk_8sAAAAAAAAAFLw",
-      "id:etyjxrk_8sAAAAAAAAAFMA",
-      "id:etyjxrk_8sAAAAAAAAAFMQ",
-      "id:etyjxrk_8sAAAAAAAAAFMg",
-      "id:etyjxrk_8sAAAAAAAAAFMw",
-      "id:etyjxrk_8sAAAAAAAAAFNA",
-      "id:etyjxrk_8sAAAAAAAAAFNQ",
-      "id:etyjxrk_8sAAAAAAAAAFNg",
-      "id:etyjxrk_8sAAAAAAAAAFNw",
-      "id:etyjxrk_8sAAAAAAAAAFOA",
-      "id:etyjxrk_8sAAAAAAAAAFOQ",
-      "id:etyjxrk_8sAAAAAAAAAFOg",
-      "id:etyjxrk_8sAAAAAAAAAFOw",
-      "id:etyjxrk_8sAAAAAAAAAFPA",
-      "id:etyjxrk_8sAAAAAAAAAFPQ",
-      "id:etyjxrk_8sAAAAAAAAAFPg",
-      "id:etyjxrk_8sAAAAAAAAAFPw",
-      "id:etyjxrk_8sAAAAAAAAAFQA",
-      "id:etyjxrk_8sAAAAAAAAAFQQ",
-      "id:etyjxrk_8sAAAAAAAAAFQg",
-      "id:etyjxrk_8sAAAAAAAAAFQw",
-      "id:etyjxrk_8sAAAAAAAAAFRA",
-      "id:etyjxrk_8sAAAAAAAAAFRQ",
-      "id:etyjxrk_8sAAAAAAAAAFRg",
-      "id:etyjxrk_8sAAAAAAAAAFRw",
-      "id:etyjxrk_8sAAAAAAAAAFSA",
-      "id:etyjxrk_8sAAAAAAAAAFSQ",
-      "id:etyjxrk_8sAAAAAAAAAFSg",
-      "id:etyjxrk_8sAAAAAAAAAFSw",
-      "id:etyjxrk_8sAAAAAAAAAFTA",
-      "id:etyjxrk_8sAAAAAAAAAFTQ",
-      "id:etyjxrk_8sAAAAAAAAAFTg",
-      "id:etyjxrk_8sAAAAAAAAAFTw",
-      "id:etyjxrk_8sAAAAAAAAAFUA",
-      "id:etyjxrk_8sAAAAAAAAAFUQ",
-      "id:etyjxrk_8sAAAAAAAAAFUg",
-      "id:etyjxrk_8sAAAAAAAAAFUw"
-    ],
-    "oct20_batch_file_ids": [
-      "id:etyjxrk_8sAAAAAAAAAFEA",
-      "id:etyjxrk_8sAAAAAAAAAFEQ",
-      "id:etyjxrk_8sAAAAAAAAAFEg",
-      "id:etyjxrk_8sAAAAAAAAAFEw",
-      "id:etyjxrk_8sAAAAAAAAAFFA",
-      "id:etyjxrk_8sAAAAAAAAAFFQ",
-      "id:etyjxrk_8sAAAAAAAAAFFg",
-      "id:etyjxrk_8sAAAAAAAAAFFw",
-      "id:etyjxrk_8sAAAAAAAAAFGA",
-      "id:etyjxrk_8sAAAAAAAAAFGQ",
-      "id:etyjxrk_8sAAAAAAAAAFGg",
-      "id:etyjxrk_8sAAAAAAAAAFGw",
-      "id:etyjxrk_8sAAAAAAAAAFHA",
-      "id:etyjxrk_8sAAAAAAAAAFHQ",
-      "id:etyjxrk_8sAAAAAAAAAFHg",
-      "id:etyjxrk_8sAAAAAAAAAFHw",
-      "id:etyjxrk_8sAAAAAAAAAFIA",
-      "id:etyjxrk_8sAAAAAAAAAFIQ",
-      "id:etyjxrk_8sAAAAAAAAAFIg",
-      "id:etyjxrk_8sAAAAAAAAAFIw",
-      "id:etyjxrk_8sAAAAAAAAAFJA",
-      "id:etyjxrk_8sAAAAAAAAAFJQ",
-      "id:etyjxrk_8sAAAAAAAAAFJg",
-      "id:etyjxrk_8sAAAAAAAAAFJw",
-      "id:etyjxrk_8sAAAAAAAAAFKA",
-      "id:etyjxrk_8sAAAAAAAAAFKQ",
-      "id:etyjxrk_8sAAAAAAAAAFKg",
-      "id:etyjxrk_8sAAAAAAAAAFKw",
-      "id:etyjxrk_8sAAAAAAAAAFLA",
-      "id:etyjxrk_8sAAAAAAAAAFLQ",
-      "id:etyjxrk_8sAAAAAAAAAFLg",
-      "id:etyjxrk_8sAAAAAAAAAFLw",
-      "id:etyjxrk_8sAAAAAAAAAFMA",
-      "id:etyjxrk_8sAAAAAAAAAFMQ",
-      "id:etyjxrk_8sAAAAAAAAAFMg",
-      "id:etyjxrk_8sAAAAAAAAAFMw",
-      "id:etyjxrk_8sAAAAAAAAAFNA",
-      "id:etyjxrk_8sAAAAAAAAAFNQ",
-      "id:etyjxrk_8sAAAAAAAAAFNg",
-      "id:etyjxrk_8sAAAAAAAAAFNw",
-      "id:etyjxrk_8sAAAAAAAAAFOA",
-      "id:etyjxrk_8sAAAAAAAAAFOQ",
-      "id:etyjxrk_8sAAAAAAAAAFOg",
-      "id:etyjxrk_8sAAAAAAAAAFOw",
-      "id:etyjxrk_8sAAAAAAAAAFPA",
-      "id:etyjxrk_8sAAAAAAAAAFPQ",
-      "id:etyjxrk_8sAAAAAAAAAFPg",
-      "id:etyjxrk_8sAAAAAAAAAFPw",
-      "id:etyjxrk_8sAAAAAAAAAFQA",
-      "id:etyjxrk_8sAAAAAAAAAFQQ",
-      "id:etyjxrk_8sAAAAAAAAAFQg",
-      "id:etyjxrk_8sAAAAAAAAAFQw",
-      "id:etyjxrk_8sAAAAAAAAAFRA",
-      "id:etyjxrk_8sAAAAAAAAAFRQ",
-      "id:etyjxrk_8sAAAAAAAAAFRg",
-      "id:etyjxrk_8sAAAAAAAAAFRw",
-      "id:etyjxrk_8sAAAAAAAAAFSA",
-      "id:etyjxrk_8sAAAAAAAAAFSQ",
-      "id:etyjxrk_8sAAAAAAAAAFSg",
-      "id:etyjxrk_8sAAAAAAAAAFSw",
-      "id:etyjxrk_8sAAAAAAAAAFTA",
-      "id:etyjxrk_8sAAAAAAAAAFTQ",
-      "id:etyjxrk_8sAAAAAAAAAFTg",
-      "id:etyjxrk_8sAAAAAAAAAFTw",
-      "id:etyjxrk_8sAAAAAAAAAFUA",
-      "id:etyjxrk_8sAAAAAAAAAFUQ",
-      "id:etyjxrk_8sAAAAAAAAAFUg",
-      "id:etyjxrk_8sAAAAAAAAAFUw"
-    ]
-  },
-  "oct20_batch": {
-    "note": "Oct 20 /golfclips batch: every file id -> source id (state/golfclips_oct20_sources.json) and what was done. CLIP-PAGES ONLY (HARD RULE 12). Daily task: files marked 'in pool' are already-posted footage still available for @moremackygolfs edits / X / TikTok / FB.",
-    "files": {
-      "id:etyjxrk_8sAAAAAAAAAFHA": {
-        "name": "Video Oct 03 2026, 8 16 49 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 30 44 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFHQ": {
-        "name": "Video Oct 03 2026, 9 51 31 PM (1).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
-        "status": "025_amarillo-missing-flag"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFJA": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (3).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFQw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (18).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFHg": {
-        "name": "Video Oct 03 2026, 9 51 31 PM (2).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
-        "status": "030_soaking-wet-par-5"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFJg": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (5).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFRA": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (19).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFHw": {
-        "name": "Video Oct 03 2026, 9 51 31 PM (3).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
-        "status": "029_cart-path-only"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFIQ": {
-        "name": "Video Oct 05 2026, 8 04 12 AM.mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFRQ": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (20).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFIA": {
-        "name": "Video Oct 03 2026, 9 51 31 PM.mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
-        "status": "022_hole-in-one-day"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFIg": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (1).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFUA": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (16).mp4",
-        "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFIw": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (2).mp4",
-        "source_id": "Video Oct 12 2026, 7 26 20 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFUQ": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (15).mp4",
-        "source_id": "Video Oct 12 2026, 7 26 20 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFJQ": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (4).mp4",
-        "source_id": "Video Oct 12 2026, 7 17 58 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFMw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (10).mp4",
-        "source_id": "Video Oct 12 2026, 7 17 58 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFJw": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (6).mp4",
-        "source_id": "Video Oct 12 2026, 7 13 58 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFNA": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (11).mp4",
-        "source_id": "Video Oct 12 2026, 7 13 58 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFKA": {
-        "name": "Video Oct 05 2026, 8 04 13 AM (7).mp4",
-        "source_id": "Video Oct 12 2026, 7 16 02 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFUg": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (14).mp4",
-        "source_id": "Video Oct 12 2026, 7 16 02 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFKQ": {
-        "name": "Video Oct 05 2026, 8 04 13 AM.mp4",
-        "source_id": "Video Oct 12 2026, 7 19 40 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFUw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (13).mp4",
-        "source_id": "Video Oct 12 2026, 7 19 40 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFNQ": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (12).mp4",
-        "source_id": "Video Oct 12 2026, 12 03 20 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFTw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (17).mp4",
-        "source_id": "golfclips/Video Oct 11 2026, 9 02 57 AM (17).mp4",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFLQ": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (4).mp4",
-        "source_id": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFLg": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (5).mp4",
-        "source_id": "Video Oct 12 2026, 12 14 03 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFLw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (6).mp4",
-        "source_id": "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4",
-        "status": "028_san-angelo-par-3"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFMA": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (7).mp4",
-        "source_id": "Video Oct 12 2026, 12 22 39 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFMQ": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (8).mp4",
-        "source_id": "Video Oct 12 2026, 12 17 30 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFMg": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (9).mp4",
-        "source_id": "Video Oct 12 2026, 12 05 56 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFRw": {
-        "name": "Video Sep 25 2026, 4 41 09 PM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFQQ": {
-        "name": "Video Sep 28 2026, 8 34 05 AM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFQA": {
-        "name": "Video Sep 28 2026, 8 36 20 AM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
-        "status": "FB fb_please-help-me-get-better (Oct 20)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFSA": {
-        "name": "Video Sep 25 2026, 4 59 28 PM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFSQ": {
-        "name": "Video Sep 25 2026, 5 01 57 PM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
-        "status": "FB fb_lock-it-in-par-5 (Oct 21)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFSg": {
-        "name": "Video Sep 25 2026, 5 07 02 PM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
-        "status": "FB fb_fell-apart-near-green (Oct 22)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFSw": {
-        "name": "Video Sep 25 2026, 5 08 36 PM.mov",
-        "source_id": "golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFTA": {
-        "name": "Video Sep 28 2026, 7 56 55 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFTQ": {
-        "name": "Video Sep 28 2026, 8 00 56 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
-        "status": "026_chili-cheese-dog"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFTg": {
-        "name": "Video Sep 28 2026, 8 15 58 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
-        "status": "023_malibu-bet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFQg": {
-        "name": "Video Sep 28 2026, 8 23 24 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFPw": {
-        "name": "Video Sep 28 2026, 8 39 29 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 8 39 29 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFPg": {
-        "name": "Video Sep 28 2026, 8 54 37 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 8 54 37 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFPQ": {
-        "name": "Video Sep 28 2026, 8 58 32 AM.mov",
-        "source_id": "golfclips/Video Sep 28 2026, 8 58 32 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFOw": {
-        "name": "Video Sep 29 2026, 10 14 07 PM.mov",
-        "source_id": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFPA": {
-        "name": "Video Sep 29 2026, 5 05 52 PM.mov",
-        "source_id": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFOg": {
-        "name": "Video Sep 29 2026, 10 16 23 PM.mov",
-        "source_id": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFOQ": {
-        "name": "Video Sep 29 2026, 10 17 37 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 17 37 PM.mov",
-        "status": "027_singing-par-5"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFOA": {
-        "name": "Video Sep 29 2026, 10 21 37 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFNw": {
-        "name": "Video Sep 29 2026, 10 23 36 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
-        "status": "024_gorgeous-day"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFNg": {
-        "name": "Video Sep 29 2026, 10 37 44 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 37 44 PM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFGw": {
-        "name": "Video Sep 29 2026, 10 39 17 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 37 44 PM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFGg": {
-        "name": "Video Sep 29 2026, 10 41 10 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 41 10 PM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFGQ": {
-        "name": "Video Sep 29 2026, 10 42 12 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 41 10 PM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFGA": {
-        "name": "Video Sep 29 2026, 10 43 52 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFEQ": {
-        "name": "Video Sep 29 2026, 11 01 07 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFEA": {
-        "name": "Video Sep 29 2026, 11 02 38 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFFw": {
-        "name": "Video Sep 29 2026, 10 47 07 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 47 07 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFFg": {
-        "name": "Video Sep 29 2026, 10 51 47 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
-        "status": "FB fb_guess-my-handicap (Oct 22)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFFQ": {
-        "name": "Video Sep 29 2026, 10 53 00 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFFA": {
-        "name": "Video Sep 29 2026, 10 54 44 PM.mov",
-        "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFEw": {
-        "name": "Video Sep 29 2026, 10 57 25 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 35 57 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFEg": {
-        "name": "Video Sep 29 2026, 10 59 12 PM.mov",
-        "source_id": "Video Oct 12 2026, 7 35 57 AM.mov",
-        "status": "NO PROOF POST -> not used on any clip page (listed in report)"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFRg": {
-        "name": "Video Oct 11 2026, 9 02 57 AM.mp4",
-        "source_id": "Video Oct 12 2026, 12 00 30 AM.mov",
-        "status": "in pool (has proof); not used yet"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFKg": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
-        "source_id": "Video Oct 11 2026, 9 02 57 AM.mp4",
-        "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM.mp4"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFKw": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
-        "source_id": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
-        "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM (2).mp4"
-      },
-      "id:etyjxrk_8sAAAAAAAAAFLA": {
-        "name": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
-        "source_id": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
-        "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM (1).mp4"
-      }
-    }
+  "oct20_batch_file_ids": [
+   "id:etyjxrk_8sAAAAAAAAAFEA",
+   "id:etyjxrk_8sAAAAAAAAAFEQ",
+   "id:etyjxrk_8sAAAAAAAAAFEg",
+   "id:etyjxrk_8sAAAAAAAAAFEw",
+   "id:etyjxrk_8sAAAAAAAAAFFA",
+   "id:etyjxrk_8sAAAAAAAAAFFQ",
+   "id:etyjxrk_8sAAAAAAAAAFFg",
+   "id:etyjxrk_8sAAAAAAAAAFFw",
+   "id:etyjxrk_8sAAAAAAAAAFGA",
+   "id:etyjxrk_8sAAAAAAAAAFGQ",
+   "id:etyjxrk_8sAAAAAAAAAFGg",
+   "id:etyjxrk_8sAAAAAAAAAFGw",
+   "id:etyjxrk_8sAAAAAAAAAFHA",
+   "id:etyjxrk_8sAAAAAAAAAFHQ",
+   "id:etyjxrk_8sAAAAAAAAAFHg",
+   "id:etyjxrk_8sAAAAAAAAAFHw",
+   "id:etyjxrk_8sAAAAAAAAAFIA",
+   "id:etyjxrk_8sAAAAAAAAAFIQ",
+   "id:etyjxrk_8sAAAAAAAAAFIg",
+   "id:etyjxrk_8sAAAAAAAAAFIw",
+   "id:etyjxrk_8sAAAAAAAAAFJA",
+   "id:etyjxrk_8sAAAAAAAAAFJQ",
+   "id:etyjxrk_8sAAAAAAAAAFJg",
+   "id:etyjxrk_8sAAAAAAAAAFJw",
+   "id:etyjxrk_8sAAAAAAAAAFKA",
+   "id:etyjxrk_8sAAAAAAAAAFKQ",
+   "id:etyjxrk_8sAAAAAAAAAFKg",
+   "id:etyjxrk_8sAAAAAAAAAFKw",
+   "id:etyjxrk_8sAAAAAAAAAFLA",
+   "id:etyjxrk_8sAAAAAAAAAFLQ",
+   "id:etyjxrk_8sAAAAAAAAAFLg",
+   "id:etyjxrk_8sAAAAAAAAAFLw",
+   "id:etyjxrk_8sAAAAAAAAAFMA",
+   "id:etyjxrk_8sAAAAAAAAAFMQ",
+   "id:etyjxrk_8sAAAAAAAAAFMg",
+   "id:etyjxrk_8sAAAAAAAAAFMw",
+   "id:etyjxrk_8sAAAAAAAAAFNA",
+   "id:etyjxrk_8sAAAAAAAAAFNQ",
+   "id:etyjxrk_8sAAAAAAAAAFNg",
+   "id:etyjxrk_8sAAAAAAAAAFNw",
+   "id:etyjxrk_8sAAAAAAAAAFOA",
+   "id:etyjxrk_8sAAAAAAAAAFOQ",
+   "id:etyjxrk_8sAAAAAAAAAFOg",
+   "id:etyjxrk_8sAAAAAAAAAFOw",
+   "id:etyjxrk_8sAAAAAAAAAFPA",
+   "id:etyjxrk_8sAAAAAAAAAFPQ",
+   "id:etyjxrk_8sAAAAAAAAAFPg",
+   "id:etyjxrk_8sAAAAAAAAAFPw",
+   "id:etyjxrk_8sAAAAAAAAAFQA",
+   "id:etyjxrk_8sAAAAAAAAAFQQ",
+   "id:etyjxrk_8sAAAAAAAAAFQg",
+   "id:etyjxrk_8sAAAAAAAAAFQw",
+   "id:etyjxrk_8sAAAAAAAAAFRA",
+   "id:etyjxrk_8sAAAAAAAAAFRQ",
+   "id:etyjxrk_8sAAAAAAAAAFRg",
+   "id:etyjxrk_8sAAAAAAAAAFRw",
+   "id:etyjxrk_8sAAAAAAAAAFSA",
+   "id:etyjxrk_8sAAAAAAAAAFSQ",
+   "id:etyjxrk_8sAAAAAAAAAFSg",
+   "id:etyjxrk_8sAAAAAAAAAFSw",
+   "id:etyjxrk_8sAAAAAAAAAFTA",
+   "id:etyjxrk_8sAAAAAAAAAFTQ",
+   "id:etyjxrk_8sAAAAAAAAAFTg",
+   "id:etyjxrk_8sAAAAAAAAAFTw",
+   "id:etyjxrk_8sAAAAAAAAAFUA",
+   "id:etyjxrk_8sAAAAAAAAAFUQ",
+   "id:etyjxrk_8sAAAAAAAAAFUg",
+   "id:etyjxrk_8sAAAAAAAAAFUw"
+  ]
+ },
+ "oct20_batch": {
+  "note": "Oct 20 /golfclips batch: every file id -> source id (state/golfclips_oct20_sources.json) and what was done. CLIP-PAGES ONLY (HARD RULE 12). Daily task: files marked 'in pool' are already-posted footage still available for @moremackygolfs edits / X / TikTok / FB.",
+  "files": {
+   "id:etyjxrk_8sAAAAAAAAAFHA": {
+    "name": "Video Oct 03 2026, 8 16 49 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 30 44 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFHQ": {
+    "name": "Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "status": "025_amarillo-missing-flag"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFJA": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (3).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFQw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (18).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (1).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFHg": {
+    "name": "Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "status": "030_soaking-wet-par-5"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFJg": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (5).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFRA": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (19).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFHw": {
+    "name": "Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "status": "029_cart-path-only"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFIQ": {
+    "name": "Video Oct 05 2026, 8 04 12 AM.mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFRQ": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (20).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFIA": {
+    "name": "Video Oct 03 2026, 9 51 31 PM.mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
+    "status": "022_hole-in-one-day"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFIg": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (1).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFUA": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (16).mp4",
+    "source_id": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFIw": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (2).mp4",
+    "source_id": "Video Oct 12 2026, 7 26 20 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFUQ": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (15).mp4",
+    "source_id": "Video Oct 12 2026, 7 26 20 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFJQ": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (4).mp4",
+    "source_id": "Video Oct 12 2026, 7 17 58 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFMw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (10).mp4",
+    "source_id": "Video Oct 12 2026, 7 17 58 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFJw": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (6).mp4",
+    "source_id": "Video Oct 12 2026, 7 13 58 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFNA": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (11).mp4",
+    "source_id": "Video Oct 12 2026, 7 13 58 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFKA": {
+    "name": "Video Oct 05 2026, 8 04 13 AM (7).mp4",
+    "source_id": "Video Oct 12 2026, 7 16 02 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFUg": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (14).mp4",
+    "source_id": "Video Oct 12 2026, 7 16 02 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFKQ": {
+    "name": "Video Oct 05 2026, 8 04 13 AM.mp4",
+    "source_id": "Video Oct 12 2026, 7 19 40 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFUw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (13).mp4",
+    "source_id": "Video Oct 12 2026, 7 19 40 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFNQ": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (12).mp4",
+    "source_id": "Video Oct 12 2026, 12 03 20 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFTw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (17).mp4",
+    "source_id": "golfclips/Video Oct 11 2026, 9 02 57 AM (17).mp4",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFLQ": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (4).mp4",
+    "source_id": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFLg": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (5).mp4",
+    "source_id": "Video Oct 12 2026, 12 14 03 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFLw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (6).mp4",
+    "source_id": "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4",
+    "status": "028_san-angelo-par-3"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFMA": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (7).mp4",
+    "source_id": "Video Oct 12 2026, 12 22 39 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFMQ": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (8).mp4",
+    "source_id": "Video Oct 12 2026, 12 17 30 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFMg": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (9).mp4",
+    "source_id": "Video Oct 12 2026, 12 05 56 AM.mov",
+    "status": "032_lock-your-guess (IG Sun Oct 25)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFRw": {
+    "name": "Video Sep 25 2026, 4 41 09 PM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFQQ": {
+    "name": "Video Sep 28 2026, 8 34 05 AM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFQA": {
+    "name": "Video Sep 28 2026, 8 36 20 AM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
+    "status": "FB fb_please-help-me-get-better (Oct 20)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFSA": {
+    "name": "Video Sep 25 2026, 4 59 28 PM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFSQ": {
+    "name": "Video Sep 25 2026, 5 01 57 PM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
+    "status": "FB fb_lock-it-in-par-5 (Oct 21)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFSg": {
+    "name": "Video Sep 25 2026, 5 07 02 PM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
+    "status": "FB fb_fell-apart-near-green (Oct 22)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFSw": {
+    "name": "Video Sep 25 2026, 5 08 36 PM.mov",
+    "source_id": "golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFTA": {
+    "name": "Video Sep 28 2026, 7 56 55 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+    "status": "FB fb_dawg-par-attempt (Sat Oct 24)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFTQ": {
+    "name": "Video Sep 28 2026, 8 00 56 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+    "status": "026_chili-cheese-dog"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFTg": {
+    "name": "Video Sep 28 2026, 8 15 58 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
+    "status": "023_malibu-bet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFQg": {
+    "name": "Video Sep 28 2026, 8 23 24 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
+    "status": "FB fb_realistic-par-4 (Sun Oct 25)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFPw": {
+    "name": "Video Sep 28 2026, 8 39 29 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 8 39 29 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFPg": {
+    "name": "Video Sep 28 2026, 8 54 37 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 8 54 37 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFPQ": {
+    "name": "Video Sep 28 2026, 8 58 32 AM.mov",
+    "source_id": "golfclips/Video Sep 28 2026, 8 58 32 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFOw": {
+    "name": "Video Sep 29 2026, 10 14 07 PM.mov",
+    "source_id": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "status": "031_kids-par-4 (IG Sat Oct 24) + X/TikTok _x (Oct 24)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFPA": {
+    "name": "Video Sep 29 2026, 5 05 52 PM.mov",
+    "source_id": "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFOg": {
+    "name": "Video Sep 29 2026, 10 16 23 PM.mov",
+    "source_id": "copy_0B6BFBE5-2F81-487A-9544-B2C587E0EE74.MOV",
+    "status": "033_lag-master-par-3 (IG Sun Oct 25)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFOQ": {
+    "name": "Video Sep 29 2026, 10 17 37 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 17 37 PM.mov",
+    "status": "027_singing-par-5"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFOA": {
+    "name": "Video Sep 29 2026, 10 21 37 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFNw": {
+    "name": "Video Sep 29 2026, 10 23 36 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
+    "status": "024_gorgeous-day"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFNg": {
+    "name": "Video Sep 29 2026, 10 37 44 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 37 44 PM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFGw": {
+    "name": "Video Sep 29 2026, 10 39 17 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 37 44 PM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFGg": {
+    "name": "Video Sep 29 2026, 10 41 10 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 41 10 PM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFGQ": {
+    "name": "Video Sep 29 2026, 10 42 12 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 41 10 PM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFGA": {
+    "name": "Video Sep 29 2026, 10 43 52 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFEQ": {
+    "name": "Video Sep 29 2026, 11 01 07 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFEA": {
+    "name": "Video Sep 29 2026, 11 02 38 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 34 47 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFFw": {
+    "name": "Video Sep 29 2026, 10 47 07 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 47 07 PM.mov",
+    "status": "FB fb_seven-iron (Oct 23) + TikTok/X (Sun Oct 25); too short for a compliant IG edit"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFFg": {
+    "name": "Video Sep 29 2026, 10 51 47 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
+    "status": "FB fb_guess-my-handicap (Oct 22)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFFQ": {
+    "name": "Video Sep 29 2026, 10 53 00 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFFA": {
+    "name": "Video Sep 29 2026, 10 54 44 PM.mov",
+    "source_id": "golfclips/Video Sep 29 2026, 10 51 47 PM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFEw": {
+    "name": "Video Sep 29 2026, 10 57 25 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 35 57 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFEg": {
+    "name": "Video Sep 29 2026, 10 59 12 PM.mov",
+    "source_id": "Video Oct 12 2026, 7 35 57 AM.mov",
+    "status": "NO PROOF POST -> not used on any clip page (listed in report)"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFRg": {
+    "name": "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "source_id": "Video Oct 12 2026, 12 00 30 AM.mov",
+    "status": "in pool (has proof); not used yet"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFKg": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "source_id": "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM.mp4"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFKw": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "source_id": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
+    "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM (2).mp4"
+   },
+   "id:etyjxrk_8sAAAAAAAAAFLA": {
+    "name": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
+    "source_id": "Video Oct 11 2026, 9 02 57 AM (1).mp4",
+    "status": "byte-identical to existing source Video Oct 11 2026, 9 02 57 AM (1).mp4"
+   }
   }
+ },
+ "oct22_note": "Oct 22 run: 022/023/024 re-cut wipe-first (_w) for Fri Oct 23 IG; new IG edits 031-034; FB originals Sep 28 7 56 55, Sep 21 7 09 34 (Golf Captions, 032 trial posted Oct 21), Sep 28 8 23 24; X/TikTok red-shirt originals 7 09 34 / 7 31 40 / 1 04 53 (posted on IG Oct 19-21). Raw relayed originals deleted after use."
 }
