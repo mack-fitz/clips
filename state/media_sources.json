@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1199,13 +1199,6 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 12 11 12 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
@@ -1213,14 +1206,21 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1255,14 +1255,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
@@ -1311,14 +1311,14 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -1416,6 +1416,13 @@
    "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
    "kind": "edit",
    "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/052_pent-bogey-par-5-red-shirt_b.mp4": {
+   "sources": [
+    "Video Sep 21 2026, 7 24 34 PM.mov"
+   ],
+   "main": "Video Sep 21 2026, 7 24 34 PM.mov",
+   "kind": "edit"
   },
   "mackygolfs-mackthegolfer:compilations/comp-jokes_explained-jokes.mp4": {
    "sources": [
