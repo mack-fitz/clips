@@ -6,32 +6,57 @@ name: relay
 # Workspace: git fetch origin scratch/relay, copy the files out (cat parts, check sha256),
 # then delete the branch: push inbox/relay.txt containing only the line #delete (the workspace proxy blocks ref deletes).
 # main only ever sees inbox/relay.txt (removed by the run).
+# LINKS MODE (Oct 23, weekly folders /Golf/for claude/...): push inbox/relay_links.tsv = name<TAB>temporary Dropbox
+# download_link URL per line (900 s, single-use), optional first line "#branch scratch/<name>" (default scratch/relay).
+# Links are downloaded BEFORE checkout (they expire). Same split/sha256 + scratch-branch output; delete a named branch
+# by pushing inbox/relay.txt with "#delete scratch/<name>".
 on:
   push:
-    paths: ['inbox/relay.txt']
+    paths: ['inbox/relay.txt', 'inbox/relay_links.tsv']
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: relay
+  group: relay-${{ github.sha }}
   cancel-in-progress: false
 jobs:
   relay:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
+      - name: Links mode - download first (they expire)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/out /tmp/req
+          echo "scratch/relay" > /tmp/req/branch
+          curl -sSL --fail -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/inbox/relay_links.tsv?ref=${{ github.sha }}" \
+            -o /tmp/req/links.tsv || { rm -f /tmp/req/links.tsv; exit 0; }
+          b=$(grep -m1 '^#branch ' /tmp/req/links.tsv | cut -d' ' -f2)
+          [ -n "$b" ] && echo "$b" > /tmp/req/branch
+          grep -v '^#' /tmp/req/links.tsv | awk -F'\t' 'NF>=2' > /tmp/req/l.tsv || true
+          : > /tmp/out/failed.txt
+          while IFS=$'\t' read -r name url; do
+            ( curl -sSL --fail --retry 3 -o "/tmp/out/$name" "$url" || { echo "FAILED $name" >> /tmp/out/failed.txt; rm -f "/tmp/out/$name"; } ) &
+          done < /tmp/req/l.tsv
+          wait
+          ls -la /tmp/out
       - uses: actions/checkout@v4
         with:
           sparse-checkout: |
-            /inbox/relay.txt
+            /inbox/
           sparse-checkout-cone-mode: false
       - name: Delete mode (inbox/relay.txt = "#delete") removes scratch/relay
         id: del
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if grep -qx '#delete' inbox/relay.txt; then
-            git push -q "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" :scratch/relay || true
+          [ -f inbox/relay.txt ] || exit 0
+          if grep -q '^#delete' inbox/relay.txt; then
+            grep '^#delete' inbox/relay.txt | while read -r _ b; do
+              git push -q "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" ":${b:-scratch/relay}" || true
+            done
             echo "only=1" >> $GITHUB_OUTPUT
           fi
       - name: Download + extract
@@ -41,6 +66,8 @@ jobs:
         run: |
           set -e
           sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc || true
+          mkdir -p /tmp/out
+          if [ -f inbox/relay.txt ]; then
           cp inbox/relay.txt /tmp/want.txt
           url=$(echo "$FOLDER_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
           case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
@@ -60,9 +87,10 @@ jobs:
                   miss.append(n); continue
               with z.open(i) as src, open(os.path.join("/tmp/out", n), "wb") as dst:
                   shutil.copyfileobj(src, dst, 1 << 22)
-          open("/tmp/out/failed.txt", "w").write("".join(f"MISSING {m}\n" for m in miss))
+          open("/tmp/out/failed.txt", "a").write("".join(f"MISSING {m}\n" for m in miss))
           PY
           rm -f /tmp/folder.zip
+          fi
           cd /tmp/out
           for f in *; do
             [ -f "$f" ] || continue
@@ -85,13 +113,13 @@ jobs:
           git init -q && git checkout -q -b scratch/relay
           git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
           git add -A && git commit -qm "relay (scratch; delete after copying)"
-          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" scratch/relay
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "HEAD:$(cat /tmp/req/branch)"
           fi
           cd $GITHUB_WORKSPACE
           git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
           for i in 1 2 3 4 5 6; do
             git fetch -q origin main && git reset -q --hard origin/main
-            git rm -q --ignore-unmatch inbox/relay.txt
+            git rm -q --ignore-unmatch inbox/relay.txt inbox/relay_links.tsv
             git commit -q -m "Relay done (files on scratch/relay) [skip ci]" || exit 0
             git push -q origin HEAD:main && exit 0
             sleep $((i * 7))
