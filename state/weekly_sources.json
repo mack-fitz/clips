@@ -1,0 +1,189 @@
+{
+ "note": "POSTING RULES v2 (Mack, Oct 23): weekly folders /Golf/for claude/<account>/week N. Source id = <account>/week N/<file>. home = the only account it debuts on; pm = afternoon only, never bounces. relay = scratch branch:file of the full-quality original.",
+ "loose_files_not_used": [
+  "/Golf/for claude/mackygolfs/copy_FCCBB361-4D4C-4E80-A18A-976504144867.MOV",
+  "/Golf/for claude/mackygolfs/copy_2AE93A75-71E9-4F65-A9F7-60ACA4E7ED64.MOV",
+  "/Golf/for claude/mackygolfs/copy_D38E0648-A11E-4BF9-9805-A5EBC164AE38.MOV",
+  "/Golf/for claude/mackygolfs/copy_8C335941-369A-4D7A-949A-9EAE9CBBEA76.MOV"
+ ],
+ "sources": {
+  "mackygolfs/week 1/pm.MOV": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "pm.MOV",
+   "pm": true,
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFYw",
+   "duration": 19.1,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/pm.MOV",
+   "relay": "scratch/relay-w1a:A_pm.MOV",
+   "has_wipe": true,
+   "already_posted": "Mack's own @mackthegolfer post Oct 2 13:51 MT (DeARiZasG4E, 'before you say it's my grip...') \u2014 15.1 s audio; 30 days clear Sun Nov 1 13:51 MT"
+  },
+  "mackygolfs/week 1/week1 -1.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week1 -1.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFug",
+   "duration": 177.7,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week1 -1.mp4",
+   "relay": "scratch/relay-w1a:A_w1-1.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week 1 -2.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week 1 -2.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF5w",
+   "duration": 109.2,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week 1 -2.mp4",
+   "relay": "scratch/relay-w1a:A_w1-2.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week1 -3.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week1 -3.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF3Q",
+   "duration": 163.4,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week1 -3.mp4",
+   "relay": "scratch/relay-w1a:A_w1-3.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week1 -4.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week1 -4.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF3A",
+   "duration": 172.1,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week1 -4.mp4",
+   "relay": "scratch/relay-w1a:A_w1-4.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week 1 -5.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week 1 -5.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF5Q",
+   "duration": 58.7,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week 1 -5.mp4",
+   "relay": "scratch/relay-w1a:A_w1-5.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week1 -6.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week1 -6.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFuQ",
+   "duration": 145.1,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week1 -6.mp4",
+   "relay": "scratch/relay-w1a:A_w1-6.mp4",
+   "has_wipe": true
+  },
+  "mackygolfs/week 1/week1 -7.mp4": {
+   "home": "ig:mackygolfs",
+   "week": 1,
+   "file": "week1 -7.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFtw",
+   "duration": 161.8,
+   "dropbox_path": "/Golf/for claude/mackygolfs/week 1/week1 -7.mp4",
+   "relay": "scratch/relay-w1a:A_w1-7.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/PM.MOV": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "PM.MOV",
+   "pm": true,
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFZA",
+   "duration": 33.7,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/PM.MOV",
+   "relay": "scratch/relay-w1b:B_PM.MOV",
+   "has_wipe": true,
+   "already_posted": "Mack's own @mackygolfs posts Sep 23 20:34 MT (Ddp0orgxnx2, 'please help') and Sep 24 09:08 MT (DdrK6V1xIWs, 'what am I doing wrong??') \u2014 26.9 s audio"
+  },
+  "mackthegolfer/week 1/week1 -1nutrl.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week1 -1nutrl.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF2w",
+   "duration": 136.1,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week1 -1nutrl.mp4",
+   "relay": "scratch/relay-w1b:B_w1-1nutrl.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week1 -2.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week1 -2.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF3g",
+   "duration": 119.6,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week1 -2.mp4",
+   "relay": "scratch/relay-w1b:B_w1-2.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week 1- 3.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week 1- 3.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF6A",
+   "duration": 166.3,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week 1- 3.mp4",
+   "relay": "scratch/relay-w1b:B_w1-3.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week 1 -4.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week 1 -4.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFuA",
+   "duration": 161.9,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week 1 -4.mp4",
+   "relay": "scratch/relay-w1b:B_w1-4.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week1- 5.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week1- 5.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFtg",
+   "duration": 110.3,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week1- 5.mp4",
+   "relay": "scratch/relay-w1b:B_w1-5.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week 1 -6.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week 1 -6.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF5A",
+   "duration": 157.7,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week 1 -6.mp4",
+   "relay": "scratch/relay-w1b:B_w1-6.mp4",
+   "has_wipe": true
+  },
+  "mackthegolfer/week 1/week1 -7.mp4": {
+   "home": "ig:mackthegolfer",
+   "week": 1,
+   "file": "week1 -7.mp4",
+   "pm": false,
+   "dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEF3w",
+   "duration": 137.4,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/week 1/week1 -7.mp4",
+   "relay": "scratch/relay-w1b:B_w1-7.mp4",
+   "has_wipe": true
+  }
+ }
+}

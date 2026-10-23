@@ -6,7 +6,8 @@ Run from anywhere; needs both repos side by side:
     /home/claude/clips  and  /home/claude/mackygolfs-mackthegolfer
     python3 tools/build_media_map.py
 
-Sources = ONLY Dropbox /Golf Captions + /golfclips (Mack's rule). Files that are the same video
+Sources = Dropbox /Golf Captions + /golfclips + (Mack, Oct 23) the weekly folders /Golf/for claude/<account>/week N
+(state/weekly_sources.json). Files that are the same video
 (byte-identical twins, alt takes of the same hole) share one source id. Fingerprint groupings are
 in ALIASES below (checked Oct 19 with tools/match_fp.py over every pair of source fingerprints).
 
@@ -127,7 +128,16 @@ def canon_map():
         for sid, e in json.load(open(reg))["sources"].items():
             for f in e["golfclips_files"]:
                 m["golfclips/" + f] = sid
+    # POSTING RULES v2 (Mack, Oct 23): weekly folders /Golf/for claude/<account>/week N. Source id =
+    # "<account>/week N/<file>" (state/weekly_sources.json: home account, pm flag, dropbox id).
+    wreg = os.path.join(CLIPS, "state", "weekly_sources.json")
+    if os.path.exists(wreg):
+        for sid in json.load(open(wreg))["sources"]:
+            m[sid] = sid
     return m
+
+
+WEEKLY = "/Golf/for claude/"
 
 
 def sources_catalog(cmap):
@@ -136,6 +146,9 @@ def sources_catalog(cmap):
         e = cat.setdefault(sid, {"files": []})
         if name.startswith("golfclips/"):
             e["files"].append(GCL + name[len("golfclips/"):])
+            continue
+        if "/week " in name:
+            e["files"].append(WEEKLY + name)
             continue
         folder = GCL if (name in GOLFCLIPS_ONLY or name.startswith("Video Aug 27")) else GC
         e["files"].append(folder + name)

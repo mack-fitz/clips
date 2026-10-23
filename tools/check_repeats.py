@@ -13,6 +13,17 @@ RULES CHECKED (Mack, Oct 20: window is 30 DAYS — replaces the Oct 19 7-day ver
     before TODAY (today Oct 20 -> nothing since Sep 20 00:00 MT), even if the slot itself lands later.
     Least-recently-used first (tools/inventory.py --free).
  R4 (HARD RULE 12, Mack Oct 20): @mackygolfs/@mackthegolfer use ONLY /Golf Captions; /golfclips-only footage fails.
+ R5 POSTING RULES v2 (Mack, Oct 23; applies to posts from Sat Oct 24 00:00 MT): weekly folders
+    /Golf/for claude/{mackygolfs,mackthegolfer}/week N (state/weekly_sources.json: each source's home account + pm flag).
+    - MORNING (07:00-08:30 MT) = a debut only: footage never on @mackygolfs/@mackthegolfer before, from THAT account's
+      own weekly folder. A repost in a morning slot fails.
+    - A weekly source debuts only on its home account (PM files: afternoon 14:00-15:30 MT only).
+    - BACK AND FORTH: any repost (footage already on @mackygolfs/@mackthegolfer) goes in an AFTERNOON slot
+      (14:00-15:30 MT), >= 30 days after the MOST RECENT pool post of it (R2), and back on an account that already
+      had it only >= 60 days after that account's FIRST post of it. Old /Golf Captions reels follow the same rule.
+    - PM files NEVER bounce: never on the other account.
+ R6 @moremackygolfs (Mack, Oct 23): footage may post there only >= 30 days after the most recent time it posted
+    anywhere on Instagram (@mackygolfs, @mackthegolfer or @moremackygolfs).
  R1 EXACT DUPLICATE, PER ACCOUNT: the same media file (same bytes, any commit/caption) never posts twice on the same
     account (any account, incl. @moremackygolfs, FB, X). Different accounts are not an R1 problem.
  Mack's own posts (not made through Zernio) count for R2/R3: they come from the analytics pull (fingerprinted
@@ -54,6 +65,11 @@ ACCOUNTS = {  # zernio account id -> pool key
     "6acc3edbda858fbeab423c5a": "x:mackygolfs", "6acc3fd31ce18dfecf0a2249": "tiktok:mackygolfs",
 }
 POOL = {"ig:mackygolfs", "ig:mackthegolfer"}  # Mack, Oct 19 final: main accounts only
+IG = POOL | {"ig:moremackygolfs"}
+V2_START = dt.datetime(2026, 10, 24, 6, tzinfo=dt.timezone.utc)  # POSTING RULES v2 apply from Sat Oct 24 00:00 MT
+MORNING = ((7, 0), (8, 30))     # Mack, Oct 23: 7:00-8:30am MT, varied
+AFTERNOON = ((14, 0), (15, 30))  # Mack, Oct 23: 2:00-3:30pm MT, varied
+BACK_DAYS = dt.timedelta(days=60)  # back on the ORIGINAL account >= 60 days after its first post there
 APPROVAL = {"ig:mackygolfs", "ig:mackthegolfer"}
 
 
@@ -264,6 +280,67 @@ def plan_uses(path, mmap):
     return out, unknown
 
 
+_WEEKLY = None
+
+
+def weekly():
+    """state/weekly_sources.json: source id -> {home: 'ig:mackygolfs'|'ig:mackthegolfer', pm: bool, week, file}"""
+    global _WEEKLY
+    if _WEEKLY is None:
+        f = os.path.join(CLIPS, "state", "weekly_sources.json")
+        _WEEKLY = json.load(open(f))["sources"] if os.path.exists(f) else {}
+    return _WEEKLY
+
+
+def local_hm(t):
+    off = 6 if t < dt.datetime(2026, 11, 1, 8, tzinfo=dt.timezone.utc) else 7
+    lt = t - dt.timedelta(hours=off)
+    return (lt.hour, lt.minute)
+
+
+def in_win(t, win):
+    return win[0] <= local_hm(t) <= win[1]
+
+
+def v2_reasons(u, uses):
+    """R5 (back and forth / morning / PM) + R6 (@moremackygolfs) for one pending post or candidate."""
+    out = []
+    if u.t < V2_START or u.kind in ("shorty", "story", "comp"):
+        return out
+    srcs = [s for s in (u.sources or []) if s]
+    if not srcs:
+        return out
+    others = [o for o in uses if o.post_id != u.post_id and o.status not in ("draft", "candidate")
+              and o.kind not in ("shorty", "story", "comp") and set(o.sources or []) & set(srcs)]
+    if u.account in POOL:
+        prior = sorted([o for o in others if o.account in POOL and o.t < u.t], key=lambda o: o.t)
+        for s in srcs:
+            w = weekly().get(s)
+            if w and w.get("pm") and u.account != w["home"]:
+                out.append(f"R5 PM file {s} never bounces: only {w['home']} (afternoon)")
+            if w and not [o for o in prior if s in o.sources] and u.account != w["home"]:
+                out.append(f"R5 {s} debuts only on its own account {w['home']}")
+            if w and w.get("pm") and not in_win(u.t, AFTERNOON):
+                out.append(f"R5 PM file {s} posts only 2:00-3:30pm MT (planned {mt(u.t)})")
+        if prior:
+            if in_win(u.t, MORNING):
+                out.append(f"R5 morning slot is for new footage from the account's own weekly folder; already posted on {prior[-1].label()}")
+            elif not in_win(u.t, AFTERNOON):
+                out.append(f"R5 repost (back and forth) must be in the 2:00-3:30pm MT afternoon window (planned {mt(u.t)})")
+            same = [o for o in prior if o.account == u.account]
+            if same and u.t - same[0].t < BACK_DAYS:
+                out.append(f"R5 back on {u.account} only {BACK_DAYS.days} days after its first post there: {same[0].label()}")
+        elif in_win(u.t, MORNING):
+            if not any(weekly().get(s, {}).get("home") == u.account for s in srcs):
+                out.append("R5 morning slot takes only new footage from this account's own weekly folder")
+    if u.account == "ig:moremackygolfs":
+        for o in others:
+            if o.account in IG and o.t <= u.t and u.t - o.t < WINDOW:
+                out.append(f"R6 @moremackygolfs < {WINDOW_DAYS} days after its most recent IG post: {o.label()}")
+                break
+    return out
+
+
 def conflict(a, b):
     """shared source footage that counts under R2, or None. Compilations and shorties are exempt (Mack, Oct 19 final)."""
     if a.kind in ("shorty", "story", "comp") or b.kind in ("shorty", "story", "comp"):
@@ -305,7 +382,8 @@ def golfclips_sources(sources):
     global _CAT
     if _CAT is None:
         _CAT = json.load(open(os.path.join(CLIPS, "state", "sources.json")))["sources"]
-    return [s for s in sources if not any(f.startswith("/Golf Captions/") for f in _CAT.get(s, {}).get("files", []))]
+    return [s for s in sources if s not in weekly()
+            and not any(f.startswith(("/Golf Captions/", "/Golf/for claude/")) for f in _CAT.get(s, {}).get("files", []))]
 
 
 def candidate_report(cands, uses, mmap, now):
@@ -321,7 +399,7 @@ def candidate_report(cands, uses, mmap, now):
                 url=None, blob=None, external=False, sources=info["sources"], main=info["main"], kind=info["kind"])
         if c["media"].startswith("mackygolfs-mackthegolfer:"):
             _, u.blob = media_key("https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/main/" + c["media"].split(":", 1)[1])
-        reasons, block_until = recent_hits(u, uses, now), t
+        reasons, block_until = recent_hits(u, uses, now) + v2_reasons(u, uses), t
         # HARD RULE 12 (Mack, Oct 20): /golfclips feeds the clip pages only, never the main accounts.
         if u.account in POOL:
             cpo = clip_pages_only_sources()
@@ -382,6 +460,8 @@ def check(uses, now, show_all=False):
             if gc:
                 v.append(("R4 (HARD RULE 12) /golfclips footage on a pending @mackygolfs/@mackthegolfer post (only /Golf Captions allowed)", a, a, ", ".join(gc)))
         if a.status in ("scheduled", "pending", "planned") and a.t > now:
+            for r in v2_reasons(a, uses):
+                v.append(("R5/R6 POSTING RULES v2 (Mack, Oct 23)", a, a, r))
             for r in recent_hits(a, uses, now):
                 v.append((f"R3 posted on @mackygolfs/@mackthegolfer in the past {WINDOW_DAYS} days", a, a, r))
     return v
@@ -402,7 +482,7 @@ def main():
     a = ap.parse_args()
     WINDOW_DAYS, WINDOW = a.window_days, dt.timedelta(days=a.window_days)
     WEEK = WINDOW
-    a.days = a.days or 2 * WINDOW_DAYS
+    a.days = a.days or max(2 * WINDOW_DAYS, BACK_DAYS.days + 30)
     now = parse_t(a.now) if a.now else dt.datetime.now(dt.timezone.utc)
     mmap = json.load(open(os.path.join(CLIPS, "state", "media_sources.json")))["media"]
     since = now - dt.timedelta(days=a.days)

@@ -1184,6 +1184,13 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 16 02 AM.mov"
@@ -1192,21 +1199,14 @@
    "kind": "edit",
    "note": "manual"
   },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
-   "kind": "edit"
-  },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
@@ -1227,13 +1227,6 @@
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 26 20 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
@@ -1241,14 +1234,21 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1276,13 +1276,6 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 17 58 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
@@ -1291,6 +1284,13 @@
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -1311,14 +1311,14 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -1671,6 +1671,16 @@
    "kind": "comp"
   },
   "mackygolfs-mackthegolfer:compilations/comp19_tweeners_r3.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov",
+    "Video Oct 11 2026, 9 02 57 AM.mp4",
+    "Video Oct 12 2026, 12 22 39 AM.mov",
+    "Video Oct 12 2026, 12 00 30 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "comp"
+  },
+  "mackygolfs-mackthegolfer:compilations/comp19_tweeners_r4.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov",
     "Video Oct 11 2026, 9 02 57 AM.mp4",
@@ -2456,6 +2466,118 @@
    "main": "Video Oct 11 2026, 9 02 57 AM.mp4",
    "kind": "original"
   },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/pm.MOV": {
+   "sources": [
+    "mackygolfs/week 1/pm.MOV"
+   ],
+   "main": "mackygolfs/week 1/pm.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week1 -1.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -1.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -1.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week 1 -2.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week 1 -2.mp4"
+   ],
+   "main": "mackygolfs/week 1/week 1 -2.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week1 -3.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -3.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -3.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week1 -4.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -4.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -4.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week 1 -5.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week 1 -5.mp4"
+   ],
+   "main": "mackygolfs/week 1/week 1 -5.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week1 -6.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -6.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -6.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/week1 -7.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -7.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -7.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/PM.MOV": {
+   "sources": [
+    "mackthegolfer/week 1/PM.MOV"
+   ],
+   "main": "mackthegolfer/week 1/PM.MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week1 -1nutrl.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -1nutrl.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -1nutrl.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week1 -2.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -2.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -2.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week 1- 3.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week 1- 3.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week 1- 3.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week 1 -4.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week 1 -4.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week 1 -4.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week1- 5.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1- 5.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1- 5.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week 1 -6.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week 1 -6.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week 1 -6.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/week1 -7.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -7.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -7.mp4",
+   "kind": "original"
+  },
   "mackygolfs-mackthegolfer:trials/036_san-angelo-wipe-open_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 03 20 AM.mov"
@@ -2885,6 +3007,22 @@
     "golfclips/Video Sep 28 2026, 8 54 37 AM.mov"
    ],
    "main": "golfclips/Video Sep 28 2026, 8 54 37 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/060_wet-par-3_a.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week 1 -5.mp4"
+   ],
+   "main": "mackygolfs/week 1/week 1 -5.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/061_lucky-hole-11_b.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1- 5.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1- 5.mp4",
    "kind": "edit",
    "note": "manual"
   }
