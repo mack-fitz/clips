@@ -85,7 +85,8 @@ def load_tool(path):
 
 
 def parse_t(s):
-    return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
+    t = dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
+    return (t if t.tzinfo else t.replace(tzinfo=dt.timezone.utc)).astimezone(dt.timezone.utc)  # offsets like -06:00 -> UTC
 
 
 def mt(t):
