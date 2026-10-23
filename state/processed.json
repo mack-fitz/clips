@@ -34,7 +34,7 @@
   "Video_Aug_27_2026__5_44_55_PM.MP4 -> clip 001",
   "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV -> clip 002"
  ],
- "next_clip_number": 35,
+ "next_clip_number": 37,
  "clip_map": {
   "003_guess-my-score": "copy_0B6BFBE5 (EoQ)",
   "004_four-putt": "17ad39c4 (EnQ)",
@@ -67,7 +67,9 @@
   "031_kids-par-4": "golfclips Video Sep 29 2026, 10 14 07 PM.mov (id:etyjxrk_8sAAAAAAAAAFOw; G26 kids hole, re-edit of 002 footage), proof: https://www.instagram.com/reel/Dd46Mo0RbtR/ (@mackygolfs 2026-09-29 'all children were safe (this time)', 98 s overlap)",
   "032_lock-your-guess": "golfclips Video Oct 11 2026, 9 02 57 AM (9).mp4 (id:etyjxrk_8sAAAAAAAAAFMg; G17 = Golf Captions 12 05 56 AM), proof: https://www.instagram.com/reel/DeXwYbIxwsB/ (@mackygolfs 2026-10-11 'I will take offense if you guess high', 150 s overlap)",
   "033_lag-master-par-3": "golfclips Video Sep 29 2026, 10 16 23 PM.mov (id:etyjxrk_8sAAAAAAAAAFOg; G27 = 003 footage), proof: https://www.instagram.com/reel/Dd6d_mRRLZj/ (@mackthegolfer 2026-09-30 'what do you thinking I'm shooting??', 84 s overlap)",
-  "034_ugly-bounce-par-5": "golfclips IMG_6391.MP4 (id:etyjxrk_8sAAAAAAAAAEqQ; same footage as 007, queue/007_ugly-bounce_orig.mp4) - wipe-first re-edit, differs from 007/_v2/_v3 (proof as for 007)"
+  "034_ugly-bounce-par-5": "golfclips IMG_6391.MP4 (id:etyjxrk_8sAAAAAAAAAEqQ; same footage as 007, queue/007_ugly-bounce_orig.mp4) - wipe-first re-edit, differs from 007/_v2/_v3 (proof as for 007)",
+  "035_no-pars-yet": "golfclips copy_6FFD8A7C (EpQ; same footage as 014) - wipe-first re-cut (Oct 23 run), proof: https://www.instagram.com/reel/DdHXAx1NKa6/ (@mackygolfs 2026-09-10 'DO I FINALLY GET A PAR TODAY ???', 61 s)",
+  "036_help-my-swing": "golfclips copy_A526847D (EqA; same footage as 016) - wipe-first re-cut (Oct 23 run), proof: https://www.instagram.com/reel/Dc87wSVNDrK/ (@mackygolfs 2026-09-06 'any tips for this UP AND COMING golfer?', 70 s)"
  },
  "golf_captions_used": [
   "Video Oct 12 2026, 7 19 40 AM.mov",
@@ -580,5 +582,6 @@
    }
   }
  },
- "oct22_note": "Oct 22 run: 022/023/024 re-cut wipe-first (_w) for Fri Oct 23 IG; new IG edits 031-034; FB originals Sep 28 7 56 55, Sep 21 7 09 34 (Golf Captions, 032 trial posted Oct 21), Sep 28 8 23 24; X/TikTok red-shirt originals 7 09 34 / 7 31 40 / 1 04 53 (posted on IG Oct 19-21). Raw relayed originals deleted after use."
+ "oct22_note": "Oct 22 run: 022/023/024 re-cut wipe-first (_w) for Fri Oct 23 IG; new IG edits 031-034; FB originals Sep 28 7 56 55, Sep 21 7 09 34 (Golf Captions, 032 trial posted Oct 21), Sep 28 8 23 24; X/TikTok red-shirt originals 7 09 34 / 7 31 40 / 1 04 53 (posted on IG Oct 19-21). Raw relayed originals deleted after use.",
+ "oct23_note": "Oct 23 run: no new /golfclips files. Mon Oct 26 (2-post day) filled: IG 036 (016 re-cut) 08:52 + 035 (014 re-cut) 17:48, wipe-first, 27% cut each, her own burned captions; 005 cursed-ball rejected as too tight for a 25% cut without cutting shots/talk. TikTok/X originals: tt_play-hole-3 = golfclips Sep 28 8 54 37 (G24, proof @mackthegolfer Sep 28 Dd1ZcqfRHXZ + @mackygolfs Oct 2 Dd_1Jz5xaa8), tt_par-4-guess = golfclips Sep 25 4 41 09 (G18, proof @mackygolfs Sep 29 Dd4CVkmxtX7); both first time on TikTok. FB Mon: tt_play-hole-3 original morning + comp18_trees_r4 evening. Raw relayed originals deleted after use."
 }
