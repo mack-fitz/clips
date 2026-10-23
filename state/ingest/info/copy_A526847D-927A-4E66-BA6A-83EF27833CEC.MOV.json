@@ -1,0 +1,15 @@
+{
+ "name": "copy_A526847D-927A-4E66-BA6A-83EF27833CEC.MOV",
+ "bytes": 98155134,
+ "sha256": "d3df9e567d17805b6ddfb6f61ec2edecb057a6457ca35fe1783060517e38e2e0",
+ "dropbox_content_hash": "c41bb1cf9926eafaae46512408c7629282b92f6b8d877513852a210631f4183d",
+ "duration": 70.05,
+ "vcodec": "hevc",
+ "width": 1080,
+ "height": 1920,
+ "rotation": 0,
+ "fps": "30/1",
+ "bit_rate": 11209084,
+ "acodec": "aac",
+ "creation_time": "2026-08-20T14:35:07Z"
+}
