@@ -1,0 +1,70 @@
+name: zupload
+# Full-quality upload to Zernio (Mack, Oct 23: "everything uploaded at the highest quality").
+# The workspace proxy can't reach Zernio's storage (R2 presigned PUT), so the runner does it.
+# Push inbox/zupload.tsv, one line per file:
+#   <scratch branch><TAB><file name on that branch><TAB><presigned uploadUrl><TAB><content type>
+# (uploadUrl from Zernio media_get_media_presigned_url, valid 1 h). The runner fetches the file from the scratch
+# branch (rejoins <name>.partNN, checks <name>.sha256 when present), PUTs it untouched, and writes the result to
+# state/zupload_log.tsv on main (name, bytes, sha256, HTTP code). Use the matching publicUrl in the Zernio post
+# within 7 days (Zernio keeps temp uploads 7 days; creating/scheduling a post copies them to permanent storage).
+on:
+  push:
+    paths: ['inbox/zupload.tsv']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: zupload-${{ github.sha }}
+  cancel-in-progress: false
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/
+            /state/zupload_log.tsv
+          sparse-checkout-cone-mode: false
+      - name: Upload
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -u
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc || true
+          cp inbox/zupload.tsv /tmp/req.tsv
+          : > /tmp/log.tsv
+          mkdir -p /tmp/br
+          for b in $(cut -f1 /tmp/req.tsv | sort -u); do
+            d="/tmp/br/$(echo "$b" | tr '/' '_')"
+            git clone -q --depth 1 --branch "$b" "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$d" || echo "NO BRANCH $b"
+          done
+          while IFS=$'\t' read -r b name url ctype; do
+            [ -z "$b" ] && continue
+            d="/tmp/br/$(echo "$b" | tr '/' '_')"
+            f="/tmp/up.bin"; rm -f "$f"
+            if [ -f "$d/$name" ]; then cp "$d/$name" "$f"
+            elif ls "$d/$name".part[0-9][0-9] >/dev/null 2>&1; then cat "$d/$name".part[0-9][0-9] > "$f"
+            else printf '%s\t0\t-\tMISSING\n' "$name" >> /tmp/log.tsv; continue; fi
+            sha=$(sha256sum "$f" | cut -d' ' -f1)
+            if [ -f "$d/$name.sha256" ] && [ "$(cat "$d/$name.sha256")" != "$sha" ]; then
+              printf '%s\t%s\t%s\tSHA_MISMATCH\n' "$name" "$(stat -c %s "$f")" "$sha" >> /tmp/log.tsv; continue; fi
+            code=$(curl -sS -o /tmp/put.out -w '%{http_code}' --retry 3 -X PUT -H "Content-Type: $ctype" --upload-file "$f" "$url" || echo ERR)
+            printf '%s\t%s\t%s\t%s\n' "$name" "$(stat -c %s "$f")" "$sha" "$code" >> /tmp/log.tsv
+          done < /tmp/req.tsv
+          cat /tmp/log.tsv
+      - name: Log + clear the request
+        run: |
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p state
+            { date -u +%FT%TZ | sed 's/^/# run /'; cat /tmp/log.tsv; } >> state/zupload_log.tsv
+            git add state/zupload_log.tsv
+            git rm -q --ignore-unmatch inbox/zupload.tsv
+            git commit -q -m "zupload done [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
