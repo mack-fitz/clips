@@ -1,0 +1,74 @@
+name: transcribe_scratch
+# Transcribe files already relayed to a scratch branch (weekly-folder PM files etc.; Oct 24).
+# Push inbox/transcribe.tsv: one line per file: <scratch branch><TAB><file name on that branch>
+# Writes state/transcripts/<file name>.json (faster-whisper small.en, word timestamps; same format as ingest.yml)
+# on main and removes the request. Only small JSON enters main.
+on:
+  push:
+    paths: ['inbox/transcribe.tsv']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: transcribe-${{ github.sha }}
+  cancel-in-progress: false
+jobs:
+  tr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/
+            /state/transcripts/
+          sparse-checkout-cone-mode: false
+      - name: Fetch files
+        run: |
+          [ -f inbox/transcribe.tsv ] || exit 0
+          mkdir -p /tmp/v
+          grep -v '^#' inbox/transcribe.tsv | awk -F'\t' 'NF>=2' | while IFS=$'\t' read -r b n; do
+            git fetch -q --depth 1 origin "$b"
+            if git cat-file -e "FETCH_HEAD:$n" 2>/dev/null; then
+              git show "FETCH_HEAD:$n" > "/tmp/v/$n"
+            else
+              for p in $(git ls-tree --name-only FETCH_HEAD | grep -F "$n.part" | sort); do git show "FETCH_HEAD:$p" >> "/tmp/v/$n"; done
+            fi
+          done
+          ls -la /tmp/v
+      - name: Transcribe
+        run: |
+          [ -d /tmp/v ] || exit 0
+          pip install -q faster-whisper numpy
+          mkdir -p state/transcripts
+          python3 - <<'PY'
+          import os, json, subprocess
+          import numpy as np
+          from faster_whisper import WhisperModel
+          m = WhisperModel("small.en", device="cpu", compute_type="int8")
+          for n in sorted(os.listdir("/tmp/v")):
+              f = os.path.join("/tmp/v", n)
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-ac", "1", "-ar", "16000", "-f", "s16le", "/tmp/a.raw"])
+              segs, ti = m.transcribe(np.fromfile("/tmp/a.raw", dtype=np.int16).astype(np.float32) / 32768.0,
+                                      word_timestamps=True, vad_filter=False, beam_size=5)
+              out = {"source": n, "duration": ti.duration, "segments": []}
+              for s in segs:
+                  out["segments"].append({"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip(),
+                                          "words": [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]})
+              json.dump(out, open(f"state/transcripts/{n}.json", "w"), indent=0, ensure_ascii=False)
+              print("done", n, len(out["segments"]), flush=True)
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          mkdir -p /tmp/keep && cp -r state/transcripts /tmp/keep/ 2>/dev/null || true
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p state/transcripts && cp -r /tmp/keep/transcripts/. state/transcripts/ 2>/dev/null || true
+            git rm -q --ignore-unmatch inbox/transcribe.tsv
+            git add state/transcripts
+            git commit -q -m "Transcripts (scratch files) [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
