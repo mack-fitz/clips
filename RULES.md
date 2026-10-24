@@ -29,6 +29,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **Weekly folders** (POSTING RULES v2, Oct 23): /Golf/for claude/mackygolfs/week N and /Golf/for claude/mackthegolfer/week N
   (ns:3302941984//Golf/for claude/<account>/week N), 7+ new reels each. File names/order are just her counting.
   Loose files directly in /Golf/for claude/<account>/ are NOT used (list them for Mack). Registry: clips state/weekly_sources.json.
+  Mack ADDS files to existing week folders too (Oct 23: 4 extra PM files landed in week 1 that afternoon): every morning run
+  compares EVERY week folder's files (Dropbox file id) with the registry, not just new folders, and registers anything new.
+  Any file whose name starts with "PM"/"pm" (e.g. "PM (1).MOV", "PM - never post as a bounce.mov") is a PM file.
 - **/Golf Captions**: older captioned reels; @mackygolfs/@mackthegolfer may use these (afternoon bounces, comps, shorties).
 - **/golfclips**: CLIP PAGES ONLY (@moremackygolfs, X, TikTok, Facebook). Never anything from /golfclips on @mackygolfs/@mackthegolfer
   (no reels, re-edits, comp or shorty bits).
