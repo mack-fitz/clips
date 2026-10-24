@@ -114,7 +114,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Reviewer previews: 720 px, < 20 MB. Never cut a 0.6 s wipe by accident: check the first second at 5–10 fps.
 
 ## 8. The Reviewer (approval flow)
-- Page https://claude.ai/artifact/KFJoqNkDr6kpxYDkpniAZ7, ArtifactData collections "reels" (id YYYY-MM-DD_{A|B}_{am|pm})
+- Page https://claude.ai/artifact/Ez1N5G9ywcawNCaEjT15qg, ArtifactData collections "reels" (id YYYY-MM-DD_{A|B}_{am|pm})
   and "compilations" (comps + shorties, type "shorty").
 - Everything for @mackygolfs/@mackthegolfer goes on it first.
 - NO ZERNIO DRAFTS (Mack, Oct 23 — drafts show in her scheduler and confuse her): Never create a Zernio post (draft or
