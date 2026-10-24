@@ -971,7 +971,7 @@
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "typewriter \"who invented the triple dipper\" (below chest, y 0.77)",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "published",
@@ -1415,7 +1415,7 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts.",
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts.",
    "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one.",
    "live_platforms": [
     "TikTok"
@@ -1523,7 +1523,7 @@
    },
    "status": "published",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before",
+   "note": "filled by nightly check Oct 17; 7 33 50 \u2248 7 38 06 alt take \u2014 neither on TikTok before",
    "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one.",
    "live_platforms": [
     "TikTok"
@@ -3106,5 +3106,394 @@
   ],
   "also": "Oct 21-22 IG reels (025,029,027,028,026,030) stay scheduled; any that fail before reconnect must be re-created. | Oct 21: 029 reel+story published 12:05 MT after reconnect. 025 reel deleted (stuck) and re-created wipe-first for Sat Oct 24 08:36; story_025 published 11:28 on reconnect. NOTE: 022/023/024 media above are pre-wipe edits -> need wipe-first re-cuts before re-creation.",
   "resolved": "Oct 22: 022/023/024 re-cut wipe-first (queue/*_w.mp4) and re-created for Fri Oct 23 08:41/12:22/17:39 with stories 022/023/024 (already open on the wipe)."
+ },
+ "weekly_plan": {
+  "note": "POSTING RULES v2 (Mack, Oct 23): week-1 reels' uncut originals (wipe kept, first-frame cover) on TikTok @mackygolfs + Facebook Page macky.golfs, the day after each IG post. Schedule each only AFTER its IG version is approved on The Reviewer.",
+  "week1": [
+   {
+    "ig_item": "060",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-24",
+    "ig_time_mt": "07:12",
+    "source": "/Golf/for claude/mackygolfs/week 1/week 1 -5.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-5.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-25",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-25",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "061",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-24",
+    "ig_time_mt": "07:51",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week1- 5.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-5.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-25",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-25",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "062",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-24",
+    "ig_time_mt": "14:37",
+    "source": "/Golf/for claude/mackthegolfer/week 1/PM.MOV",
+    "original_file": "scratch/relay-w1b:B_PM.MOV",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-25",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-25",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "070",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-25",
+    "ig_time_mt": "07:26",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week1 -7.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-7.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-26",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-26",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "063",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-25",
+    "ig_time_mt": "08:04",
+    "source": "/Golf/for claude/mackygolfs/week 1/week1 -1.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-1.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-26",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-26",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "064",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-26",
+    "ig_time_mt": "07:38",
+    "source": "/Golf/for claude/mackygolfs/week 1/week 1 -2.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-2.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-27",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-27",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "071",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-26",
+    "ig_time_mt": "08:17",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week 1 -4.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-4.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-27",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-27",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "065",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-27",
+    "ig_time_mt": "07:03",
+    "source": "/Golf/for claude/mackygolfs/week 1/week1 -3.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-3.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-28",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-28",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "072",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-27",
+    "ig_time_mt": "07:44",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week1 -1nutrl.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-1nutrl.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-28",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-28",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "073",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-28",
+    "ig_time_mt": "07:09",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week1 -2.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-2.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-29",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-29",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "067",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-28",
+    "ig_time_mt": "08:22",
+    "source": "/Golf/for claude/mackygolfs/week 1/week1 -6.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-6.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-29",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-29",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "068",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-29",
+    "ig_time_mt": "07:47",
+    "source": "/Golf/for claude/mackygolfs/week 1/week1 -7.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-7.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-30",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-30",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "074",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-29",
+    "ig_time_mt": "08:28",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week 1- 3.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-3.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-30",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-30",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "066",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-10-30",
+    "ig_time_mt": "07:19",
+    "source": "/Golf/for claude/mackygolfs/week 1/week1 -4.mp4",
+    "original_file": "scratch/relay-w1a:A_w1-4.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-31",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-31",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "075",
+    "ig_account": "@mackthegolfer",
+    "ig_date": "2026-10-30",
+    "ig_time_mt": "07:58",
+    "source": "/Golf/for claude/mackthegolfer/week 1/week 1 -6.mp4",
+    "original_file": "scratch/relay-w1b:B_w1-6.mp4",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-10-31",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-10-31",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   },
+   {
+    "ig_item": "069",
+    "ig_account": "@mackygolfs",
+    "ig_date": "2026-11-01",
+    "ig_time_mt": "14:16",
+    "source": "/Golf/for claude/mackygolfs/week 1/pm.MOV",
+    "original_file": "scratch/relay-w1a:A_pm.MOV",
+    "size_note": "original >100 MB: Zernio presigned upload via zupload",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-02",
+     "slot": "after IG (day after)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned - schedule only after the IG version is approved"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-02",
+     "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
+     "status": "planned - after IG approval"
+    },
+    "wipe": "kept (her untouched original)",
+    "caption": "short dry lowercase; may reuse the IG caption idea"
+   }
+  ]
  }
 }
