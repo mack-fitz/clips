@@ -45,7 +45,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 2. NEVER cut or bleep swearing.
 3. NEVER cut mid-word or mid-sentence; cut only at real gaps (transcript word times / tools/snap.py).
 4. The same media file (same bytes) never posts twice on the same account.
-5. Run the GUARD (section 9) before scheduling, moving, promoting a draft or putting anything on The Reviewer. FAIL = leave the slot empty and say why.
+5. Run the GUARD (section 9) before creating or scheduling a post, moving one, or putting anything on The Reviewer. FAIL = leave the slot empty and say why.
 6. Nothing posts on @mackygolfs/@mackthegolfer unless Mack approved that exact item (video, caption, cover) on The Reviewer.
 7. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs.
 8. Leave a slot empty rather than break a rule. Report it.
@@ -116,12 +116,17 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 ## 8. The Reviewer (approval flow)
 - Page https://claude.ai/artifact/KFJoqNkDr6kpxYDkpniAZ7, ArtifactData collections "reels" (id YYYY-MM-DD_{A|B}_{am|pm})
   and "compilations" (comps + shorties, type "shorty").
-- Everything for @mackygolfs/@mackthegolfer goes on it first. Unapproved = Zernio DRAFT (trialParams MANUAL) so approval -> schedule is instant.
+- Everything for @mackygolfs/@mackthegolfer goes on it first.
+- NO ZERNIO DRAFTS (Mack, Oct 23 — drafts show in her scheduler and confuse her): Never create a Zernio post (draft or
+  scheduled) for anything Mack hasn't approved. On approval, create and schedule it in one step (posts_create_post with
+  scheduled_for, trialParams MANUAL). Until then keep the full-quality file ready (Zernio temp upload / scratch branch, noted
+  on the review doc). Only exception: @moremackygolfs posts parked as drafts by the 30-day rule (GUARD R6) — that unschedules
+  a post that already existed.
 - Keep the next 5–7 days of morning slots for both accounts on it; a new week folder goes on it the day it appears.
 - Approved (decision "approved", decided_round == round): schedule at the planned time (late = next sensible time in the same
   window; a morning may shift up to 30 min). Use chosen_cover (default opt1) and the doc's current caption. Comps/shorties:
   post_account + post_when ("now" = publish now; "next" = next open afternoon on that trial account; @moremackygolfs = its next open slot).
-- Notes (decision "changes"): apply exactly as written, re-upload preview + covers, round +1, decision null, history entry, update the draft, tell Mack "Your notes are done: <title>".
+- Notes (decision "changes"): apply exactly as written, re-upload preview + covers, round +1, decision null, history entry (no Zernio post until she approves), tell Mack "Your notes are done: <title>".
 - "Send me to download" notes: send her the full-quality file, decision "self_post", status "sent_to_mack", never schedule it.
 - Cards whose slot passed with no decision: drop them (status "dropped"); footage goes back to the pool.
 
@@ -141,7 +146,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Create: call_tool posts_create_post (media_items with pinned raw.githubusercontent.com/mack-fitz/<repo>/<commit sha>/<path>
   URLs, never /main/; > 100 MB = Zernio presigned upload).
 - Moving a post: set BOTH top-level scheduled_for AND the platform entry's scheduledFor (posts_update_post with platforms[]).
-- Draft -> scheduled: posts_update_post is_draft false + scheduled_for. Pull a post off the schedule: is_draft true.
+- Approved item: create it already scheduled (scheduled_for + timezone "America/Denver"), never as a draft first.
+  Pull a post off the schedule (only the @moremackygolfs R6 parking case): posts_update_post is_draft true.
 - posts_list (simple) hides drafts and times; use call_tool posts_list_posts for real data.
 - Failed post: find the cause, fix it (re-encode, swap a broken URL for a pinned one, shorten caption), reschedule into the
   next open slot; retry transient errors once, then change approach.
@@ -159,7 +165,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Claims: before editing an item commit state/claims/<doc>.md in mackygolfs-mackthegolfer; skip items claimed < 60 min ago by
   another job; delete your claim in your final commit.
 - Base Camp (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79, collection "schedule", docs mackygolfs / mackthegolfer / golf /
-  facebook): rebuild from a fresh Zernio pull only (never from memory); drafts show "(waiting on review)". Pinned writes (if_version).
+  facebook): rebuild from a fresh Zernio pull only (never from memory); drafts (only R6-parked @moremackygolfs posts) show "(parked)". Pinned writes (if_version).
 
 ## 12. Who does what (scheduled tasks, Oct 24)
 | task | when (MT) | job | heavy work? |
