@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1255,14 +1255,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
@@ -1283,13 +1283,6 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 17 58 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
@@ -1297,11 +1290,11 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
-    "Video Oct 12 2026, 7 19 40 AM.mov"
+    "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
-   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
@@ -1311,14 +1304,21 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -3307,6 +3307,22 @@
     "mackthegolfer/week 1/PM - never post as a bounce.mov"
    ],
    "main": "mackthegolfer/week 1/PM - never post as a bounce.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4": {
+   "sources": [
+    "mackygolfs/week 1/PM (1).MOV"
+   ],
+   "main": "mackygolfs/week 1/PM (1).MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:B_PM.MOV": {
+   "sources": [
+    "mackthegolfer/week 1/PM.MOV"
+   ],
+   "main": "mackthegolfer/week 1/PM.MOV",
    "kind": "edit",
    "note": "manual"
   }
