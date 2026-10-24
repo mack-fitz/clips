@@ -1,6 +1,6 @@
 {
  "note": "Unique source videos (Dropbox /Golf Captions + /golfclips). Built by tools/build_media_map.py.",
- "count": 75,
+ "count": 79,
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
    "files": [
@@ -502,6 +502,30 @@
   "mackthegolfer/week 1/week1 -7.mp4": {
    "files": [
     "/Golf/for claude/mackthegolfer/week 1/week1 -7.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 1/PM (1).MOV": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM (1).MOV"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 1/PM - never post as a bounce.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM - never post as a bounce.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 1/PM - never post on mackthegolfer.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM - never post on mackthegolfer.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 1/PM - never post as a bounce.mov": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov"
    ],
    "clip_pages_only": false
   }
