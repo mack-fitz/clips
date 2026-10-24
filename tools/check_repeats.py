@@ -46,7 +46,7 @@ days ahead, limit 100, every page) and `analytics_get_analytics` per IG account 
 Media -> sources comes from state/media_sources.json (tools/build_media_map.py). A future post whose
 media isn't in that map is an error (exit 2): add it to the map first.
 """
-import argparse, ast, json, os, subprocess, sys, urllib.parse, datetime as dt
+import argparse, ast, json, os, re, subprocess, sys, urllib.parse, datetime as dt
 
 # Works from either repo (a copy lives in mack-fitz/clips and mack-fitz/mackygolfs-mackthegolfer); both repos
 # must be cloned side by side (default /home/claude/clips + /home/claude/mackygolfs-mackthegolfer), or set
@@ -100,6 +100,14 @@ _blob_cache = {}
 def media_key(url):
     """raw.githubusercontent URL -> ('repo:path', blob sha or None)"""
     if "raw.githubusercontent.com/mack-fitz/" not in (url or ""):
+        # zupload (files >100 MB / weekly exports): Zernio-hosted copy named <ts>_<rand>_<account>_<NNN_slug>.mp4
+        # -> the same export in mackygolfs-mackthegolfer trials/ (Oct 24 nightly check)
+        m = re.search(r"media\.zernio\.com/.*_(?:mackygolfs|mackthegolfer)_(\d{3}_[^/?]+\.mp4)", url or "")
+        if m:
+            return f"mackygolfs-mackthegolfer:trials/{m.group(1)}", None
+        m = re.search(r"media\.zernio\.com/media/([^/?]+)", url or "")
+        if m:  # other Zernio-hosted uploads (e.g. untouched weekly originals): map them in state/media_manual.json
+            return f"zernio:{m.group(1)}", None
         return None, None
     repo, ref, path = url.split("raw.githubusercontent.com/mack-fitz/")[1].split("/", 2)
     path = urllib.parse.unquote(path.split("?")[0])

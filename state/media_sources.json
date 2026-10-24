@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1213,14 +1213,14 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1241,14 +1241,14 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1297,14 +1297,14 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 19 40 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 19 40 AM.mov"
    ],
@@ -3111,6 +3111,14 @@
     "mackygolfs/week 1/pm.MOV"
    ],
    "main": "mackygolfs/week 1/pm.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1792796160643_ftqiwprs_mackygolfs_w1_week1-5_original.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week 1 -5.mp4"
+   ],
+   "main": "mackygolfs/week 1/week 1 -5.mp4",
    "kind": "edit",
    "note": "manual"
   }
