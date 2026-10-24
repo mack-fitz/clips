@@ -1,5 +1,8 @@
 # Clip page playbook — @moremackygolfs (IG) + @mackygolfs (X, TikTok)
 
+> **READ /RULES.md FIRST (Oct 24).** RULES.md in this repo is the ONE current rulebook for every golf account and wins over
+> this file. This PLAYBOOK is kept for history and how-to detail only.
+
 Operating rules for every edit and post. Scheduled runs read this file first.
 
 ## REPEAT RULE (Mack, Oct 20: 30 DAYS) — HARD RULE. Full text: HARD RULES at the BOTTOM of this file (they win).

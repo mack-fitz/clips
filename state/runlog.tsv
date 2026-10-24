@@ -1,0 +1,3 @@
+start_utc	end_utc	task	result	summary
+2026-10-24T04:07:41Z	2026-10-24T04:32:53Z	Nightly post check	partial	comp19 posted on B; 052 bounce scheduled Oct 25 14:23; FB Oct 26 dup swapped to 026; 3 @moremackygolfs reels+stories to draft (R6); guard maps Zernio-hosted media; could NOT push mackygolfs-mackthegolfer (repo not authorized for this task)
+2026-10-24T05:05:00Z	2026-10-24T05:30:00Z	Stabilize (chat)	ok	RULES.md written (one rulebook); task prompts point to it; disabled tasks deleted; hourly approvals check added; run log started
