@@ -1,0 +1,2 @@
+Oct 24 morning run, partial (time budget): 4 new week 1 PM files.
+076 = mackygolfs/week 1/PM (1).MOV (wipe kept, HEVC->one CRF17 encode, nothing cut). 078 = mackygolfs/week 1/PM - never post on mackthegolfer.mov (no wipe; one encode). 077 (A PM - never post as a bounce.mov) and 079 (B PM - never post as a bounce.mov) NOT encoded yet. Originals: scratch/relay-w1a-pm2, scratch/relay-w1b-pm2. Fingerprints (*.json here, dense) matched NOTHING in state/fp posts/repo/sources = never posted.
