@@ -197,9 +197,11 @@
    "has_wipe": true,
    "registered": "2026-10-24 morning run",
    "fingerprint": "never posted (local fp vs all posts/repo/sources, Oct 24)",
-   "status": "not on The Reviewer yet: 076_cart-rant-pm_a (encoded, scratch/w1-pm-exports); talking-to-camera video, needs transcript for the caption",
+   "status": "on The Reviewer (Oct 24 chat job): 076_cart-rant-pm_a",
    "transcript": "state/transcripts/A_PM1.MOV.json",
-   "caption_idea": "topic: fall golf, first night, crisp air, horrible shots, does not care. caption idea: \"fall golf is so back. my shots are not\""
+   "caption_idea": "topic: fall golf, first night, crisp air, horrible shots, does not care. caption idea: \"fall golf is so back. my shots are not\"",
+   "never_bounce": true,
+   "trial": "076_cart-rant-pm_a"
   },
   "mackygolfs/week 1/PM - never post as a bounce.mov": {
    "home": "ig:mackygolfs",
@@ -213,9 +215,11 @@
    "has_wipe": false,
    "registered": "2026-10-24 morning run",
    "fingerprint": "never posted (local fp vs all posts/repo/sources, Oct 24)",
-   "status": "not on The Reviewer yet: 077 (not encoded yet); talking-to-camera video, needs transcript for the caption",
+   "status": "on The Reviewer (Oct 24 chat job): 077_long-drive-record-pm_a",
    "transcript": "state/transcripts/A_PM_nobounce.mov.json",
-   "caption_idea": "topic: Kyle Berkshire 588-yd long drive record at altitude/wind = steroids. caption idea: \"does this record count or not. fight me in the comments\""
+   "caption_idea": "topic: Kyle Berkshire 588-yd long drive record at altitude/wind = steroids. caption idea: \"does this record count or not. fight me in the comments\"",
+   "never_bounce": true,
+   "trial": "077_long-drive-record-pm_a"
   },
   "mackygolfs/week 1/PM - never post on mackthegolfer.mov": {
    "home": "ig:mackygolfs",
@@ -229,9 +233,11 @@
    "has_wipe": false,
    "registered": "2026-10-24 morning run",
    "fingerprint": "never posted (local fp vs all posts/repo/sources, Oct 24)",
-   "status": "not on The Reviewer yet: 078_car-talk-pm_a (encoded, scratch/w1-pm-exports); talking-to-camera video, needs transcript for the caption",
+   "status": "on The Reviewer (Oct 24 chat job): 078_car-talk-pm_a",
    "transcript": "state/transcripts/A_PM_notB.mov.json",
-   "caption_idea": "topic: nine holes with a 3 wood instead of driver, shot 10 better. caption idea: \"why did none of you tell me to throw my driver away\""
+   "caption_idea": "topic: nine holes with a 3 wood instead of driver, shot 10 better. caption idea: \"why did none of you tell me to throw my driver away\"",
+   "never_bounce": true,
+   "trial": "078_car-talk-pm_a"
   },
   "mackthegolfer/week 1/PM - never post as a bounce.mov": {
    "home": "ig:mackthegolfer",
@@ -245,9 +251,11 @@
    "has_wipe": false,
    "registered": "2026-10-24 morning run",
    "fingerprint": "never posted (local fp vs all posts/repo/sources, Oct 24)",
-   "status": "not on The Reviewer yet: 079 (not encoded yet); talking-to-camera video, needs transcript for the caption",
+   "status": "on The Reviewer (Oct 24 chat job): 079_long-drive-record-pm_b",
    "transcript": "state/transcripts/B_PM_nobounce.mov.json",
-   "caption_idea": "topic: same Berkshire rant (B version, sweatshirt, no wipe). caption idea: \"not trying to start beef but this one shouldn't count\""
+   "caption_idea": "topic: same Berkshire rant (B version, sweatshirt, no wipe). caption idea: \"not trying to start beef but this one shouldn't count\"",
+   "never_bounce": true,
+   "trial": "079_long-drive-record-pm_b"
   }
  }
 }

@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1283,13 +1283,6 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 17 58 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
@@ -1297,11 +1290,11 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
-    "Video Oct 12 2026, 7 19 40 AM.mov"
+    "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
-   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
@@ -1311,14 +1304,21 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -2578,6 +2578,34 @@
    "main": "mackthegolfer/week 1/week1 -7.mp4",
    "kind": "original"
   },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/PM (1).MOV": {
+   "sources": [
+    "mackygolfs/week 1/PM (1).MOV"
+   ],
+   "main": "mackygolfs/week 1/PM (1).MOV",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/PM - never post as a bounce.mov": {
+   "sources": [
+    "mackygolfs/week 1/PM - never post as a bounce.mov"
+   ],
+   "main": "mackygolfs/week 1/PM - never post as a bounce.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/week 1/PM - never post on mackthegolfer.mov": {
+   "sources": [
+    "mackygolfs/week 1/PM - never post on mackthegolfer.mov"
+   ],
+   "main": "mackygolfs/week 1/PM - never post on mackthegolfer.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 1/PM - never post as a bounce.mov": {
+   "sources": [
+    "mackthegolfer/week 1/PM - never post as a bounce.mov"
+   ],
+   "main": "mackthegolfer/week 1/PM - never post as a bounce.mov",
+   "kind": "original"
+  },
   "mackygolfs-mackthegolfer:trials/036_san-angelo-wipe-open_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 03 20 AM.mov"
@@ -3247,6 +3275,38 @@
     "mackygolfs/week 1/pm.MOV"
    ],
    "main": "mackygolfs/week 1/pm.MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/076_cart-rant-pm_a.mp4": {
+   "sources": [
+    "mackygolfs/week 1/PM (1).MOV"
+   ],
+   "main": "mackygolfs/week 1/PM (1).MOV",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/077_long-drive-record-pm_a.mp4": {
+   "sources": [
+    "mackygolfs/week 1/PM - never post as a bounce.mov"
+   ],
+   "main": "mackygolfs/week 1/PM - never post as a bounce.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/078_car-talk-pm_a.mp4": {
+   "sources": [
+    "mackygolfs/week 1/PM - never post on mackthegolfer.mov"
+   ],
+   "main": "mackygolfs/week 1/PM - never post on mackthegolfer.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/079_long-drive-record-pm_b.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/PM - never post as a bounce.mov"
+   ],
+   "main": "mackthegolfer/week 1/PM - never post as a bounce.mov",
    "kind": "edit",
    "note": "manual"
   }
