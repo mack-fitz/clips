@@ -1170,6 +1170,13 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "kind": "edit"
+  },
   "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
@@ -1177,11 +1184,11 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
    "sources": [
-    "Video Oct 12 2026, 12 14 03 AM.mov"
+    "Video Oct 12 2026, 7 16 02 AM.mov"
    ],
-   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
@@ -1191,13 +1198,6 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit",
    "note": "manual"
-  },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
-   "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
@@ -1213,13 +1213,6 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 30 44 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
@@ -1227,14 +1220,21 @@
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 30 44 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 30 44 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
    ],
@@ -3356,6 +3356,22 @@
    ],
    "main": "golfclips/Video Sep 25 2026, 4 59 28 PM.mov",
    "kind": "edit",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:shorties/tree-bunker.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "shorty",
+   "note": "manual"
+  },
+  "clips:mg_pending/shorties/tree-bunker.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "shorty",
    "note": "manual"
   }
  }

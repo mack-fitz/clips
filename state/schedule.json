@@ -971,7 +971,7 @@
    "x_file": "queue/020_triple-dipper_xshort.mp4",
    "cover_style": "typewriter \"who invented the triple dipper\" (below chest, y 0.77)",
    "source": "/Golf Captions/Video Oct 12 2026, 12 17 30 AM.mov (172.9 s, sha256 e348b2f6..., byte-for-byte relay)",
-   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? 👉👈\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
+   "already_posted": "@mackygolfs 2026-10-14 14:19 MT \"You me par four? \ud83d\udc49\ud83d\udc48\" https://www.instagram.com/reel/DefODPLhS7S/ (170 s audio match, Mack's own post, not via Zernio)",
    "diff_check": "cold open on the fairway shot + \"motherfucker\" (54 s) before the shirt wipe; cut \"first things first\" drink, the whole \"straight as it gets / joke / tight\" waggle stretch, \"easy out here\", \"let's finish this up\", duplicate who-cares, walking/address dead air; dinner line (\"ready to eat... ribs... maybe chili's\") moved after the final putt drops; every shot kept (drive, fairway shot, drop + shot, waste-area shot, chip, lag, 3 putts) plus practice swing; 25.8% cut (172.9s->128.7s); 26 alternating punch-ins; ends on \"maybe chili's\" instead of \"spanking\"; cover: wipe frame + red pill. Contact sheet checked.",
    "xt_note": "original 232.7 MB > 100 MiB -> TikTok gets one HQ H.264 export of the full original (crf 18, capped 4.2 Mbps, audio copied); X gets a dead-air-trimmed version in original order (130.8 s, nothing reordered, no shots cut) for the 2:20 limit",
    "status": "published",
@@ -1415,7 +1415,7 @@
     "x_tiktok": "6ad3ccf87c8c7d3a5a0a1a20"
    },
    "already_posted_proof": "@mackygolfs 2026-10-13 18:41 MT https://www.instagram.com/reel/DedHn04Docg/ (19.2 s audio; alt take 7 37 01 intro)",
-   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG — near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts.",
+   "note": "Mack asked Oct 17: wet-or-dry intro to TikTok (not @mackygolfs IG \u2014 near-duplicate of the Oct 13 trial). Counts as one of Oct 20's ~3 X/TikTok posts.",
    "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one.",
    "live_platforms": [
     "TikTok"
@@ -1523,7 +1523,7 @@
    },
    "status": "published",
    "already_posted_proof": "@mackygolfs 2026-10-07 07:51 MT https://www.instagram.com/reel/DeMgXRzRMg7/ (22.9 s audio)",
-   "note": "filled by nightly check Oct 17; 7 33 50 ≈ 7 38 06 alt take — neither on TikTok before",
+   "note": "filled by nightly check Oct 17; 7 33 50 \u2248 7 38 06 alt take \u2014 neither on TikTok before",
    "x_removed": "Oct 19: X dropped (X is in the 7-day pool); TikTok kept (exempt). TikTok cover = frame one.",
    "live_platforms": [
     "TikTok"
@@ -2609,14 +2609,14 @@
   },
   {
    "date": "2026-10-24",
-   "scheduled_mt": "17:43",
+   "scheduled_mt": "17:44",
    "slot": "evening",
    "platform": "x_tiktok",
    "caption": "last time i played this hole i hit a child. please help",
    "zernio": {
     "post": "6ada2a43ce999cf09365f185"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok",
     "X"
@@ -2625,36 +2625,40 @@
     "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/4d9abce3a674ad6e3be001b6d0242216b7d353d1/queue/031_kids-par-4_x.mp4",
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/4d9abce3a674ad6e3be001b6d0242216b7d353d1/queue/031_kids-par-4_x.mp4"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-24 17:44",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-24",
-   "scheduled_mt": "17:43",
+   "scheduled_mt": "17:44",
    "slot": "evening",
    "platform": "x_tiktok",
    "caption": "",
    "zernio": {
     "post": "6ada28dbd673e2626ab354bd"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG story"
    ],
    "live_media": {
     "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/deba668a9fb7dba889b76079ea9ae5d252ef6ced/stories/story_031.mp4"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-24 17:44",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-24",
-   "scheduled_mt": "17:43",
+   "scheduled_mt": "17:44",
    "slot": "evening",
    "platform": "instagram",
    "caption": "last time i played this hole i hit a child. this time i just hit the sand",
    "zernio": {
     "post": "6ada28dad673e2626ab354af"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG"
    ],
@@ -2663,61 +2667,49 @@
    },
    "added_by_sync": "2026-10-22 09:30 MT",
    "diff_check": "031 kids (re-cut of 002 footage, LRU): wipe+intro, 'stop stop stop' teaser, every shot incl. 4 bunker shots kept, dead air/repeat talk cut, ends on 'was that a six?'; 26% cut, punch-ins, captions (none on wipe), frame-one cover",
-   "cover": "frame one (wipe frame)"
+   "cover": "frame one (wipe frame)",
+   "posted_mt": "2026-10-24 17:44",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-24",
-   "scheduled_mt": "19:21",
+   "scheduled_mt": "19:22",
    "slot": "evening",
    "platform": "facebook",
    "caption": "the green was lying to me #golf",
    "zernio": {
     "post": "6ada2108c75adf52a1609520"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/980c88f7f09894f9e720e75aa81339d05c56e209/shorties/read-the-putt_r2.mp4"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-24 19:22",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
-   "scheduled_mt": "07:53",
+   "scheduled_mt": "07:54",
    "slot": "morning",
    "platform": "facebook",
    "caption": "par 4 in a hawaiian shirt. guess my score",
    "zernio": {
     "post": "6ada2109c75adf52a1609527"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/65984b81b4ee5f3e67e6d8a480dcb5a7296b027c/queue/fb_pine-par-4_orig.mov"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
-  },
-  {
-   "date": "2026-10-25",
-   "scheduled_mt": "08:27",
-   "slot": "morning",
-   "platform": "x_tiktok",
-   "caption": "",
-   "zernio": {
-    "post": "6ada2bc32c771bfd3d57347f"
-   },
-   "status": "scheduled",
-   "live_platforms": [
-    "IG story"
-   ],
-   "live_media": {
-    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/dd1a108b1279f3d593056d9a6611f15d4ccd1859/stories/story_032.mp4"
-   },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 07:54",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
@@ -2728,7 +2720,7 @@
    "zernio": {
     "post": "6ada28edd673e2626ab35517"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok",
     "X"
@@ -2737,18 +2729,40 @@
     "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/deba668a9fb7dba889b76079ea9ae5d252ef6ced/queue/tt_mountain-par-3_orig.mov",
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/deba668a9fb7dba889b76079ea9ae5d252ef6ced/queue/tt_mountain-par-3_x.mp4"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 08:27",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
-   "scheduled_mt": "08:27",
+   "scheduled_mt": "08:28",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "",
+   "zernio": {
+    "post": "6ada2bc32c771bfd3d57347f"
+   },
+   "status": "published",
+   "live_platforms": [
+    "IG story"
+   ],
+   "live_media": {
+    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/dd1a108b1279f3d593056d9a6611f15d4ccd1859/stories/story_032.mp4"
+   },
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 08:28",
+   "synced": "2026-10-25 12:32 MT"
+  },
+  {
+   "date": "2026-10-25",
+   "scheduled_mt": "08:28",
    "slot": "morning",
    "platform": "instagram",
    "caption": "lock your guess in before i tee off. if you said double bogey we're not friends",
    "zernio": {
     "post": "6ada28ded673e2626ab354d2"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG"
    ],
@@ -2757,25 +2771,9 @@
    },
    "added_by_sync": "2026-10-22 09:30 MT",
    "diff_check": "032 (G17 12 05 56): wipe (0.6 s) + guess-lock intro, then the approach shot + 'dang' moved to the front as the teaser, G-spot line cut, ends on 'doesn't freaking matter' (hers ends 'you're an idiot'); 26% cut, 8 punch-ins, captions, frame-one cover",
-   "cover": "frame one (wipe frame)"
-  },
-  {
-   "date": "2026-10-25",
-   "scheduled_mt": "12:14",
-   "slot": "midday",
-   "platform": "x_tiktok",
-   "caption": "",
-   "zernio": {
-    "post": "6ada2a45ce999cf09365f18e"
-   },
-   "status": "scheduled",
-   "live_platforms": [
-    "IG story"
-   ],
-   "live_media": {
-    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/4d9abce3a674ad6e3be001b6d0242216b7d353d1/stories/story_034.mp4"
-   },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "cover": "frame one (wipe frame)",
+   "posted_mt": "2026-10-25 08:28",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
@@ -2786,7 +2784,7 @@
    "zernio": {
     "post": "6ada28f0d673e2626ab35528"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok",
     "X"
@@ -2795,18 +2793,40 @@
     "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/deba668a9fb7dba889b76079ea9ae5d252ef6ced/queue/fb_seven-iron_orig.mov",
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/deba668a9fb7dba889b76079ea9ae5d252ef6ced/queue/tt_seven-iron_x.mp4"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 12:14",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
-   "scheduled_mt": "12:14",
+   "scheduled_mt": "12:15",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "",
+   "zernio": {
+    "post": "6ada2a45ce999cf09365f18e"
+   },
+   "status": "published",
+   "live_platforms": [
+    "IG story"
+   ],
+   "live_media": {
+    "IG story": "https://raw.githubusercontent.com/mack-fitz/clips/4d9abce3a674ad6e3be001b6d0242216b7d353d1/stories/story_034.mp4"
+   },
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 12:15",
+   "synced": "2026-10-25 12:32 MT"
+  },
+  {
+   "date": "2026-10-25",
+   "scheduled_mt": "12:15",
    "slot": "midday",
    "platform": "instagram",
    "caption": "who put those rocks there. please help",
    "zernio": {
     "post": "6ada28e0c1a9cc0ccdec40cf"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "IG"
    ],
@@ -2815,25 +2835,29 @@
    },
    "added_by_sync": "2026-10-22 09:30 MT",
    "diff_check": "034 ugly bounce (IMG_6391 re-cut, LRU after 007 Oct 14): wipe+intro, 'another stupid bounce' teaser, every shot kept, 10 s of putt-reading dead air cut, ends on 'I almost broke my whole ankle' moved to the end; 27% cut; her own burned captions (none added), frame-one cover",
-   "cover": "frame one (wipe frame)"
+   "cover": "frame one (wipe frame)",
+   "posted_mt": "2026-10-25 12:15",
+   "synced": "2026-10-25 12:32 MT"
   },
   {
    "date": "2026-10-25",
-   "scheduled_mt": "12:36",
+   "scheduled_mt": "12:37",
    "slot": "midday",
    "platform": "facebook",
    "caption": "a realistic par 4 from a 27 handicap. count the strokes with me",
    "zernio": {
     "post": "6ada210bc75adf52a1609535"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/65984b81b4ee5f3e67e6d8a480dcb5a7296b027c/queue/fb_realistic-par-4_orig.mov"
    },
-   "added_by_sync": "2026-10-22 09:30 MT"
+   "added_by_sync": "2026-10-22 09:30 MT",
+   "posted_mt": "2026-10-25 12:37",
+   "synced": "2026-10-25 12:39 MT"
   },
   {
    "date": "2026-10-25",
@@ -3136,6 +3160,24 @@
   },
   {
    "date": "2026-10-27",
+   "scheduled_mt": "12:17",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "why is nobody talking about fall golf",
+   "zernio": {
+    "post": "6ade4ca9a1c8ce6681dd1a5f"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://media.zernio.com/media/1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-27",
    "scheduled_mt": "17:52",
    "slot": "evening",
    "platform": "x_tiktok",
@@ -3154,6 +3196,24 @@
   },
   {
    "date": "2026-10-27",
+   "scheduled_mt": "17:56",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "par 5. lock in your guess before the stroke counter does",
+   "zernio": {
+    "post": "6ade4caea1c8ce6681dd1a73"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/97dac6d4c8512289e835752836fd0e192817c0f0/queue/fb_lock-it-in-par-5_x.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-27",
    "scheduled_mt": "18:31",
    "slot": "evening",
    "platform": "facebook",
@@ -3169,9 +3229,101 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/51ed66ac0c827a865672fc378ad20e1fdbd9eb87/B_PM.MOV"
    },
    "added_by_sync": "2026-10-24 12:52 MT"
+  },
+  {
+   "date": "2026-10-28",
+   "scheduled_mt": "08:14",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "why is nobody talking about fall golf? #golf",
+   "zernio": {
+    "post": "6ade4cb7a1c8ce6681dd1ab7"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-28",
+   "scheduled_mt": "08:43",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "kyle berkshire long drive record. what are your thoughts?",
+   "zernio": {
+    "post": "6ade4cb1a1c8ce6681dd1a8d"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok",
+    "X"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1792858071948_t6g1hk6p_mackygolfs_077_long-drive-record-pm_a.mp4",
+    "X": "https://media.zernio.com/media/1792858071948_t6g1hk6p_mackygolfs_077_long-drive-record-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-28",
+   "scheduled_mt": "17:47",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "no sauce on the burger. reeeally well seasoned though. guess my score on the par 4",
+   "zernio": {
+    "post": "6ade4cb3a1c8ce6681dd1aa1"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1792797348998_vm97yhz0_mackygolfs_w1_week1-1_original.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-28",
+   "scheduled_mt": "17:51",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "guess my handicap off this one hole. be nice",
+   "zernio": {
+    "post": "6ade4cb5a1c8ce6681dd1aa7"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/97dac6d4c8512289e835752836fd0e192817c0f0/queue/fb_guess-my-handicap_x.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
+  },
+  {
+   "date": "2026-10-28",
+   "scheduled_mt": "18:36",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "kyle berkshire's long drive record. what are your thoughts? #golf",
+   "zernio": {
+    "post": "6ade4cb8a1c8ce6681dd1abf"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1792858071948_t6g1hk6p_mackygolfs_077_long-drive-record-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-25 12:39 MT"
   }
  ],
- "synced_from_zernio": "2026-10-24 12:52 MT",
+ "synced_from_zernio": "2026-10-25 12:39 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -3291,17 +3443,20 @@
      "date": "2026-10-26",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved (IG approved + posted Oct 24)"
+     "status": "scheduled Wed Oct 28 08:43 MT (Zernio 6ade4cb1a1c8ce6681dd1a8d, TikTok+X, A IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-26",
      "note": "same schedule as TikTok; FB Reels 3-60 s",
-     "status": "planned - after IG approval (IG approved + posted Oct 24)"
+     "status": "scheduled Wed Oct 28 18:36 MT (Zernio 6ade4cb8a1c8ce6681dd1abf, 42.7 s Reel)"
     },
     "wipe": "kept (her untouched original)",
     "caption": "short dry lowercase; may reuse the IG caption idea",
-    "added": "2026-10-25 morning run (PM files were missing from the plan)"
+    "added": "2026-10-25 morning run (PM files were missing from the plan)",
+    "x": {
+     "status": "scheduled Wed Oct 28 08:43 MT (with TikTok, 6ade4cb1)"
+    }
    },
    {
     "ig_item": "070",
@@ -3340,16 +3495,19 @@
      "date": "2026-10-26",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved"
+     "status": "scheduled Wed Oct 28 17:47 MT (Zernio 6ade4cb3a1c8ce6681dd1aa1, untouched original via A IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-26",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "planned - after IG approval"
+     "status": "not possible: 177.7 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "caption": "short dry lowercase; may reuse the IG caption idea"
+    "caption": "short dry lowercase; may reuse the IG caption idea",
+    "x": {
+     "status": "not possible: 177.7 s (X max 2:20)"
+    }
    },
    {
     "ig_item": "076",
@@ -3369,11 +3527,14 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-26",
      "note": "same schedule as TikTok; FB Reels 3-60 s",
-     "status": "planned - after IG approval (IG approved, scheduled Oct 25)"
+     "status": "scheduled Wed Oct 28 08:14 MT (Zernio 6ade4cb7a1c8ce6681dd1ab7, 20.2 s Reel)"
     },
     "wipe": "kept (her untouched original)",
     "caption": "short dry lowercase; may reuse the IG caption idea",
-    "added": "2026-10-25 morning run (PM files were missing from the plan)"
+    "added": "2026-10-25 morning run (PM files were missing from the plan)",
+    "x": {
+     "status": "scheduled Tue Oct 27 12:17 MT (Zernio 6ade4ca9a1c8ce6681dd1a5f)"
+    }
    },
    {
     "ig_item": "064",

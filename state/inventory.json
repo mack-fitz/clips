@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:15:30.135156+00:00",
+ "updated": "2026-10-25T18:33:08.842840+00:00",
  "note": "Built by tools/inventory.py. last_any = any version on any account (originals, re-edits, comp LEADS; TikTok + Mack's own posts included). Comp bits and shorties are listed separately (last_bit_or_shorty).",
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
@@ -11,27 +11,22 @@
    "trip": "Colorado (orange checker)",
    "posted_ever": true,
    "last_any": {
-    "when": "Tue Oct 20 19:34 MT",
-    "account": "ig:mackthegolfer",
-    "caption": "make sure to really get your hips involved",
+    "when": "Fri Oct 23 19:17 MT",
+    "account": "fb:macky.golfs",
+    "caption": "i know all the golf words. just not what they mean",
     "kind": "comp"
    },
-   "last_any_iso": "2026-10-21T01:34:57.019000+00:00",
-   "last_as_main_iso": "2026-10-21T01:34:57.019000+00:00",
+   "last_any_iso": "2026-10-24T01:17:05.770000+00:00",
+   "last_as_main_iso": "2026-10-24T01:17:05.770000+00:00",
    "last_per_account": {
     "ig:mackygolfs": "Tue Oct 13 12:35 MT",
     "ig:moremackygolfs": "Fri Oct 16 09:14 MT",
     "tiktok:mackygolfs": "Fri Oct 16 09:14 MT",
     "x:mackygolfs": "Fri Oct 16 09:14 MT",
-    "ig:mackthegolfer": "Tue Oct 20 19:34 MT"
+    "ig:mackthegolfer": "Tue Oct 20 19:34 MT",
+    "fb:macky.golfs": "Fri Oct 23 19:17 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 19:16 MT",
-     "account": "fb:macky.golfs",
-     "caption": "i know all the golf words. just not what they mean"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": {
     "when": "Thu Oct 22 19:29 MT",
     "account": "fb:macky.golfs",
@@ -48,15 +43,15 @@
    "trip": "Texas: San Angelo (olive, cactus day)",
    "posted_ever": true,
    "last_any": {
-    "when": "Wed Oct 21 08:25 MT",
+    "when": "Fri Oct 23 22:27 MT",
     "account": "ig:mackthegolfer",
-    "caption": "a cactus drop is a free drop. don't argue with me",
+    "caption": "can a scientist weigh in on this",
     "kind": "comp"
    },
-   "last_any_iso": "2026-10-21T14:25:36.567000+00:00",
-   "last_as_main_iso": "2026-10-21T14:25:36.567000+00:00",
+   "last_any_iso": "2026-10-24T04:27:21.219000+00:00",
+   "last_as_main_iso": "2026-10-24T04:27:21.219000+00:00",
    "last_per_account": {
-    "ig:mackthegolfer": "Wed Oct 21 08:25 MT",
+    "ig:mackthegolfer": "Fri Oct 23 22:27 MT",
     "ig:mackygolfs": "Thu Oct 15 07:44 MT",
     "fb:macky.golfs": "Thu Oct 15 19:09 MT",
     "tiktok:mackygolfs": "Mon Oct 19 08:53 MT"
@@ -68,7 +63,7 @@
     "kind": "comp"
    },
    "clip_pages_only": false,
-   "times_used_14d": 4
+   "times_used_14d": 5
   },
   "Video Oct 12 2026, 7 33 50 AM.mov": {
    "files": [
@@ -93,9 +88,9 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
+    "when": "Sat Oct 24 19:22 MT",
     "account": "fb:macky.golfs",
-    "kind": "comp"
+    "kind": "shorty"
    },
    "clip_pages_only": false,
    "times_used_14d": 6
@@ -155,12 +150,12 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
-    "account": "fb:macky.golfs",
+    "when": "Fri Oct 23 22:27 MT",
+    "account": "ig:mackthegolfer",
     "kind": "comp"
    },
    "clip_pages_only": false,
-   "times_used_14d": 4
+   "times_used_14d": 2
   },
   "Video Oct 11 2026, 9 02 57 AM.mp4": {
    "files": [
@@ -188,12 +183,12 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
-    "account": "fb:macky.golfs",
+    "when": "Fri Oct 23 22:27 MT",
+    "account": "ig:mackthegolfer",
     "kind": "comp"
    },
    "clip_pages_only": false,
-   "times_used_14d": 1
+   "times_used_14d": 0
   },
   "Video Oct 12 2026, 12 11 12 AM.mov": {
    "files": [
@@ -202,23 +197,23 @@
    "trip": "Texas: San Angelo (green)",
    "posted_ever": true,
    "last_any": {
-    "when": "Thu Oct 22 19:29 MT",
-    "account": "fb:macky.golfs",
-    "caption": "asmr but it's golf",
+    "when": "Fri Oct 23 08:22 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "trees are 90% air my ass",
     "kind": "comp"
    },
-   "last_any_iso": "2026-10-23T01:29:24.504000+00:00",
-   "last_as_main_iso": "2026-10-23T01:29:24.504000+00:00",
+   "last_any_iso": "2026-10-23T14:22:12.870000+00:00",
+   "last_as_main_iso": "2026-10-23T14:22:12.870000+00:00",
    "last_per_account": {
     "ig:mackygolfs": "Tue Oct 13 07:44 MT",
-    "ig:mackthegolfer": "Mon Oct 19 08:26 MT",
+    "ig:mackthegolfer": "Fri Oct 23 08:22 MT",
     "fb:macky.golfs": "Thu Oct 22 19:29 MT"
    },
    "next_scheduled": [
     {
-     "when": "Fri Oct 23 08:20 MT",
-     "account": "ig:mackthegolfer",
-     "caption": "trees are 90% air my ass"
+     "when": "Mon Oct 26 18:57 MT",
+     "account": "fb:macky.golfs",
+     "caption": "they said trees are 90% air #golf"
     }
    ],
    "last_bit_or_shorty": {
@@ -227,7 +222,7 @@
     "kind": "comp"
    },
    "clip_pages_only": false,
-   "times_used_14d": 3
+   "times_used_14d": 4
   },
   "Video Oct 12 2026, 7 13 58 AM.mov": {
    "files": [
@@ -346,7 +341,7 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
+    "when": "Fri Oct 23 19:17 MT",
     "account": "fb:macky.golfs",
     "kind": "comp"
    },
@@ -391,24 +386,19 @@
    "trip": "Texas: Amarillo (white shirt, camo hat)",
    "posted_ever": true,
    "last_any": {
-    "when": "Mon Oct 19 12:23 MT",
-    "account": "tiktok:mackygolfs",
-    "caption": "if you guessed higher than a 4 we can't be friends",
+    "when": "Fri Oct 23 08:48 MT",
+    "account": "x:mackygolfs",
+    "caption": "guess my score. if it's over a 4 keep it to yourself",
     "kind": "original"
    },
-   "last_any_iso": "2026-10-19T18:23:36.945000+00:00",
-   "last_as_main_iso": "2026-10-19T18:23:36.945000+00:00",
+   "last_any_iso": "2026-10-23T14:48:31.724000+00:00",
+   "last_as_main_iso": "2026-10-23T14:48:31.724000+00:00",
    "last_per_account": {
     "ig:mackygolfs": "Thu Oct 15 18:54 MT",
-    "tiktok:mackygolfs": "Mon Oct 19 12:23 MT"
+    "tiktok:mackygolfs": "Mon Oct 19 12:23 MT",
+    "x:mackygolfs": "Fri Oct 23 08:48 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 08:47 MT",
-     "account": "x:mackygolfs",
-     "caption": "guess my score. if it's over a 4 keep it to yourse"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": {
     "when": "Thu Oct 22 19:29 MT",
     "account": "fb:macky.golfs",
@@ -440,8 +430,8 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
-    "account": "fb:macky.golfs",
+    "when": "Fri Oct 23 08:22 MT",
+    "account": "ig:mackthegolfer",
     "kind": "comp"
    },
    "clip_pages_only": false,
@@ -560,7 +550,7 @@
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
+    "when": "Fri Oct 23 19:17 MT",
     "account": "fb:macky.golfs",
     "kind": "comp"
    },
@@ -606,31 +596,26 @@
    "trip": "green polo day (Texas?)",
    "posted_ever": true,
    "last_any": {
-    "when": "Mon Oct 19 18:23 MT",
-    "account": "tiktok:mackygolfs",
-    "caption": "the marshal gave me a lesson. i lost count after that",
+    "when": "Fri Oct 23 17:44 MT",
+    "account": "x:mackygolfs",
+    "caption": "the marshal stopped by to help. it did not help",
     "kind": "original"
    },
-   "last_any_iso": "2026-10-20T00:23:29.972000+00:00",
-   "last_as_main_iso": "2026-10-20T00:23:29.972000+00:00",
+   "last_any_iso": "2026-10-23T23:44:47.200000+00:00",
+   "last_as_main_iso": "2026-10-23T23:44:47.200000+00:00",
    "last_per_account": {
     "ig:mackthegolfer": "Sat Oct 17 08:29 MT",
-    "tiktok:mackygolfs": "Mon Oct 19 18:23 MT"
+    "tiktok:mackygolfs": "Mon Oct 19 18:23 MT",
+    "x:mackygolfs": "Fri Oct 23 17:44 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 17:44 MT",
-     "account": "x:mackygolfs",
-     "caption": "the marshal stopped by to help. it did not help"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": {
-    "when": "Thu Oct 22 19:29 MT",
-    "account": "fb:macky.golfs",
+    "when": "Fri Oct 23 22:27 MT",
+    "account": "ig:mackthegolfer",
     "kind": "comp"
    },
    "clip_pages_only": false,
-   "times_used_14d": 6
+   "times_used_14d": 2
   },
   "Video Sep 21 2026, 7 09 34 PM.mov": {
    "files": [
@@ -698,7 +683,13 @@
     "x:mackygolfs": "Sun Oct 18 12:15 MT",
     "tiktok:mackygolfs": "Sun Oct 18 12:15 MT"
    },
-   "next_scheduled": [],
+   "next_scheduled": [
+    {
+     "when": "Sun Oct 25 14:23 MT",
+     "account": "ig:mackthegolfer",
+     "caption": "if you count the shanks it's a pent-bogey. please "
+    }
+   ],
    "last_bit_or_shorty": null,
    "clip_pages_only": false,
    "times_used_14d": 0
@@ -710,25 +701,20 @@
    "trip": "Colorado, Sep 21 (red Hawaiian shirt)",
    "posted_ever": true,
    "last_any": {
-    "when": "Wed Oct 21 08:14 MT",
-    "account": "fb:macky.golfs",
-    "caption": "par 5. bunker, then a hot dog. guess my score #golf",
+    "when": "Fri Oct 23 12:32 MT",
+    "account": "x:mackygolfs",
+    "caption": "bunker, then a hot dog. emotionally that's a birdie",
     "kind": "original"
    },
-   "last_any_iso": "2026-10-21T14:14:36.479000+00:00",
-   "last_as_main_iso": "2026-10-21T14:14:36.479000+00:00",
+   "last_any_iso": "2026-10-23T18:32:15.921000+00:00",
+   "last_as_main_iso": "2026-10-23T18:32:15.921000+00:00",
    "last_per_account": {
     "ig:mackygolfs": "Sat Oct 17 18:47 MT",
     "tiktok:mackygolfs": "Mon Oct 19 15:42 MT",
-    "fb:macky.golfs": "Wed Oct 21 08:14 MT"
+    "fb:macky.golfs": "Wed Oct 21 08:14 MT",
+    "x:mackygolfs": "Fri Oct 23 12:32 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 12:31 MT",
-     "account": "x:mackygolfs",
-     "caption": "bunker, then a hot dog. emotionally that's a birdi"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": false,
    "times_used_14d": 2
@@ -782,21 +768,22 @@
     "/Golf Captions/Video Sep 23 2026, 1 07 33 PM.mov"
    ],
    "trip": "Colorado, Sep 23 (red Hawaiian shirt)",
-   "posted_ever": false,
-   "last_any": null,
-   "last_any_iso": null,
-   "last_as_main_iso": null,
-   "last_per_account": {},
-   "next_scheduled": [
-    {
-     "when": "Mon Oct 26 07:39 MT",
-     "account": "ig:mackygolfs",
-     "caption": "as is - I think it might be broken"
-    }
-   ],
+   "posted_ever": true,
+   "last_any": {
+    "when": "Fri Oct 23 18:46 MT",
+    "account": "ig:mackygolfs",
+    "caption": "as is - I think it might be broken",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-24T00:46:33.377000+00:00",
+   "last_as_main_iso": "2026-10-24T00:46:33.377000+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Fri Oct 23 18:46 MT"
+   },
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": false,
-   "times_used_14d": 0
+   "times_used_14d": 1
   },
   "IMG_6394.MP4": {
    "files": [
@@ -813,6 +800,7 @@
    "last_any_iso": "2026-10-15T23:47:53.905000+00:00",
    "last_as_main_iso": "2026-10-15T23:47:53.905000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Sat Sep 19 08:06 MT",
     "tiktok:mackygolfs": "Thu Oct 15 17:47 MT",
     "x:mackygolfs": "Thu Oct 15 17:47 MT",
     "ig:moremackygolfs": "Thu Oct 15 17:47 MT"
@@ -938,6 +926,7 @@
    "last_any_iso": "2026-10-14T18:42:36.991000+00:00",
    "last_as_main_iso": "2026-10-14T18:42:36.991000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Mon Sep 14 10:35 MT",
     "x:mackygolfs": "Wed Oct 14 12:42 MT",
     "tiktok:mackygolfs": "Wed Oct 14 12:42 MT",
     "ig:moremackygolfs": "Wed Oct 14 12:42 MT"
@@ -1013,6 +1002,7 @@
    "last_as_main_iso": "2026-10-12T18:19:47.446000+00:00",
    "last_per_account": {
     "ig:mackthegolfer": "Sun Oct 11 07:45 MT",
+    "ig:mackygolfs": "Sat Oct 03 09:43 MT",
     "x:mackygolfs": "Mon Oct 12 12:18 MT",
     "tiktok:mackygolfs": "Mon Oct 12 12:18 MT",
     "ig:moremackygolfs": "Mon Oct 12 12:19 MT"
@@ -1024,7 +1014,7 @@
     "kind": "comp"
    },
    "clip_pages_only": true,
-   "times_used_14d": 1
+   "times_used_14d": 0
   },
   "copy_2CC073A6-0417-450E-A364-BDCE638A2D66.MOV": {
    "files": [
@@ -1043,10 +1033,11 @@
    "last_any_iso": "2026-10-13T14:29:53.416000+00:00",
    "last_as_main_iso": "2026-10-13T14:29:53.416000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Wed Sep 30 09:00 MT",
+    "ig:mackthegolfer": "Tue Oct 13 08:29 MT",
     "tiktok:mackygolfs": "Sun Oct 11 20:33 MT",
     "x:mackygolfs": "Sun Oct 11 20:34 MT",
-    "ig:moremackygolfs": "Sun Oct 11 20:34 MT",
-    "ig:mackthegolfer": "Tue Oct 13 08:29 MT"
+    "ig:moremackygolfs": "Sun Oct 11 20:34 MT"
    },
    "next_scheduled": [],
    "last_bit_or_shorty": {
@@ -1097,6 +1088,7 @@
    "last_any_iso": "2026-10-18T00:57:56.610000+00:00",
    "last_as_main_iso": "2026-10-18T00:57:56.610000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Fri Sep 18 08:07 MT",
     "ig:mackthegolfer": "Fri Oct 16 08:22 MT",
     "tiktok:mackygolfs": "Wed Oct 14 18:24 MT",
     "x:mackygolfs": "Wed Oct 14 18:24 MT",
@@ -1115,18 +1107,19 @@
     "/golfclips/Video Oct 11 2026, 9 02 57 AM (18).mp4"
    ],
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
-   "posted_ever": false,
-   "last_any": null,
-   "last_any_iso": null,
-   "last_as_main_iso": null,
-   "last_per_account": {},
-   "next_scheduled": [
-    {
-     "when": "Sat Oct 24 08:36 MT",
-     "account": "ig:moremackygolfs",
-     "caption": "nobody in amarillo knows where the pin is. includi"
-    }
-   ],
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sun Oct 04 09:35 MT",
+    "account": "ig:mackygolfs",
+    "caption": "or do you think they prefer to be called Amarillites?",
+    "kind": "original"
+   },
+   "last_any_iso": "2026-10-04T15:35:07+00:00",
+   "last_as_main_iso": "2026-10-04T15:35:07+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Sun Oct 04 09:35 MT"
+   },
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1163,11 +1156,18 @@
     "/golfclips/Video Oct 11 2026, 9 02 57 AM (20).mp4"
    ],
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
-   "posted_ever": false,
-   "last_any": null,
-   "last_any_iso": null,
-   "last_as_main_iso": null,
-   "last_per_account": {},
+   "posted_ever": true,
+   "last_any": {
+    "when": "Tue Oct 06 07:26 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "it\u2019s not even wet or dry?????",
+    "kind": "original"
+   },
+   "last_any_iso": "2026-10-06T13:26:29+00:00",
+   "last_as_main_iso": "2026-10-06T13:26:29+00:00",
+   "last_per_account": {
+    "ig:mackthegolfer": "Tue Oct 06 07:26 MT"
+   },
    "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
@@ -1182,23 +1182,19 @@
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
    "posted_ever": true,
    "last_any": {
-    "when": "Tue Oct 20 08:38 MT",
-    "account": "x:mackygolfs",
+    "when": "Fri Oct 23 08:43 MT",
+    "account": "tiktok:mackygolfs",
     "caption": "called the hole in one out loud. it went exactly how you thi",
     "kind": "edit"
    },
-   "last_any_iso": "2026-10-20T14:38:33.244000+00:00",
-   "last_as_main_iso": "2026-10-20T14:38:33.244000+00:00",
+   "last_any_iso": "2026-10-23T14:43:50.976000+00:00",
+   "last_as_main_iso": "2026-10-23T14:43:50.976000+00:00",
    "last_per_account": {
-    "x:mackygolfs": "Tue Oct 20 08:38 MT"
+    "ig:mackthegolfer": "Sun Oct 04 09:45 MT",
+    "x:mackygolfs": "Tue Oct 20 08:38 MT",
+    "tiktok:mackygolfs": "Fri Oct 23 08:43 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 08:41 MT",
-     "account": "tiktok:mackygolfs",
-     "caption": "called the hole in one out loud. it went exactly h"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1258,9 +1254,21 @@
    "last_any_iso": "2026-10-20T13:54:06.411000+00:00",
    "last_as_main_iso": "2026-10-20T13:54:06.411000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Tue Sep 29 09:05 MT",
     "fb:macky.golfs": "Tue Oct 20 07:54 MT"
    },
-   "next_scheduled": [],
+   "next_scheduled": [
+    {
+     "when": "Mon Oct 26 17:48 MT",
+     "account": "tiktok:mackygolfs",
+     "caption": "par 4 with a stroke counter so nobody can lie for "
+    },
+    {
+     "when": "Mon Oct 26 17:48 MT",
+     "account": "x:mackygolfs",
+     "caption": "par 4 with a stroke counter so nobody can lie for "
+    }
+   ],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1281,6 +1289,7 @@
    "last_any_iso": "2026-10-21T18:38:39.392000+00:00",
    "last_as_main_iso": "2026-10-21T18:38:39.392000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Mon Oct 05 20:37 MT",
     "fb:macky.golfs": "Wed Oct 21 12:38 MT"
    },
    "next_scheduled": [],
@@ -1304,6 +1313,7 @@
    "last_any_iso": "2026-10-22T13:59:37.096000+00:00",
    "last_as_main_iso": "2026-10-22T13:59:37.096000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Mon Oct 05 20:37 MT",
     "fb:macky.golfs": "Thu Oct 22 07:59 MT"
    },
    "next_scheduled": [],
@@ -1327,10 +1337,17 @@
    "last_any_iso": "2026-10-22T18:14:10.327000+00:00",
    "last_as_main_iso": "2026-10-22T18:14:10.327000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Tue Oct 06 07:15 MT",
     "tiktok:mackygolfs": "Thu Oct 22 12:14 MT",
     "x:mackygolfs": "Thu Oct 22 12:14 MT"
    },
-   "next_scheduled": [],
+   "next_scheduled": [
+    {
+     "when": "Mon Oct 26 07:44 MT",
+     "account": "fb:macky.golfs",
+     "caption": "chili cheese dog on the line. guess my score #golf"
+    }
+   ],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1343,23 +1360,20 @@
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
    "posted_ever": true,
    "last_any": {
-    "when": "Tue Oct 20 12:10 MT",
-    "account": "x:mackygolfs",
+    "when": "Fri Oct 23 12:24 MT",
+    "account": "tiktok:mackygolfs",
     "caption": "bogey or better or i chug the malibu. you can guess how this",
     "kind": "edit"
    },
-   "last_any_iso": "2026-10-20T18:10:09.843000+00:00",
-   "last_as_main_iso": "2026-10-20T18:10:09.843000+00:00",
+   "last_any_iso": "2026-10-23T18:24:14.688000+00:00",
+   "last_as_main_iso": "2026-10-23T18:24:14.688000+00:00",
    "last_per_account": {
-    "x:mackygolfs": "Tue Oct 20 12:10 MT"
+    "ig:mackthegolfer": "Mon Sep 28 08:59 MT",
+    "ig:mackygolfs": "Fri Oct 02 09:44 MT",
+    "x:mackygolfs": "Tue Oct 20 12:10 MT",
+    "tiktok:mackygolfs": "Fri Oct 23 12:24 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 12:22 MT",
-     "account": "tiktok:mackygolfs",
-     "caption": "bogey or better or i chug the malibu. you can gues"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1394,12 +1408,24 @@
    "last_any_iso": "2026-10-11T14:56:52+00:00",
    "last_as_main_iso": null,
    "last_per_account": {
+    "ig:mackthegolfer": "Mon Sep 28 08:59 MT",
     "ig:mackygolfs": "Sun Oct 11 08:56 MT"
    },
-   "next_scheduled": [],
+   "next_scheduled": [
+    {
+     "when": "Mon Oct 26 08:52 MT",
+     "account": "tiktok:mackygolfs",
+     "caption": "play hole 3 with me. if you guess over a 5 we're n"
+    },
+    {
+     "when": "Mon Oct 26 08:52 MT",
+     "account": "x:mackygolfs",
+     "caption": "play hole 3 with me. if you guess over a 5 we're n"
+    }
+   ],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
-   "times_used_14d": 1
+   "times_used_14d": 0
   },
   "golfclips/Video Sep 28 2026, 8 58 32 AM.mov": {
    "files": [
@@ -1421,11 +1447,18 @@
     "/golfclips/Video Sep 29 2026, 10 17 37 PM.mov"
    ],
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
-   "posted_ever": false,
-   "last_any": null,
-   "last_any_iso": null,
-   "last_as_main_iso": null,
-   "last_per_account": {},
+   "posted_ever": true,
+   "last_any": {
+    "when": "Mon Oct 05 07:33 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "do you think the singing is helping or hurting my game",
+    "kind": "original"
+   },
+   "last_any_iso": "2026-10-05T13:33:50+00:00",
+   "last_as_main_iso": "2026-10-05T13:33:50+00:00",
+   "last_per_account": {
+    "ig:mackthegolfer": "Mon Oct 05 07:33 MT"
+   },
    "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
@@ -1439,23 +1472,19 @@
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
    "posted_ever": true,
    "last_any": {
-    "when": "Tue Oct 20 17:49 MT",
-    "account": "x:mackygolfs",
+    "when": "Fri Oct 23 17:40 MT",
+    "account": "tiktok:mackygolfs",
     "caption": "best lag of your life. pardon my french",
     "kind": "edit"
    },
-   "last_any_iso": "2026-10-20T23:49:14.146000+00:00",
-   "last_as_main_iso": "2026-10-20T23:49:14.146000+00:00",
+   "last_any_iso": "2026-10-23T23:40:12.073000+00:00",
+   "last_as_main_iso": "2026-10-23T23:40:12.073000+00:00",
    "last_per_account": {
-    "x:mackygolfs": "Tue Oct 20 17:49 MT"
+    "ig:mackygolfs": "Thu Oct 01 09:15 MT",
+    "x:mackygolfs": "Tue Oct 20 17:49 MT",
+    "tiktok:mackygolfs": "Fri Oct 23 17:40 MT"
    },
-   "next_scheduled": [
-    {
-     "when": "Fri Oct 23 17:39 MT",
-     "account": "tiktok:mackygolfs",
-     "caption": "best lag of your life. pardon my french"
-    }
-   ],
+   "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
    "times_used_14d": 0
@@ -1497,11 +1526,18 @@
     "/golfclips/Video Sep 29 2026, 10 47 07 PM.mov"
    ],
    "trip": "golfclips batch (Aug-Sep, uploaded Oct 12)",
-   "posted_ever": false,
-   "last_any": null,
-   "last_any_iso": null,
-   "last_as_main_iso": null,
-   "last_per_account": {},
+   "posted_ever": true,
+   "last_any": {
+    "when": "Mon Oct 05 08:17 MT",
+    "account": "ig:mackygolfs",
+    "caption": "not sure what the takeaway here is",
+    "kind": "original"
+   },
+   "last_any_iso": "2026-10-05T14:17:26+00:00",
+   "last_as_main_iso": "2026-10-05T14:17:26+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Mon Oct 05 08:17 MT"
+   },
    "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
@@ -1524,11 +1560,411 @@
    "last_any_iso": "2026-10-22T18:45:30.322000+00:00",
    "last_as_main_iso": "2026-10-22T18:45:30.322000+00:00",
    "last_per_account": {
+    "ig:mackygolfs": "Wed Sep 30 14:00 MT",
     "fb:macky.golfs": "Thu Oct 22 12:45 MT"
    },
    "next_scheduled": [],
    "last_bit_or_shorty": null,
    "clip_pages_only": true,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/pm.MOV": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/pm.MOV"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/week1 -1.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week1 -1.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sun Oct 25 08:06 MT",
+    "account": "ig:mackygolfs",
+    "caption": "reeeally well seasoned though",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-25T14:06:25.155000+00:00",
+   "last_as_main_iso": "2026-10-25T14:06:25.155000+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Sun Oct 25 08:06 MT"
+   },
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackygolfs/week 1/week 1 -2.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week 1 -2.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [
+    {
+     "when": "Mon Oct 26 07:38 MT",
+     "account": "ig:mackygolfs",
+     "caption": "stay til the end for something WEIRD"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/week1 -3.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week1 -3.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [
+    {
+     "when": "Tue Oct 27 07:03 MT",
+     "account": "ig:mackygolfs",
+     "caption": "you guys wanted the interlock grip. this one's on "
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/week1 -4.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week1 -4.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/week 1 -5.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week 1 -5.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sat Oct 24 07:14 MT",
+    "account": "ig:mackygolfs",
+    "caption": "a wet three. guess how the lag master did",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-24T13:14:10.145000+00:00",
+   "last_as_main_iso": "2026-10-24T13:14:10.145000+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Sat Oct 24 07:14 MT"
+   },
+   "next_scheduled": [
+    {
+     "when": "Tue Oct 27 08:13 MT",
+     "account": "fb:macky.golfs",
+     "caption": "a wet three. guess how i did #golf"
+    },
+    {
+     "when": "Tue Oct 27 08:46 MT",
+     "account": "tiktok:mackygolfs",
+     "caption": "a wet three. guess how the lag master did"
+    },
+    {
+     "when": "Tue Oct 27 08:52 MT",
+     "account": "x:mackygolfs",
+     "caption": "a wet three. guess how the lag master did"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackygolfs/week 1/week1 -6.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week1 -6.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/week1 -7.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/week1 -7.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/PM.MOV": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/PM.MOV"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sat Oct 24 14:38 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "my driver and i are not on speaking terms. tell me what's wr",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-24T20:38:51.674000+00:00",
+   "last_as_main_iso": "2026-10-24T20:38:51.674000+00:00",
+   "last_per_account": {
+    "ig:mackthegolfer": "Sat Oct 24 14:38 MT"
+   },
+   "next_scheduled": [
+    {
+     "when": "Tue Oct 27 17:52 MT",
+     "account": "tiktok:mackygolfs",
+     "caption": "my driver and i are not on speaking terms. tell me"
+    },
+    {
+     "when": "Tue Oct 27 18:31 MT",
+     "account": "fb:macky.golfs",
+     "caption": "my driver and i are not on speaking terms. what am"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackthegolfer/week 1/week1 -1nutrl.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week1 -1nutrl.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [
+    {
+     "when": "Tue Oct 27 07:44 MT",
+     "account": "ig:mackthegolfer",
+     "caption": "does anyone else get the British thing?"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/week1 -2.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week1 -2.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/week 1- 3.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week 1- 3.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/week 1 -4.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week 1 -4.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [
+    {
+     "when": "Mon Oct 26 08:17 MT",
+     "account": "ig:mackthegolfer",
+     "caption": "they say golf is a mental sport"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/week1- 5.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week1- 5.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sat Oct 24 07:53 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "focus focus focus focus foucs",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-24T13:53:31.121000+00:00",
+   "last_as_main_iso": "2026-10-24T13:53:31.121000+00:00",
+   "last_per_account": {
+    "ig:mackthegolfer": "Sat Oct 24 07:53 MT"
+   },
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackthegolfer/week 1/week 1 -6.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week 1 -6.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/week1 -7.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/week1 -7.mp4"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sun Oct 25 07:29 MT",
+    "account": "ig:mackthegolfer",
+    "caption": "one shot one opportunity type shit",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-25T13:29:23.593000+00:00",
+   "last_as_main_iso": "2026-10-25T13:29:23.593000+00:00",
+   "last_per_account": {
+    "ig:mackthegolfer": "Sun Oct 25 07:29 MT"
+   },
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackygolfs/week 1/PM (1).MOV": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM (1).MOV"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [
+    {
+     "when": "Sun Oct 25 14:41 MT",
+     "account": "ig:mackygolfs",
+     "caption": "why is no body talking about fall golf"
+    }
+   ],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackygolfs/week 1/PM - never post as a bounce.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM - never post as a bounce.mov"
+   ],
+   "trip": "?",
+   "posted_ever": true,
+   "last_any": {
+    "when": "Sat Oct 24 15:14 MT",
+    "account": "ig:mackygolfs",
+    "caption": "what are your thoughts?",
+    "kind": "edit"
+   },
+   "last_any_iso": "2026-10-24T21:14:28.178000+00:00",
+   "last_as_main_iso": "2026-10-24T21:14:28.178000+00:00",
+   "last_per_account": {
+    "ig:mackygolfs": "Sat Oct 24 15:14 MT"
+   },
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 1
+  },
+  "mackygolfs/week 1/PM - never post on mackthegolfer.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 1/PM - never post on mackthegolfer.mov"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
+   "times_used_14d": 0
+  },
+  "mackthegolfer/week 1/PM - never post as a bounce.mov": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov"
+   ],
+   "trip": "?",
+   "posted_ever": false,
+   "last_any": null,
+   "last_any_iso": null,
+   "last_as_main_iso": null,
+   "last_per_account": {},
+   "next_scheduled": [],
+   "last_bit_or_shorty": null,
+   "clip_pages_only": false,
    "times_used_14d": 0
   }
  }
