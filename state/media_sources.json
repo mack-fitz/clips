@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1199,13 +1199,6 @@
    "kind": "edit",
    "note": "manual"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 12 11 12 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
@@ -1213,14 +1206,21 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1241,14 +1241,14 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1276,6 +1276,13 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 17 58 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
+   "kind": "edit"
+  },
   "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
@@ -1284,13 +1291,6 @@
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 17 58 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 17 58 AM.mov",
-   "kind": "edit"
-  },
-  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -3372,6 +3372,78 @@
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "shorty",
+   "note": "manual"
+  },
+  "clips:queue/022_hole-in-one-day_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4"
+   ],
+   "main": "golfclips/Video Oct 03 2026, 9 51 31 PM.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/023_malibu-bet_w.mp4": {
+   "sources": [
+    "golfclips/Video Sep 28 2026, 8 15 58 AM.mov"
+   ],
+   "main": "golfclips/Video Sep 28 2026, 8 15 58 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/024_gorgeous-day_w.mp4": {
+   "sources": [
+    "golfclips/Video Sep 29 2026, 10 21 37 PM.mov"
+   ],
+   "main": "golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/026_chili-cheese-dog_w.mp4": {
+   "sources": [
+    "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
+   ],
+   "main": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/027_singing-par-5_w.mp4": {
+   "sources": [
+    "golfclips/Video Sep 29 2026, 10 17 37 PM.mov"
+   ],
+   "main": "golfclips/Video Sep 29 2026, 10 17 37 PM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/028_san-angelo-par-3_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4"
+   ],
+   "main": "golfclips/Video Oct 11 2026, 9 02 57 AM (6).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/029_cart-path-only_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4"
+   ],
+   "main": "golfclips/Video Oct 03 2026, 9 51 31 PM (3).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/030_soaking-wet-par-5_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4"
+   ],
+   "main": "golfclips/Video Oct 03 2026, 9 51 31 PM (2).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/032_lock-your-guess_w.mp4": {
+   "sources": [
+    "golfclips/Video Oct 11 2026, 9 02 57 AM (9).mp4"
+   ],
+   "main": "golfclips/Video Oct 11 2026, 9 02 57 AM (9).mp4",
+   "kind": "edit",
    "note": "manual"
   }
  }
