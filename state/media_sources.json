@@ -1170,13 +1170,6 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 12 14 03 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
@@ -1184,11 +1177,11 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
+    "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
@@ -1199,14 +1192,21 @@
    "kind": "edit",
    "note": "manual"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
@@ -1276,14 +1276,14 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -3475,6 +3475,14 @@
     "mackthegolfer/week 1/week1 -1nutrl.mp4"
    ],
    "main": "mackthegolfer/week 1/week1 -1nutrl.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793136596507_d75eb7d3bf1c114c_mackygolfs_w1_week1-6_original.mp4": {
+   "sources": [
+    "mackygolfs/week 1/week1 -6.mp4"
+   ],
+   "main": "mackygolfs/week 1/week1 -6.mp4",
    "kind": "edit",
    "note": "manual"
   }
