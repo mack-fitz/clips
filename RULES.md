@@ -19,6 +19,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 | Clip page X | X @mackygolfs | 6acc27b455143ae1324c8bda | 6acc3edbda858fbeab423c5a |
 | Clip page TikTok | TikTok @mackygolfs | 6acc27b455143ae1324c8bda | 6acc3fd31ce18dfecf0a2249 |
 | Facebook Page | macky.golfs | 6acc27b455143ae1324c8bda | 6ad052a5a442d9968f306c31 |
+| YouTube (Shorts) | YouTube fackmitzgerald ("mack fitzgerald") | 6acce6402daf1733722343d0 | 6ae00b478806963c9f324a62 |
 | AI photo account | X @heyymackyy | 6acc65bd97b2d869b209c7c9 | (own repo + rules; never mixed with golf) |
 
 - Facebook posts go ONLY to 6ad052a5a442d9968f306c31 (never Mack's personal profile). More than one FB account listed = stop and ask Mack.
@@ -72,6 +73,20 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   NEVER SS_PERFORMANCE (Mack shares to followers herself).
 - **No added text** on trial reel videos (shorties' one line is the only exception). Mack's own burned-in captions stay.
 - @mackthegolfer stays clean: no innuendo, nothing suggestive on covers, no OF tie-in, no links to other accounts.
+
+## 5b. YouTube Shorts (Mack, Oct 26)
+- **ONE Short a day**, 5:00–6:30 PM MT (vary the minute). Source = that day's approved @mackthegolfer MORNING reel, same
+  full-quality media file as its Zernio IG post (no wipe, no edits). Create the YouTube post in the same step that schedules
+  the approved B morning reel (approval of the B reel covers its Short). If a day's B morning reel isn't approved/scheduled,
+  that day gets no Short (don't fill it with anything else).
+- Post: platform "youtube", account 6ae00b478806963c9f324a62, content "<caption>\n\n#golf #shorts", platformSpecificData
+  {title: <caption, <=100 chars>, visibility "public", madeForKids false, categoryId "17"}. No custom cover (API can't for Shorts).
+  metadata {kind "yt_short", source <file>}.
+- YouTube rules: never the shirt wipe, nothing suggestive in title/description, never any link or mention of OnlyFans or
+  other accounts. Same file never twice on YouTube.
+- **Weekly YouTube video = Thursdays.** Mack will say where its promo clips are and how to split them; until then promos
+  aren't planned. When they come, promo Shorts replace that day's B-reel Short (still one a day) and Mack sets the
+  "related video" link herself in the YouTube app (tell her which Short -> which video).
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
 - **@moremackygolfs:** only footage Mack has truly already posted herself (name the exact post with >= 15 s of it, from
