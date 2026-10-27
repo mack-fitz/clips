@@ -75,7 +75,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - @mackthegolfer stays clean: no innuendo, nothing suggestive on covers, no OF tie-in, no links to other accounts.
 
 ## 5b. YouTube Shorts (Mack, Oct 26)
-- **ONE Short a day**, 5:00–6:30 PM MT (vary the minute). Source = that day's approved @mackthegolfer MORNING reel, same
+- **ONE Short a day, in the morning** (Mack, Oct 26): 20–40 min after that day's @mackthegolfer reel posts (vary the minute). Source = that day's approved @mackthegolfer MORNING reel, same
   full-quality media file as its Zernio IG post (no wipe, no edits). Create the YouTube post in the same step that schedules
   the approved B morning reel (approval of the B reel covers its Short). If a day's B morning reel isn't approved/scheduled,
   that day gets no Short (don't fill it with anything else).
