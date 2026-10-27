@@ -3037,28 +3037,6 @@
    "scheduled_mt": "17:48",
    "slot": "evening",
    "platform": "x_tiktok",
-   "caption": "par 4 with a stroke counter so nobody can lie for me. lock in your guess",
-   "zernio": {
-    "post": "6adb74356b1090fa4376985c"
-   },
-   "status": "scheduled",
-   "live_platforms": [
-    "TikTok",
-    "X"
-   ],
-   "live_media": {
-    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/4d63086db1ca4aeac2c7e7076f722ad955c3d033/queue/tt_par-4-guess_orig.mov",
-    "X": "https://raw.githubusercontent.com/mack-fitz/clips/4d63086db1ca4aeac2c7e7076f722ad955c3d033/queue/tt_par-4-guess_x.mp4"
-   },
-   "added_by_sync": "2026-10-23 08:51 MT",
-   "note": "TikTok untouched original (first time on TikTok) + X crf18 H.264 export; opens on the wipe",
-   "already_posted": "https://www.instagram.com/reel/Dd4CVkmxtX7/ (@mackygolfs 2026-09-29)"
-  },
-  {
-   "date": "2026-10-26",
-   "scheduled_mt": "17:48",
-   "slot": "evening",
-   "platform": "x_tiktok",
    "caption": "",
    "zernio": {
     "post": "6adb74306b1090fa4376983e"
@@ -3099,14 +3077,38 @@
   },
   {
    "date": "2026-10-26",
-   "scheduled_mt": "18:57",
+   "scheduled_mt": "17:49",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "par 4 with a stroke counter so nobody can lie for me. lock in your guess",
+   "zernio": {
+    "post": "6adb74356b1090fa4376985c"
+   },
+   "status": "published",
+   "live_platforms": [
+    "TikTok",
+    "X"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/4d63086db1ca4aeac2c7e7076f722ad955c3d033/queue/tt_par-4-guess_orig.mov",
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/4d63086db1ca4aeac2c7e7076f722ad955c3d033/queue/tt_par-4-guess_x.mp4"
+   },
+   "added_by_sync": "2026-10-23 08:51 MT",
+   "note": "TikTok untouched original (first time on TikTok) + X crf18 H.264 export; opens on the wipe",
+   "already_posted": "https://www.instagram.com/reel/Dd4CVkmxtX7/ (@mackygolfs 2026-09-29)",
+   "posted_mt": "2026-10-26 17:49",
+   "synced": "2026-10-27 12:53 MT"
+  },
+  {
+   "date": "2026-10-26",
+   "scheduled_mt": "18:58",
    "slot": "evening",
    "platform": "facebook",
    "caption": "they said trees are 90% air #golf",
    "zernio": {
     "post": "6adb743f6b1090fa43769892"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
@@ -3114,61 +3116,69 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/c5d1b276cebdc0ca05dca29aab58876646be2e88/compilations/comp18_trees_r4.mp4"
    },
    "added_by_sync": "2026-10-23 08:51 MT",
-   "note": "FB evening: approved comp18 trees r4 (published @mackthegolfer Oct 23 08:20), never on FB; comps exempt from the wipe"
+   "note": "FB evening: approved comp18 trees r4 (published @mackthegolfer Oct 23 08:20), never on FB; comps exempt from the wipe",
+   "posted_mt": "2026-10-26 18:58",
+   "synced": "2026-10-27 12:53 MT"
   },
   {
    "date": "2026-10-27",
-   "scheduled_mt": "08:13",
+   "scheduled_mt": "08:15",
    "slot": "morning",
    "platform": "facebook",
    "caption": "a wet three. guess how i did #golf",
    "zernio": {
     "post": "6adcfcbbeb9bff29e565d9a4"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1792796160643_ftqiwprs_mackygolfs_w1_week1-5_original.mp4"
    },
-   "added_by_sync": "2026-10-24 12:52 MT"
+   "added_by_sync": "2026-10-24 12:52 MT",
+   "posted_mt": "2026-10-27 08:15",
+   "synced": "2026-10-27 12:53 MT"
   },
   {
    "date": "2026-10-27",
-   "scheduled_mt": "08:46",
+   "scheduled_mt": "08:47",
    "slot": "morning",
    "platform": "x_tiktok",
    "caption": "a wet three. guess how the lag master did",
    "zernio": {
     "post": "6adcfcba3cf074f392c7cd7c"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1792796160643_ftqiwprs_mackygolfs_w1_week1-5_original.mp4"
    },
-   "added_by_sync": "2026-10-24 12:52 MT"
+   "added_by_sync": "2026-10-24 12:52 MT",
+   "posted_mt": "2026-10-27 08:47",
+   "synced": "2026-10-27 12:53 MT"
   },
   {
    "date": "2026-10-27",
-   "scheduled_mt": "08:52",
+   "scheduled_mt": "08:53",
    "slot": "morning",
    "platform": "x_tiktok",
    "caption": "a wet three. guess how the lag master did",
    "zernio": {
     "post": "6adcfcfae6ad6ed75238098e"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "X"
    ],
    "live_media": {
     "X": "https://media.zernio.com/media/1792796160643_ftqiwprs_mackygolfs_w1_week1-5_original.mp4"
    },
-   "added_by_sync": "2026-10-24 12:52 MT"
+   "added_by_sync": "2026-10-24 12:52 MT",
+   "posted_mt": "2026-10-27 08:53",
+   "synced": "2026-10-27 12:53 MT"
   },
   {
    "date": "2026-10-27",
@@ -3179,14 +3189,16 @@
    "zernio": {
     "post": "6ade4ca9a1c8ce6681dd1a5f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "X"
    ],
    "live_media": {
     "X": "https://media.zernio.com/media/1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4"
    },
-   "added_by_sync": "2026-10-25 12:39 MT"
+   "added_by_sync": "2026-10-25 12:39 MT",
+   "posted_mt": "2026-10-27 12:17",
+   "synced": "2026-10-27 12:53 MT"
   },
   {
    "date": "2026-10-27",
@@ -3336,6 +3348,25 @@
   },
   {
    "date": "2026-10-29",
+   "scheduled_mt": "08:16",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "can a scientist weigh in on this? #golf",
+   "zernio": {
+    "post": "6adf9e29ee900b4aecfdefd0"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/da44fa3a73b7bfc6b3b60018fb70d6786f4cfd09/compilations/comp19_tweeners_r4.mp4"
+   },
+   "source": "approved comp19 tweeners r4 (7.5 s, @mackthegolfer Oct 23); guard PASS",
+   "added_by": "clip page run Oct 26"
+  },
+  {
+   "date": "2026-10-29",
    "scheduled_mt": "08:38",
    "slot": "morning",
    "platform": "x_tiktok",
@@ -3353,6 +3384,24 @@
     "X": "https://media.zernio.com/media/1792797349885_0kvzd3jb_mackygolfs_w1_week1-2_original.mp4"
    },
    "added_by_sync": "2026-10-26 12:35 MT"
+  },
+  {
+   "date": "2026-10-29",
+   "scheduled_mt": "12:23",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "it all fell apart near the green. guess my score",
+   "zernio": {
+    "post": "6ae0f5c92bdfbc1b00528816"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/fcef05ad126f68aded97b4eda30b114315c939bd/queue/fb_fell-apart-near-green_x.mp4"
+   },
+   "added_by_sync": "2026-10-27 13:06 MT"
   },
   {
    "date": "2026-10-29",
@@ -3374,25 +3423,80 @@
   },
   {
    "date": "2026-10-29",
-   "scheduled_mt": "08:16",
-   "slot": "morning",
-   "platform": "facebook",
-   "caption": "can a scientist weigh in on this? #golf",
+   "scheduled_mt": "17:54",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "par 3 with a bunker from hell. guess my score",
    "zernio": {
-    "post": "6adf9e29ee900b4aecfdefd0"
+    "post": "6ae0f5e52bdfbc1b00528891"
    },
    "status": "scheduled",
    "live_platforms": [
-    "Facebook"
+    "X"
    ],
    "live_media": {
-    "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/da44fa3a73b7bfc6b3b60018fb70d6786f4cfd09/compilations/comp19_tweeners_r4.mp4"
+    "X": "https://media.zernio.com/media/1793127530798_93dea7cebb315363_mackthegolfer_w1_week1-1nutrl_original.mp4"
    },
-   "source": "approved comp19 tweeners r4 (7.5 s, @mackthegolfer Oct 23); guard PASS",
-   "added_by": "clip page run Oct 26"
+   "added_by_sync": "2026-10-27 13:06 MT"
+  },
+  {
+   "date": "2026-10-30",
+   "scheduled_mt": "08:47",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "why is nobody talking about fall golf",
+   "zernio": {
+    "post": "6ae0f5e73cbf8df0a96b657a"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-27 13:06 MT"
+  },
+  {
+   "date": "2026-10-30",
+   "scheduled_mt": "08:53",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "one shot. one opportunity. par 4. guess how it went",
+   "zernio": {
+    "post": "6ae0f5ff3cbf8df0a96b65a7"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://media.zernio.com/media/1793127529865_8588eafbeb0a1bdb_mackthegolfer_w1_week1-7_original.mp4"
+   },
+   "added_by_sync": "2026-10-27 13:06 MT"
+  },
+  {
+   "date": "2026-10-30",
+   "scheduled_mt": "17:46",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "hole 11 is my lucky hole. par 3. guess what i got",
+   "zernio": {
+    "post": "6ae0f60a1ba48f67fb4d347c"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok",
+    "X"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793127528698_791220c8ae8f12d4_mackthegolfer_w1_week1-5_original.mp4",
+    "X": "https://media.zernio.com/media/1793127528698_791220c8ae8f12d4_mackthegolfer_w1_week1-5_original.mp4"
+   },
+   "added_by_sync": "2026-10-27 13:06 MT"
   }
  ],
- "synced_from_zernio": "2026-10-26 12:35 MT",
+ "synced_from_zernio": "2026-10-27 13:06 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -3465,16 +3569,19 @@
      "date": "2026-10-25",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved"
+     "status": "scheduled Fri Oct 30 17:46 MT (Zernio 6ae0f60a1ba48f67fb4d347c, TikTok+X, untouched original via zupload Oct 27, wipe kept)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-25",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "planned - after IG approval"
+     "status": "not possible: 110.3 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "caption": "short dry lowercase; may reuse the IG caption idea"
+    "caption": "short dry lowercase; may reuse the IG caption idea",
+    "x": {
+     "status": "scheduled Fri Oct 30 17:46 MT (with TikTok, 6ae0f60a)"
+    }
    },
    {
     "ig_item": "062",
@@ -3540,16 +3647,19 @@
      "date": "2026-10-26",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved"
+     "status": "planned - original uploaded (reuse media of X post 6ae0f5ff); schedule next open TikTok slot"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-26",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "planned - after IG approval"
+     "status": "not possible: ~137 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "caption": "short dry lowercase; may reuse the IG caption idea"
+    "caption": "short dry lowercase; may reuse the IG caption idea",
+    "x": {
+     "status": "scheduled Fri Oct 30 08:53 MT (Zernio 6ae0f5ff3cbf8df0a96b65a7, untouched original, media https://media.zernio.com/media/1793127529865_8588eafbeb0a1bdb_mackthegolfer_w1_week1-7_original.mp4)"
+    }
    },
    {
     "ig_item": "063",
@@ -3590,7 +3700,7 @@
      "date": "2026-10-26",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved (IG approved, scheduled Oct 25)"
+     "status": "scheduled Fri Oct 30 08:47 MT (Zernio 6ae0f5e73cbf8df0a96b657a, A IG Zernio media, clip page run Oct 27)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -3648,7 +3758,7 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-27",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "planned - after IG approval"
+     "status": "not possible: ~162 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
     "caption": "short dry lowercase; may reuse the IG caption idea"
@@ -3690,16 +3800,19 @@
      "date": "2026-10-28",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved"
+     "status": "planned - original uploaded (reuse media of X post 6ae0f5e5); schedule next open TikTok slot"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-28",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "planned - after IG approval"
+     "status": "not possible: ~136 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "caption": "short dry lowercase; may reuse the IG caption idea"
+    "caption": "short dry lowercase; may reuse the IG caption idea",
+    "x": {
+     "status": "scheduled Thu Oct 29 17:54 MT (Zernio 6ae0f5e52bdfbc1b00528891, untouched original, media https://media.zernio.com/media/1793127530798_93dea7cebb315363_mackthegolfer_w1_week1-1nutrl_original.mp4)"
+    }
    },
    {
     "ig_item": "073",

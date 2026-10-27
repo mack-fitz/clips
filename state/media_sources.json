@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1199,14 +1199,14 @@
    "kind": "edit",
    "note": "manual"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
@@ -1227,14 +1227,14 @@
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
    ],
@@ -1255,14 +1255,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
@@ -1297,14 +1297,14 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 19 40 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/015_bomb-city_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/021_bomb-city-short_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 19 40 AM.mov"
    ],
@@ -3443,6 +3443,38 @@
     "golfclips/Video Oct 11 2026, 9 02 57 AM (9).mp4"
    ],
    "main": "golfclips/Video Oct 11 2026, 9 02 57 AM (9).mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/fb_fell-apart-near-green_x.mp4": {
+   "sources": [
+    "golfclips/Video Sep 25 2026, 5 07 02 PM.mov"
+   ],
+   "main": "golfclips/Video Sep 25 2026, 5 07 02 PM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793127528698_791220c8ae8f12d4_mackthegolfer_w1_week1-5_original.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1- 5.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1- 5.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793127529865_8588eafbeb0a1bdb_mackthegolfer_w1_week1-7_original.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -7.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -7.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793127530798_93dea7cebb315363_mackthegolfer_w1_week1-1nutrl_original.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -1nutrl.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -1nutrl.mp4",
    "kind": "edit",
    "note": "manual"
   }
