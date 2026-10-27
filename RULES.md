@@ -141,6 +141,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Approved (decision "approved", decided_round == round): schedule at the planned time (late = next sensible time in the same
   window; a morning may shift up to 30 min). Use chosen_cover (default opt1) and the doc's current caption. Comps/shorties:
   post_account + post_when ("now" = publish now; "next" = next open afternoon on that trial account; @moremackygolfs = its next open slot).
+  An approved @mackthegolfer MORNING reel ALSO gets its YouTube Short scheduled in the same step (section 5b). Every run that
+  touches approvals also checks that each scheduled/posted B morning reel from today on has its Short; add any that are missing.
 - Notes (decision "changes"): apply exactly as written, re-upload preview + covers, round +1, decision null, history entry (no Zernio post until she approves), tell Mack "Your notes are done: <title>".
 - "Send me to download" notes: send her the full-quality file, decision "self_post", status "sent_to_mack", never schedule it.
 - Cards whose slot passed with no decision: drop them (status "dropped"); footage goes back to the pool.
