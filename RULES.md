@@ -65,6 +65,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **Afternoons 2:00–3:30 MT** (varied). Priority: PM files > turn dog reels > YouTube promos > bounces > comps/shorties.
   Extras beyond 7 in a weekly folder also go to afternoons. Comps/shorties only fill afternoons nothing else took.
 - **PM files** ("pm.MOV"/"PM.MOV", any case): afternoon only, own account only, never bounce.
+  **MACK POSTS PM FILES HERSELF (Mack, Oct 28): NEVER create a Zernio post for a PM file, not even after approval.** On
+  approval: send her the full-quality file + final caption + chosen cover the morning of its day (SendUserFile + SendUserMessage
+  "PM to post at ~<time>: <caption>"), set the doc decision "self_post", status "sent_to_mack". Same as the "send me to download" flow.
 - **Bounces (back and forth):** a reel can go to the OTHER account in an afternoon slot 30 days after its MOST RECENT post
   (to @mackygolfs = with the wipe / original upload; to @mackthegolfer = without). Back on its original account only 60 days
   after its first post there, again afternoons. Every bounce gets a NEW caption, a NEW cover and light edits (different trim/end,
