@@ -1227,13 +1227,6 @@
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 26 20 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/009_six-months-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 26 20 AM.mov"
@@ -1241,14 +1234,21 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/009_six-months-par-5_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 26 20 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 26 20 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1283,14 +1283,14 @@
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -3556,6 +3556,30 @@
    ],
    "main": "Video Sep 23 2026, 1 07 33 PM.mov",
    "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793213962645_63b44fb7e7aaa7cb_mackthegolfer_w1_week1-2_original.mp4": {
+   "sources": [
+    "mackthegolfer/week 1/week1 -2.mp4"
+   ],
+   "main": "mackthegolfer/week 1/week1 -2.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:mg_pending/shorties/slice-fixed.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "shorty",
+   "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:shorties/slice-fixed.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 12 05 56 AM.mov",
+   "kind": "shorty",
    "note": "manual"
   }
  }
