@@ -13,7 +13,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 ## 0. HOLDS (check first)
 - **Thu Oct 29 2026: NO posting at all on @mackygolfs or @mackthegolfer** (Mack posts herself that day). Don't schedule,
   publish or move anything onto either account for Oct 29 (MT), even if she approves a card dated Oct 29 — leave it and
-  tell her. No YouTube Short that day either (it follows the B morning reel). Other accounts unaffected. Remove this hold after Oct 29.
+  tell her. The YouTube Short STILL posts that day (Mack, Oct 28; scheduled by chat: 074 at 9:13am). Other accounts unaffected. Remove this hold after Oct 29.
 
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
@@ -55,7 +55,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 6. Nothing posts on @mackygolfs/@mackthegolfer unless Mack approved that exact item (video, caption, cover) on The Reviewer.
 7. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs.
 8. Leave a slot empty rather than break a rule. Report it.
-9. Read section 0 (HOLDS) before scheduling anything. Active hold: NOTHING posts on @mackygolfs/@mackthegolfer (or the YouTube Short) on Thu Oct 29.
+9. Read section 0 (HOLDS) before scheduling anything. Active hold: NOTHING posts on @mackygolfs/@mackthegolfer on Thu Oct 29 (YouTube Short still posts).
 
 ## 4. Shirt wipe
 - Everything opens on Mack's shirt wipe EXCEPT @mackthegolfer, which NEVER shows it (reels, comps, shorties, covers).
