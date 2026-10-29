@@ -20,8 +20,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   runs the normal way through Sun Nov 1 (Fri Oct 30 mornings + B PM, Sun Nov 1 A PM post on approval).
 - Week 2+ files DO feed the other accounts (Mack, Oct 29): YouTube Shorts (we cut the wipe ourselves = the B edit; caption in
   her voice; 1/day, morning ~8:30-9:30 MT), TikTok + Facebook (her originals as-is per section 6). Because she posts IG herself
-  and we can't see when, a week-N file may go to Shorts/TikTok/FB only from 7 days after its week folder first appeared
-  (so her IG post comes first). Until then Shorts use already-posted B reels (weeks before) not yet on YouTube.
+  and we can't see when, a week-N file may go to Shorts/TikTok/FB only AFTER her IG post: Mack names week files by
+  the day she'll post them ("sunday 11-1.mp4", "tues 11-3.mp4", "pm 11-1.mov"), so a file is usable from the day AFTER its named
+  date. Undated file = 7 days after its folder appeared. ("sat 11-6" in mackygolfs week 2 = Sat Nov 7.) Until then Shorts use already-posted B reels (weeks before) not yet on YouTube.
 
 - Coming (Mack, Oct 29): a mackyyaps X account (when it shows up in Zernio, post the same daily mackyyaps video there too, section 14) and a heyymackyy Instagram (AI account, its own task/repo handles it). Her first long YouTube video is next week (Thu Nov 5), not this week.
 
