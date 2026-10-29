@@ -1,10 +1,11 @@
 {
  "account": {
   "instagram": "6ae39dc291f8e9741c60c5cf",
-  "tiktok": "6ae39d18bd5929e9a3c9e4df"
+  "tiktok": "6ae39d18bd5929e9a3c9e4df",
+  "x": "6ae3a172456a4216e1e0ed17"
  },
  "folder": "ns:3302941984//Mackyyaps",
- "rules": "1/day IG reel + TikTok same video same caption same time, 6-8pm MT; silly flirty captions; never repeat a video (dedupe group)",
+ "rules": "1/day same video+caption+time on IG reel, TikTok, X; 5:00-6:30pm MT varied; silly flirty captions; never repeat a video or a re-take of the same bit (group)",
  "files": [
   {
    "key": "my001",
@@ -30,10 +31,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a681509e89bf3f752b1c",
+    "x": "pending (needs H.264 copy)"
+   },
+   "caption": "most handsome boy in my bed and it isn't close. sorry boys",
+   "scheduled_mt": "2026-11-03 17:36",
    "notes": ""
   },
   {
@@ -90,10 +94,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a67f509e89bf3f752aea",
+    "x": "pending (needs H.264 copy)"
+   },
+   "caption": "got a ticket for parking too close. i just like being close ok",
+   "scheduled_mt": "2026-11-02 17:04",
    "notes": ""
   },
   {
@@ -345,10 +352,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a68e509e89bf3f752ba4",
+    "x": "pending (needs H.264 copy)"
+   },
+   "caption": "cried three times at beauty and the beast. i've always had a thing for beasts",
+   "scheduled_mt": "2026-11-06 17:51",
    "notes": ""
   },
   {
@@ -465,10 +475,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a6882bdfae3fa4575eb8",
+    "x": "in post"
+   },
+   "caption": "cute, yellow and a little shocking. pikachu and i have a lot in common",
+   "scheduled_mt": "2026-11-05 17:23",
    "notes": ""
   },
   {
@@ -630,10 +643,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a66153cb8d1a7856a39c",
+    "x": "in post"
+   },
+   "caption": "how many hats can one head handle? i'm a lot to handle too",
+   "scheduled_mt": "2026-10-30 17:12",
    "notes": ""
   },
   {
@@ -840,10 +856,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a66b2bdfae3fa4575e17",
+    "x": "pending (needs H.264 copy)"
+   },
+   "caption": "a little sweet, a little spooky. candy corn girlie 🎃",
+   "scheduled_mt": "2026-10-31 17:47",
    "notes": ""
   },
   {
@@ -930,10 +949,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a686509e89bf3f752b49",
+    "x": "pending (needs H.264 copy)"
+   },
+   "caption": "obsessed with soft lips. you'd get it if you tried them",
+   "scheduled_mt": "2026-11-04 18:09",
    "notes": ""
   },
   {
@@ -1080,10 +1102,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": null,
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae3a6792bdfae3fa4575e58",
+    "x": "in post"
+   },
+   "caption": "you see me at the bar. what's your opening line? be brave",
+   "scheduled_mt": "2026-11-01 18:21",
    "notes": ""
   },
   {
