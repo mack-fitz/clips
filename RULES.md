@@ -225,3 +225,20 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   `<start UTC ISO>\t<end UTC ISO>\t<task name>\t<ok|partial|failed>\t<one plain line: what it did / what failed>`
 - The nightly check on Sundays reads the last 7 days of runlog.tsv and tells Mack about patterns (repeated failures, runs over
   30 min, things it couldn't save), not one-offs.
+
+## 14. mackyyaps (Mack, Oct 29) — separate from golf
+- Accounts: Instagram mackyyaps 6ae39dc291f8e9741c60c5cf, TikTok mackyyaps 6ae39d18bd5929e9a3c9e4df, X mackyyaps
+  6ae3a172456a4216e1e0ed17. Never cross-post to/from golf accounts or @heyymackyy. Golf-only rules (Golf Captions-only
+  Dropbox rule, shirt wipe, trial reels, The Reviewer) don't apply here; no approval step.
+- Source: Dropbox ns:3302941984//Mackyyaps (root + /stash + any "Week N" subfolders). Registry: clips state/mackyyaps.json.
+  Re-list the folder every run for new files; relay (links mode, scratch/my-*), transcribe (transcribe_scratch), dedupe.
+- ONE post a day: the SAME video at the SAME time on IG (reel, not a trial reel, cover = first frame), TikTok (public, cover
+  frame 0) and X. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily).
+- Captions: silly + flirty, in her voice, short; a little suggestive is fine, never explicit; 0–2 hashtags; no links; never
+  mention OnlyFans. Same caption on all three.
+- NEVER post the same video twice: byte dupes, re-exports AND re-takes of the same bit count as one (registry "group"); one
+  per group. Skip clips under 3 s and clips of her singing copyrighted songs (list them for Mack).
+- Quality: originals untouched to IG/TikTok; X needs H.264 SDR (one CRF-17 tone-mapped encode for HEVC/HDR files), max 2:20
+  (longer: cut at a natural gap for the X copy only, or skip X that day and say so).
+- The 12:24pm clip page run keeps 7 days scheduled from state/mackyyaps.json (status unused -> scheduled -> posted) and warns
+  Mack when fewer than 7 unused groups remain.
