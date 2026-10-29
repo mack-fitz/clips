@@ -23,6 +23,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   and we can't see when, a week-N file may go to Shorts/TikTok/FB only from 7 days after its week folder first appeared
   (so her IG post comes first). Until then Shorts use already-posted B reels (weeks before) not yet on YouTube.
 
+- Coming (Mack, Oct 29): a mackyyaps X account (when it shows up in Zernio, post the same daily mackyyaps video there too, section 14) and a heyymackyy Instagram (AI account, its own task/repo handles it). Her first long YouTube video is next week (Thu Nov 5), not this week.
+
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
 |---|---|---|---|
@@ -117,7 +119,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   her-style burned captions only if the source has none (none during the wipe). Story teaser (15 s, wipe first) with each reel.
   Cover = frame one. Cadence 2.5/day: 3-post days (Oct 23, 25, 27...: 8:00–9:30, 11:30–1:00, 5:00–7:00 MT) alternate with
   2-post days (Oct 24, 26...: morning + evening only). Never more than 3 a day.
-- **X @mackygolfs:** Mack's uncut original (H.264 export if HEVC), same caption idea; 2.5/day with the IG reels. Max 2:20.
+- **X @mackygolfs: STOPPED (Mack, Oct 29).** Never schedule anything on X @mackygolfs (6acc3edbda858fbeab423c5a) again. Golf cadence 2.5/day now = @moremackygolfs IG, TikTok, Facebook only.
 - **TikTok @mackygolfs + Facebook Page:** weekly-folder reels (PM files included) post as-is (wipe kept, cover = first frame)
   once their IG version is approved; later Mack prefers after IG, not the same day. FB on the same schedule as TikTok.
   Plan in clips state/schedule.json "weekly_plan". Other TikTok/FB slots: Mack's already-posted originals (TikTok should
