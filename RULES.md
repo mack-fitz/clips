@@ -15,10 +15,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   publish or move anything onto either account for Oct 29 (MT), even if she approves a card dated Oct 29 — leave it and
   tell her. The YouTube Short STILL posts that day (Mack, Oct 28; scheduled by chat: 074 at 9:13am). Other accounts unaffected. Remove this hold after Oct 29.
 
-- **From week 2 on (Mack, Oct 29): MACK POSTS EVERYTHING ON @mackygolfs/@mackthegolfer HERSELF.** Never create a Zernio post
-  on either account (week 2+ weekly-folder reels, PMs, anything). Prep/delivery details pending her answer; until then do
-  nothing with week 2 for those two accounts except registering the files. YouTube Shorts, TikTok, X, Facebook, @moremackygolfs
-  continue as normal.
+- **From week 2 on (Mack, Oct 29): MACK POSTS AND PREPS EVERYTHING ON @mackygolfs/@mackthegolfer HERSELF.** Never create a
+  Zernio post on either account for week 2+ content, and don't prep it for her (no Reviewer cards, no files sent). Week 1 still
+  runs the normal way through Sun Nov 1 (Fri Oct 30 mornings + B PM, Sun Nov 1 A PM post on approval).
+- Week 2+ files DO feed the other accounts (Mack, Oct 29): YouTube Shorts (we cut the wipe ourselves = the B edit; caption in
+  her voice; 1/day, morning ~8:30-9:30 MT), TikTok + Facebook (her originals as-is per section 6). Because she posts IG herself
+  and we can't see when, a week-N file may go to Shorts/TikTok/FB only from 7 days after its week folder first appeared
+  (so her IG post comes first). Until then Shorts use already-posted B reels (weeks before) not yet on YouTube.
 
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
@@ -93,6 +96,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   full-quality media file as its Zernio IG post (no wipe, no edits). Create the YouTube post in the same step that schedules
   the approved B morning reel (approval of the B reel covers its Short). If a day's B morning reel isn't approved/scheduled,
   that day gets no Short (don't fill it with anything else).
+- **From Mon Nov 2 (Mack posts IG herself):** Shorts no longer wait for approvals. The 4:38am morning run keeps the next 3 days of
+  Shorts scheduled (one/day, ~8:30–9:30 MT), picking: (1) week-1 @mackthegolfer reels already posted on IG but not yet on YouTube,
+  then (2) week-N files 7+ days after their folder appeared, wipe cut (one CRF-17 encode), caption written in her voice. Same file
+  never twice on YouTube. Title/description rules above.
 - Post: platform "youtube", account 6ae00b478806963c9f324a62, content "<caption>\n\n#golf #shorts", platformSpecificData
   {title: <caption, <=100 chars>, visibility "public", madeForKids false, categoryId "17"}. No custom cover (API can't for Shorts).
   metadata {kind "yt_short", source <file>}.
