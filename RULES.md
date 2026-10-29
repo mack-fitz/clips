@@ -10,6 +10,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## 0. HOLDS (check first)
+- **Thu Oct 29 2026: NO posting at all on @mackygolfs or @mackthegolfer** (Mack posts herself that day). Don't schedule,
+  publish or move anything onto either account for Oct 29 (MT), even if she approves a card dated Oct 29 — leave it and
+  tell her. No YouTube Short that day either (it follows the B morning reel). Other accounts unaffected. Remove this hold after Oct 29.
+
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
 |---|---|---|---|
