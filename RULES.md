@@ -55,6 +55,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 6. Nothing posts on @mackygolfs/@mackthegolfer unless Mack approved that exact item (video, caption, cover) on The Reviewer.
 7. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs.
 8. Leave a slot empty rather than break a rule. Report it.
+9. Read section 0 (HOLDS) before scheduling anything. Active hold: NOTHING posts on @mackygolfs/@mackthegolfer (or the YouTube Short) on Thu Oct 29.
 
 ## 4. Shirt wipe
 - Everything opens on Mack's shirt wipe EXCEPT @mackthegolfer, which NEVER shows it (reels, comps, shorties, covers).
