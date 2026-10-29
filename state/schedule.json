@@ -3304,21 +3304,23 @@
   },
   {
    "date": "2026-10-28",
-   "scheduled_mt": "17:47",
+   "scheduled_mt": "17:48",
    "slot": "evening",
    "platform": "x_tiktok",
    "caption": "no sauce on the burger. reeeally well seasoned though. guess my score on the par 4",
    "zernio": {
     "post": "6ade4cb3a1c8ce6681dd1aa1"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1792797348998_vm97yhz0_mackygolfs_w1_week1-1_original.mp4"
    },
-   "added_by_sync": "2026-10-25 12:39 MT"
+   "added_by_sync": "2026-10-25 12:39 MT",
+   "posted_mt": "2026-10-28 17:48",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-28",
@@ -3329,43 +3331,47 @@
    "zernio": {
     "post": "6ade4cb5a1c8ce6681dd1aa7"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "X"
    ],
    "live_media": {
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/97dac6d4c8512289e835752836fd0e192817c0f0/queue/fb_guess-my-handicap_x.mp4"
    },
-   "added_by_sync": "2026-10-25 12:39 MT"
+   "added_by_sync": "2026-10-25 12:39 MT",
+   "posted_mt": "2026-10-28 17:51",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-28",
-   "scheduled_mt": "18:36",
+   "scheduled_mt": "18:37",
    "slot": "evening",
    "platform": "facebook",
    "caption": "kyle berkshire's long drive record. what are your thoughts? #golf",
    "zernio": {
     "post": "6ade4cb8a1c8ce6681dd1abf"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1792858071948_t6g1hk6p_mackygolfs_077_long-drive-record-pm_a.mp4"
    },
-   "added_by_sync": "2026-10-25 12:39 MT"
+   "added_by_sync": "2026-10-25 12:39 MT",
+   "posted_mt": "2026-10-28 18:37",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-29",
-   "scheduled_mt": "08:16",
+   "scheduled_mt": "08:17",
    "slot": "morning",
    "platform": "facebook",
    "caption": "can a scientist weigh in on this? #golf",
    "zernio": {
     "post": "6adf9e29ee900b4aecfdefd0"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
@@ -3373,7 +3379,9 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/da44fa3a73b7bfc6b3b60018fb70d6786f4cfd09/compilations/comp19_tweeners_r4.mp4"
    },
    "source": "approved comp19 tweeners r4 (7.5 s, @mackthegolfer Oct 23); guard PASS",
-   "added_by": "clip page run Oct 26"
+   "added_by": "clip page run Oct 26",
+   "posted_mt": "2026-10-29 08:17",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-29",
@@ -3384,7 +3392,7 @@
    "zernio": {
     "post": "6adf9d3312d4de86a833c456"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok",
     "X"
@@ -3393,7 +3401,9 @@
     "TikTok": "https://media.zernio.com/media/1792797349885_0kvzd3jb_mackygolfs_w1_week1-2_original.mp4",
     "X": "https://media.zernio.com/media/1792797349885_0kvzd3jb_mackygolfs_w1_week1-2_original.mp4"
    },
-   "added_by_sync": "2026-10-26 12:35 MT"
+   "added_by_sync": "2026-10-26 12:35 MT",
+   "posted_mt": "2026-10-29 08:38",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-29",
@@ -3404,14 +3414,16 @@
    "zernio": {
     "post": "6ae0f5c92bdfbc1b00528816"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "X"
    ],
    "live_media": {
     "X": "https://raw.githubusercontent.com/mack-fitz/clips/fcef05ad126f68aded97b4eda30b114315c939bd/queue/fb_fell-apart-near-green_x.mp4"
    },
-   "added_by_sync": "2026-10-27 13:06 MT"
+   "added_by_sync": "2026-10-27 13:06 MT",
+   "posted_mt": "2026-10-29 12:23",
+   "synced": "2026-10-29 12:41 MT"
   },
   {
    "date": "2026-10-29",
@@ -3632,6 +3644,97 @@
    "added_by_sync": "2026-10-28 13:07 MT"
   },
   {
+   "date": "2026-10-31",
+   "scheduled_mt": "18:04",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "breaking 100 is a team effort. me and the bandana. guess my score",
+   "zernio": {
+    "post": "6ae393114c356e5ac9191e5a"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT"
+  },
+  {
+   "date": "2026-10-31",
+   "scheduled_mt": "18:22",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "one tee shot, one pond. wet or dry? #golf",
+   "zernio": {
+    "post": "6ae393284c356e5ac9191f84"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/8591482e41c0734ed53cb481fae41fe313a113ba/inbox/videos/Video%20Sep%2021%202026%2C%207%2012%2001%20PM.mov"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT"
+  },
+  {
+   "date": "2026-11-01",
+   "scheduled_mt": "08:16",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "great drive. then what? guess my score #golf",
+   "zernio": {
+    "post": "6ae3932b4c356e5ac9191f9f"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/08e438bee7d35b9b4e87a47cb5e74e2635631ac4/queue/012_great-drive_orig.mov"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT"
+  },
+  {
+   "date": "2026-11-01",
+   "scheduled_mt": "08:37",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "said i'd par this hole. place your bets",
+   "zernio": {
+    "post": "6ae39323696a2cbafa201986"
+   },
+   "status": "removed",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/b86f41b8c3aeb52349ffa67724fca918f98ad58c/queue/fb_dawg-par-attempt_x.mp4"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT",
+   "synced": "2026-10-29 12:42 MT"
+  },
+  {
+   "date": "2026-11-01",
+   "scheduled_mt": "08:37",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "par 5, no pressure. guess my score before i ruin it",
+   "zernio": {
+    "post": "6ae39379696a2cbafa2019ce"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2033%2050%20AM.mov"
+   },
+   "added_by_sync": "2026-10-29 12:42 MT"
+  },
+  {
    "date": "2026-11-01",
    "scheduled_mt": "08:44",
    "slot": "morning",
@@ -3668,6 +3771,42 @@
    "added_by_sync": "2026-10-28 13:07 MT"
   },
   {
+   "date": "2026-11-01",
+   "scheduled_mt": "17:56",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "par 3 over water. wet or dry, call it now",
+   "zernio": {
+    "post": "6ae393254c356e5ac9191f65"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2035%2057%20AM.mov"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT"
+  },
+  {
+   "date": "2026-11-01",
+   "scheduled_mt": "18:33",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "basically a hole in one. how close was it? #golf",
+   "zernio": {
+    "post": "6ae3932d4c356e5ac9191fae"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/08e438bee7d35b9b4e87a47cb5e74e2635631ac4/queue/015_hole-in-one-attempt_orig.mov"
+   },
+   "added_by_sync": "2026-10-29 12:41 MT"
+  },
+  {
    "date": "2026-11-02",
    "scheduled_mt": "08:46",
    "slot": "morning",
@@ -3686,7 +3825,7 @@
    "added_by_sync": "2026-10-28 13:07 MT"
   }
  ],
- "synced_from_zernio": "2026-10-28 13:07 MT",
+ "synced_from_zernio": "2026-10-29 12:42 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",

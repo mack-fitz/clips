@@ -130,5 +130,11 @@
   "Video Oct 12 2026, 12 03 20 AM.mov",
   "Video Oct 11 2026, 9 02 57 AM.mp4",
   "Video Oct 12 2026, 7 26 20 AM.mov"
+ ],
+ "clips:queue/fb_dawg-par-attempt_x.mp4": [
+  "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
+ ],
+ "clips:queue/fb_dawg-par-attempt_orig.mov": [
+  "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
  ]
 }

@@ -1184,13 +1184,6 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 16 02 AM.mov"
@@ -1198,6 +1191,13 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "edit",
    "note": "manual"
+  },
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
   },
   "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
@@ -1213,14 +1213,14 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1241,14 +1241,14 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1276,14 +1276,14 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/014_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -1311,14 +1311,14 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -1775,15 +1775,6 @@
    "main": "Video Oct 12 2026, 7 16 02 AM.mov",
    "kind": "comp"
   },
-  "mackygolfs-mackthegolfer:compilations/comp25_sand.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 12 03 20 AM.mov",
-    "Video Sep 21 2026, 7 24 34 PM.mov",
-    "Video Oct 12 2026, 12 22 39 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 12 03 20 AM.mov",
-   "kind": "comp"
-  },
   "mackygolfs-mackthegolfer:compilations/comp2_delusional.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 05 56 AM.mov",
@@ -2012,14 +2003,6 @@
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "shorty"
-  },
-  "mackygolfs-mackthegolfer:shorties/grading-my-shots.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 19 40 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
-   "kind": "shorty",
-   "note": "manual"
   },
   "mackygolfs-mackthegolfer:shorties/chip-in-day.mp4": {
    "sources": [
@@ -3623,6 +3606,14 @@
    "kind": "shorty",
    "note": "manual"
   },
+  "mackygolfs-mackthegolfer:shorties/grading-my-shots.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 19 40 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 19 40 AM.mov",
+   "kind": "shorty",
+   "note": "manual"
+  },
   "clips:mg_pending/compilations/comp26_almost.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 03 20 AM.mov",
@@ -3641,6 +3632,22 @@
    ],
    "main": "Video Oct 12 2026, 12 03 20 AM.mov",
    "kind": "comp",
+   "note": "manual"
+  },
+  "clips:queue/fb_dawg-par-attempt_x.mp4": {
+   "sources": [
+    "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
+   ],
+   "main": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "clips:queue/fb_dawg-par-attempt_orig.mov": {
+   "sources": [
+    "golfclips/Video Sep 28 2026, 7 56 55 AM.mov"
+   ],
+   "main": "golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+   "kind": "edit",
    "note": "manual"
   }
  }
