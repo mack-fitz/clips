@@ -1,0 +1,195 @@
+{
+"source": "ff0a3fcb3e0648bcb6e82f40932fb5b9.MP4",
+"duration": 14.5589375,
+"segments": [
+{
+"start": 0.0,
+"end": 2.2,
+"text": "Sorry, so windy, I'm on a cruise",
+"words": [
+[
+0.0,
+0.46,
+" Sorry,"
+],
+[
+0.54,
+0.68,
+" so"
+],
+[
+0.68,
+1.12,
+" windy,"
+],
+[
+1.18,
+1.5,
+" I'm"
+],
+[
+1.5,
+1.6,
+" on"
+],
+[
+1.6,
+1.74,
+" a"
+],
+[
+1.74,
+2.2,
+" cruise"
+]
+]
+},
+{
+"start": 3.22,
+"end": 5.52,
+"text": "Look how beautiful this is",
+"words": [
+[
+3.22,
+3.88,
+" Look"
+],
+[
+3.88,
+4.08,
+" how"
+],
+[
+4.08,
+4.3,
+" beautiful"
+],
+[
+4.3,
+4.64,
+" this"
+],
+[
+4.64,
+5.52,
+" is"
+]
+]
+},
+{
+"start": 6.34,
+"end": 7.0,
+"text": "Ahhhhhhh",
+"words": [
+[
+6.34,
+7.0,
+" Ahhhhhhh"
+]
+]
+},
+{
+"start": 7.0,
+"end": 8.32,
+"text": "My singing is not beautiful",
+"words": [
+[
+7.0,
+7.36,
+" My"
+],
+[
+7.36,
+7.56,
+" singing"
+],
+[
+7.56,
+7.76,
+" is"
+],
+[
+7.76,
+7.92,
+" not"
+],
+[
+7.92,
+8.32,
+" beautiful"
+]
+]
+},
+{
+"start": 8.32,
+"end": 10.04,
+"text": "Sorry for ruining it",
+"words": [
+[
+8.32,
+8.9,
+" Sorry"
+],
+[
+8.9,
+9.08,
+" for"
+],
+[
+9.08,
+9.28,
+" ruining"
+],
+[
+9.28,
+10.04,
+" it"
+]
+]
+},
+{
+"start": 10.04,
+"end": 11.52,
+"text": "Look at this",
+"words": [
+[
+10.04,
+10.78,
+" Look"
+],
+[
+10.78,
+10.96,
+" at"
+],
+[
+10.96,
+11.52,
+" this"
+]
+]
+},
+{
+"start": 11.52,
+"end": 13.44,
+"text": "Oh my gosh",
+"words": [
+[
+11.52,
+12.66,
+" Oh"
+],
+[
+12.66,
+12.86,
+" my"
+],
+[
+12.86,
+13.44,
+" gosh"
+]
+]
+}
+]
+}

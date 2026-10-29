@@ -1,0 +1,140 @@
+{
+"source": "IMG_0515.MOV",
+"duration": 12.9693125,
+"segments": [
+{
+"start": 0.0,
+"end": 5.08,
+"text": "I accidentally got locked out of my house, so I'm just juggling to kill time",
+"words": [
+[
+0.0,
+1.02,
+" I"
+],
+[
+1.02,
+1.32,
+" accidentally"
+],
+[
+1.32,
+1.68,
+" got"
+],
+[
+1.68,
+1.96,
+" locked"
+],
+[
+1.96,
+2.16,
+" out"
+],
+[
+2.16,
+2.24,
+" of"
+],
+[
+2.24,
+2.38,
+" my"
+],
+[
+2.38,
+2.7,
+" house,"
+],
+[
+2.7,
+3.08,
+" so"
+],
+[
+3.08,
+3.54,
+" I'm"
+],
+[
+3.54,
+3.8,
+" just"
+],
+[
+3.8,
+4.22,
+" juggling"
+],
+[
+4.22,
+4.52,
+" to"
+],
+[
+4.52,
+4.7,
+" kill"
+],
+[
+4.7,
+5.08,
+" time"
+]
+]
+},
+{
+"start": 8.44,
+"end": 10.94,
+"text": "It's hard because the rocks are all different weights",
+"words": [
+[
+8.44,
+9.02,
+" It's"
+],
+[
+9.02,
+9.22,
+" hard"
+],
+[
+9.22,
+9.52,
+" because"
+],
+[
+9.52,
+9.7,
+" the"
+],
+[
+9.7,
+9.96,
+" rocks"
+],
+[
+9.96,
+10.14,
+" are"
+],
+[
+10.14,
+10.28,
+" all"
+],
+[
+10.28,
+10.56,
+" different"
+],
+[
+10.56,
+10.94,
+" weights"
+]
+]
+}
+]
+}

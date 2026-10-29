@@ -1,0 +1,95 @@
+{
+"source": "a7eb276de1b348dcad990ea3779d18df.MP4",
+"duration": 9.1936875,
+"segments": [
+{
+"start": 0.0,
+"end": 4.22,
+"text": "This bathroom that I'm in has an emodium vending machine.",
+"words": [
+[
+0.0,
+0.72,
+" This"
+],
+[
+0.72,
+1.16,
+" bathroom"
+],
+[
+1.16,
+1.36,
+" that"
+],
+[
+1.36,
+1.56,
+" I'm"
+],
+[
+1.56,
+1.84,
+" in"
+],
+[
+1.84,
+2.46,
+" has"
+],
+[
+2.46,
+2.9,
+" an"
+],
+[
+2.9,
+3.3,
+" emodium"
+],
+[
+3.3,
+3.7,
+" vending"
+],
+[
+3.7,
+4.22,
+" machine."
+]
+]
+},
+{
+"start": 7.0,
+"end": 8.76,
+"text": "I've never seen anything better.",
+"words": [
+[
+7.0,
+7.8,
+" I've"
+],
+[
+7.8,
+7.96,
+" never"
+],
+[
+7.96,
+8.2,
+" seen"
+],
+[
+8.2,
+8.44,
+" anything"
+],
+[
+8.44,
+8.76,
+" better."
+]
+]
+}
+]
+}

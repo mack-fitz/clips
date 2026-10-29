@@ -1,0 +1,149 @@
+{
+"source": "24758e83503049a1bd01b4d93cc2ac9d.MP4",
+"duration": 11.6331875,
+"segments": [
+{
+"start": 0.0,
+"end": 6.42,
+"text": "Does anybody have any interesting, like, fun facts or literally anything?",
+"words": [
+[
+0.0,
+0.42,
+" Does"
+],
+[
+0.42,
+0.62,
+" anybody"
+],
+[
+0.62,
+0.9,
+" have"
+],
+[
+0.9,
+1.08,
+" any"
+],
+[
+1.08,
+1.64,
+" interesting,"
+],
+[
+1.76,
+2.7,
+" like,"
+],
+[
+3.52,
+3.58,
+" fun"
+],
+[
+3.58,
+4.26,
+" facts"
+],
+[
+4.26,
+5.04,
+" or"
+],
+[
+5.04,
+5.98,
+" literally"
+],
+[
+5.98,
+6.42,
+" anything?"
+]
+]
+},
+{
+"start": 6.58,
+"end": 7.9,
+"text": "I've been stuck in bed all day.",
+"words": [
+[
+6.58,
+6.64,
+" I've"
+],
+[
+6.64,
+6.76,
+" been"
+],
+[
+6.76,
+7.02,
+" stuck"
+],
+[
+7.02,
+7.2,
+" in"
+],
+[
+7.2,
+7.36,
+" bed"
+],
+[
+7.36,
+7.62,
+" all"
+],
+[
+7.62,
+7.9,
+" day."
+]
+]
+},
+{
+"start": 8.02,
+"end": 9.08,
+"text": "I'm so bored.",
+"words": [
+[
+8.02,
+8.1,
+" I'm"
+],
+[
+8.1,
+8.56,
+" so"
+],
+[
+8.56,
+9.08,
+" bored."
+]
+]
+},
+{
+"start": 10.1,
+"end": 10.7,
+"text": "Please help.",
+"words": [
+[
+10.1,
+10.36,
+" Please"
+],
+[
+10.36,
+10.7,
+" help."
+]
+]
+}
+]
+}

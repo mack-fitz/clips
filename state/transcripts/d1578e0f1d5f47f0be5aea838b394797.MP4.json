@@ -1,0 +1,100 @@
+{
+"source": "d1578e0f1d5f47f0be5aea838b394797.MP4",
+"duration": 9.9599375,
+"segments": [
+{
+"start": 2.6,
+"end": 5.52,
+"text": "Does anybody have any recommendations for a sports bra?",
+"words": [
+[
+2.6,
+3.28,
+" Does"
+],
+[
+3.28,
+3.5,
+" anybody"
+],
+[
+3.5,
+3.74,
+" have"
+],
+[
+3.74,
+3.9,
+" any"
+],
+[
+3.9,
+4.32,
+" recommendations"
+],
+[
+4.32,
+4.72,
+" for"
+],
+[
+4.72,
+4.84,
+" a"
+],
+[
+4.84,
+5.2,
+" sports"
+],
+[
+5.2,
+5.52,
+" bra?"
+]
+]
+},
+{
+"start": 6.52,
+"end": 8.64,
+"text": "This one just like doesn't fit right.",
+"words": [
+[
+6.52,
+6.94,
+" This"
+],
+[
+6.94,
+7.1,
+" one"
+],
+[
+7.1,
+7.22,
+" just"
+],
+[
+7.22,
+7.4,
+" like"
+],
+[
+7.4,
+7.94,
+" doesn't"
+],
+[
+7.94,
+8.2,
+" fit"
+],
+[
+8.2,
+8.64,
+" right."
+]
+]
+}
+]
+}

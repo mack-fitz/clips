@@ -1,0 +1,60 @@
+{
+"source": "c914b9ed6dfc420b83c0aa2fbedd6053.MP4",
+"duration": 7.5465,
+"segments": [
+{
+"start": 1.26,
+"end": 2.48,
+"text": "Do I look like a super normal?",
+"words": [
+[
+1.26,
+1.56,
+" Do"
+],
+[
+1.56,
+1.66,
+" I"
+],
+[
+1.66,
+1.76,
+" look"
+],
+[
+1.76,
+1.92,
+" like"
+],
+[
+1.92,
+2.06,
+" a"
+],
+[
+2.06,
+2.18,
+" super"
+],
+[
+2.18,
+2.48,
+" normal?"
+]
+]
+},
+{
+"start": 2.94,
+"end": 3.04,
+"text": "Wait.",
+"words": [
+[
+2.94,
+3.04,
+" Wait."
+]
+]
+}
+]
+}
