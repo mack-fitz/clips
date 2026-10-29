@@ -15,6 +15,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   publish or move anything onto either account for Oct 29 (MT), even if she approves a card dated Oct 29 — leave it and
   tell her. The YouTube Short STILL posts that day (Mack, Oct 28; scheduled by chat: 074 at 9:13am). Other accounts unaffected. Remove this hold after Oct 29.
 
+- **From week 2 on (Mack, Oct 29): MACK POSTS EVERYTHING ON @mackygolfs/@mackthegolfer HERSELF.** Never create a Zernio post
+  on either account (week 2+ weekly-folder reels, PMs, anything). Prep/delivery details pending her answer; until then do
+  nothing with week 2 for those two accounts except registering the files. YouTube Shorts, TikTok, X, Facebook, @moremackygolfs
+  continue as normal.
+
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
 |---|---|---|---|
