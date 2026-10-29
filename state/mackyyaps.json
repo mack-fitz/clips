@@ -616,11 +616,11 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0533.MOV",
-   "status": "skipped",
+   "status": "unused",
    "zernio": {},
    "caption": null,
    "scheduled_mt": null,
-   "notes": "singing Dua Lipa (copyrighted song risk)"
+   "notes": "car, singing Dua Lipa: Mack OK to post (Oct 29)"
   },
   {
    "key": "my041",
@@ -864,7 +864,7 @@
     "post": "6ae3a66b2bdfae3fa4575e17",
     "x": "6ae3a86733c487ef417eb62e"
    },
-   "caption": "a little sweet, a little spooky. candy corn girlie 🎃",
+   "caption": "a little sweet, a little spooky. candy corn girlie \ud83c\udf83",
    "scheduled_mt": "2026-10-31 17:47",
    "notes": "",
    "x_copy": "scratch/my-x:IMG_0003_x.mp4"
