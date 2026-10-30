@@ -1,6 +1,6 @@
 {
  "note": "Unique source videos (Dropbox /Golf Captions + /golfclips). Built by tools/build_media_map.py.",
- "count": 79,
+ "count": 94,
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
    "files": [
@@ -526,6 +526,96 @@
   "mackthegolfer/week 1/PM - never post as a bounce.mov": {
    "files": [
     "/Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/thurs 11-5.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/thurs 11-5.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/sunday 11-1.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/sunday 11-1.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/wed 11-4.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/wed 11-4.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/monday 11-2.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/monday 11-2.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/pm 11-1.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/pm 11-1.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/tues 11-3.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/tues 11-3.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/sat 11-6.mp4": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/sat 11-6.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/week 2/fri 11-6.mov": {
+   "files": [
+    "/Golf/for claude/mackygolfs/week 2/fri 11-6.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/wed 11-4.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/wed 11-4.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/tues 11-3.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/tues 11-3.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/thurs 11-5.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/thurs 11-5.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/sunday 11-1.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/sunday 11-1.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/sat 11-7.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/sat 11-7.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/monday 11-2.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/monday 11-2.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/week 2 11-1/fri 11-6.mp4": {
+   "files": [
+    "/Golf/for claude/mackthegolfer/week 2 11-1/fri 11-6.mp4"
    ],
    "clip_pages_only": false
   }
