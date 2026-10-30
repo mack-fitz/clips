@@ -18,11 +18,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **From week 2 on (Mack, Oct 29): MACK POSTS AND PREPS EVERYTHING ON @mackygolfs/@mackthegolfer HERSELF.** Never create a
   Zernio post on either account for week 2+ content, and don't prep it for her (no Reviewer cards, no files sent). Week 1 still
   runs the normal way through Sun Nov 1 (Fri Oct 30 mornings + B PM, Sun Nov 1 A PM post on approval).
-- Week 2+ files DO feed the other accounts (Mack, Oct 29): YouTube Shorts (we cut the wipe ourselves = the B edit; caption in
-  her voice; 1/day, morning ~8:30-9:30 MT), TikTok + Facebook (her originals as-is per section 6). Because she posts IG herself
-  and we can't see when, a week-N file may go to Shorts/TikTok/FB only AFTER her IG post: Mack names week files by
-  the day she'll post them ("sunday 11-1.mp4", "tues 11-3.mp4", "pm 11-1.mov"), so a file is usable from the day AFTER its named
-  date. Undated file = 7 days after its folder appeared. ("sat 11-6" in mackygolfs week 2 = Sat Nov 7.) Until then Shorts use already-posted B reels (weeks before) not yet on YouTube.
+- Week 2+ files DO feed the other accounts (Mack, Oct 29-30): YouTube Shorts (we cut the wipe ourselves = the B edit; caption in
+  her voice; 1/day, morning ~8:30-9:30 MT), TikTok + Facebook (her originals as-is per section 6). **These do NOT depend on
+  when or what she posts on IG (Mack, Oct 30): use any weekly-folder file as soon as it's registered, in any order; ignore the
+  dates in the filenames. Keep the normal cadence.** Never post the same file twice on the same platform.
 
 - Coming (Mack, Oct 29): a mackyyaps X account (when it shows up in Zernio, post the same daily mackyyaps video there too, section 14) and a heyymackyy Instagram (AI account, its own task/repo handles it). Her first long YouTube video is next week (Thu Nov 5), not this week.
 
@@ -101,7 +100,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   that day gets no Short (don't fill it with anything else).
 - **From Mon Nov 2 (Mack posts IG herself):** Shorts no longer wait for approvals. The 4:38am morning run keeps the next 3 days of
   Shorts scheduled (one/day, ~8:30–9:30 MT), picking: (1) week-1 @mackthegolfer reels already posted on IG but not yet on YouTube,
-  then (2) week-N files 7+ days after their folder appeared, wipe cut (one CRF-17 encode), caption written in her voice. Same file
+  then (2) week-N @mackthegolfer files as soon as they're registered (no waiting on her IG post), wipe cut (one CRF-17 encode), caption written in her voice. Same file
   never twice on YouTube. Title/description rules above.
 - Post: platform "youtube", account 6ae00b478806963c9f324a62, content "<caption>\n\n#golf #shorts", platformSpecificData
   {title: <caption, <=100 chars>, visibility "public", madeForKids false, categoryId "17"}. No custom cover (API can't for Shorts).
