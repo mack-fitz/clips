@@ -124,7 +124,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   once their IG version is approved; later Mack prefers after IG, not the same day. FB on the same schedule as TikTok.
   Plan in clips state/schedule.json "weekly_plan". Other TikTok/FB slots: Mack's already-posted originals (TikTok should
   eventually get every original); never-posted videos only after their IG post is published.
-- **Facebook extras:** Reels 3–60 s only; never the same video on the Page within 30 days; captions may add ONE #golf; a
+- **Facebook extras:** 3–60 s videos post as Reels (contentType reel); anything longer posts as a regular Page video (no contentType reel) — Mack, Oct 31: every original is usable on FB; never the same video on the Page within 30 days; captions may add ONE #golf; a
   question works well. TikTok: PUBLIC_TO_EVERYONE, comments/duet/stitch on, commercial none, cover = first frame (videoCoverTimestampMs 0).
 - Bought engagement on @moremackygolfs (Oct 12: 442 followers counted as bought, 1,000 views, 100 likes) is excluded from all analytics.
 
