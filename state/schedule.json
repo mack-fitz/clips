@@ -3532,68 +3532,76 @@
    "zernio": {
     "post": "6ae0f60a1ba48f67fb4d347c"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793127528698_791220c8ae8f12d4_mackthegolfer_w1_week1-5_original.mp4"
    },
-   "added_by_sync": "2026-10-27 13:06 MT"
+   "added_by_sync": "2026-10-27 13:06 MT",
+   "posted_mt": "2026-10-30 17:46",
+   "synced": "2026-10-31 12:49 MT"
   },
   {
    "date": "2026-10-30",
-   "scheduled_mt": "18:27",
+   "scheduled_mt": "18:28",
    "slot": "evening",
    "platform": "facebook",
    "caption": "what do you think i shot on this par 4? #golf",
    "zernio": {
     "post": "6ae246e42dc68958060daa04"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/0adbb9593128393bf0cccf72e4311ec450e6c2b8/queue/tt_bunker-par-4_orig.mov"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-10-30 18:28",
+   "synced": "2026-10-31 12:49 MT"
   },
   {
    "date": "2026-10-31",
-   "scheduled_mt": "08:12",
+   "scheduled_mt": "08:13",
    "slot": "morning",
    "platform": "facebook",
    "caption": "par 4 with a pine tree in the way. what'd i get? #golf",
    "zernio": {
     "post": "6ae246e72dc68958060daa13"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/0adbb9593128393bf0cccf72e4311ec450e6c2b8/queue/tt_tree-par-4_orig.mov"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-10-31 08:13",
+   "synced": "2026-10-31 12:49 MT"
   },
   {
    "date": "2026-10-31",
-   "scheduled_mt": "08:41",
+   "scheduled_mt": "08:42",
    "slot": "morning",
    "platform": "x_tiktok",
    "caption": "one shot. one opportunity. par 4. guess how it went",
    "zernio": {
     "post": "6ae246e92dc68958060daa30"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793127529865_8588eafbeb0a1bdb_mackthegolfer_w1_week1-7_original.mp4"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-10-31 08:42",
+   "synced": "2026-10-31 12:49 MT"
   },
   {
    "date": "2026-10-31",
@@ -3623,7 +3631,7 @@
    "zernio": {
     "post": "6ae4d240b79883fd33b3d767"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook",
     "TikTok"
@@ -3632,7 +3640,9 @@
     "TikTok": "https://media.zernio.com/media/1792858072833_mokozh20_mackygolfs_078_car-talk-pm_a.mp4",
     "Facebook": "https://media.zernio.com/media/1792858072833_mokozh20_mackygolfs_078_car-talk-pm_a.mp4"
    },
-   "added_by_sync": "2026-10-30 12:39 MT"
+   "added_by_sync": "2026-10-30 12:39 MT",
+   "posted_mt": "2026-10-31 12:16",
+   "synced": "2026-10-31 12:49 MT"
   },
   {
    "date": "2026-10-31",
@@ -3910,9 +3920,98 @@
     "TikTok": "https://media.zernio.com/media/1793380239855_dea5fb789c2167d5_mackygolfs_066_mindset-par-4_a.mp4"
    },
    "added_by_sync": "2026-10-30 12:39 MT"
+  },
+  {
+   "date": "2026-11-02",
+   "scheduled_mt": "18:14",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "legit thought this was a real wolf. would you have kept playing? #golf",
+   "zernio": {
+    "post": "6ae4e44e99ca6f6df2b0065f"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/2c9bbb0e7c0ffbe5d282e156e5a54211f0ccea26/A_w2-pm-11-1.mov"
+   },
+   "added_by_sync": "2026-10-31 12:49 MT"
+  },
+  {
+   "date": "2026-11-03",
+   "scheduled_mt": "08:17",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "one swing. rate it 1-10. be honest but nice #golf",
+   "zernio": {
+    "post": "6ae636c58baa9d44a357328f"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/4e9509d6cf604db7187fa737e3521c3a6bcde0c4/queue/006_one-swing_orig.mov"
+   },
+   "added_by_sync": "2026-10-31 12:49 MT"
+  },
+  {
+   "date": "2026-11-03",
+   "scheduled_mt": "08:43",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "be specific. what am i doing wrong",
+   "zernio": {
+    "post": "6ae636c65051c8a28b52e434"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793380241298_9de34d8487e72ef3_mackygolfs_069_sim-swing-pm_a.mp4"
+   },
+   "added_by_sync": "2026-10-31 12:49 MT"
+  },
+  {
+   "date": "2026-11-03",
+   "scheduled_mt": "17:44",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "legit thought this was a real wolf. would you have kept playing?",
+   "zernio": {
+    "post": "6ae636c78baa9d44a3573296"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/2c9bbb0e7c0ffbe5d282e156e5a54211f0ccea26/A_w2-pm-11-1.mov"
+   },
+   "added_by_sync": "2026-10-31 12:49 MT"
+  },
+  {
+   "date": "2026-11-03",
+   "scheduled_mt": "18:26",
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "zernio": {
+    "facebook": "6ae6389874783932c192158f"
+   },
+   "caption": "eagle was right there. what went wrong? #golf",
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/4e9509d6cf604db7187fa737e3521c3a6bcde0c4/queue/008_almost-eagle_full.mp4"
+   },
+   "added_by_sync": "2026-10-31 12:51 MT (clip page run, added after sync)",
+   "note": "IMG_6394 untouched 39 s, never on FB (Oct 20 slot was removed before posting); guard PASS"
   }
  ],
- "synced_from_zernio": "2026-10-30 12:39 MT",
+ "synced_from_zernio": "2026-10-31 12:49 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -4442,7 +4541,7 @@
      "date": "2026-11-02",
      "slot": "after IG (day after)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned - schedule only after the IG version is approved"
+     "status": "scheduled Tue Nov 3 08:43 MT (Zernio 6ae636c65051c8a28b52e434, same media as the A IG post, wipe kept)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -4475,7 +4574,10 @@
      "status": "not possible as a Reel: 77.6 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "duration": 77.6
+    "duration": 77.6,
+    "youtube": {
+     "status": "scheduled Tue Nov 3 09:02 MT (Zernio 6ae6380074783932c192119b): wipe cut at 1.20 s, one CRF-17 L4.2 encode 13.7 Mbps (source 16.0 Mbps), scratch/yt-w2b:080_fall-golf-sunday_b_yt.mp4; Mack posted this on IG @mackthegolfer Oct 31 (DfKeTNIxPAf, likely match by topic)"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/week 2/sunday 11-1.mp4",
@@ -4510,7 +4612,7 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-02",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Tue Nov 3 17:44 MT (Zernio 6ae636c78baa9d44a3573296, untouched original)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",

@@ -264,11 +264,13 @@
    "duration": null,
    "dup_of_path": null,
    "group": "51f915d91469440cb511574680630696.MP4",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae636af8baa9d44a357322c"
+   },
+   "caption": "saw a trend asking what it looks like i do for work. go ahead, guess. wrong answers only",
+   "scheduled_mt": "2026-11-07 17:28",
+   "notes": "H.264 SDR 720x1280 8.4 s: same file on IG/TikTok/X (raw pinned scratch/my-b1 22b6a7e)"
   },
   {
    "key": "my018",
@@ -646,7 +648,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "af412ff851174a10930c98c77975e233.MP4",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a66153cb8d1a7856a39c",
     "x": "in post"
@@ -864,7 +866,7 @@
     "post": "6ae3a66b2bdfae3fa4575e17",
     "x": "6ae3a86733c487ef417eb62e"
    },
-   "caption": "a little sweet, a little spooky. candy corn girlie \ud83c\udf83",
+   "caption": "a little sweet, a little spooky. candy corn girlie 🎃",
    "scheduled_mt": "2026-10-31 17:47",
    "notes": "",
    "x_copy": "scratch/my-x:IMG_0003_x.mp4"
