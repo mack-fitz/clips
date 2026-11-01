@@ -375,11 +375,14 @@
    "duration": null,
    "dup_of_path": null,
    "group": "0803c049ed4c410b824248e1f8f76c2e.MP4",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae792708eaf812fc5f0ecd9",
+    "x": "in post"
+   },
+   "caption": "i need to go to the gym. nothing rhymes with gym and nobody's coming to motivate me. volunteers?",
+   "scheduled_mt": "2026-11-08 17:39",
+   "notes": "H.264 SDR 720x1280 10.4 s: same file on IG/TikTok/X (raw pinned scratch/my-b1 22b6a7e)"
   },
   {
    "key": "my025",
@@ -861,7 +864,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0003.MOV",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a66b2bdfae3fa4575e17",
     "x": "6ae3a86733c487ef417eb62e"

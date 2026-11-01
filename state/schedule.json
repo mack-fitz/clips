@@ -3672,14 +3672,16 @@
    "zernio": {
     "post": "6ae246ed5a64e0a826461aa6"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793136596507_d75eb7d3bf1c114c_mackygolfs_w1_week1-6_original.mp4"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-10-31 17:43",
+   "synced": "2026-11-01 12:31 MT"
   },
   {
    "date": "2026-10-31",
@@ -3702,39 +3704,43 @@
   },
   {
    "date": "2026-10-31",
-   "scheduled_mt": "18:22",
+   "scheduled_mt": "18:23",
    "slot": "evening",
    "platform": "facebook",
    "caption": "one tee shot, one pond. wet or dry? #golf",
    "zernio": {
     "post": "6ae393284c356e5ac9191f84"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/8591482e41c0734ed53cb481fae41fe313a113ba/inbox/videos/Video%20Sep%2021%202026%2C%207%2012%2001%20PM.mov"
    },
-   "added_by_sync": "2026-10-29 12:41 MT"
+   "added_by_sync": "2026-10-29 12:41 MT",
+   "posted_mt": "2026-10-31 18:23",
+   "synced": "2026-11-01 12:31 MT"
   },
   {
    "date": "2026-11-01",
-   "scheduled_mt": "08:16",
+   "scheduled_mt": "08:17",
    "slot": "morning",
    "platform": "facebook",
    "caption": "great drive. then what? guess my score #golf",
    "zernio": {
     "post": "6ae3932b4c356e5ac9191f9f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/08e438bee7d35b9b4e87a47cb5e74e2635631ac4/queue/012_great-drive_orig.mov"
    },
-   "added_by_sync": "2026-10-29 12:41 MT"
+   "added_by_sync": "2026-10-29 12:41 MT",
+   "posted_mt": "2026-11-01 08:17",
+   "synced": "2026-11-01 12:31 MT"
   },
   {
    "date": "2026-11-01",
@@ -3783,14 +3789,16 @@
    "zernio": {
     "post": "6ae246fb2dc68958060daad3"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/0adbb9593128393bf0cccf72e4311ec450e6c2b8/queue/tt_tree-par-4_orig.mov"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-11-01 08:44",
+   "synced": "2026-11-01 12:31 MT"
   },
   {
    "date": "2026-11-01",
@@ -4009,9 +4017,81 @@
    },
    "added_by_sync": "2026-10-31 12:51 MT (clip page run, added after sync)",
    "note": "IMG_6394 untouched 39 s, never on FB (Oct 20 slot was removed before posting); guard PASS"
+  },
+  {
+   "date": "2026-11-04",
+   "scheduled_mt": "08:19",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "par 3 that's basically all water. what did i get? #golf",
+   "zernio": {
+    "post": "6ae7939669e1d4a20220c397"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1793561284362_546e29ff0dc10eb5_B_w2-tues-11-3.mp4"
+   },
+   "added_by_sync": "2026-11-01 12:31 MT"
+  },
+  {
+   "date": "2026-11-04",
+   "scheduled_mt": "08:47",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "par 3 that's basically all water. lay some dry, baby. guess my score",
+   "zernio": {
+    "post": "6ae7938daa68fc9b3f0a19c9"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793561284362_546e29ff0dc10eb5_B_w2-tues-11-3.mp4"
+   },
+   "added_by_sync": "2026-11-01 12:31 MT"
+  },
+  {
+   "date": "2026-11-04",
+   "scheduled_mt": "17:41",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "spilled a hot dog, playing like ass, then one good shot and i'm so back. guess the score",
+   "zernio": {
+    "post": "6ae793a469e1d4a20220c3ea"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793561285069_7d66e8ae6615ce98_A_w2-tues-11-3.mp4"
+   },
+   "added_by_sync": "2026-11-01 12:31 MT"
+  },
+  {
+   "date": "2026-11-04",
+   "scheduled_mt": "18:22",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "is it just me or is this the best part of golf? #golf",
+   "zernio": {
+    "post": "6ae792f2aa68fc9b3f0a190e"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/703004e5f68a637f934d938fcacf0556f5693429/A_w2-video-oct26-1043pm.mov"
+   },
+   "added_by_sync": "2026-11-01 12:31 MT"
   }
  ],
- "synced_from_zernio": "2026-10-31 12:49 MT",
+ "synced_from_zernio": "2026-11-01 12:31 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -4681,13 +4761,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-04",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Wed Nov 4 08:47 MST (Zernio 6ae7938daa68fc9b3f0a19c9, untouched original via zupload Nov 1)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-04",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "planned"
+     "status": "scheduled Wed Nov 4 08:19 MST Reel 59.8 s (Zernio 6ae7939669e1d4a20220c397)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 59.8
@@ -4703,13 +4783,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-04",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Wed Nov 4 17:41 MST (Zernio 6ae793a469e1d4a20220c3ea, untouched original via zupload Nov 1)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-04",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "not possible as a Reel: 63.7 s (FB Reels 3-60 s)"
+     "status": "not as a Reel (63.7 s); can post as regular Page video later"
     },
     "wipe": "kept (her untouched original)",
     "duration": 63.7
@@ -4906,7 +4986,7 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "same day as TikTok",
      "note": "11.9 s -> FB Reel",
-     "status": "planned"
+     "status": "scheduled Wed Nov 4 18:22 MST Reel (Zernio 6ae792f2aa68fc9b3f0a190e, raw pinned scratch/relay-w2a-extra 703004e)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 11.9,
