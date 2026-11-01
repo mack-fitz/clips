@@ -4120,7 +4120,10 @@
      "status": "scheduled Tue Oct 27 18:31 MT (Zernio 6adcfcf0db2eae7e1c7e1ff7, 33.7 s Reel)"
     },
     "wipe": "kept (her untouched original)",
-    "caption": "short dry lowercase; may reuse the IG caption idea"
+    "caption": "short dry lowercase; may reuse the IG caption idea",
+    "youtube": {
+     "status": "scheduled Wed Nov 4 08:41 MT (Zernio 6ae727e6f5fb1cda99d7d54f), same media as the B IG post (wipe cut)"
+    }
    },
    {
     "ig_item": "077",
@@ -4886,6 +4889,28 @@
     },
     "wipe": "kept (her untouched original)",
     "duration": 133.1
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/week 2/Video Oct 26 2026, 10 43 21 PM.mov",
+    "home": "ig:mackygolfs",
+    "pm": false,
+    "usable_from": "2026-11-01",
+    "original_file": "scratch/relay-w2a-extra:A_w2-video-oct26-1043pm.mov",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "next open TikTok slot (clip page run)",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned (registered Nov 1; untouched original, wipe kept)"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "same day as TikTok",
+     "note": "11.9 s -> FB Reel",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original)",
+    "duration": 11.9,
+    "caption_idea": "is it just me or is this the best part of golf"
    }
   ],
   "week2_note": "Oct 30 morning run: week 2 = Mack's own IG posts (named by her post day). TikTok + FB originals from the day after her named date; YouTube Shorts (wipe cut, B edit) from Mon Nov 2 per RULES 5b. Clip page run schedules these."

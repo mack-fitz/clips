@@ -506,6 +506,22 @@
       "duration": 89.2,
       "transcript": "state/transcripts/B_w2-fri-11-6.mp4.json",
       "fb_reel_ok": false
+    },
+    "mackygolfs/week 2/Video Oct 26 2026, 10 43 21 PM.mov": {
+      "home": "ig:mackygolfs",
+      "week": 2,
+      "file": "Video Oct 26 2026, 10 43 21 PM.mov",
+      "pm": false,
+      "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFxA",
+      "size": 16837183,
+      "dropbox_path": "/Golf/for claude/mackygolfs/week 2/Video Oct 26 2026, 10 43 21 PM.mov",
+      "relay": "scratch/relay-w2a-extra:A_w2-video-oct26-1043pm.mov",
+      "registered": "2026-11-01 morning run (added to the folder Oct 31 19:00Z)",
+      "usable_from": "2026-11-01",
+      "note": "week 2+: Mack posts/preps IG herself (RULES 0); feeds TikTok + FB originals (A file, not a Short source). HEVC 1080x1920 30 fps 11.3 Mbps, opens on the wipe; golf-cart clip, ends on a kiss. Transcribed Nov 1 ('Is it just me or is this the best part of golf?'). Fingerprint pending (mackygolfs-mackthegolfer push not authorized).",
+      "duration": 11.9,
+      "transcript": "state/transcripts/A_w2-video-oct26-1043pm.mov.json",
+      "fb_reel_ok": true
     }
   },
   "loose_files_note": "Oct 30: the 3 earlier loose files (Vid (12).mp4, mg.mp4, Vid (3).mp4) were moved by Mack into the week 2 folders (same Dropbox ids); no loose files now."
