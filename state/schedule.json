@@ -3802,21 +3802,23 @@
   },
   {
    "date": "2026-11-01",
-   "scheduled_mt": "17:48",
+   "scheduled_mt": "17:49",
    "slot": "evening",
    "platform": "x_tiktok",
    "caption": "par 3 with a bunker from hell. guess my score",
    "zernio": {
     "post": "6ae246fe0e9d09c2e6d0576f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793127530798_93dea7cebb315363_mackthegolfer_w1_week1-1nutrl_original.mp4"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-11-01 17:49",
+   "synced": "2026-11-02 12:36 MT"
   },
   {
    "date": "2026-11-01",
@@ -3839,68 +3841,74 @@
   },
   {
    "date": "2026-11-01",
-   "scheduled_mt": "18:33",
+   "scheduled_mt": "18:34",
    "slot": "evening",
    "platform": "facebook",
    "caption": "basically a hole in one. how close was it? #golf",
    "zernio": {
     "post": "6ae3932d4c356e5ac9191fae"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/08e438bee7d35b9b4e87a47cb5e74e2635631ac4/queue/015_hole-in-one-attempt_orig.mov"
    },
-   "added_by_sync": "2026-10-29 12:41 MT"
+   "added_by_sync": "2026-10-29 12:41 MT",
+   "posted_mt": "2026-11-01 18:34",
+   "synced": "2026-11-02 12:36 MT"
   },
   {
    "date": "2026-11-02",
-   "scheduled_mt": "08:13",
+   "scheduled_mt": "08:14",
    "slot": "morning",
    "platform": "facebook",
    "caption": "BE SPECIFIC #golf",
    "zernio": {
     "post": "6ae4d24cf3ef1dc28f20bc0d"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793380241298_9de34d8487e72ef3_mackygolfs_069_sim-swing-pm_a.mp4"
    },
-   "added_by_sync": "2026-10-30 12:39 MT"
+   "added_by_sync": "2026-10-30 12:39 MT",
+   "posted_mt": "2026-11-02 08:14",
+   "synced": "2026-11-02 12:36 MT"
   },
   {
    "date": "2026-11-02",
-   "scheduled_mt": "08:46",
+   "scheduled_mt": "08:47",
    "slot": "morning",
    "platform": "x_tiktok",
    "caption": "electric par 3. don't piss me off. guess my score",
    "zernio": {
     "post": "6ae247d05a64e0a8264622af"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793213962645_63b44fb7e7aaa7cb_mackthegolfer_w1_week1-2_original.mp4"
    },
-   "added_by_sync": "2026-10-28 13:07 MT"
+   "added_by_sync": "2026-10-28 13:07 MT",
+   "posted_mt": "2026-11-02 08:47",
+   "synced": "2026-11-02 12:36 MT"
   },
   {
    "date": "2026-11-02",
-   "scheduled_mt": "12:21",
+   "scheduled_mt": "12:22",
    "slot": "midday",
    "platform": "x_tiktok",
    "caption": "not trying to start beef just my thoughts",
    "zernio": {
     "post": "6ae4d24ab79883fd33b3d7fa"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook",
     "TikTok"
@@ -3909,7 +3917,9 @@
     "TikTok": "https://media.zernio.com/media/1792858073657_cornc550_mackthegolfer_079_long-drive-record-pm_b.mp4",
     "Facebook": "https://media.zernio.com/media/1792858073657_cornc550_mackthegolfer_079_long-drive-record-pm_b.mp4"
    },
-   "added_by_sync": "2026-10-30 12:39 MT"
+   "added_by_sync": "2026-10-30 12:39 MT",
+   "posted_mt": "2026-11-02 12:22",
+   "synced": "2026-11-02 12:36 MT"
   },
   {
    "date": "2026-11-02",
@@ -4089,9 +4099,81 @@
     "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/703004e5f68a637f934d938fcacf0556f5693429/A_w2-video-oct26-1043pm.mov"
    },
    "added_by_sync": "2026-11-01 12:31 MT"
+  },
+  {
+   "date": "2026-11-05",
+   "scheduled_mt": "08:16",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "terrible shot, great mood. it's fall. what did i get? #golf",
+   "zernio": {
+    "post": "6ae8e6203db21a88adc2f5cc"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1793647886237_75464f707adc588e_B_w2-sunday-11-1.mp4"
+   },
+   "added_by_sync": "2026-11-02 12:36 MT"
+  },
+  {
+   "date": "2026-11-05",
+   "scheduled_mt": "08:44",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "fall golf. neon pink balls so i can find them in the leaves. guess my score",
+   "zernio": {
+    "post": "6ae8e6123db21a88adc2f573"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793647886237_75464f707adc588e_B_w2-sunday-11-1.mp4"
+   },
+   "added_by_sync": "2026-11-02 12:36 MT"
+  },
+  {
+   "date": "2026-11-05",
+   "scheduled_mt": "17:47",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "one golf ball left, cliffs everywhere, pro shop closed. do i lose it?",
+   "zernio": {
+    "post": "6ae8e62d3db21a88adc2f62f"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793647886836_dca937cb8c91b4bc_A_w2-sunday-11-1.mp4"
+   },
+   "added_by_sync": "2026-11-02 12:36 MT"
+  },
+  {
+   "date": "2026-11-05",
+   "scheduled_mt": "18:27",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "last ball in the bag on a cliffside par 5. did it survive? #golf",
+   "zernio": {
+    "post": "6ae8e6393db21a88adc2f67a"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1793647886836_dca937cb8c91b4bc_A_w2-sunday-11-1.mp4"
+   },
+   "added_by_sync": "2026-11-02 12:36 MT"
   }
  ],
- "synced_from_zernio": "2026-11-01 12:31 MT",
+ "synced_from_zernio": "2026-11-02 12:36 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -4646,15 +4728,15 @@
     "original_file": "scratch/relay-w2b:B_w2-sunday-11-1.mp4",
     "tiktok": {
      "account": "6acc3fd31ce18dfecf0a2249",
-     "date": "2026-11-02",
+     "date": "2026-11-05",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Thu Nov 5 08:44 MST (Zernio 6ae8e6123db21a88adc2f573, untouched original via zupload Nov 2)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
-     "date": "2026-11-02",
+     "date": "2026-11-05",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "not possible as a Reel: 77.6 s (FB Reels 3-60 s)"
+     "status": "scheduled Thu Nov 5 08:16 MST as regular Page video 77.6 s (Zernio 6ae8e6203db21a88adc2f5cc)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 77.6,
@@ -4671,15 +4753,15 @@
     "original_file": "scratch/relay-w2a:A_w2-sunday-11-1.mp4",
     "tiktok": {
      "account": "6acc3fd31ce18dfecf0a2249",
-     "date": "2026-11-02",
+     "date": "2026-11-05",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Thu Nov 5 17:47 MST (Zernio 6ae8e62d3db21a88adc2f62f, untouched original via zupload Nov 2)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
-     "date": "2026-11-02",
+     "date": "2026-11-05",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "not possible as a Reel: 119.6 s (FB Reels 3-60 s)"
+     "status": "scheduled Thu Nov 5 18:27 MST as regular Page video 119.6 s (Zernio 6ae8e6393db21a88adc2f67a)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 119.6

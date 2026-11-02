@@ -1094,14 +1094,17 @@
    "path": "/Mackyyaps/stash/360d9597407b46939139747b401898ea.MP4",
    "size": 7479976,
    "sha256": null,
-   "duration": null,
+   "duration": 19.4,
    "dup_of_path": null,
    "group": "360d9597407b46939139747b401898ea.MP4",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6ae8e4f83db21a88adc2ecef",
+    "x": "in post"
+   },
+   "caption": "help me pick a floor stain. you can come over and see it in person if that helps you decide",
+   "scheduled_mt": "2026-11-09 17:57",
+   "notes": "H.264 SDR 720x1280 19.4 s: same file on IG/TikTok/X (raw pinned scratch/my-b3 39e9ce4)"
   },
   {
    "key": "my072",
@@ -1112,7 +1115,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "da0704c1605a4b7e81af1fd6e318b26d.MP4",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a6792bdfae3fa4575e58",
     "x": "in post"
