@@ -4808,7 +4808,10 @@
      "status": "not possible as a Reel: 67.8 s (FB Reels 3-60 s)"
     },
     "wipe": "kept (her untouched original)",
-    "duration": 67.8
+    "duration": 67.8,
+    "youtube": {
+     "status": "scheduled Fri Nov 6 09:14 MT (Zernio 6ae9cc5bac94941edd788f35): wipe cut at 1.73 s, one CRF-17 L4.2 encode 15.1 Mbps (source 15.7 Mbps), scratch/yt-w2b:081_monday-par-3_b_yt.mp4; caption \"took the comment section's advice for once. don't get used to it\""
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/week 2/monday 11-2.mp4",
