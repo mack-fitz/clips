@@ -1,0 +1,304 @@
+{
+"source": "my082.mov",
+"duration": 19.7601875,
+"segments": [
+{
+"start": 0.0,
+"end": 4.06,
+"text": "This might be like a crazy hot take but it really just pisses me off that",
+"words": [
+[
+0.0,
+0.76,
+" This"
+],
+[
+0.76,
+0.94,
+" might"
+],
+[
+0.94,
+1.1,
+" be"
+],
+[
+1.1,
+1.24,
+" like"
+],
+[
+1.24,
+1.4,
+" a"
+],
+[
+1.4,
+1.76,
+" crazy"
+],
+[
+1.76,
+2.08,
+" hot"
+],
+[
+2.08,
+2.36,
+" take"
+],
+[
+2.36,
+2.52,
+" but"
+],
+[
+2.52,
+2.64,
+" it"
+],
+[
+2.64,
+2.78,
+" really"
+],
+[
+2.78,
+3.02,
+" just"
+],
+[
+3.02,
+3.46,
+" pisses"
+],
+[
+3.46,
+3.58,
+" me"
+],
+[
+3.58,
+3.82,
+" off"
+],
+[
+3.82,
+4.06,
+" that"
+]
+]
+},
+{
+"start": 4.06,
+"end": 9.3,
+"text": "Tangela isn't a more mainstream Pokemon. Like I know she's recognizable and like",
+"words": [
+[
+4.06,
+4.84,
+" Tangela"
+],
+[
+4.84,
+5.66,
+" isn't"
+],
+[
+5.66,
+5.8,
+" a"
+],
+[
+5.8,
+6.04,
+" more"
+],
+[
+6.04,
+6.62,
+" mainstream"
+],
+[
+6.62,
+7.08,
+" Pokemon."
+],
+[
+7.34,
+7.38,
+" Like"
+],
+[
+7.38,
+7.5,
+" I"
+],
+[
+7.5,
+7.64,
+" know"
+],
+[
+7.64,
+7.96,
+" she's"
+],
+[
+7.96,
+8.52,
+" recognizable"
+],
+[
+8.52,
+9.08,
+" and"
+],
+[
+9.08,
+9.3,
+" like"
+]
+]
+},
+{
+"start": 9.3,
+"end": 14.32,
+"text": "you know Tangela when you see a Tangela but like you can get Charizard and",
+"words": [
+[
+9.3,
+9.5,
+" you"
+],
+[
+9.5,
+9.64,
+" know"
+],
+[
+9.64,
+10.02,
+" Tangela"
+],
+[
+10.02,
+10.12,
+" when"
+],
+[
+10.12,
+10.22,
+" you"
+],
+[
+10.22,
+10.34,
+" see"
+],
+[
+10.34,
+10.42,
+" a"
+],
+[
+10.42,
+11.08,
+" Tangela"
+],
+[
+11.08,
+11.52,
+" but"
+],
+[
+11.52,
+11.88,
+" like"
+],
+[
+11.88,
+12.4,
+" you"
+],
+[
+12.4,
+12.6,
+" can"
+],
+[
+12.6,
+13.1,
+" get"
+],
+[
+13.1,
+14.04,
+" Charizard"
+],
+[
+14.04,
+14.32,
+" and"
+]
+]
+},
+{
+"start": 14.32,
+"end": 18.88,
+"text": "Pikachu and Squirtle everything. There's just absolutely no Tangela representation.",
+"words": [
+[
+14.32,
+14.66,
+" Pikachu"
+],
+[
+14.66,
+14.9,
+" and"
+],
+[
+14.9,
+15.36,
+" Squirtle"
+],
+[
+15.36,
+16.1,
+" everything."
+],
+[
+16.52,
+16.7,
+" There's"
+],
+[
+16.7,
+16.82,
+" just"
+],
+[
+16.82,
+17.48,
+" absolutely"
+],
+[
+17.48,
+17.9,
+" no"
+],
+[
+17.9,
+18.42,
+" Tangela"
+],
+[
+18.42,
+18.88,
+" representation."
+]
+]
+}
+]
+}
