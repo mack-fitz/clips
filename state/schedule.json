@@ -4935,7 +4935,10 @@
      "status": "scheduled Wed Nov 4 08:19 MST Reel 59.8 s (Zernio 6ae7939669e1d4a20220c397)"
     },
     "wipe": "kept (her untouched original)",
-    "duration": 59.8
+    "duration": 59.8,
+    "youtube": {
+     "status": "scheduled Sat Nov 7 08:58 MT (Zernio 6aeb1dc72f6aba13347354bf): wipe cut at 1.30 s, one CRF-17 L4.2 encode 10.7 Mbps (source 15.8 Mbps), scratch/yt-w2b:082_tues-water-par-3_b_yt.mp4; caption \"a par 3 that's basically all water vs me. guess how that went\""
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/week 2/tues 11-3.mp4",
