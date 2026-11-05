@@ -1226,11 +1226,14 @@
    "duration": 11.62,
    "dup_of_path": null,
    "group": "dog-mad-at-me",
-   "status": "unused",
-   "zernio": {},
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aecdaade73446ba7749b29b",
+    "x": "6aecdab88847ce7f8ecc7477"
+   },
    "caption": "he's been giving me this look all morning. what did i do",
-   "scheduled_mt": null,
-   "notes": "relayed+transcribed+deduped Nov 4 clip page run.",
+   "scheduled_mt": "2026-11-11 17:42",
+   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5)",
    "relay": "scratch/my-nov03:my079.mov",
    "transcript": "state/transcripts/my079.mov.json",
    "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"
@@ -1262,11 +1265,14 @@
    "duration": 12.7,
    "dup_of_path": null,
    "group": "guess-my-sport",
-   "status": "unused",
-   "zernio": {},
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aecdab88847ce7f8ecc7481",
+    "x": "6aecdab907aeb734903d6375"
+   },
    "caption": "guess the sport. yes you can look at the guns",
-   "scheduled_mt": null,
-   "notes": "relayed+transcribed+deduped Nov 4 clip page run.",
+   "scheduled_mt": "2026-11-12 17:09",
+   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5)",
    "relay": "scratch/my-nov03:my081.mov",
    "transcript": "state/transcripts/my081.mov.json",
    "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"

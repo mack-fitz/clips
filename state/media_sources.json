@@ -3833,6 +3833,38 @@
    "main": "mackygolfs/week 2/monday 11-2.mp4",
    "kind": "edit",
    "note": "manual"
+  },
+  "zernio:1793907398766_0f844b2f2022483e_B_w2-wed-11-4.mp4": {
+   "sources": [
+    "mackthegolfer/week 2 11-1/wed 11-4.mp4"
+   ],
+   "main": "mackthegolfer/week 2 11-1/wed 11-4.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793907404485_08d490e81cf3ffaa_A_w2-wed-11-4.mp4": {
+   "sources": [
+    "mackygolfs/week 2/wed 11-4.mp4"
+   ],
+   "main": "mackygolfs/week 2/wed 11-4.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793907405153_18d90c0edaafe191_B_w2-thurs-11-5.mp4": {
+   "sources": [
+    "mackthegolfer/week 2 11-1/thurs 11-5.mp4"
+   ],
+   "main": "mackthegolfer/week 2 11-1/thurs 11-5.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1793907405894_64ea6ec33689e675_A_w2-thurs-11-5.mov": {
+   "sources": [
+    "mackygolfs/week 2/thurs 11-5.mov"
+   ],
+   "main": "mackygolfs/week 2/thurs 11-5.mov",
+   "kind": "edit",
+   "note": "manual"
   }
  }
 }
