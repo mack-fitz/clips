@@ -1,0 +1,2 @@
+#delete scratch/yt-orlando-promo
+#delete scratch/yt-orlando-mp4

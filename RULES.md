@@ -108,8 +108,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - YouTube rules: never the shirt wipe, nothing suggestive in title/description, never any link or mention of OnlyFans or
   other accounts. Same file never twice on YouTube.
 - **Weekly YouTube video = Thursdays.** Mack will say where its promo clips are and how to split them; until then promos
-  aren't planned. When they come, promo Shorts replace that day's B-reel Short (still one a day) and Mack sets the
-  "related video" link herself in the YouTube app (tell her which Short -> which video).
+  aren't planned. Promo Shorts are IN ADDITION to the regular daily Short (Mack, Nov 4: 2 Shorts/day while promos run);
+  Mack sets the "related video" link herself in the YouTube app (tell her which Short -> which video).
+- Video 1 (Nov 5, https://youtu.be/U7DdgA40jXI, live 10:00am MT): promos scheduled (metadata kind "yt_short_promo") Thu Nov 5
+  10:20am, then Fri Nov 6-Tue Nov 10 afternoons 2:00-4:30pm MT. Thu's regular Short moved to 3:37pm. Keep scheduling regular
+  morning Shorts Nov 6-10 as usual; never move/delete the promo posts.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
 - **@moremackygolfs:** only footage Mack has truly already posted herself (name the exact post with >= 15 s of it, from
