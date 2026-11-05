@@ -1,0 +1,209 @@
+{
+"source": "yto_reel6.mov",
+"duration": 14.1163125,
+"segments": [
+{
+"start": 0.0,
+"end": 1.4,
+"text": "No practice, by the way.",
+"words": [
+[
+0.0,
+0.38,
+" No"
+],
+[
+0.38,
+0.8,
+" practice,"
+],
+[
+0.94,
+1.02,
+" by"
+],
+[
+1.02,
+1.16,
+" the"
+],
+[
+1.16,
+1.4,
+" way."
+]
+]
+},
+{
+"start": 2.16,
+"end": 3.12,
+"text": "Just right off the rip.",
+"words": [
+[
+2.16,
+2.36,
+" Just"
+],
+[
+2.36,
+2.58,
+" right"
+],
+[
+2.58,
+2.72,
+" off"
+],
+[
+2.72,
+2.92,
+" the"
+],
+[
+2.92,
+3.12,
+" rip."
+]
+]
+},
+{
+"start": 3.8,
+"end": 7.12,
+"text": "I'm trying to grip it differently because everybody's always giving me shit about that, but I can't do it.",
+"words": [
+[
+3.8,
+3.98,
+" I'm"
+],
+[
+3.98,
+4.1,
+" trying"
+],
+[
+4.1,
+4.22,
+" to"
+],
+[
+4.22,
+4.36,
+" grip"
+],
+[
+4.36,
+4.5,
+" it"
+],
+[
+4.5,
+4.72,
+" differently"
+],
+[
+4.72,
+4.92,
+" because"
+],
+[
+4.92,
+5.24,
+" everybody's"
+],
+[
+5.24,
+5.44,
+" always"
+],
+[
+5.44,
+5.6,
+" giving"
+],
+[
+5.6,
+5.76,
+" me"
+],
+[
+5.76,
+5.9,
+" shit"
+],
+[
+5.9,
+6.08,
+" about"
+],
+[
+6.08,
+6.26,
+" that,"
+],
+[
+6.28,
+6.36,
+" but"
+],
+[
+6.36,
+6.48,
+" I"
+],
+[
+6.48,
+6.68,
+" can't"
+],
+[
+6.68,
+6.76,
+" do"
+],
+[
+6.76,
+7.12,
+" it."
+]
+]
+},
+{
+"start": 12.04,
+"end": 13.66,
+"text": "Did somebody say what's for breakfast?",
+"words": [
+[
+12.04,
+12.44,
+" Did"
+],
+[
+12.44,
+12.68,
+" somebody"
+],
+[
+12.68,
+12.94,
+" say"
+],
+[
+12.94,
+13.24,
+" what's"
+],
+[
+13.24,
+13.38,
+" for"
+],
+[
+13.38,
+13.66,
+" breakfast?"
+]
+]
+}
+]
+}

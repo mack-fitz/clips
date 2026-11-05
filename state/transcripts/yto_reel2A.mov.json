@@ -1,0 +1,118 @@
+{
+"source": "yto_reel2A.mov",
+"duration": 7.77725,
+"segments": [
+{
+"start": 0.0,
+"end": 6.12,
+"text": "Florida's got 1200 golf courses today. I'm going to the worst rated one. Maybe it's the worst rated course because it's",
+"words": [
+[
+0.0,
+0.5,
+" Florida's"
+],
+[
+0.5,
+0.64,
+" got"
+],
+[
+0.64,
+1.1,
+" 1200"
+],
+[
+1.1,
+1.66,
+" golf"
+],
+[
+1.66,
+2.1,
+" courses"
+],
+[
+2.1,
+2.42,
+" today."
+],
+[
+2.42,
+2.54,
+" I'm"
+],
+[
+2.54,
+2.68,
+" going"
+],
+[
+2.68,
+2.82,
+" to"
+],
+[
+2.82,
+2.96,
+" the"
+],
+[
+2.96,
+3.3,
+" worst"
+],
+[
+3.3,
+3.66,
+" rated"
+],
+[
+3.66,
+4.0,
+" one."
+],
+[
+4.08,
+4.28,
+" Maybe"
+],
+[
+4.28,
+4.5,
+" it's"
+],
+[
+4.5,
+4.64,
+" the"
+],
+[
+4.64,
+4.92,
+" worst"
+],
+[
+4.92,
+5.26,
+" rated"
+],
+[
+5.26,
+5.64,
+" course"
+],
+[
+5.64,
+5.86,
+" because"
+],
+[
+5.86,
+6.12,
+" it's"
+]
+]
+}
+]
+}
