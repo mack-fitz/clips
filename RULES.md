@@ -105,7 +105,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Post: platform "youtube", account 6ae00b478806963c9f324a62, content "<caption>\n\n#golf #shorts", platformSpecificData
   {title: <caption, <=100 chars>, visibility "public", madeForKids false, categoryId "17"}. No custom cover (API can't for Shorts).
   metadata {kind "yt_short", source <file>}.
-- YouTube rules: never the shirt wipe, nothing suggestive in title/description, never any link or mention of OnlyFans or
+- YouTube rules: never the shirt wipe — this includes PROMO Shorts and any file Mack hands over for YouTube (Mack, Nov 5:
+  the Nov 5 Orlando promo went out with the wipe). Check the first second at 10 fps on EVERY YouTube file and cut the wipe
+  (one CRF-17 encode) before scheduling; nothing goes to YouTube untouched. Nothing suggestive in title/description, never any link or mention of OnlyFans or
   other accounts. Same file never twice on YouTube.
 - **Weekly YouTube video = Thursdays.** Mack will say where its promo clips are and how to split them; until then promos
   aren't planned. Promo Shorts are IN ADDITION to the regular daily Short (Mack, Nov 4: 2 Shorts/day while promos run);
