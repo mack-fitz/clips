@@ -1,0 +1,144 @@
+{
+ "clips": [
+  {
+   "id": "p01",
+   "name": "p01_perfectly-in-the-bunker",
+   "segments": [
+    [
+     972.5,
+     1000.4
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p02",
+   "name": "p02_rough-draft-of-history",
+   "segments": [
+    [
+     617.2,
+     656.95
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p03",
+   "name": "p03_putter-in-the-bunker",
+   "segments": [
+    [
+     413.3,
+     461.4
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p04",
+   "name": "p04_not-a-performance",
+   "segments": [
+    [
+     499.45,
+     509.35
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p05",
+   "name": "p05_tiger-threw-in-the-towel",
+   "segments": [
+    [
+     524.2,
+     540.6
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p06",
+   "name": "p06_shit-hole-of-a-putter",
+   "segments": [
+    [
+     369.5,
+     389.2
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p07",
+   "name": "p07_i-just-know-who-i-am",
+   "segments": [
+    [
+     773.8,
+     790.9
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p08",
+   "name": "p08_like-a-loser",
+   "segments": [
+    [
+     866.3,
+     890.8
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p09",
+   "name": "p09_double-on-hole-two",
+   "segments": [
+    [
+     134.5,
+     162.4
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  },
+  {
+   "id": "p10",
+   "name": "p10_trailer",
+   "segments": [
+    [
+     972.5,
+     994.2
+    ],
+    [
+     369.5,
+     389.2
+    ],
+    [
+     641.8,
+     656.95
+    ],
+    [
+     773.8,
+     790.9
+    ],
+    [
+     866.3,
+     888.58
+    ],
+    [
+     1087.0,
+     1124.95
+    ]
+   ],
+   "track": "auto",
+   "top": 228
+  }
+ ]
+}
