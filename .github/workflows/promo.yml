@@ -297,9 +297,12 @@ jobs:
         run: |
           tag=$(cat /tmp/req/release 2>/dev/null)
           [ "$(cat /tmp/req/mode)" = cut ] && [ -n "$tag" ] || exit 0
-          gh release delete "$tag" -y --cleanup-tag -R ${{ github.repository }} 2>/dev/null || true
-          gh release create "$tag" -R ${{ github.repository }} --prerelease --target main --title "$tag (review copies, not posted)" \
-            --notes "Full-quality promo clips for Mack's review. Not posted anywhere." /tmp/out/clips/*.mp4
+          if gh release view "$tag" -R ${{ github.repository }} >/dev/null 2>&1; then
+            gh release upload "$tag" --clobber -R ${{ github.repository }} /tmp/out/clips/*.mp4
+          else
+            gh release create "$tag" -R ${{ github.repository }} --prerelease --target main --title "$tag (review copies, not posted)" \
+              --notes "Full-quality promo clips for Mack's review. Not posted anywhere." /tmp/out/clips/*.mp4
+          fi
       - name: Push scratch branch + clear the request on main
         if: always()
         env:
