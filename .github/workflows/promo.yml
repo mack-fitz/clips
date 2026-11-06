@@ -1,0 +1,313 @@
+name: promo
+# YouTube promo Shorts from a long finished video (Nov 6; video 2 = popstroke). Heavy work stays on the runner.
+# Push inbox/promo.tsv:
+#   #mode analyze | cut
+#   #branch scratch/<name>            (output branch, force-pushed; never main)
+#   #release <tag>                    (cut mode, optional: also attach full-quality clips to a prerelease for download)
+#   src<TAB><file name><TAB><temporary Dropbox download_link URL>      (the long video)
+#   ref<TAB><file name><TAB><url>                                       (analyze mode: her own reference reels)
+# Links are fetched BEFORE checkout (single use, 900 s).
+# analyze -> probe/*.json, transcripts/*.json + *.txt (faster-whisper small.en, word times), loud.tsv (RMS dB per 0.5 s),
+#            frames/src_<sec>.jpg (1 fps, 320 px), sheets/src_<min>.jpg (60 s per sheet, a frame every 2 s, timestamped),
+#            refs: sheets/ref_<name>.jpg (1 fps) + first-2-s strip at 5 fps.
+# cut     -> reads inbox/promo_cuts.json {"clips":[{"id","name","segments":[[start,end],...],"track":"auto|largest|center|x:<0-1>"}]}
+#            vertical 9:16 (horizontal sources: crop follows Mack via YOLO person tracking, smoothed), H.264 High CRF 16
+#            preset slow, AAC 256k, original audio, 20 ms audio fades at segment joins. Full files on the branch
+#            (> 95 MB split byte-for-byte + .sha256), 720p previews (<14 MB) in previews/, check frames in checks/, track.json.
+on:
+  push:
+    paths: ['inbox/promo.tsv']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: promo-${{ github.sha }}
+  cancel-in-progress: false
+jobs:
+  promo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Download links first (they expire)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          mkdir -p /tmp/src /tmp/ref /tmp/req
+          curl -sSL --fail -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/inbox/promo.tsv?ref=${{ github.sha }}" -o /tmp/req/p.tsv
+          grep -m1 '^#mode ' /tmp/req/p.tsv | cut -d' ' -f2 > /tmp/req/mode
+          grep -m1 '^#branch ' /tmp/req/p.tsv | cut -d' ' -f2 > /tmp/req/branch
+          grep -m1 '^#release ' /tmp/req/p.tsv | cut -d' ' -f2 > /tmp/req/release || true
+          : > /tmp/req/failed.txt
+          grep -v '^#' /tmp/req/p.tsv | awk -F'\t' 'NF>=3' | while IFS=$'\t' read -r kind name url; do
+            ( curl -sSL --fail --retry 3 -o "/tmp/$kind/$name" "$url" || { echo "FAILED $kind $name" >> /tmp/req/failed.txt; rm -f "/tmp/$kind/$name"; } ) &
+          done
+          wait
+          ls -la /tmp/src /tmp/ref; cat /tmp/req/failed.txt; df -h / | tail -1
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/
+          sparse-checkout-cone-mode: false
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core >/dev/null
+          ffmpeg -version | head -1
+          pip install -q numpy pillow
+          if [ "$(cat /tmp/req/mode)" = analyze ]; then pip install -q faster-whisper; else pip install -q ultralytics opencv-python-headless; fi
+      - name: Probe
+        run: |
+          mkdir -p /tmp/out/probe
+          for f in /tmp/src/* /tmp/ref/*; do
+            [ -f "$f" ] || continue
+            ffprobe -v error -show_format -show_streams -of json "$f" > "/tmp/out/probe/$(basename "$f").json"
+            ffprobe -v error -select_streams v:0 -show_entries stream=codec_name,width,height,r_frame_rate,pix_fmt,color_transfer:stream_side_data=rotation:format=duration,bit_rate -of compact "$f"
+          done
+      - name: Analyze
+        if: ${{ hashFiles('inbox/promo.tsv') != '' }}
+        run: |
+          [ "$(cat /tmp/req/mode)" = analyze ] || exit 0
+          python3 - <<'PY'
+          import os, json, subprocess, glob
+          import numpy as np
+          from PIL import Image, ImageDraw, ImageFont
+          from faster_whisper import WhisperModel
+          out = "/tmp/out"
+          for d in ("transcripts", "frames", "sheets"): os.makedirs(f"{out}/{d}", exist_ok=True)
+          font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 22)
+          def stamp(im, txt):
+              d = ImageDraw.Draw(im); d.rectangle([0, 0, 8 + 13 * len(txt), 28], fill=(0, 0, 0)); d.text((4, 2), txt, fill=(255, 255, 0), font=font)
+          def mmss(t): return f"{int(t//60)}:{t%60:04.1f}" if t % 1 else f"{int(t//60)}:{int(t%60):02d}"
+          m = WhisperModel("small.en", device="cpu", compute_type="int8", cpu_threads=4)
+          def transcribe(f, n):
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-ac", "1", "-ar", "16000", "-f", "s16le", "/tmp/a.raw"], check=True)
+              a = np.fromfile("/tmp/a.raw", dtype=np.int16).astype(np.float32) / 32768.0
+              segs, ti = m.transcribe(a, word_timestamps=True, vad_filter=False, beam_size=5, condition_on_previous_text=False)
+              o = {"source": n, "duration": ti.duration, "segments": []}
+              lines = []
+              for s in segs:
+                  o["segments"].append({"start": round(s.start, 2), "end": round(s.end, 2), "text": s.text.strip(),
+                                        "words": [[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]})
+                  lines.append(f"[{mmss(round(s.start,1))} - {mmss(round(s.end,1))}] {s.text.strip()}")
+                  print(lines[-1], flush=True)
+              json.dump(o, open(f"{out}/transcripts/{n}.json", "w"), indent=0, ensure_ascii=False)
+              open(f"{out}/transcripts/{n}.txt", "w").write("\n".join(lines) + "\n")
+              return a
+          # refs first (small)
+          for f in sorted(glob.glob("/tmp/ref/*")):
+              n = os.path.basename(f)
+              transcribe(f, n)
+              d = os.path.join("/tmp/rf", n); os.makedirs(d, exist_ok=True)
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-vf", "fps=1,scale=240:-2", "-q:v", "4", f"{d}/%04d.jpg"])
+              fr = sorted(glob.glob(f"{d}/*.jpg"))
+              if fr:
+                  w, h = Image.open(fr[0]).size; cols = min(12, len(fr)); rows = (len(fr) + cols - 1) // cols
+                  for k in range(0, rows, 6):  # max 6 rows per sheet
+                      chunk = fr[k*cols:(k+6)*cols]; r = (len(chunk) + cols - 1) // cols
+                      sh = Image.new("RGB", (cols*w, r*h))
+                      for i, p in enumerate(chunk):
+                          im = Image.open(p); stamp(im, mmss(k*cols + i)); sh.paste(im, ((i % cols)*w, (i//cols)*h))
+                      sh.save(f"{out}/sheets/ref_{n}_{k//6}.jpg", quality=80)
+              d2 = d + "_s"; os.makedirs(d2, exist_ok=True)
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-t", "2", "-i", f, "-vf", "fps=5,scale=240:-2", "-q:v", "4", f"{d2}/%03d.jpg"])
+              fr = sorted(glob.glob(f"{d2}/*.jpg"))
+              if fr:
+                  w, h = Image.open(fr[0]).size; sh = Image.new("RGB", (len(fr)*w, h))
+                  for i, p in enumerate(fr):
+                      im = Image.open(p); stamp(im, f"{i*0.2:.1f}"); sh.paste(im, (i*w, 0))
+                  sh.save(f"{out}/sheets/ref_{n}_first2s.jpg", quality=80)
+          for f in sorted(glob.glob("/tmp/src/*")):
+              n = os.path.basename(f)
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", f, "-vf", "fps=1,scale=320:-2", "-q:v", "5",
+                              "-start_number", "0", f"{out}/frames/src_%05d.jpg"], check=True)
+              fr = sorted(glob.glob(f"{out}/frames/src_*.jpg"))
+              w, h = Image.open(fr[0]).size
+              cols = 6 if w > h else 10
+              for mi in range(0, len(fr), 60):
+                  sel = [p for j, p in enumerate(fr[mi:mi+60]) if j % 2 == 0]
+                  rows = (len(sel) + cols - 1) // cols
+                  sh = Image.new("RGB", (cols*w, rows*h))
+                  for i, p in enumerate(sel):
+                      im = Image.open(p); stamp(im, mmss(mi + 2*i)); sh.paste(im, ((i % cols)*w, (i//cols)*h))
+                  sh.save(f"{out}/sheets/src_{mi//60:03d}.jpg", quality=72)
+              a = transcribe(f, n)
+              hop = 8000
+              k = len(a) // hop
+              rms = np.sqrt((a[:k*hop].reshape(k, hop) ** 2).mean(1) + 1e-12)
+              with open(f"{out}/loud.tsv", "w") as fh:
+                  fh.write("t\tdb\n")
+                  for i, v in enumerate(rms): fh.write(f"{i*0.5:.1f}\t{20*np.log10(v):.1f}\n")
+          PY
+      - name: Cut
+        run: |
+          [ "$(cat /tmp/req/mode)" = cut ] || exit 0
+          cp inbox/promo_cuts.json /tmp/req/cuts.json
+          python3 - <<'PY'
+          import os, json, subprocess, glob, math
+          import numpy as np
+          src = sorted(glob.glob("/tmp/src/*"))[0]
+          spec = json.load(open("/tmp/req/cuts.json"))
+          out = "/tmp/out"; [os.makedirs(f"{out}/{d}", exist_ok=True) for d in ("clips", "previews", "checks")]
+          pr = json.loads(subprocess.run(["ffprobe", "-v", "error", "-show_streams", "-show_format", "-of", "json", src], capture_output=True, text=True).stdout)
+          v = next(s for s in pr["streams"] if s["codec_type"] == "video")
+          W, H = v["width"], v["height"]
+          rot = 0
+          for sd in v.get("side_data_list", []) or []: rot = int(sd.get("rotation", 0) or 0)
+          if abs(rot) == 90: W, H = H, W
+          num, den = map(int, v["r_frame_rate"].split("/")); fps = num / den
+          hdr = v.get("color_transfer") in ("arib-std-b67", "smpte2084")
+          horiz = W > H
+          if horiz:
+              cw = int(round(H * 9 / 16 / 2) * 2); ch = H
+              OH = max(1920, H); OW = int(round(OH * 9 / 16 / 2) * 2)
+          else:
+              cw, ch = W, H; OW, OH = W, H
+              if W / H > 9 / 16 + 0.01: cw = int(round(H * 9 / 16 / 2) * 2)
+          print("source", W, H, rot, fps, "hdr", hdr, "horizontal", horiz, "crop", cw, ch, "out", OW, OH, flush=True)
+          meta = {"source": os.path.basename(src), "W": W, "H": H, "fps": fps, "hdr": hdr, "horizontal": horiz,
+                  "crop_w": cw, "crop_h": ch, "out_w": OW, "out_h": OH, "clips": []}
+          model = None
+          if cw < W:
+              from ultralytics import YOLO
+              model = YOLO("yolov8s.pt")
+          tonemap = ("zscale=t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,tonemap=hable:desat=0,"
+                     "zscale=t=bt709:m=bt709:r=tv,format=yuv420p,") if hdr else ""
+
+          def track(s, e, mode):
+              """crop-x (left edge, px) per output frame for [s,e)."""
+              n = int(round((e - s) * fps))
+              if cw >= W: return [0] * n, []
+              if mode.startswith("x:"):
+                  c = float(mode[2:]) * W; return [int(min(max(c - cw/2, 0), W - cw))] * n, []
+              if mode == "center": return [int((W - cw) / 2)] * n, []
+              sf = 6.0; sw = 960; sh = int(round(H * sw / W / 2) * 2)
+              p = subprocess.Popen(["ffmpeg", "-nostdin", "-v", "error", "-ss", f"{s:.3f}", "-t", f"{e-s:.3f}", "-i", src,
+                                    "-vf", f"fps={sf},scale={sw}:{sh}", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+              obs = []; prev = None; i = 0
+              while True:
+                  b = p.stdout.read(sw * sh * 3)
+                  if len(b) < sw * sh * 3: break
+                  img = np.frombuffer(b, np.uint8).reshape(sh, sw, 3)[:, :, ::-1]
+                  r = model.predict(img, classes=[0], conf=0.25, verbose=False)[0]
+                  boxes = r.boxes.xyxy.cpu().numpy() if r.boxes is not None else np.zeros((0, 4))
+                  t = i / sf; i += 1
+                  if len(boxes):
+                      areas = (boxes[:, 2] - boxes[:, 0]) * (boxes[:, 3] - boxes[:, 1])
+                      cx = (boxes[:, 0] + boxes[:, 2]) / 2 * W / sw
+                      if prev is None or mode == "largest":
+                          k = int(np.argmax(areas))
+                      else:
+                          score = areas / areas.max() - np.abs(cx - prev) / W * 3.0
+                          k = int(np.argmax(score))
+                      prev = cx[k]; obs.append((t, float(cx[k]), float(areas[k] / (sw * sh))))
+              p.wait()
+              ts = np.arange(n) / fps
+              if not obs:
+                  return [int((W - cw) / 2)] * n, obs
+              ot = np.array([o[0] for o in obs]); ox = np.array([o[1] for o in obs])
+              # median filter to kill one-off jumps
+              mx = np.array([np.median(ox[max(0, j-2):j+3]) for j in range(len(ox))])
+              x = np.interp(ts, ot, mx)
+              # gaussian smoothing (sigma 0.6 s) + dead zone so small sways don't move the frame
+              sig = 0.6 * fps; kr = int(3 * sig); kern = np.exp(-0.5 * (np.arange(-kr, kr + 1) / sig) ** 2); kern /= kern.sum()
+              xp = np.pad(x, kr, mode="edge"); x = np.convolve(xp, kern, mode="valid")
+              cur = x[0]; y = []
+              dz = cw * 0.12
+              for xi in x:
+                  if abs(xi - cur) > dz: cur += (xi - cur) - math.copysign(dz, xi - cur)
+                  y.append(cur)
+              y = np.convolve(np.pad(np.array(y), kr, mode="edge"), kern, mode="valid")
+              left = np.clip(y - cw / 2, 0, W - cw)
+              return [int(round(v)) for v in left], obs
+
+          def render_seg(s, e, xs, path, fin, fout):
+              n = len(xs); dur = n / fps
+              cmd = os.path.join("/tmp", "cmd.txt")
+              with open(cmd, "w") as fh:
+                  last = None
+                  for j, xv in enumerate(xs):
+                      if xv != last: fh.write(f"{j/fps:.4f} crop x {xv};\n"); last = xv
+              vf = f"sendcmd=f={cmd},crop={cw}:{ch}:{xs[0] if xs else 0}:0,{tonemap}scale={OW}:{OH}:flags=lanczos,setsar=1,format=yuv420p"
+              af = []
+              if fin: af.append("afade=t=in:d=0.02")
+              if fout: af.append(f"afade=t=out:st={max(dur-0.02,0):.3f}:d=0.02")
+              c = ["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{s:.3f}", "-i", src, "-t", f"{dur:.4f}",
+                   "-vf", vf, "-c:v", "libx264", "-qp", "0", "-preset", "ultrafast", "-r", f"{num}/{den}",
+                   "-c:a", "pcm_s24le", "-ar", "48000", "-ac", "2"]
+              if af: c += ["-af", ",".join(af)]
+              subprocess.run(c + [path], check=True)
+
+          for clip in spec["clips"]:
+              cid, name = clip["id"], clip["name"]
+              mode = clip.get("track", "auto")
+              parts = []; tinfo = []
+              for si, (s, e) in enumerate(clip["segments"]):
+                  xs, obs = track(s, e, mode)
+                  tinfo.append({"seg": [s, e], "obs": [[round(o[0], 2), round(o[1]), round(o[2], 4)] for o in obs],
+                                "x_min": min(xs), "x_max": max(xs)})
+                  pth = f"/tmp/seg_{cid}_{si}.mkv"
+                  multi = len(clip["segments"]) > 1
+                  render_seg(s, e, xs, pth, multi and si > 0, multi and si < len(clip["segments"]) - 1)
+                  parts.append(pth)
+              with open("/tmp/list.txt", "w") as fh:
+                  for pth in parts: fh.write(f"file '{pth}'\n")
+              final = f"{out}/clips/{name}.mp4"
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", "/tmp/list.txt",
+                              "-c:v", "libx264", "-profile:v", "high", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p",
+                              "-color_primaries", "bt709", "-color_trc", "bt709", "-colorspace", "bt709",
+                              "-c:a", "aac", "-b:a", "256k", "-ar", "48000", "-movflags", "+faststart", final], check=True)
+              for pth in parts: os.remove(pth)
+              d = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", final], capture_output=True, text=True).stdout)
+              # preview <= ~13.5 MB, 720 wide (540 for long ones)
+              pw = 720 if d <= 75 else 540
+              vb = int(min(4500, max(500, (13.5 * 8 * 1024) / d - 130)))
+              prev = f"{out}/previews/{name}_preview.mp4"
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", final, "-vf", f"scale={pw}:-2", "-c:v", "libx264",
+                              "-profile:v", "high", "-preset", "medium", "-b:v", f"{vb}k", "-maxrate", f"{int(vb*1.3)}k", "-bufsize", f"{vb*2}k",
+                              "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", prev], check=True)
+              # check frames: 8 evenly + first frame, 270 wide, tiled
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", final, "-vf",
+                              f"fps=10/{d:.3f},scale=270:-2,tile=10x1", "-frames:v", "1", "-q:v", "4", f"{out}/checks/{name}.jpg"])
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", final, "-frames:v", "1", "-q:v", "2", f"{out}/checks/{name}_cover.jpg"])
+              br = int(json.loads(subprocess.run(["ffprobe", "-v", "error", "-show_format", "-of", "json", final], capture_output=True, text=True).stdout)["format"]["bit_rate"])
+              meta["clips"].append({"id": cid, "name": name, "duration": round(d, 2), "bytes": os.path.getsize(final),
+                                    "bit_rate": br, "preview_bytes": os.path.getsize(prev), "segments": clip["segments"], "track": tinfo})
+              print("done", name, round(d, 2), os.path.getsize(final), flush=True)
+          json.dump(meta, open(f"{out}/track.json", "w"), indent=1)
+          PY
+      - name: Release (full-quality downloads)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=$(cat /tmp/req/release 2>/dev/null)
+          [ "$(cat /tmp/req/mode)" = cut ] && [ -n "$tag" ] || exit 0
+          gh release delete "$tag" -y --cleanup-tag -R ${{ github.repository }} 2>/dev/null || true
+          gh release create "$tag" -R ${{ github.repository }} --prerelease --target main --title "$tag (review copies, not posted)" \
+            --notes "Full-quality promo clips for Mack's review. Not posted anywhere." /tmp/out/clips/*.mp4
+      - name: Push scratch branch + clear the request on main
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp /tmp/req/failed.txt /tmp/out/failed.txt 2>/dev/null || true
+          cd /tmp/out
+          for f in clips/*.mp4; do
+            [ -f "$f" ] || continue
+            sha256sum "$f" | cut -d' ' -f1 > "$f.sha256"
+            if [ "$(stat -c %s "$f")" -gt 95000000 ]; then split -b 90000000 -d -a 2 "$f" "$f.part"; rm -f "$f"; fi
+          done
+          git init -q && git checkout -q -b tmp
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add -A && git commit -qm "promo $(cat /tmp/req/mode) (scratch; delete after use)"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "HEAD:$(cat /tmp/req/branch)"
+          cd $GITHUB_WORKSPACE
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            git rm -q --ignore-unmatch inbox/promo.tsv inbox/promo_cuts.json
+            git commit -q -m "promo done (outputs on $(cat /tmp/req/branch)) [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
