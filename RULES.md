@@ -115,6 +115,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Video 1 (Nov 5, https://youtu.be/U7DdgA40jXI, live 10:00am MT): promos scheduled (metadata kind "yt_short_promo") Thu Nov 5
   10:20am, then Fri Nov 6-Tue Nov 10 afternoons 2:00-4:30pm MT. Thu's regular Short moved to 3:37pm. Keep scheduling regular
   morning Shorts Nov 6-10 as usual; never move/delete the promo posts.
+- Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
+  promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
+  Mack reviews them there (only notes or download) and POSTS THEM HERSELF: never create a Zernio post for a "promos" doc.
+  Notes (decision "changes") are applied like comp notes: re-cut via promo.yml, new preview, round +1, decision null.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
 - **@moremackygolfs:** only footage Mack has truly already posted herself (name the exact post with >= 15 s of it, from
