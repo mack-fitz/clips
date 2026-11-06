@@ -40,9 +40,10 @@ jobs:
           grep -m1 '^#branch ' /tmp/req/p.tsv | cut -d' ' -f2 > /tmp/req/branch
           grep -m1 '^#release ' /tmp/req/p.tsv | cut -d' ' -f2 > /tmp/req/release || true
           : > /tmp/req/failed.txt
-          grep -v '^#' /tmp/req/p.tsv | awk -F'\t' 'NF>=3' | while IFS=$'\t' read -r kind name url; do
+          grep -v '^#' /tmp/req/p.tsv | awk -F'\t' 'NF>=3' > /tmp/req/l.tsv
+          while IFS=$'\t' read -r kind name url; do
             ( curl -sSL --fail --retry 3 -o "/tmp/$kind/$name" "$url" || { echo "FAILED $kind $name" >> /tmp/req/failed.txt; rm -f "/tmp/$kind/$name"; } ) &
-          done
+          done < /tmp/req/l.tsv
           wait
           ls -la /tmp/src /tmp/ref; cat /tmp/req/failed.txt; df -h / | tail -1
       - uses: actions/checkout@v4
