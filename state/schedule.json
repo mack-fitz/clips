@@ -4176,7 +4176,8 @@
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793850837986_f1652b38cf985925_orlando_promo_trailer.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-05 10:02"
   },
   {
    "date": "2026-11-05",
@@ -4194,7 +4195,8 @@
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793850837986_f1652b38cf985925_orlando_promo_trailer.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-05 10:03"
   },
   {
    "date": "2026-11-05",
@@ -4205,14 +4207,16 @@
    "zernio": {
     "post": "6ae8e62d3db21a88adc2f62f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793647886836_dca937cb8c91b4bc_A_w2-sunday-11-1.mp4"
    },
-   "added_by_sync": "2026-11-02 12:36 MT"
+   "added_by_sync": "2026-11-02 12:36 MT",
+   "posted_mt": "2026-11-05 17:47",
+   "synced": "2026-11-06 12:42 MT"
   },
   {
    "date": "2026-11-05",
@@ -4223,14 +4227,16 @@
    "zernio": {
     "post": "6ae8e6393db21a88adc2f67a"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793647886836_dca937cb8c91b4bc_A_w2-sunday-11-1.mp4"
    },
-   "added_by_sync": "2026-11-02 12:36 MT"
+   "added_by_sync": "2026-11-02 12:36 MT",
+   "posted_mt": "2026-11-05 18:27",
+   "synced": "2026-11-06 12:42 MT"
   },
   {
    "date": "2026-11-06",
@@ -4241,14 +4247,16 @@
    "zernio": {
     "post": "6aea392d8e461d895304d388"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793734066223_8b650e9feea24f58_B_w2-monday-11-2.mp4"
    },
-   "added_by_sync": "2026-11-03 12:43 MT"
+   "added_by_sync": "2026-11-03 12:43 MT",
+   "posted_mt": "2026-11-06 08:12",
+   "synced": "2026-11-06 12:42 MT"
   },
   {
    "date": "2026-11-06",
@@ -4259,14 +4267,16 @@
    "zernio": {
     "post": "6aea39368e461d895304d3aa"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793734066223_8b650e9feea24f58_B_w2-monday-11-2.mp4"
    },
-   "added_by_sync": "2026-11-03 12:43 MT"
+   "added_by_sync": "2026-11-03 12:43 MT",
+   "posted_mt": "2026-11-06 08:49",
+   "synced": "2026-11-06 12:42 MT"
   },
   {
    "date": "2026-11-06",
@@ -4558,6 +4568,42 @@
   },
   {
    "date": "2026-11-09",
+   "scheduled_mt": "08:17",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "pro shop's closed, one ball left, and i hit four inches behind it with a driver. would you keep playing? #golf",
+   "zernio": {
+    "post": "6aee2d4d73eb16fe49b1572c"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1793993839712_4834d8b53e075ba8_B_w2-fri-11-6.mp4"
+   },
+   "added_by_sync": "2026-11-06 12:42 MT"
+  },
+  {
+   "date": "2026-11-09",
+   "scheduled_mt": "08:43",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "hole three, last ball in the bag, pro shop closed. somehow hit four inches behind it with a driver. still counts as in play",
+   "zernio": {
+    "post": "6aee2d5b7fc07713637018ba"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793993839712_4834d8b53e075ba8_B_w2-fri-11-6.mp4"
+   },
+   "added_by_sync": "2026-11-06 12:42 MT"
+  },
+  {
+   "date": "2026-11-09",
    "scheduled_mt": "15:08",
    "slot": "midday",
    "platform": "facebook",
@@ -4591,6 +4637,42 @@
     "TikTok": "https://media.zernio.com/media/1793850842518_a3aafb0f44a7c81c_orlando_promo_reel6.mp4"
    },
    "added_by_sync": "2026-11-05 12:45 MT"
+  },
+  {
+   "date": "2026-11-09",
+   "scheduled_mt": "17:41",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "been playing absolutely awful golf. i even put it in slow motion so you can tell me exactly what i'm doing wrong",
+   "zernio": {
+    "post": "6aee2d6773eb16fe49b157c9"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1793993841406_53268dd75fca569d_A_w2-fri-11-6.mov"
+   },
+   "added_by_sync": "2026-11-06 12:42 MT"
+  },
+  {
+   "date": "2026-11-09",
+   "scheduled_mt": "18:16",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "tell me what i'm doing wrong. slow motion included, so no excuses #golf",
+   "zernio": {
+    "post": "6aee2d7273eb16fe49b1580d"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1793993841406_53268dd75fca569d_A_w2-fri-11-6.mov"
+   },
+   "added_by_sync": "2026-11-06 12:42 MT"
   },
   {
    "date": "2026-11-10",
@@ -4629,7 +4711,7 @@
    "added_by_sync": "2026-11-05 12:45 MT"
   }
  ],
- "synced_from_zernio": "2026-11-05 12:45 MT",
+ "synced_from_zernio": "2026-11-06 12:42 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -5440,13 +5522,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-07",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Mon Nov 9 08:43 MST (Zernio 6aee2d5b7fc07713637018ba, untouched original via zupload Nov 6, wipe kept)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-07",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "not possible as a Reel: 89.2 s (FB Reels 3-60 s)"
+     "status": "scheduled Mon Nov 9 08:17 MST as regular Page video 89.2 s (Zernio 6aee2d4d73eb16fe49b1572c)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 89.2
@@ -5462,13 +5544,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-07",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (not before usable_from; Mack posts IG herself, RULES 0)"
+     "status": "scheduled Mon Nov 9 17:41 MST (Zernio 6aee2d6773eb16fe49b157c9, untouched original via zupload Nov 6, wipe kept)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-07",
      "note": "same day as TikTok; FB Reels 3-60 s only",
-     "status": "not possible as a Reel: 104.5 s (FB Reels 3-60 s)"
+     "status": "scheduled Mon Nov 9 18:16 MST as regular Page video 104.5 s (Zernio 6aee2d7273eb16fe49b1580d)"
     },
     "wipe": "kept (her untouched original)",
     "duration": 104.5

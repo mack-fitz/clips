@@ -31,7 +31,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0513.MOV",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a681509e89bf3f752b1c",
     "x": "6ae3a8743f385c2069169dd5"
@@ -483,7 +483,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "v12044gd0000d6pfp47og65sgp33jf60.MP4",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a6882bdfae3fa4575eb8",
     "x": "in post"
@@ -958,7 +958,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0536.MOV",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6ae3a686509e89bf3f752b49",
     "x": "6ae3a87c3f385c2069169e07"
