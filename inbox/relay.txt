@@ -1,0 +1,2 @@
+#delete scratch/yt-trailer-wipe
+#delete scratch/yt-trailer-nowipe
