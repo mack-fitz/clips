@@ -172,6 +172,14 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Video 1 (Nov 5, https://youtu.be/U7DdgA40jXI, live 10:00am MT): promos scheduled (metadata kind "yt_short_promo") Thu Nov 5
   10:20am, then Fri Nov 6-Tue Nov 10 afternoons 2:00-4:30pm MT. Thu's regular Short moved to 3:37pm. Keep scheduling regular
   morning Shorts Nov 6-10 as usual; never move/delete the promo posts.
+  **Video 1 leftover promos on IG (Mack, Nov 6; start moved to Mon Nov 9 per Mack, Nov 7 — nothing on MG/MTG Nov 7-8):**
+  Mack allowed the leftover Orlando promos on @mackygolfs/@mackthegolfer IG from Mon Nov 9 onward. Each Orlando clip posts
+  on IG ONCE TOTAL across both accounts. Already on IG (Mack's own posts, matched by exact duration + frames): trailer
+  "worst course in orlando reel" = MTG Nov 5; "reel 2" = MG Nov 5; "reel 5" = MG Nov 6; "reel 6" = MTG Nov 6.
+  Scheduled by Claude (trial reels, her caption, no AI label): "wet reel - mackygolfs" = MG Mon Nov 9 4:12pm MT
+  (6aeeb6fcf53369239702fea0); "reel 2A" = MTG Mon Nov 9 3:47pm MT (6aeeb700f53369239702feba). All 6 are now used on IG:
+  never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
+  which account.
 - Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
   **Nov 6 change: these Reviewer clips are now OPTIONAL EXTRAS** (Mack supplies her own promo files in the Week folders).
