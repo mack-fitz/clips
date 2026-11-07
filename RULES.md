@@ -142,6 +142,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (one CRF-17 encode) before scheduling; nothing goes to YouTube untouched. Nothing suggestive in title/description, never any link or mention of OnlyFans or
   other accounts. Same file never twice on YouTube.
 - **Weekly YouTube video = Thursdays, live 10:00am MT.** Promo Shorts are IN ADDITION to the regular daily Short.
+- **Promos Claude CUTS (Mack, Nov 6: "make them fast and funny. and like 20-40 seconds"; "playing the hole full out wasn't
+  good for a reel"):** fast, funny MONTAGES, 20–40 s, quick cuts of about 1–4 s (bad shots, reactions, punchlines, scorecard
+  misery), a hook in the first 1–2 s (her best line/reaction, cold open), ending UNRESOLVED (cut right before a payoff, or on a
+  punchline that sends people to the full video). NEVER a full hole played out. Every cut keeps whole spoken lines (never cut a
+  word; land each punchline; promo.yml "snap" windows + transcript check), swearing kept, original audio only (no music, no
+  burned-in text), vertical 1080x1920 cropped below any scorecard bar and tracking Mack. Several montages per video, each a
+  different theme so they can post on different days. No captions (Mack gives one promo caption per week).
 - **PROMOS, week 3 on (Mack, Nov 6) — from her weekly folders, NO approval:**
   - Source: the promo files in BOTH Week folders (section 2), labeled in posting order per account (#1mackygolfs, #2mackygolfs...,
     #1mackthegolfer...). All different videos. Wednesday and Thursday runs re-check both folders for newly uploaded promos.
