@@ -147,10 +147,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
     #1mackthegolfer...). All different videos. Wednesday and Thursday runs re-check both folders for newly uploaded promos.
   - Caption: Mack gives ONE promo caption per week, the SAME for every promo video on every platform. If she hasn't given it
     (look in RULES/registry notes and the run's context), ask her in the run message ("promo caption for <video>?") and
-    don't schedule promos without it. Platform additions, put AFTER her caption, nothing else added:
-    TikTok: "full video on my youtube 🔗 in bio" (no link; TikTok captions can't link). Facebook: the clickable full-video
-    YouTube link. YouTube Shorts: title = her caption (<=100 chars), description = her caption + the full-video link (the only
-    link/mention ever allowed on YouTube). IG: her caption only. If the full-video URL isn't known yet, ask Mack in the run
+    don't schedule promos without it. Use her caption EXACTLY, line breaks included (Mack, Nov 6 example: "Orlando has 170+
+    golf courses. I went to the worst rated one.\nNew youtube video out NOW!\n🔗 in bio"). Where a platform allows a
+    clickable link (Facebook, YouTube description), replace her "🔗 in bio" line with the full-video URL; where it doesn't
+    (TikTok, IG), keep "🔗 in bio". No hashtags or anything else added. YouTube Shorts: title = her first line (<=100
+    chars), description = her caption with the URL line (the only link ever allowed on YouTube). If the full-video URL isn't known yet, ask Mack in the run
     message (FB/YouTube promo posts can be edited to add it once known).
   - **Launch Thursday, exactly 10:00am MT:** #1mackygolfs posts on IG @mackygolfs AND TikTok @mackygolfs, YouTube Shorts and
     Facebook macky.golfs; #1mackthegolfer posts on IG @mackthegolfer. Both #1 promos use the special cover = the thumbnail image
