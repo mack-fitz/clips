@@ -189,6 +189,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   which account.
 - Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
+  **Nov 7: replaced by 4 fast funny MONTAGES** (Reviewer docs yt2_m01..m04; full files on release promo-popstroke-montages +
+  scratch/promo-popstroke-montages(2); cut from Mack's re-edited "pop stroke beginning cut.mov" = the old file minus 16.2 s of
+  intro; she renamed the old one "zignore.mp4" and the folder to "2. I Owe Tiger Woods an Apology"). p01..p10 are hidden
+  (status "dropped", "OLD single-moment cut"); never use them. Same OPTIONAL-EXTRA rules below apply to the montages.
   **Nov 6 change: these Reviewer clips are now OPTIONAL EXTRAS** (Mack supplies her own promo files in the Week folders).
   Use one only if she approves it, never instead of her folder promos, and only in an afternoon promo slot (YouTube/TikTok/FB)
   left free after every folder promo has its day. Never schedule a "promos" doc she hasn't approved.
