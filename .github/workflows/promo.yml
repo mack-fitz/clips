@@ -14,6 +14,8 @@ name: promo
 #            vertical 9:16 (horizontal sources: crop follows Mack via YOLO person tracking, smoothed), H.264 High CRF 16
 #            preset slow, AAC 256k, original audio, 20 ms audio fades at segment joins. Full files on the branch
 #            (> 95 MB split byte-for-byte + .sha256), 720p previews (<14 MB) in previews/, check frames in checks/, track.json.
+#            Optional per segment: [start,end,{"snap":[[lo,hi],[lo,hi]]}] moves each edge to the quietest 30 ms point in its window
+#            (word-safe cuts for montages); multi-segment clips also get checks/<name>_cuts.jpg (start+middle frame of every cut).
 on:
   push:
     paths: ['inbox/promo.tsv']
@@ -239,6 +241,27 @@ jobs:
               if af: c += ["-af", ",".join(af)]
               subprocess.run(c + [path], check=True)
 
+          # optional boundary snapping: seg[2]["snap"] = [[lo,hi] for start, [lo,hi] for end] -> quietest 30 ms point in each window
+          A16 = None
+          if any(isinstance(sg[2] if len(sg) > 2 else None, dict) and "snap" in sg[2] for c in spec["clips"] for sg in c["segments"]):
+              subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", src, "-vn", "-ac", "1", "-ar", "16000", "-f", "s16le", "/tmp/a16.raw"], check=True)
+              A16 = np.fromfile("/tmp/a16.raw", dtype=np.int16).astype(np.float32) / 32768.0
+          def quiet(lo, hi):
+              if A16 is None or hi - lo < 0.03: return round((lo + hi) / 2, 3)
+              a, b = int(lo * 16000), int(hi * 16000); w = 480
+              x = A16[a:b + w]; best, bt = None, (lo + hi) / 2
+              for k in range(0, max(1, b - a), 80):
+                  v = float(np.sqrt((x[k:k + w] ** 2).mean() + 1e-12))
+                  if best is None or v < best: best, bt = v, lo + (k + w / 2) / 16000
+              return round(bt, 3)
+          for c in spec["clips"]:
+              for sg in c["segments"]:
+                  if len(sg) > 2 and isinstance(sg[2], dict) and "snap" in sg[2]:
+                      (l0, h0), (l1, h1) = sg[2]["snap"]
+                      sg[2]["planned"] = [sg[0], sg[1]]
+                      sg[0], sg[1] = quiet(l0, h0), quiet(l1, h1)
+                      print("snap", c["id"], sg[2]["planned"], "->", sg[0], sg[1], flush=True)
+
           for clip in spec["clips"]:
               cid, name = clip["id"], clip["name"]
               mode = clip.get("track", "auto")
@@ -275,6 +298,17 @@ jobs:
               subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", final, "-vf",
                               f"fps=10/{d:.3f},scale=270:-2,tile=10x1", "-frames:v", "1", "-q:v", "4", f"{out}/checks/{name}.jpg"])
               subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", final, "-frames:v", "1", "-q:v", "2", f"{out}/checks/{name}_cover.jpg"])
+              if len(clip["segments"]) > 1:  # per-cut check: start + middle frame of every segment, one row per segment pair
+                  offs, acc = [], 0.0
+                  for sg in clip["segments"]:
+                      dd = int(round((sg[1] - sg[0]) * fps)) / fps; offs += [acc + 0.1, acc + dd / 2]; acc += dd
+                  os.makedirs("/tmp/cf", exist_ok=True)
+                  for k, o in enumerate(offs):
+                      subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-ss", f"{o:.3f}", "-i", final, "-frames:v", "1",
+                                      "-vf", "scale=216:-2", "-q:v", "4", f"/tmp/cf/{k:03d}.jpg"])
+                  subprocess.run(["ffmpeg", "-nostdin", "-v", "error", "-y", "-i", "/tmp/cf/%03d.jpg", "-vf",
+                                  f"tile=8x{(len(offs) + 7) // 8}", "-frames:v", "1", "-q:v", "4", f"{out}/checks/{name}_cuts.jpg"])
+                  for f in glob.glob("/tmp/cf/*.jpg"): os.remove(f)
               br = int(json.loads(subprocess.run(["ffprobe", "-v", "error", "-show_format", "-of", "json", final], capture_output=True, text=True).stdout)["format"]["bit_rate"])
               meta["clips"].append({"id": cid, "name": name, "duration": round(d, 2), "bytes": os.path.getsize(final),
                                     "bit_rate": br, "preview_bytes": os.path.getsize(prev), "segments": clip["segments"], "track": tinfo})
