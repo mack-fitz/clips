@@ -109,15 +109,20 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   the Nov 5 Orlando promo went out with the wipe). Check the first second at 10 fps on EVERY YouTube file and cut the wipe
   (one CRF-17 encode) before scheduling; nothing goes to YouTube untouched. Nothing suggestive in title/description, never any link or mention of OnlyFans or
   other accounts. Same file never twice on YouTube.
-- **Weekly YouTube video = Thursdays.** Mack will say where its promo clips are and how to split them; until then promos
-  aren't planned. Promo Shorts are IN ADDITION to the regular daily Short (Mack, Nov 4: 2 Shorts/day while promos run);
+- **Weekly YouTube video = Thursdays, live 10:00am MT.** Promo Shorts are IN ADDITION to the regular daily Short (Mack,
+  Nov 4: 2 Shorts/day while promos run). **Promo timing (Mack, Nov 6):** on the video's launch Thursday the first promo
+  goes out at **10:00am MT exactly** (same minute as the video) and takes the morning slot — that day's regular Short moves
+  to the afternoon. Every other promo, every other day, goes out in the **afternoon** (2:00–4:30pm MT, varied); regular
+  Shorts stay in the morning. The same promos also go on TikTok @mackygolfs (caption ends "full video on my youtube 🔗 in
+  bio", no link; cover = first frame) and Facebook macky.golfs (clickable YouTube link in caption), same days/timing.
   Mack sets the "related video" link herself in the YouTube app (tell her which Short -> which video).
 - Video 1 (Nov 5, https://youtu.be/U7DdgA40jXI, live 10:00am MT): promos scheduled (metadata kind "yt_short_promo") Thu Nov 5
   10:20am, then Fri Nov 6-Tue Nov 10 afternoons 2:00-4:30pm MT. Thu's regular Short moved to 3:37pm. Keep scheduling regular
   morning Shorts Nov 6-10 as usual; never move/delete the promo posts.
 - Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
-  Mack reviews them there (only notes or download) and POSTS THEM HERSELF: never create a Zernio post for a "promos" doc.
+  Mack reviews them there (notes or download). Once she approves, Claude schedules them per the promo timing above
+  (YouTube + TikTok + Facebook); never schedule a "promos" doc she hasn't approved.
   Notes (decision "changes") are applied like comp notes: re-cut via promo.yml, new preview, round +1, decision null.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
