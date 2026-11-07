@@ -10,20 +10,16 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## 0. HOLDS (check first)
-- **Thu Oct 29 2026: NO posting at all on @mackygolfs or @mackthegolfer** (Mack posts herself that day). Don't schedule,
-  publish or move anything onto either account for Oct 29 (MT), even if she approves a card dated Oct 29 — leave it and
-  tell her. The YouTube Short STILL posts that day (Mack, Oct 28; scheduled by chat: 074 at 9:13am). Other accounts unaffected. Remove this hold after Oct 29.
-
-- **From week 2 on (Mack, Oct 29): MACK POSTS AND PREPS EVERYTHING ON @mackygolfs/@mackthegolfer HERSELF.** Never create a
-  Zernio post on either account for week 2+ content, and don't prep it for her (no Reviewer cards, no files sent). Week 1 still
-  runs the normal way through Sun Nov 1 (Fri Oct 30 mornings + B PM, Sun Nov 1 A PM post on approval).
-- Week 2+ files DO feed the other accounts (Mack, Oct 29-30): YouTube Shorts (we cut the wipe ourselves = the B edit; caption in
-  her voice; 1/day, morning ~8:30-9:30 MT), TikTok + Facebook (her originals as-is per section 6). **These do NOT depend on
-  when or what she posts on IG (Mack, Oct 30): use any weekly-folder file as soon as it's registered, in any order; ignore the
-  dates in the filenames. Keep the normal cadence.** Never post the same file twice on the same platform.
-
-- Coming (Mack, Oct 29): a mackyyaps X account (when it shows up in Zernio, post the same daily mackyyaps video there too, section 14) and a heyymackyy Instagram (AI account, its own task/repo handles it). Her first long YouTube video is next week (Thu Nov 5), not this week.
+## 0. HOLDS / WHO POSTS WHAT (check first)
+- **NEW SYSTEM FROM MON NOV 9 2026 (Mack, Nov 6) — replaces the Oct 29 "Mack posts week 2+ herself" hold.** Claude posts on
+  @mackygolfs and @mackthegolfer IG again, straight from her weekly folders, with NO approval step (Mack: "no"):
+  section 5 (weekly videos) and section 5b (YouTube promos). Nothing posts on either IG account before Mon Nov 9 00:00 MT.
+  Week 2 (Nov 2-8) stays Mack's: never create a Zernio post on either IG account for week-2 content or for any date before Nov 9.
+  A run may prepare and schedule a new Week folder as soon as it appears (Week 3 "11-9" exists since Nov 6), as long as every
+  post time is on/after that folder's Monday.
+- Week 1/week 2 files (lowercase "week 1"/"week 2" folders) keep feeding TikTok + Facebook + YouTube Shorts as before (section 6/5b);
+  never post the same file twice on the same platform.
+- mackyyaps also switches to weekly folders from Mon Nov 9 (section 14). heyymackyy (X + IG) has its own task/repo: never touch it here.
 
 ## 1. Accounts (Zernio) — always post by exact account id
 | what | handle | Zernio profile | account id |
@@ -42,12 +38,22 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Times are Mountain (MT = UTC-6 until Nov 1, UTC-7 after). Messages to Mack may add Central.
 
 ## 2. Sources (Dropbox)
-- **Weekly folders** (POSTING RULES v2, Oct 23): /Golf/for claude/mackygolfs/week N and /Golf/for claude/mackthegolfer/week N
-  (ns:3302941984//Golf/for claude/<account>/week N), 7+ new reels each. File names/order are just her counting.
-  Loose files directly in /Golf/for claude/<account>/ are NOT used (list them for Mack). Registry: clips state/weekly_sources.json.
-  Mack ADDS files to existing week folders too (Oct 23: 4 extra PM files landed in week 1 that afternoon): every morning run
-  compares EVERY week folder's files (Dropbox file id) with the registry, not just new folders, and registers anything new.
-  Any file whose name starts with "PM"/"pm" (e.g. "PM (1).MOV", "PM - never post as a bounce.mov") is a PM file.
+- **Weekly folders, week 3 on (Mack, Nov 6):** "/Golf/for claude/mackygolfs/Week N <m-d>/" and
+  "/Golf/for claude/mackthegolfer/Week N <m-d>/" (ns:3302941984//Golf/for claude/<account>/Week N <m-d>), where <m-d> is the
+  Monday the week starts (Week 3 = "Week 3 11-9" = Mon Nov 9-Sun Nov 15). Each holds, for THAT account only:
+  - **7 weekly videos** = every video file that isn't a promo. **The file name IS the caption, exactly** (section 5).
+  - **Promo reels** for that week's YouTube video, named with her posting order for that account: "#1mackygolfs",
+    "#2mackygolfs"... / "#1mackthegolfer"... (match "#<n>" + account name, any case/spacing, extension ignored). Each promo
+    in either folder is a different video. Promo caption comes from Mack, not the file name (section 5b).
+  - **A thumbnail image** (jpg/png/heic, e.g. "PROMO 1 THUMBNAIL.jpg") = the special cover for that account's #1 promo. Never posted itself.
+  Files can be moved in from elsewhere in Dropbox, so a Dropbox file id that is already in a registry under an old path is
+  still a new weekly/promo item: re-register it with its new path and role (the GUARD still decides repeats).
+  Old weekly folders "week 1"/"week 2" (POSTING RULES v2, Oct 23) keep their old meaning: names are just her counting; a
+  name starting "PM"/"pm" is a PM file. Loose files directly in /Golf/for claude/<account>/ are NOT used (list them for Mack).
+  Registry: clips state/weekly_sources.json (week-3+ entries add role "weekly"|"promo"|"thumbnail", caption, planned_mt, promo_n).
+  Mack ADDS files to existing week folders too (promos usually arrive mid-week): every run that touches golf re-lists EVERY
+  week folder (Dropbox file id) against the registry and registers anything new. **Wednesday and Thursday runs must re-check
+  both Week folders for newly uploaded promos** (section 5b).
 - **/Golf Captions**: older captioned reels; @mackygolfs/@mackthegolfer may use these (afternoon bounces, comps, shorties).
 - **/golfclips**: CLIP PAGES ONLY (@moremackygolfs, X, TikTok, Facebook). Never anything from /golfclips on @mackygolfs/@mackthegolfer
   (no reels, re-edits, comp or shorty bits).
@@ -62,46 +68,72 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 3. NEVER cut mid-word or mid-sentence; cut only at real gaps (transcript word times / tools/snap.py).
 4. The same media file (same bytes) never posts twice on the same account.
 5. Run the GUARD (section 9) before creating or scheduling a post, moving one, or putting anything on The Reviewer. FAIL = leave the slot empty and say why.
-6. Nothing posts on @mackygolfs/@mackthegolfer unless Mack approved that exact item (video, caption, cover) on The Reviewer.
-7. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs.
+6. On @mackygolfs/@mackthegolfer, only two kinds of post go out (Mack, Nov 6): (a) her weekly-folder videos and her
+   weekly-folder promos (sections 5/5b), scheduled straight from the folder with NO approval, caption = file name (weekly)
+   or her given promo caption; (b) anything else (comps, shorties, bounces, Reviewer "promos" extras) ONLY after Mack approved
+   that exact item (video, caption, cover) on The Reviewer.
+7. A clip never posted anywhere debuts on @mackygolfs or @mackthegolfer, never on @moremackygolfs. (YouTube promos are cuts
+   of the long video, which debuts on YouTube: they may launch on TikTok/FB/Shorts at the same 10:00am as IG.)
 8. Leave a slot empty rather than break a rule. Report it.
-9. Read section 0 (HOLDS) before scheduling anything. Active hold: NOTHING posts on @mackygolfs/@mackthegolfer on Thu Oct 29 (YouTube Short still posts).
+9. Read section 0 (HOLDS / who posts what) before scheduling anything. Nothing on either IG account before Mon Nov 9.
 
 ## 4. Shirt wipe
 - Everything opens on Mack's shirt wipe EXCEPT @mackthegolfer, which NEVER shows it (reels, comps, shorties, covers).
 - @mackygolfs: weekly uploads as-is (wipe first). @moremackygolfs reels + stories: wipe, her first sentence, then the edit.
   X/TikTok/FB originals: her untouched file (just confirm it opens on the wipe).
 - @mackthegolfer: cut out ONLY the wipe (right after the shirt is down, before her first word; check the first second at 10 fps). Nothing else changes for a weekly reel.
+  Week 3+ (Mack, Nov 6): EVERY file that posts on @mackthegolfer IG (weekly videos AND promos) gets this check and, if a wipe
+  is there, ONE CRF-17 encode at full resolution with the wipe cut before posting. @mackygolfs posts keep the wipe (as uploaded).
+- YouTube (regular Shorts and promo Shorts): never the wipe (section 5b). TikTok/Facebook: her file as uploaded.
 - Compilations and shorties: don't add a wipe; one already in them stays.
 - Source with no wipe: open on the strongest action and say so in the report.
 
-## 5. Trial reels — @mackygolfs (A) and @mackthegolfer (B)
-- **Mornings 7:00–8:30 MT:** ONE reel per account per day, new footage from THAT account's own weekly folder (debut only).
-  Vary the minute day to day; A and B at different times.
-- **Afternoons 2:00–3:30 MT** (varied). Priority: PM files > turn dog reels > YouTube promos > bounces > comps/shorties.
-  Extras beyond 7 in a weekly folder also go to afternoons. Comps/shorties only fill afternoons nothing else took.
-- **PM files** ("pm.MOV"/"PM.MOV", any case): afternoon only, own account only, never bounce.
+## 5. Weekly IG posts — @mackygolfs (A, 6acce837f3bd55021dad245f) and @mackthegolfer (B, 6accea22c485191e985aa1cb) (Mack, Nov 6; from Mon Nov 9)
+- **Source:** that account's own "Week N <m-d>" folder (section 2): 7 weekly videos per account per week. Never A's files on B
+  or B's on A.
+- **Caption = the file name, exactly.** Strip only a real media extension (.mov .MOV .mp4 .MP4 .m4v .hevc); keep her spelling,
+  punctuation, capitalization, emoji, "@" mentions and censoring (e.g. "d*cking") exactly as typed. Never rewrite, shorten,
+  add hashtags or add anything. Only exception: a name that is clearly not a caption (camera default like "IMG_1234",
+  "Video Oct 26 2026...", "PM", a bare number) or that mentions OnlyFans/a link: don't post it; ask Mack for the caption in
+  the run message and leave that day empty until she answers.
+- **NO approval, no Reviewer card:** as soon as a run sees a new Week folder, schedule all 7 videos for each account,
+  ONE per day per account, Mon-Sun of that week (order within the week = Claude's choice; spread similar clips apart).
+  Create each post already scheduled (never a draft). A day whose time already passed when the folder shows up = post at the
+  next sensible time that day, or skip that day and add the leftover video to the end of the week as a second-afternoon post
+  only if Mack says so (otherwise tell her it's left over).
+- **Times (Zernio best-time data, Mack asked Claude to pick, Nov 6):** @mackthegolfer about **7:00–7:30am MT**; @mackygolfs
+  about **11:15am–12:00pm MT**. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
+- **Media:** A = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). B = wipe cut
+  (section 4: check the first second at 10 fps, ONE CRF-17 encode at full resolution, nothing else changed).
+- **Covers (no text on either, Mack, Nov 6):** A = ALWAYS a shirt-wipe frame (full-res JPEG q95; if a file has no wipe,
+  pick a strong frame and say so). B = an interesting-looking frame Claude picks (never the wipe; nothing suggestive).
+- **Posting type:** Zernio trial reel, platformSpecificData {trialParams {graduationStrategy:"MANUAL"}, instagramThumbnail}.
+  NEVER SS_PERFORMANCE (Mack shares to followers herself). (Unchanged; ask Mack if she wants regular reels instead.)
+- GUARD (section 9) before scheduling every one; a FAIL leaves that day empty and goes in the run message (rule 4 = same bytes
+  never twice on the same account is absolute).
+- Record each in weekly_sources.json (planned_mt, zernio id, caption) and mackygolfs-mackthegolfer state/trials.json.
+- **After IG:** each weekly video also goes on TikTok @mackygolfs + Facebook macky.golfs (section 6) the same day as its IG post (after it) or any later day (Mack, Nov 6 update).
+- **Afternoon slot = promos** (section 5b: 3:30–5:00pm MT). No other afternoon fill on A/B unless Mack approved it on The Reviewer
+  (comps/shorties/bounces: next open afternoon 2:00–3:30pm MT on a day without a promo or bumped post on that account).
+- **PM files (week 1/2 only)** ("pm.MOV"/"PM.MOV", any case): afternoon only, own account only, never bounce.
   **MACK POSTS PM FILES HERSELF (Mack, Oct 28): NEVER create a Zernio post for a PM file, not even after approval.** On
   approval: send her the full-quality file + final caption + chosen cover the morning of its day (SendUserFile + SendUserMessage
   "PM to post at ~<time>: <caption>"), set the doc decision "self_post", status "sent_to_mack". Same as the "send me to download" flow.
-- **Bounces (back and forth):** a reel can go to the OTHER account in an afternoon slot 30 days after its MOST RECENT post
+- **Bounces (back and forth, only via The Reviewer approval, no proactive prep):** a reel can go to the OTHER account in an afternoon slot 30 days after its MOST RECENT post
   (to @mackygolfs = with the wipe / original upload; to @mackthegolfer = without). Back on its original account only 60 days
   after its first post there, again afternoons. Every bounce gets a NEW caption, a NEW cover and light edits (different trim/end,
   different opening beat after the wipe, punch-ins). Old /Golf Captions reels follow the same rule.
-- **Trial posting:** Zernio trial reel, platformSpecificData {trialParams {graduationStrategy:"MANUAL"}, instagramThumbnail}.
-  NEVER SS_PERFORMANCE (Mack shares to followers herself).
 - **No added text** on trial reel videos (shorties' one line is the only exception). Mack's own burned-in captions stay.
-- @mackthegolfer stays clean: no innuendo, nothing suggestive on covers, no OF tie-in, no links to other accounts.
+- @mackthegolfer stays clean: no innuendo, nothing suggestive on covers, no OF tie-in, no links to other accounts. (Her own
+  file-name captions are posted as she wrote them; only an OnlyFans mention or a link stops a post — ask her.)
 
-## 5b. YouTube Shorts (Mack, Oct 26)
-- **ONE Short a day, in the morning** (Mack, Oct 26): 20–40 min after that day's @mackthegolfer reel posts (vary the minute). Source = that day's approved @mackthegolfer MORNING reel, same
-  full-quality media file as its Zernio IG post (no wipe, no edits). Create the YouTube post in the same step that schedules
-  the approved B morning reel (approval of the B reel covers its Short). If a day's B morning reel isn't approved/scheduled,
-  that day gets no Short (don't fill it with anything else).
-- **From Mon Nov 2 (Mack posts IG herself):** Shorts no longer wait for approvals. The 4:38am morning run keeps the next 3 days of
-  Shorts scheduled (one/day, ~8:30–9:30 MT), picking: (1) week-1 @mackthegolfer reels already posted on IG but not yet on YouTube,
-  then (2) week-N @mackthegolfer files as soon as they're registered (no waiting on her IG post), wipe cut (one CRF-17 encode), caption written in her voice. Same file
-  never twice on YouTube. Title/description rules above.
+## 5b. YouTube Shorts (Mack, Oct 26) and YouTube promos (Mack, Nov 6)
+- **Regular Shorts — existing system kept (Mack, Nov 6):** ONE a day, morning ~8:30–9:30 MT (varied), no approvals. The
+  4:38am morning run keeps the next 3 days scheduled, picking: (1) week-1 @mackthegolfer reels already posted on IG but not yet
+  on YouTube, then (2) week-N @mackthegolfer files as soon as they're registered, wipe ALWAYS cut (one CRF-17 encode; the
+  same wipe-cut file as its IG post is fine). Caption: for week 3+ files use her file-name caption when it passes the YouTube
+  rules below (no @mentions/links/OnlyFans/suggestive); otherwise write one in her voice. Same file never twice on YouTube.
+  On a launch Thursday the regular Short moves to the afternoon (promo #1 takes 10:00am).
 - Post: platform "youtube", account 6ae00b478806963c9f324a62, content "<caption>\n\n#golf #shorts", platformSpecificData
   {title: <caption, <=100 chars>, visibility "public", madeForKids false, categoryId "17"}. No custom cover (API can't for Shorts).
   metadata {kind "yt_short", source <file>}.
@@ -109,20 +141,41 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   the Nov 5 Orlando promo went out with the wipe). Check the first second at 10 fps on EVERY YouTube file and cut the wipe
   (one CRF-17 encode) before scheduling; nothing goes to YouTube untouched. Nothing suggestive in title/description, never any link or mention of OnlyFans or
   other accounts. Same file never twice on YouTube.
-- **Weekly YouTube video = Thursdays, live 10:00am MT.** Promo Shorts are IN ADDITION to the regular daily Short (Mack,
-  Nov 4: 2 Shorts/day while promos run). **Promo timing (Mack, Nov 6):** on the video's launch Thursday the first promo
-  goes out at **10:00am MT exactly** (same minute as the video) and takes the morning slot — that day's regular Short moves
-  to the afternoon. Every other promo, every other day, goes out in the **afternoon** (2:00–4:30pm MT, varied); regular
-  Shorts stay in the morning. The same promos also go on TikTok @mackygolfs (caption ends "full video on my youtube 🔗 in
-  bio", no link; cover = first frame) and Facebook macky.golfs (clickable YouTube link in caption), same days/timing.
-  Mack sets the "related video" link herself in the YouTube app (tell her which Short -> which video).
+- **Weekly YouTube video = Thursdays, live 10:00am MT.** Promo Shorts are IN ADDITION to the regular daily Short.
+- **PROMOS, week 3 on (Mack, Nov 6) — from her weekly folders, NO approval:**
+  - Source: the promo files in BOTH Week folders (section 2), labeled in posting order per account (#1mackygolfs, #2mackygolfs...,
+    #1mackthegolfer...). All different videos. Wednesday and Thursday runs re-check both folders for newly uploaded promos.
+  - Caption: Mack gives ONE promo caption per week, the SAME for every promo video on every platform. If she hasn't given it
+    (look in RULES/registry notes and the run's context), ask her in the run message ("promo caption for <video>?") and
+    don't schedule promos without it. Platform additions, put AFTER her caption, nothing else added:
+    TikTok: "full video on my youtube 🔗 in bio" (no link; TikTok captions can't link). Facebook: the clickable full-video
+    YouTube link. YouTube Shorts: title = her caption (<=100 chars), description = her caption + the full-video link (the only
+    link/mention ever allowed on YouTube). IG: her caption only. If the full-video URL isn't known yet, ask Mack in the run
+    message (FB/YouTube promo posts can be edited to add it once known).
+  - **Launch Thursday, exactly 10:00am MT:** #1mackygolfs posts on IG @mackygolfs AND TikTok @mackygolfs, YouTube Shorts and
+    Facebook macky.golfs; #1mackthegolfer posts on IG @mackthegolfer. Both #1 promos use the special cover = the thumbnail image
+    Mack put in THAT account's Week folder (IG instagramThumbnail; Facebook custom thumbnail if Zernio allows; TikTok stays
+    first frame; Shorts can't take a cover). Any other post that day on the same account (the weekly IG video on A and B, the
+    regular Short, TikTok/FB posts) is bumped to the afternoon (after 1:00pm MT, spaced >= 1 h from other posts on that account).
+    If #1 shows up after 10:00 Thursday, post it at the next sensible time that day and tell Mack.
+  - **The rest, IG:** each account's own remaining promos (#2, #3...) post on that account in her labeled order, ONE per day,
+    in the AFTERNOON slot about **3:30–5:00pm MT** (vary the minute; Zernio data shows @mackygolfs' strongest window is late
+    afternoon), starting Friday. Covers: @mackygolfs = a wipe frame; @mackthegolfer = an interesting frame (wipe cut from the
+    video, section 4). Trial reel settings as section 5.
+  - **The rest, TikTok + Facebook + YouTube Shorts:** EVERY promo from BOTH folders that hasn't been there yet (incl. #1mackthegolfer)
+    posts once on each, any order, ONE promo per day per platform, afternoon slot 3:30–5:00pm MT, starting Friday. Post every one.
+    Covers: TikTok first frame (videoCoverTimestampMs 0); Facebook default (special thumbnail ONLY on the launch-day promo);
+    Shorts none (API can't; Mack is fine with it). YouTube copies: wipe cut (one CRF-17 encode). TikTok/FB: her file as uploaded.
+  - Mack sets the YouTube "related video" herself (tell her which Short -> which video). metadata {kind "yt_short_promo"}.
+  - GUARD before every promo post; same file never twice on the same platform/account.
 - Video 1 (Nov 5, https://youtu.be/U7DdgA40jXI, live 10:00am MT): promos scheduled (metadata kind "yt_short_promo") Thu Nov 5
   10:20am, then Fri Nov 6-Tue Nov 10 afternoons 2:00-4:30pm MT. Thu's regular Short moved to 3:37pm. Keep scheduling regular
   morning Shorts Nov 6-10 as usual; never move/delete the promo posts.
 - Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
-  Mack reviews them there (notes or download). Once she approves, Claude schedules them per the promo timing above
-  (YouTube + TikTok + Facebook); never schedule a "promos" doc she hasn't approved.
+  **Nov 6 change: these Reviewer clips are now OPTIONAL EXTRAS** (Mack supplies her own promo files in the Week folders).
+  Use one only if she approves it, never instead of her folder promos, and only in an afternoon promo slot (YouTube/TikTok/FB)
+  left free after every folder promo has its day. Never schedule a "promos" doc she hasn't approved.
   Notes (decision "changes") are applied like comp notes: re-cut via promo.yml, new preview, round +1, decision null.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
@@ -134,10 +187,14 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   Cover = frame one. Cadence 2.5/day: 3-post days (Oct 23, 25, 27...: 8:00–9:30, 11:30–1:00, 5:00–7:00 MT) alternate with
   2-post days (Oct 24, 26...: morning + evening only). Never more than 3 a day.
 - **X @mackygolfs: STOPPED (Mack, Oct 29).** Never schedule anything on X @mackygolfs (6acc3edbda858fbeab423c5a) again. Golf cadence 2.5/day now = @moremackygolfs IG, TikTok, Facebook only.
-- **TikTok @mackygolfs + Facebook Page:** weekly-folder reels (PM files included) post as-is (wipe kept, cover = first frame)
-  once their IG version is approved; later Mack prefers after IG, not the same day. FB on the same schedule as TikTok.
+- **TikTok @mackygolfs + Facebook Page:** weekly-folder reels post as-is (her file, wipe kept, cover = first frame).
+  Week 3+ (Mack, Nov 6 update): each weekly video can go there the same day as its IG post (later than the IG post time) or
+  any day after, with the same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
+  same schedule as TikTok. Usual cadence: about 2–3 posts a day each on TikTok and FB (promos included in that count).
   Plan in clips state/schedule.json "weekly_plan". Other TikTok/FB slots: Mack's already-posted originals (TikTok should
   eventually get every original); never-posted videos only after their IG post is published.
+  YouTube promos also go here (section 5b) and WIN over these rules where they conflict (launch-day 10:00am #1, one promo a
+  day in the 3:30–5:00pm slot, other posts that launch Thursday bumped to the afternoon).
 - **Facebook extras:** 3–60 s videos post as Reels (contentType reel); anything longer posts as a regular Page video (no contentType reel) — Mack, Oct 31: every original is usable on FB; never the same video on the Page within 30 days; captions may add ONE #golf; a
   question works well. TikTok: PUBLIC_TO_EVERYONE, comments/duet/stitch on, commercial none, cover = first frame (videoCoverTimestampMs 0).
 - Bought engagement on @moremackygolfs (Oct 12: 442 followers counted as bought, 1,000 views, 100 likes) is excluded from all analytics.
@@ -149,8 +206,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   original (source < 8 Mbps at 1080x1920 = a shrunk copy, re-fetch). Never downscale, never double-encode. IG transcoding
   error = re-encode once at level 4.2 ~20 Mbps (never 5 Mbps). Record source vs export bitrate in the notes file.
   Full-quality files > 100 MB live on scratch branches, never main.
-- **Covers:** full-res JPEG q95, 3+ options. @mackygolfs = wipe frames; @mackthegolfer = smiling/talking frames, never the
-  wipe; @moremackygolfs and TikTok = frame one. Cover text styles (grid reference covers/grid-reference.png): mostly
+- **Covers:** full-res JPEG q95, 3+ options (weekly/promo posts: Claude just picks one, no options needed). @mackygolfs = wipe frames; @mackthegolfer = interesting/smiling/talking frames, never the
+  wipe; weekly videos and promos on @mackygolfs/@mackthegolfer get NO cover text (Mack, Nov 6), #1 promos use her thumbnail; @moremackygolfs and TikTok = frame one. Cover text styles (grid reference covers/grid-reference.png): mostly
   "Macky vs. ___" pill, some typewriter note, rarely the big red question, sometimes no words. Cover text NEVER over her
   chest or face and never high: mid-frame between face and chest or low below the chest, inside the centered 3:4 grid crop
   (12.5–87.5 % of height). Use tools/cover_a.py --guide and an explicit COVER_Y. Check at grid-thumbnail size AND full size.
@@ -166,20 +223,21 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Reviewer previews: 720 px, < 20 MB. Never cut a 0.6 s wipe by accident: check the first second at 5–10 fps.
 
 ## 8. The Reviewer (approval flow)
-- Page https://claude.ai/artifact/Ez1N5G9ywcawNCaEjT15qg, ArtifactData collections "reels" (id YYYY-MM-DD_{A|B}_{am|pm})
-  and "compilations" (comps + shorties, type "shorty").
-- Everything for @mackygolfs/@mackthegolfer goes on it first.
+- Page https://claude.ai/artifact/Ez1N5G9ywcawNCaEjT15qg, ArtifactData collections "reels" (id YYYY-MM-DD_{A|B}_{am|pm}),
+  "compilations" (comps + shorties, type "shorty") and "promos" (optional extra promo cuts, section 5b).
+- **Nov 6: the approval flow NO LONGER applies to weekly-folder videos or folder promos** (sections 5/5b: scheduled straight
+  from the folder, no cards). Don't put weekly videos on The Reviewer and don't keep morning slots on it any more.
+  The Reviewer is now only for optional extras Mack asks for: comps, shorties, bounces, "promos" extras, and her notes.
 - NO ZERNIO DRAFTS (Mack, Oct 23 — drafts show in her scheduler and confuse her): Never create a Zernio post (draft or
   scheduled) for anything Mack hasn't approved. On approval, create and schedule it in one step (posts_create_post with
   scheduled_for, trialParams MANUAL). Until then keep the full-quality file ready (Zernio temp upload / scratch branch, noted
   on the review doc). Only exception: @moremackygolfs posts parked as drafts by the 30-day rule (GUARD R6) — that unschedules
   a post that already existed.
-- Keep the next 5–7 days of morning slots for both accounts on it; a new week folder goes on it the day it appears.
 - Approved (decision "approved", decided_round == round): schedule at the planned time (late = next sensible time in the same
-  window; a morning may shift up to 30 min). Use chosen_cover (default opt1) and the doc's current caption. Comps/shorties:
-  post_account + post_when ("now" = publish now; "next" = next open afternoon on that trial account; @moremackygolfs = its next open slot).
-  An approved @mackthegolfer MORNING reel ALSO gets its YouTube Short scheduled in the same step (section 5b). Every run that
-  touches approvals also checks that each scheduled/posted B morning reel from today on has its Short; add any that are missing.
+  window). Use chosen_cover (default opt1) and the doc's current caption. Comps/shorties:
+  post_account + post_when ("now" = publish now; "next" = next open afternoon 2:00–3:30pm MT on that trial account on a day
+  with no promo/bumped post there; @moremackygolfs = its next open slot). Approved "promos" extras: section 5b.
+  Old week-1/2 "reels" cards still waiting: leave them (week 2 was Mack's); don't schedule them on A/B.
 - Notes (decision "changes"): apply exactly as written, re-upload preview + covers, round +1, decision null, history entry (no Zernio post until she approves), tell Mack "Your notes are done: <title>".
 - "Send me to download" notes: send her the full-quality file, decision "self_post", status "sent_to_mack", never schedule it.
 - Cards whose slot passed with no decision: drop them (status "dropped"); footage goes back to the pool.
@@ -221,13 +279,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Base Camp (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79, collection "schedule", docs mackygolfs / mackthegolfer / golf /
   facebook): rebuild from a fresh Zernio pull only (never from memory); drafts (only R6-parked @moremackygolfs posts) show "(parked)". Pinned writes (if_version).
 
-## 12. Who does what (scheduled tasks, Oct 24)
+## 12. Who does what (scheduled tasks, updated Nov 6)
 | task | when (MT) | job | heavy work? |
 |---|---|---|---|
-| Golf trials morning run | 4:38am | approvals; weekly folders onto The Reviewer; Reviewer notes older than 12 h; Sunday note | yes |
-| Clip page daily run | 12:24pm | approvals; all Reviewer notes; @moremackygolfs/X/TikTok/FB; then 1 comp + 1 shorty only if time allows | yes |
-| Hourly approvals check | :23, 7am–9pm | approvals only; stops in < 2 min when nothing is approved | no |
-| Nightly post check | 10:07pm | approvals; failed posts, account health, rule breaks in the next 3 days; tomorrow's mornings covered | light only |
+| Golf trials morning run | 4:38am | OWNER of A/B: re-list Week folders; schedule each new Week folder's 7+7 weekly posts (sections 5/4) and its promos (5b, incl. Wed/Thu promo re-check and the Thu 10:00 launch); Shorts 3 days; Reviewer approvals + notes; Sunday note | yes |
+| Clip page daily run | 12:24pm | BACKSTOP for anything the morning run left unscheduled on A/B/promos; TikTok/FB ~2–3/day (weekly videos same day as IG or later, promos 1/day), Shorts, @moremackygolfs, mackyyaps (section 14); approvals; notes; then 1 comp + 1 shorty only if time allows | yes |
+| Hourly approvals check | :23, 7am–9pm | Reviewer approvals only (comps/shorties/promos extras); on Thursdays 7:23–9:23 also makes sure both #1 promos are scheduled for 10:00; stops in < 2 min when nothing to do | no (Thu #1 promo: one wipe-cut encode allowed) |
+| Nightly post check | 10:07pm | approvals; failed posts, account health, rule breaks in the next 3 days; tomorrow's A/B weekly posts (and Thu launch) scheduled in Zernio; tomorrow's mackyyaps post scheduled | light only |
 | heyymackyy daily run | 6:24am | AI photo account only (its own repo/rules) | — |
 - Time budget: a run that passes ~35 minutes finishes the item in hand, records it, and leaves the rest for the next run.
   Order inside a run = approvals first, then fixes, then new content.
@@ -243,15 +301,24 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - Accounts: Instagram mackyyaps 6ae39dc291f8e9741c60c5cf, TikTok mackyyaps 6ae39d18bd5929e9a3c9e4df, X mackyyaps
   6ae3a172456a4216e1e0ed17. Never cross-post to/from golf accounts or @heyymackyy. Golf-only rules (Golf Captions-only
   Dropbox rule, shirt wipe, trial reels, The Reviewer) don't apply here; no approval step.
-- Source: Dropbox ns:3302941984//Mackyyaps (root + /stash + any "Week N" subfolders). Registry: clips state/mackyyaps.json.
-  Re-list the folder every run for new files; relay (links mode, scratch/my-*), transcribe (transcribe_scratch), dedupe.
+- **Source from Mon Nov 9 (Mack, Nov 6): her weekly folder "/Mackyyaps/Week N <m-d>/"** (ns:3302941984//Mackyyaps/Week N <m-d>;
+  <m-d> = the Monday it starts; "Week 2 11-9" = Mon Nov 9-Sun Nov 15, 7 files). Always use the NEWEST Week folder: its videos
+  fill that week's days, one per day, any order. Registry: clips state/mackyyaps.json (match by Dropbox file id: files are
+  moved in from /stash etc., so update the entry's path and keep its group). Re-list every run; relay (links mode,
+  scratch/my-*), dedupe as before. Root/stash/"Week 1" are no longer used unless Mack says so; if a week runs short, tell her
+  and leave the day empty.
+- **Reconcile once (first run that reads this):** every mackyyaps post already scheduled for Nov 9 or later must be a
+  Week-folder file with its file-name caption. A scheduled post whose file IS in the Week folder: edit its caption on IG,
+  TikTok AND X to the file name (keep its time). One whose file is NOT: delete those Zernio posts (all three platforms) and
+  set the registry entry back to "unused". Then fill the open days of that week from the Week folder. Posts before Nov 9 stay.
 - ONE post a day: the SAME video at the SAME time on IG (reel, not a trial reel, cover = first frame), TikTok (public, cover
-  frame 0) and X. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily).
-- Captions: silly + flirty, in her voice, short; a little suggestive is fine, never explicit; 0–2 hashtags; no links; never
-  mention OnlyFans. Same caption on all three.
+  frame 0) and X. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily). No approval step.
+- **Caption = the file name, exactly** (strip only a real media extension; keep her spelling/punctuation/caps). Same caption
+  on all three. Never write captions for Week-folder files. Only if a name is clearly not a caption (camera default like
+  "IMG_0512", hash names) or mentions OnlyFans/a link: skip it and ask Mack. Never mention OnlyFans. Never the Dua Lipa clip.
 - NEVER post the same video twice: byte dupes, re-exports AND re-takes of the same bit count as one (registry "group"); one
   per group. Skip clips under 3 s and clips of her singing copyrighted songs (list them for Mack).
 - Quality: originals untouched to IG/TikTok; X needs H.264 SDR (one CRF-17 tone-mapped encode for HEVC/HDR files), max 2:20
   (longer: cut at a natural gap for the X copy only, or skip X that day and say so).
-- The 12:24pm clip page run keeps 7 days scheduled from state/mackyyaps.json (status unused -> scheduled -> posted) and warns
-  Mack when fewer than 7 unused groups remain.
+- The 12:24pm clip page run schedules the newest Week folder's days from state/mackyyaps.json (status unused -> scheduled ->
+  posted) and, from Friday on, warns Mack if next week's folder isn't there yet.
