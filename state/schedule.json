@@ -4280,21 +4280,23 @@
   },
   {
    "date": "2026-11-06",
-   "scheduled_mt": "13:47",
+   "scheduled_mt": "13:48",
    "slot": "midday",
    "platform": "facebook",
    "caption": "12 is officially my unlucky number. you'll see why 💀 #golf\n\nfull video: https://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d36b2d1d6ec83877754"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793850840613_f4f5516f16e972b4_orlando_promo_reel5.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-06 13:48",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-06",
@@ -4305,14 +4307,16 @@
    "zernio": {
     "post": "6aec032e3eb91b00ac0460ad"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793850840613_f4f5516f16e972b4_orlando_promo_reel5.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-06 14:17",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-06",
@@ -4323,14 +4327,16 @@
    "zernio": {
     "post": "6aea3948d96730026a7eb86f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793734066838_a5bdc83e54e01271_A_w2-monday-11-2.mp4"
    },
-   "added_by_sync": "2026-11-03 12:43 MT"
+   "added_by_sync": "2026-11-03 12:43 MT",
+   "posted_mt": "2026-11-06 17:38",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-06",
@@ -4341,14 +4347,16 @@
    "zernio": {
     "post": "6aea39547c93ed7731d25463"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793734066838_a5bdc83e54e01271_A_w2-monday-11-2.mp4"
    },
-   "added_by_sync": "2026-11-03 12:43 MT"
+   "added_by_sync": "2026-11-03 12:43 MT",
+   "posted_mt": "2026-11-06 18:24",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-07",
@@ -4359,39 +4367,43 @@
    "zernio": {
     "post": "6aecdc9ebec505e9e799e7ee"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793907398766_0f844b2f2022483e_B_w2-wed-11-4.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-07 08:14",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-07",
-   "scheduled_mt": "08:51",
+   "scheduled_mt": "08:52",
    "slot": "morning",
    "platform": "x_tiktok",
    "caption": "i'm a single on a cart and the slowest group in america won't let me play through. fall mindset only",
    "zernio": {
     "post": "6aecdca2bec505e9e799e7f6"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793907398766_0f844b2f2022483e_B_w2-wed-11-4.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-07 08:52",
+   "synced": "2026-11-07 12:41 MT"
   },
   {
    "date": "2026-11-07",
    "scheduled_mt": "14:23",
    "slot": "midday",
    "platform": "facebook",
-   "caption": "1200 golf courses in florida and i drove to the worst one on purpose 🙃 #golf\n\nfull video: https://youtu.be/U7DdgA40jXI",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d38b2d1d6ec83877769"
    },
@@ -4409,7 +4421,7 @@
    "scheduled_mt": "14:41",
    "slot": "midday",
    "platform": "x_tiktok",
-   "caption": "1200 golf courses in florida and i drove to the lowest rated one on purpose 🙃 #golf #golftok #floridagolf\n\nfull video on my youtube 🔗 in bio",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\n🔗 in bio",
    "zernio": {
     "post": "6aec033600a5ab3114d6a954"
    },
@@ -4499,7 +4511,7 @@
    "scheduled_mt": "13:16",
    "slot": "midday",
    "platform": "facebook",
-   "caption": "they said florida rain only lasts 20 minutes. they lied 🌧️ #golf\n\nfull video: https://youtu.be/U7DdgA40jXI",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d3ab2d1d6ec83877782"
    },
@@ -4517,7 +4529,7 @@
    "scheduled_mt": "13:26",
    "slot": "midday",
    "platform": "x_tiktok",
-   "caption": "they said florida rain only lasts 20 minutes. they lied 🌧️ #golf #golftok #floridagolf #golfgirl\n\nfull video on my youtube 🔗 in bio",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\n🔗 in bio",
    "zernio": {
     "post": "6aec033900a5ab3114d6a982"
    },
@@ -4607,7 +4619,7 @@
    "scheduled_mt": "15:08",
    "slot": "midday",
    "platform": "facebook",
-   "caption": "first swing of the day. no warmup. new grip. what could go wrong 😅 #golf\n\nfull video: https://youtu.be/U7DdgA40jXI",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d3cb37042d25fcbc17d"
    },
@@ -4625,7 +4637,7 @@
    "scheduled_mt": "15:12",
    "slot": "midday",
    "platform": "x_tiktok",
-   "caption": "first swing of the day. no warmup. new grip. what could go wrong 😅 #golf #golftok #golfswing\n\nfull video on my youtube 🔗 in bio",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\n🔗 in bio",
    "zernio": {
     "post": "6aec033b00a5ab3114d6a98b"
    },
@@ -4676,10 +4688,46 @@
   },
   {
    "date": "2026-11-10",
+   "scheduled_mt": "08:14",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "either be bad or slow you can't be both #golf",
+   "zernio": {
+    "post": "6aef7e013f29eb57e8aa1fd7"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794052217097_3e738d4568f61688_B_w3-bad-or-slow.mov"
+   },
+   "added_by_sync": "2026-11-07 12:41 MT"
+  },
+  {
+   "date": "2026-11-10",
+   "scheduled_mt": "08:44",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "either be bad or slow you can't be both",
+   "zernio": {
+    "post": "6aef7e023f29eb57e8aa1fdf"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794052217097_3e738d4568f61688_B_w3-bad-or-slow.mov"
+   },
+   "added_by_sync": "2026-11-07 12:41 MT"
+  },
+  {
+   "date": "2026-11-10",
    "scheduled_mt": "13:53",
    "slot": "midday",
    "platform": "x_tiktok",
-   "caption": "everyone said it was the worst course in orlando so i had to see for myself 👀 #golf #golftok #golfgirl #orlando\n\nfull video on my youtube 🔗 in bio",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\n🔗 in bio",
    "zernio": {
     "post": "6aec033e00a5ab3114d6a98f"
    },
@@ -4697,7 +4745,7 @@
    "scheduled_mt": "14:51",
    "slot": "midday",
    "platform": "facebook",
-   "caption": "everyone said it was the worst course in orlando so i had to see for myself 👀 #golf\n\nfull video: https://youtu.be/U7DdgA40jXI",
+   "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d3eb37042d25fcbc184"
    },
@@ -4709,9 +4757,45 @@
     "Facebook": "https://media.zernio.com/media/1793850839773_c92951fa56d791e6_orlando_promo_reel2A.mp4"
    },
    "added_by_sync": "2026-11-05 12:45 MT"
+  },
+  {
+   "date": "2026-11-10",
+   "scheduled_mt": "17:38",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "a weaker loser would have just skipped this hole",
+   "zernio": {
+    "post": "6aef7e033f29eb57e8aa1fe7"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794052212010_4103f44fb3adee59_A_w3-weaker-loser.mp4"
+   },
+   "added_by_sync": "2026-11-07 12:41 MT"
+  },
+  {
+   "date": "2026-11-10",
+   "scheduled_mt": "18:13",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "a weaker loser would have just skipped this hole #golf",
+   "zernio": {
+    "post": "6aef7e043f29eb57e8aa1ff5"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794052212010_4103f44fb3adee59_A_w3-weaker-loser.mp4"
+   },
+   "added_by_sync": "2026-11-07 12:41 MT"
   }
  ],
- "synced_from_zernio": "2026-11-06 12:42 MT",
+ "synced_from_zernio": "2026-11-07 12:41 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -5637,15 +5721,16 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-09 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Tue Nov 10 08:44 MT (6aef7e023f29eb57e8aa1fdf, untouched via IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-09 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Tue Nov 10 08:14 MT (6aef7e013f29eb57e8aa1fd7, 34.8 s Reel)"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "youtube": "regular Short Tue Nov 10 09:02 MT (6aef7e073f29eb57e8aa200b, no wipe in file, untouched)"
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4",
@@ -5660,13 +5745,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-09 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Tue Nov 10 17:38 MT (6aef7e033f29eb57e8aa1fe7, untouched via IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-09 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Tue Nov 10 18:13 MT (6aef7e043f29eb57e8aa1ff5, 57.6 s Reel)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB"
    },

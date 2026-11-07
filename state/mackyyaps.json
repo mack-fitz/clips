@@ -4,7 +4,7 @@
   "tiktok": "6ae39d18bd5929e9a3c9e4df",
   "x": "6ae3a172456a4216e1e0ed17"
  },
- "folder": "ns:3302941984//Mackyyaps",
+ "folder": "ns:3302941984//Mackyyaps/Week 2 11-9 (newest Week folder; RULES 14)",
  "rules": "1/day same video+caption+time on IG reel, TikTok, X; 5:00-6:30pm MT varied; silly flirty captions; never repeat a video or a re-take of the same bit (group)",
  "files": [
   {
@@ -59,17 +59,22 @@
   {
    "key": "my004",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFgQ",
-   "path": "/Mackyyaps/IMG_0512.MOV",
+   "path": "/Mackyyaps/Week 2 11-9/i'm sooo lucky",
    "size": 13511097,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0512.MOV",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aef7ec95e332bb5641a1116",
+    "x": "6aef7ecc31bd08a9415868d5"
+   },
+   "caption": "i'm sooo lucky",
+   "scheduled_mt": "2026-11-09 17:46",
+   "notes": "Nov 7 clip run: Week 2 11-9 file, caption = file name; IG+TikTok original raw pinned scratch/my-w2 2318df6; X H.264 SDR CRF17 copy scratch/my-x-w2 8a144c0",
+   "old_path": "/Mackyyaps/IMG_0512.MOV",
+   "x_copy": "scratch/my-x-w2:my004_x.mp4"
   },
   {
    "key": "my005",
@@ -213,17 +218,21 @@
   {
    "key": "my014",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAF4g",
-   "path": "/Mackyyaps/stash/85b14bfac07f4813bd06a37d647d1422.MP4",
+   "path": "/Mackyyaps/Week 2 11-9/literally soooo bored",
    "size": 4631642,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "bored-in-bed",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aef7edb31bd08a941586932",
+    "x": "in post"
+   },
+   "caption": "literally soooo bored",
+   "scheduled_mt": "2026-11-15 17:52",
+   "notes": "Nov 7 clip run: Week 2 11-9 file, caption = file name; IG+TikTok original raw pinned scratch/my-w2 2318df6; same H.264 SDR file on X",
+   "old_path": "/Mackyyaps/stash/85b14bfac07f4813bd06a37d647d1422.MP4"
   },
   {
    "key": "my015",
@@ -922,17 +931,22 @@
   {
    "key": "my060",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFhQ",
-   "path": "/Mackyyaps/stash/IMG_0515.MOV",
+   "path": "/Mackyyaps/Week 2 11-9/what should i do next",
    "size": 15177051,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0515.MOV",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aef7ed55e332bb5641a113f",
+    "x": "6aef7ed831bd08a94158691e"
+   },
+   "caption": "what should i do next",
+   "scheduled_mt": "2026-11-14 17:31",
+   "notes": "Nov 7 clip run: Week 2 11-9 file, caption = file name; IG+TikTok original raw pinned scratch/my-w2 2318df6; X H.264 SDR CRF17 copy scratch/my-x-w2 8a144c0",
+   "old_path": "/Mackyyaps/stash/IMG_0515.MOV",
+   "x_copy": "scratch/my-x-w2:my060_x.mp4"
   },
   {
    "key": "my061",
@@ -1031,17 +1045,21 @@
   {
    "key": "my067",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAF0g",
-   "path": "/Mackyyaps/stash/1f3b4fbf2616455c877bfe4c3e7b1881.MP4",
+   "path": "/Mackyyaps/Week 2 11-9/fits like a glove",
    "size": 3085150,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "duck-sunglasses",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aef7ece5e332bb5641a1125",
+    "x": "in post"
+   },
+   "caption": "fits like a glove",
+   "scheduled_mt": "2026-11-10 17:13",
+   "notes": "Nov 7 clip run: Week 2 11-9 file, caption = file name; IG+TikTok original raw pinned scratch/my-w2 2318df6; same H.264 SDR file on X",
+   "old_path": "/Mackyyaps/stash/1f3b4fbf2616455c877bfe4c3e7b1881.MP4"
   },
   {
    "key": "my068",
@@ -1097,14 +1115,11 @@
    "duration": 19.4,
    "dup_of_path": null,
    "group": "360d9597407b46939139747b401898ea.MP4",
-   "status": "scheduled",
-   "zernio": {
-    "post": "6ae8e4f83db21a88adc2ecef",
-    "x": "in post"
-   },
-   "caption": "help me pick a floor stain. you can come over and see it in person if that helps you decide",
-   "scheduled_mt": "2026-11-09 17:57",
-   "notes": "H.264 SDR 720x1280 19.4 s: same file on IG/TikTok/X (raw pinned scratch/my-b3 39e9ce4)"
+   "status": "unused",
+   "zernio": {},
+   "caption": null,
+   "scheduled_mt": null,
+   "notes": "H.264 SDR 720x1280 19.4 s: same file on IG/TikTok/X (raw pinned scratch/my-b3 39e9ce4) | Nov 7 reconcile: not in Week 2 11-9 folder -> Zernio post 6ae8e4f83db21a88adc2ecef deleted (IG/TikTok/X), back to unused"
   },
   {
    "key": "my072",
@@ -1163,14 +1178,11 @@
    "duration": null,
    "dup_of_path": null,
    "group": "windy-cruise",
-   "status": "scheduled",
-   "zernio": {
-    "post": "6aea3695b49a2b3417508542",
-    "x": "in post"
-   },
-   "caption": "sorry it's so windy. i'm on a cruise feeling lucky and you're not here to hold my hair",
-   "scheduled_mt": "2026-11-10 17:18",
-   "notes": "raw pinned scratch/my-b3 39e9ce4 (same file IG/TikTok/X); windy-cruise group (my041 sibling stays unused)"
+   "status": "unused",
+   "zernio": {},
+   "caption": null,
+   "scheduled_mt": null,
+   "notes": "raw pinned scratch/my-b3 39e9ce4 (same file IG/TikTok/X); windy-cruise group (my041 sibling stays unused) | Nov 7 reconcile: not in Week 2 11-9 folder -> Zernio post 6aea3695b49a2b3417508542 deleted (IG/TikTok/X), back to unused"
   },
   {
    "key": "my076",
@@ -1220,7 +1232,7 @@
   {
    "key": "my079",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGQg",
-   "path": "/Mackyyaps/stash/Video Nov 03 2026, 12 03 36 PM.mov",
+   "path": "/Mackyyaps/Week 2 11-9/it looks like he wants me to know that he's intentionally giving me the silent treatment",
    "size": 9897264,
    "sha256": "7841b4e9e56b5eb14b897a9d2478fc2bb1b0529a0a80eb7dcd73e2a8ee7127ff",
    "duration": 11.62,
@@ -1231,12 +1243,13 @@
     "post": "6aecdaade73446ba7749b29b",
     "x": "6aecdab88847ce7f8ecc7477"
    },
-   "caption": "he's been giving me this look all morning. what did i do",
+   "caption": "it looks like he wants me to know that he's intentionally giving me the silent treatment",
    "scheduled_mt": "2026-11-11 17:42",
-   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5)",
+   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5) | Nov 7 reconcile: moved to Week 2 11-9, caption changed to file name on IG/TikTok/X (time kept)",
    "relay": "scratch/my-nov03:my079.mov",
    "transcript": "state/transcripts/my079.mov.json",
-   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"
+   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)",
+   "old_path": "/Mackyyaps/stash/Video Nov 03 2026, 12 03 36 PM.mov"
   },
   {
    "key": "my080",
@@ -1259,7 +1272,7 @@
   {
    "key": "my081",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGQQ",
-   "path": "/Mackyyaps/stash/Video Nov 03 2026, 12 05 04 PM.mov",
+   "path": "/Mackyyaps/Week 2 11-9/what was my sport??",
    "size": 10641297,
    "sha256": "8de63869d4f540759558721366197f569c151733ba6478c095d307dc4831ac7b",
    "duration": 12.7,
@@ -1270,12 +1283,13 @@
     "post": "6aecdab88847ce7f8ecc7481",
     "x": "6aecdab907aeb734903d6375"
    },
-   "caption": "guess the sport. yes you can look at the guns",
+   "caption": "what was my sport??",
    "scheduled_mt": "2026-11-12 17:09",
-   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5)",
+   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | IG+TikTok: untouched HEVC original raw pinned scratch/my-nov03 b8c47a0; X: H.264 CRF17 L4.2 copy scratch/my-x-nov05 6646e97 (clip page run Nov 5) | Nov 7 reconcile: moved to Week 2 11-9, caption changed to file name on IG/TikTok/X (time kept)",
    "relay": "scratch/my-nov03:my081.mov",
    "transcript": "state/transcripts/my081.mov.json",
-   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"
+   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)",
+   "old_path": "/Mackyyaps/stash/Video Nov 03 2026, 12 05 04 PM.mov"
   },
   {
    "key": "my082",
@@ -1352,20 +1366,25 @@
   {
    "key": "my086",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGOg",
-   "path": "/Mackyyaps/stash/Video Nov 03 2026, 12 13 27 PM.mov",
+   "path": "/Mackyyaps/Week 2 11-9/are there any freckle scientists who can weigh in on this",
    "size": 30244880,
    "sha256": "877a0cbb586b938c08d0695bf833caeefcd7ab9a890f2b4f41b2235af6e4181c",
    "duration": 35.01,
    "dup_of_path": null,
    "group": "freckles-make-no-sense",
-   "status": "unused",
-   "zernio": {},
-   "caption": "someone explain freckles to me like i'm five",
-   "scheduled_mt": null,
-   "notes": "relayed+transcribed+deduped Nov 4 clip page run.",
+   "status": "scheduled",
+   "zernio": {
+    "post": "6aef7ed05e332bb5641a1139",
+    "x": "6aef7ed231bd08a9415868fe"
+   },
+   "caption": "are there any freckle scientists who can weigh in on this",
+   "scheduled_mt": "2026-11-13 18:04",
+   "notes": "relayed+transcribed+deduped Nov 4 clip page run. | Nov 7 clip run: Week 2 11-9 file, caption = file name; IG+TikTok original raw pinned scratch/my-w2 2318df6; X H.264 SDR CRF17 copy scratch/my-x-w2 8a144c0",
    "relay": "scratch/my-nov03:my086.mov",
    "transcript": "state/transcripts/my086.mov.json",
-   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"
+   "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)",
+   "old_path": "/Mackyyaps/stash/Video Nov 03 2026, 12 13 27 PM.mov",
+   "x_copy": "scratch/my-x-w2:my086_x.mp4"
   },
   {
    "key": "my087",
@@ -1457,5 +1476,6 @@
    "transcript": "state/transcripts/my091.mp4.json",
    "codec": "hevc 1080x1920 SDR bt709 (X copy needs one CRF-17 H.264 encode)"
   }
- ]
+ ],
+ "reconciled_nov9": "2026-11-07 clip page run: done"
 }
