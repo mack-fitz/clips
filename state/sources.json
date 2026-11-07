@@ -1,6 +1,6 @@
 {
  "note": "Unique source videos (Dropbox /Golf Captions + /golfclips). Built by tools/build_media_map.py.",
- "count": 95,
+ "count": 111,
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
    "files": [
@@ -622,6 +622,102 @@
   "mackygolfs/week 2/Video Oct 26 2026, 10 43 21 PM.mov": {
    "files": [
     "/Golf/for claude/mackygolfs/week 2/Video Oct 26 2026, 10 43 21 PM.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/guess they didn't have enough???? (i filmed this two weeks ago)": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/guess they didn't have enough???? (i filmed this two weeks ago)"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/@nutrl why did i not know this was so tasty": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/@nutrl why did i not know this was so tasty"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/stay to the end to see me within lickin distance of the hole": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/stay to the end to see me within lickin distance of the hole"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/i can't be the only one out here aiming for the hole???": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/i can't be the only one out here aiming for the hole???"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/literally quit d*cking around for just 100 seconds": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/literally quit d*cking around for just 100 seconds"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/just a girl and her best friend": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/just a girl and her best friend"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/do you think i'll hit the glizzy in thrizzy y or n": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/do you think i'll hit the glizzy in thrizzy y or n"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/either be bad or slow you can't be both": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/either be bad or slow you can't be both"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/at what point do i pick up": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/at what point do i pick up"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/will this be the one??": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/will this be the one??"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/i need new clubs": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/i need new clubs"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/were you this good-bad when you were 6 months deep?": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/were you this good-bad when you were 6 months deep?"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/this is a genuine question": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/this is a genuine question"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/PROMO 1 THUMBNAIL.jpg": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/PROMO 1 THUMBNAIL.jpg"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/PROMO 1 THUMBNAIL.jpg": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/PROMO 1 THUMBNAIL.jpg"
    ],
    "clip_pages_only": false
   }

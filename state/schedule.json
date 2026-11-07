@@ -5622,6 +5622,330 @@
     "caption_idea": "is it just me or is this the best part of golf"
    }
   ],
-  "week2_note": "Oct 30 morning run: week 2 = Mack's own IG posts (named by her post day). TikTok + FB originals from the day after her named date; YouTube Shorts (wipe cut, B edit) from Mon Nov 2 per RULES 5b. Clip page run schedules these."
+  "week2_note": "Oct 30 morning run: week 2 = Mack's own IG posts (named by her post day). TikTok + FB originals from the day after her named date; YouTube Shorts (wipe cut, B edit) from Mon Nov 2 per RULES 5b. Clip page run schedules these.",
+  "week3": [
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/either be bad or slow you can't be both",
+    "home": "ig:mackthegolfer",
+    "caption": "either be bad or slow you can't be both",
+    "ig_planned_mt": "2026-11-09 07:08",
+    "ig_zernio": "6aef1279263236a8ac312d20",
+    "original_file": "scratch/w3-relay:B2",
+    "duration": 34.8,
+    "usable_from": "2026-11-09",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-09 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-09 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4",
+    "home": "ig:mackygolfs",
+    "caption": "a weaker loser would have just skipped this hole",
+    "ig_planned_mt": "2026-11-09 11:23",
+    "ig_zernio": "6aef129f343225b8892f777c",
+    "original_file": "scratch/w3-relay:A3",
+    "duration": 57.6,
+    "usable_from": "2026-11-09",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-09 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-09 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/do you think i'll hit the glizzy in thrizzy y or n",
+    "home": "ig:mackthegolfer",
+    "caption": "do you think i'll hit the glizzy in thrizzy y or n",
+    "ig_planned_mt": "2026-11-10 07:21",
+    "ig_zernio": "6aef14111f7edebfc3ba7f05",
+    "original_file": "scratch/w3-relay:B1",
+    "duration": 96.3,
+    "usable_from": "2026-11-10",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-10 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-10 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/i can't be the only one out here aiming for the hole???",
+    "home": "ig:mackygolfs",
+    "caption": "i can't be the only one out here aiming for the hole???",
+    "ig_planned_mt": "2026-11-10 11:47",
+    "ig_zernio": "6aef12a3263236a8ac312deb",
+    "original_file": "scratch/w3-relay:A5",
+    "duration": 36.1,
+    "usable_from": "2026-11-10",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-10 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-10 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/i need new clubs",
+    "home": "ig:mackthegolfer",
+    "caption": "i need new clubs",
+    "ig_planned_mt": "2026-11-11 07:03",
+    "ig_zernio": "6aef12a4263236a8ac312def",
+    "original_file": "scratch/w3-relay:B5",
+    "duration": 9.5,
+    "usable_from": "2026-11-11",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-11 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-11 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/@nutrl why did i not know this was so tasty",
+    "home": "ig:mackygolfs",
+    "caption": "@nutrl why did i not know this was so tasty",
+    "ig_planned_mt": "2026-11-11 11:31",
+    "ig_zernio": "6aef12a8343225b8892f77c1",
+    "original_file": "scratch/w3-relay:A2",
+    "duration": 50.1,
+    "usable_from": "2026-11-11",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-11 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-11 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/just a girl and her best friend",
+    "home": "ig:mackygolfs",
+    "caption": "just a girl and her best friend",
+    "ig_planned_mt": "2026-11-12 13:18",
+    "ig_zernio": "6aef12aa343225b8892f77f3",
+    "original_file": "scratch/w3-relay:A7",
+    "duration": 15.1,
+    "usable_from": "2026-11-12",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-12 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-12 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/at what point do i pick up",
+    "home": "ig:mackthegolfer",
+    "caption": "at what point do i pick up",
+    "ig_planned_mt": "2026-11-12 13:42",
+    "ig_zernio": "6aef14161f7edebfc3ba7f13",
+    "original_file": "scratch/w3-relay:B3",
+    "duration": 24.5,
+    "usable_from": "2026-11-12",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-12 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-12 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/were you this good-bad when you were 6 months deep?",
+    "home": "ig:mackthegolfer",
+    "caption": "were you this good-bad when you were 6 months deep?",
+    "ig_planned_mt": "2026-11-13 07:14",
+    "ig_zernio": "6aef142602b3c7761b7de42f",
+    "original_file": "scratch/w3-relay:B6",
+    "duration": 105.9,
+    "usable_from": "2026-11-13",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-13 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-13 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/stay to the end to see me within lickin distance of the hole",
+    "home": "ig:mackygolfs",
+    "caption": "stay to the end to see me within lickin distance of the hole",
+    "ig_planned_mt": "2026-11-13 11:52",
+    "ig_zernio": "6aef12b3343225b8892f785a",
+    "original_file": "scratch/w3-relay:A4",
+    "duration": 84.6,
+    "usable_from": "2026-11-13",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-13 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-13 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/this is a genuine question",
+    "home": "ig:mackthegolfer",
+    "caption": "this is a genuine question",
+    "ig_planned_mt": "2026-11-14 07:27",
+    "ig_zernio": "6aef142a02b3c7761b7de44d",
+    "original_file": "scratch/w3-relay:B7",
+    "duration": 22.8,
+    "usable_from": "2026-11-14",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-14 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-14 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/literally quit d*cking around for just 100 seconds",
+    "home": "ig:mackygolfs",
+    "caption": "literally quit d*cking around for just 100 seconds",
+    "ig_planned_mt": "2026-11-14 11:16",
+    "ig_zernio": "6aef12b9343225b8892f7895",
+    "original_file": "scratch/w3-relay:A6",
+    "duration": 99.9,
+    "usable_from": "2026-11-14",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-14 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-14 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/will this be the one??",
+    "home": "ig:mackthegolfer",
+    "caption": "will this be the one??",
+    "ig_planned_mt": "2026-11-15 07:11",
+    "ig_zernio": "6aef143d02b3c7761b7de4d4",
+    "original_file": "scratch/w3-relay:B4",
+    "duration": 131.8,
+    "usable_from": "2026-11-15",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-15 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-15 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   },
+   {
+    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/guess they didn't have enough???? (i filmed this two weeks ago)",
+    "home": "ig:mackygolfs",
+    "caption": "guess they didn't have enough???? (i filmed this two weeks ago)",
+    "ig_planned_mt": "2026-11-15 11:39",
+    "ig_zernio": "6aef12bc343225b8892f78aa",
+    "original_file": "scratch/w3-relay:A1",
+    "duration": 32.3,
+    "usable_from": "2026-11-15",
+    "tiktok": {
+     "account": "6acc3fd31ce18dfecf0a2249",
+     "date": "2026-11-15 (after the IG post) or later",
+     "cover": "first frame (videoCoverTimestampMs 0)",
+     "status": "planned"
+    },
+    "facebook": {
+     "account": "6ad052a5a442d9968f306c31",
+     "date": "2026-11-15 (after the IG post) or later",
+     "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
+     "status": "planned"
+    },
+    "wipe": "kept (her untouched original) on TikTok/FB"
+   }
+  ]
  }
 }
