@@ -269,7 +269,8 @@ jobs:
               for si, seg in enumerate(clip["segments"]):
                   s, e = seg[0], seg[1]
                   top = int((seg[2] if len(seg) > 2 else {}).get("top", clip.get("top", 0)))
-                  sch = H - top; scw = int(round(sch * 9 / 16 / 2) * 2) if horiz else cw
+                  bot = int((seg[2] if len(seg) > 2 else {}).get("bot", 0))  # crop off the bottom too (scorecard placed low in a shot)
+                  sch = int((H - top - bot) // 2 * 2); scw = int(round(sch * 9 / 16 / 2) * 2) if horiz else cw
                   if not horiz: sch, top = ch, 0
                   xs, obs = track(s, e, mode, scw)
                   tinfo.append({"seg": [s, e], "top": top, "crop": [scw, sch], "obs": [[round(o[0], 2), round(o[1]), round(o[2], 4)] for o in obs],
