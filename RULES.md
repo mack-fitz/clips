@@ -203,7 +203,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   intro; she renamed the old one "zignore.mp4" and the folder to "2. I Owe Tiger Woods an Apology"). p01..p10 are hidden
   (status "dropped", "OLD single-moment cut"); never use them. Same OPTIONAL-EXTRA rules below apply to the montages.
   **Nov 8:** notes applied to m02 + m03 (round 2, files *_r2 on scratch/promo-popstroke-montages3 + same release); Mack
-  asked for 6 PopStroke montages, so m05 "the lag master" and m06 "brutally honest" were added (same branch/release).
+  asked for 6 PopStroke montages, so m05 "the lag master" and m06 "brutally honest" were added (files on scratch/promo-popstroke-montages5 + same release).
   m01 + m04: she's "still thinking" — leave them alone until she notes/decides.
   **Nov 6 change: these Reviewer clips are now OPTIONAL EXTRAS** (Mack supplies her own promo files in the Week folders).
   Use one only if she approves it, never instead of her folder promos, and only in an afternoon promo slot (YouTube/TikTok/FB)
