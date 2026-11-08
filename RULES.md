@@ -149,6 +149,15 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   word; land each punchline; promo.yml "snap" windows + transcript check), swearing kept, original audio only (no music, no
   burned-in text), vertical 1080x1920 cropped below any scorecard bar and tracking Mack. Several montages per video, each a
   different theme so they can post on different days. No captions (Mack gives one promo caption per week).
+  **Montage style lessons (Mack's Reviewer notes on PopStroke m02/m03, Nov 8 — apply to every promo cut, 7-iron next):**
+  - HOOK = the single funniest self-contained bit, setup + punchline together, even if it happens late in the video
+    (m03: "start the reel with that loser on the nose clip" — the "you're a loser, you're right where you're supposed to
+    be" / "a little on the nose" pair). Don't open on a plain reaction ("devastating") when a told joke is available.
+  - END on a landed punchline, not on a setup/begging line that trails off (m02: "cut the last clip about needing a
+    bogey" -> now ends on "What'd I tell ya? 12 was my unlucky number"). "Unresolved" = cut right after a punchline before
+    the result shows, not an extra weak line tacked on. When a cut adds nothing, drop it: a shorter reel (~27 s) is fine.
+  - Themes she liked enough to fine-tune: running bits/excuses she blames on outside things (putter, fans, sun, unlucky
+    number) and self-roasting disaster lines. Her notes are short and literal: apply exactly what she wrote, nothing more.
 - **PROMOS, week 3 on (Mack, Nov 6) — from her weekly folders, NO approval:**
   - Source: the promo files in BOTH Week folders (section 2), labeled in posting order per account (#1mackygolfs, #2mackygolfs...,
     #1mackthegolfer...). All different videos. Wednesday and Thursday runs re-check both folders for newly uploaded promos.
@@ -193,6 +202,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   scratch/promo-popstroke-montages(2); cut from Mack's re-edited "pop stroke beginning cut.mov" = the old file minus 16.2 s of
   intro; she renamed the old one "zignore.mp4" and the folder to "2. I Owe Tiger Woods an Apology"). p01..p10 are hidden
   (status "dropped", "OLD single-moment cut"); never use them. Same OPTIONAL-EXTRA rules below apply to the montages.
+  **Nov 8:** notes applied to m02 + m03 (round 2, files *_r2 on scratch/promo-popstroke-montages3 + same release); Mack
+  asked for 6 PopStroke montages, so m05 "the lag master" and m06 "brutally honest" were added (same branch/release).
+  m01 + m04: she's "still thinking" — leave them alone until she notes/decides.
   **Nov 6 change: these Reviewer clips are now OPTIONAL EXTRAS** (Mack supplies her own promo files in the Week folders).
   Use one only if she approves it, never instead of her folder promos, and only in an afternoon promo slot (YouTube/TikTok/FB)
   left free after every folder promo has its day. Never schedule a "promos" doc she hasn't approved.
