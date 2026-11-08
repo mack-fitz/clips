@@ -1,0 +1,29 @@
+name: cutout
+# Background removal for thumbnails. Push images to cutout/in/ on a scratch branch; results land in cutout/out/ (same branch).
+on:
+  push:
+    branches: ['scratch/cutout']
+    paths: ['cutout/in/**']
+permissions:
+  contents: write
+jobs:
+  cut:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q "rembg[cpu,cli]==2.0.59" pillow
+      - name: cut
+        run: |
+          mkdir -p cutout/out
+          for f in cutout/in/*; do
+            n=$(basename "${f%.*}")
+            for model in birefnet-general isnet-general-use u2net_human_seg; do
+              rembg i -m $model "$f" "cutout/out/${n}_${model}.png" || echo "fail $model"
+            done
+          done
+      - name: push
+        run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add cutout/out && git commit -m "cutout done [skip ci]" && git push
