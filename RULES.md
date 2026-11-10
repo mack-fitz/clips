@@ -105,10 +105,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   about **11:15am–12:00pm MT**. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
 - **Media:** A = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). B = wipe cut
   (section 4: check the first second at 10 fps, ONE CRF-17 encode at full resolution, nothing else changed).
-- **Covers (no text on either, Mack, Nov 6):** A = ALWAYS a shirt-wipe frame (full-res JPEG q95; if a file has no wipe,
-  pick a strong frame and say so). B = an interesting-looking frame Claude picks (never the wipe; nothing suggestive).
-- **Posting type:** Zernio trial reel, platformSpecificData {trialParams {graduationStrategy:"MANUAL"}, instagramThumbnail}.
-  NEVER SS_PERFORMANCE (Mack shares to followers herself). (Unchanged; ask Mack if she wants regular reels instead.)
+- **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
+  is supposed to be frame 1"): send NO instagramThumbnail so Instagram uses frame 1. B = an interesting-looking frame Claude
+  picks (never the wipe; nothing suggestive). Exception: promo #1 on launch day still uses her special thumbnail (5b).
+- **Posting type (Mack, Nov 10 — test on A only):** A (@mackygolfs) = REGULAR reel straight to the main feed, NOT a trial:
+  platformSpecificData {madeWithAi:false, shareToFeed:true}, no trialParams, no instagramThumbnail. Promos on A too.
+  Mack archives flops herself. B (@mackthegolfer) stays a trial reel {trialParams {graduationStrategy:"MANUAL"},
+  instagramThumbnail}; NEVER SS_PERFORMANCE. Week 3 A posts from Nov 11 on were converted Nov 10. Review A vs B after a week.
 - GUARD (section 9) before scheduling every one; a FAIL leaves that day empty and goes in the run message (rule 4 = same bytes
   never twice on the same account is absolute).
 - Record each in weekly_sources.json (planned_mt, zernio id, caption) and mackygolfs-mackthegolfer state/trials.json.
@@ -177,8 +180,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
     If #1 shows up after 10:00 Thursday, post it at the next sensible time that day and tell Mack.
   - **The rest, IG:** each account's own remaining promos (#2, #3...) post on that account in her labeled order, ONE per day,
     in the AFTERNOON slot about **3:30–5:00pm MT** (vary the minute; Zernio data shows @mackygolfs' strongest window is late
-    afternoon), starting Friday. Covers: @mackygolfs = a wipe frame; @mackthegolfer = an interesting frame (wipe cut from the
-    video, section 4). Trial reel settings as section 5.
+    afternoon), starting Friday. Covers: @mackygolfs = frame 1 (no custom cover, Nov 10); @mackthegolfer = an interesting frame (wipe cut from the
+    video, section 4). Post type as section 5 (A = regular main-feed reel, B = trial).
   - **The rest, TikTok + Facebook + YouTube Shorts:** EVERY promo from BOTH folders that hasn't been there yet (incl. #1mackthegolfer)
     posts once on each, any order, ONE promo per day per platform, afternoon slot 3:30–5:00pm MT, starting Friday. Post every one.
     Covers: TikTok first frame (videoCoverTimestampMs 0); Facebook default (special thumbnail ONLY on the launch-day promo);
@@ -238,7 +241,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   original (source < 8 Mbps at 1080x1920 = a shrunk copy, re-fetch). Never downscale, never double-encode. IG transcoding
   error = re-encode once at level 4.2 ~20 Mbps (never 5 Mbps). Record source vs export bitrate in the notes file.
   Full-quality files > 100 MB live on scratch branches, never main.
-- **Covers:** full-res JPEG q95, 3+ options (weekly/promo posts: Claude just picks one, no options needed). @mackygolfs = wipe frames; @mackthegolfer = interesting/smiling/talking frames, never the
+- **Covers:** full-res JPEG q95, 3+ options (weekly/promo posts: Claude just picks one, no options needed). @mackygolfs = frame 1 / no custom cover (Nov 10); @mackthegolfer = interesting/smiling/talking frames, never the
   wipe; weekly videos and promos on @mackygolfs/@mackthegolfer get NO cover text (Mack, Nov 6), #1 promos use her thumbnail; @moremackygolfs and TikTok = frame one. Cover text styles (grid reference covers/grid-reference.png): mostly
   "Macky vs. ___" pill, some typewriter note, rarely the big red question, sometimes no words. Cover text NEVER over her
   chest or face and never high: mid-frame between face and chest or low below the chest, inside the centered 3:4 grid crop
