@@ -4640,21 +4640,23 @@
   },
   {
    "date": "2026-11-09",
-   "scheduled_mt": "15:08",
+   "scheduled_mt": "15:09",
    "slot": "midday",
    "platform": "facebook",
    "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d3cb37042d25fcbc17d"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793850842518_a3aafb0f44a7c81c_orlando_promo_reel6.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-09 15:09",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-09",
@@ -4665,32 +4667,36 @@
    "zernio": {
     "post": "6aec033b00a5ab3114d6a98b"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793850842518_a3aafb0f44a7c81c_orlando_promo_reel6.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-09 15:12",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-09",
-   "scheduled_mt": "17:41",
+   "scheduled_mt": "17:44",
    "slot": "evening",
    "platform": "x_tiktok",
    "caption": "been playing absolutely awful golf. i even put it in slow motion so you can tell me exactly what i'm doing wrong",
    "zernio": {
     "post": "6aee2d6773eb16fe49b157c9"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793993841406_53268dd75fca569d_A_w2-fri-11-6.mov"
    },
-   "added_by_sync": "2026-11-06 12:42 MT"
+   "added_by_sync": "2026-11-06 12:42 MT",
+   "posted_mt": "2026-11-09 17:44",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-09",
@@ -4701,32 +4707,36 @@
    "zernio": {
     "post": "6aee2d7273eb16fe49b1580d"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793993841406_53268dd75fca569d_A_w2-fri-11-6.mov"
    },
-   "added_by_sync": "2026-11-06 12:42 MT"
+   "added_by_sync": "2026-11-06 12:42 MT",
+   "posted_mt": "2026-11-09 18:16",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-10",
-   "scheduled_mt": "08:14",
+   "scheduled_mt": "08:15",
    "slot": "morning",
    "platform": "facebook",
    "caption": "either be bad or slow you can't be both #golf",
    "zernio": {
     "post": "6aef7e013f29eb57e8aa1fd7"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1794052217097_3e738d4568f61688_B_w3-bad-or-slow.mov"
    },
-   "added_by_sync": "2026-11-07 12:41 MT"
+   "added_by_sync": "2026-11-07 12:41 MT",
+   "posted_mt": "2026-11-10 08:15",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-10",
@@ -4737,14 +4747,16 @@
    "zernio": {
     "post": "6aef7e023f29eb57e8aa1fdf"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1794052217097_3e738d4568f61688_B_w3-bad-or-slow.mov"
    },
-   "added_by_sync": "2026-11-07 12:41 MT"
+   "added_by_sync": "2026-11-07 12:41 MT",
+   "posted_mt": "2026-11-10 08:44",
+   "synced": "2026-11-10 12:40 MT"
   },
   {
    "date": "2026-11-10",
@@ -4961,9 +4973,81 @@
     "Facebook": "https://media.zernio.com/media/1794052216292_b23f2c607dc1e3bc_A_w3-best-friend.mov"
    },
    "added_by_sync": "2026-11-09 12:33 MT"
+  },
+  {
+   "date": "2026-11-13",
+   "scheduled_mt": "08:18",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "at what point do i pick up #golf",
+   "zernio": {
+    "post": "6af3731ad795b16c0aa65de0"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794339379360_7b93f6067ea0ccb8_B_w3-pick-up_original.mov"
+   },
+   "added_by_sync": "2026-11-10 12:40 MT"
+  },
+  {
+   "date": "2026-11-13",
+   "scheduled_mt": "08:43",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "at what point do i pick up",
+   "zernio": {
+    "post": "6af3731fff5bcb30df7e9def"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794339379360_7b93f6067ea0ccb8_B_w3-pick-up_original.mov"
+   },
+   "added_by_sync": "2026-11-10 12:40 MT"
+  },
+  {
+   "date": "2026-11-13",
+   "scheduled_mt": "17:34",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "stay to the end to see me within lickin distance of the hole",
+   "zernio": {
+    "post": "6af372b4ff5bcb30df7e9a24"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794052213377_86f70b03ab1708d0_A_w3-lickin-distance.mp4"
+   },
+   "added_by_sync": "2026-11-10 12:40 MT"
+  },
+  {
+   "date": "2026-11-13",
+   "scheduled_mt": "18:14",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "stay to the end to see me within lickin distance of the hole #golf",
+   "zernio": {
+    "post": "6af372b5ff5bcb30df7e9a38"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794052213377_86f70b03ab1708d0_A_w3-lickin-distance.mp4"
+   },
+   "added_by_sync": "2026-11-10 12:40 MT"
   }
  ],
- "synced_from_zernio": "2026-11-09 12:33 MT",
+ "synced_from_zernio": "2026-11-10 12:40 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -6052,13 +6136,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-12 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Fri Nov 13 08:43 MT (6af3731fff5bcb30df7e9def, untouched original via zupload, wipe kept)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-12 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Fri Nov 13 08:18 MT (6af3731ad795b16c0aa65de0, 24.5 s Reel, untouched original)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "regular Short Fri Nov 13 09:13 MT (6af304bc75d2c795470922d8, same wipe-cut file as IG)"
@@ -6099,13 +6183,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-13 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Fri Nov 13 17:34 MT (6af372b4ff5bcb30df7e9a24, untouched via IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-13 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Fri Nov 13 18:14 MT (6af372b5ff5bcb30df7e9a38, 84.6 s regular Page video, untouched)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB"
    },
