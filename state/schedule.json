@@ -4767,32 +4767,36 @@
    "zernio": {
     "post": "6aec033e00a5ab3114d6a98f"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1793850839773_c92951fa56d791e6_orlando_promo_reel2A.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-10 13:53",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-10",
-   "scheduled_mt": "14:51",
+   "scheduled_mt": "14:52",
    "slot": "midday",
    "platform": "facebook",
    "caption": "Orlando has 170+ golf courses. I went to the worst rated one.\nNew youtube video out NOW!\nhttps://youtu.be/U7DdgA40jXI",
    "zernio": {
     "post": "6aec1d3eb37042d25fcbc184"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1793850839773_c92951fa56d791e6_orlando_promo_reel2A.mp4"
    },
-   "added_by_sync": "2026-11-05 12:45 MT"
+   "added_by_sync": "2026-11-05 12:45 MT",
+   "posted_mt": "2026-11-10 14:52",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-10",
@@ -4803,50 +4807,56 @@
    "zernio": {
     "post": "6aef7e033f29eb57e8aa1fe7"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1794052212010_4103f44fb3adee59_A_w3-weaker-loser.mp4"
    },
-   "added_by_sync": "2026-11-07 12:41 MT"
+   "added_by_sync": "2026-11-07 12:41 MT",
+   "posted_mt": "2026-11-10 17:38",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-10",
-   "scheduled_mt": "18:13",
+   "scheduled_mt": "18:16",
    "slot": "evening",
    "platform": "facebook",
    "caption": "a weaker loser would have just skipped this hole #golf",
    "zernio": {
     "post": "6aef7e043f29eb57e8aa1ff5"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1794052212010_4103f44fb3adee59_A_w3-weaker-loser.mp4"
    },
-   "added_by_sync": "2026-11-07 12:41 MT"
+   "added_by_sync": "2026-11-07 12:41 MT",
+   "posted_mt": "2026-11-10 18:16",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-11",
-   "scheduled_mt": "08:16",
+   "scheduled_mt": "08:17",
    "slot": "morning",
    "platform": "facebook",
    "caption": "i need new clubs #golf",
    "zernio": {
     "post": "6af0cf4a0ca29ed035e100f9"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "Facebook"
    ],
    "live_media": {
     "Facebook": "https://media.zernio.com/media/1794052217895_8deb8e6ef5aaeea0_B_w3-new-clubs.mp4"
    },
-   "added_by_sync": "2026-11-09 12:33 MT"
+   "added_by_sync": "2026-11-09 12:33 MT",
+   "posted_mt": "2026-11-11 08:17",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-11",
@@ -4857,14 +4867,16 @@
    "zernio": {
     "post": "6af0cf550ca29ed035e10137"
    },
-   "status": "scheduled",
+   "status": "published",
    "live_platforms": [
     "TikTok"
    ],
    "live_media": {
     "TikTok": "https://media.zernio.com/media/1794052217895_8deb8e6ef5aaeea0_B_w3-new-clubs.mp4"
    },
-   "added_by_sync": "2026-11-09 12:33 MT"
+   "added_by_sync": "2026-11-09 12:33 MT",
+   "posted_mt": "2026-11-11 08:41",
+   "synced": "2026-11-11 12:40 MT"
   },
   {
    "date": "2026-11-11",
@@ -5045,9 +5057,81 @@
     "Facebook": "https://media.zernio.com/media/1794052213377_86f70b03ab1708d0_A_w3-lickin-distance.mp4"
    },
    "added_by_sync": "2026-11-10 12:40 MT"
+  },
+  {
+   "date": "2026-11-14",
+   "scheduled_mt": "08:14",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "this is a genuine question #golf",
+   "zernio": {
+    "post": "6af4c48193f8d0811cdde62e"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794425744270_510fdaa490d9b188_B_w3-genuine-question_original.mov"
+   },
+   "added_by_sync": "2026-11-11 12:40 MT"
+  },
+  {
+   "date": "2026-11-14",
+   "scheduled_mt": "08:39",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "this is a genuine question",
+   "zernio": {
+    "post": "6af4c48693f8d0811cdde664"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794425744270_510fdaa490d9b188_B_w3-genuine-question_original.mov"
+   },
+   "added_by_sync": "2026-11-11 12:40 MT"
+  },
+  {
+   "date": "2026-11-14",
+   "scheduled_mt": "17:37",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "literally quit d*cking around for just 100 seconds",
+   "zernio": {
+    "post": "6af4c3ada913ed2134c008c1"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794052215283_df50205f345be2b1_A_w3-100-seconds.mp4"
+   },
+   "added_by_sync": "2026-11-11 12:40 MT"
+  },
+  {
+   "date": "2026-11-14",
+   "scheduled_mt": "18:16",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "literally quit d*cking around for just 100 seconds #golf",
+   "zernio": {
+    "post": "6af4c3b74f6e91f025b362ff"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794052215283_df50205f345be2b1_A_w3-100-seconds.mp4"
+   },
+   "added_by_sync": "2026-11-11 12:40 MT"
   }
  ],
- "synced_from_zernio": "2026-11-10 12:40 MT",
+ "synced_from_zernio": "2026-11-11 12:40 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
