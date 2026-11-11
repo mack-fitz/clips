@@ -112,6 +112,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   platformSpecificData {madeWithAi:false, shareToFeed:true}, no trialParams, no instagramThumbnail. Promos on A too.
   Mack archives flops herself. B (@mackthegolfer) stays a trial reel {trialParams {graduationStrategy:"MANUAL"},
   instagramThumbnail}; NEVER SS_PERFORMANCE. Week 3 A posts from Nov 11 on were converted Nov 10. Review A vs B after a week.
+  ONE-DAY EXCEPTION (Mack, Nov 11): on launch day Thu Nov 12 ONLY, B's two posts went out as REGULAR main-feed reels (PopStroke
+  promo #1 6af4fe8be11ff29b2b7e417a 10:00 + weekly "at what point do i pick up" 6aef14161f7edebfc3ba7f13 13:42). From Fri Nov 13
+  B is back to trial reels; never copy this exception to another day unless Mack says so.
 - GUARD (section 9) before scheduling every one; a FAIL leaves that day empty and goes in the run message (rule 4 = same bytes
   never twice on the same account is absolute).
 - Record each in weekly_sources.json (planned_mt, zernio id, caption) and mackygolfs-mackthegolfer state/trials.json.
@@ -200,7 +203,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (6aeeb6fcf53369239702fea0); "reel 2A" = MTG Mon Nov 9 3:47pm MT (6aeeb700f53369239702feba). All 6 are now used on IG:
   never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
   which account.
-- Video 2 (PopStroke, likely Thu Nov 12 10:00am MT): 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
+- Video 2 "I Owe Tiger Woods an Apology" (PopStroke, Thu Nov 12 10:00am MT = 17:00 UTC). Promo caption (Mack, Nov 11):
+  "I owe Tiger Woods an apology.\nNew youtube video out NOW!\n🔗 in bio". #1 promos scheduled Nov 11 (chat run): MG "popstroke reel 2.mov"
+  on IG @mackygolfs 6af4fe818fb8ec3642cd1680, TikTok 6af4fe93e11ff29b2b7e41b8, FB 6af4fe96e11ff29b2b7e41cd, YouTube Short
+  6af4fe998fb8ec3642cd1701; MTG "popstroke reel 1" on IG @mackthegolfer 6af4fe8be11ff29b2b7e417a. Neither file has a shirt wipe
+  (all untouched). Video URL was NOT known on Nov 11: FB + Short carry only the first two lines; add the URL line (FB caption,
+  Short description) as soon as Mack sends it / the video is public (accounts_get_account_posts on the YouTube account).
+  Older notes on Video 2 cuts: 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
   **Nov 7: replaced by 4 fast funny MONTAGES** (Reviewer docs yt2_m01..m04; full files on release promo-popstroke-montages +
   scratch/promo-popstroke-montages(2); cut from Mack's re-edited "pop stroke beginning cut.mov" = the old file minus 16.2 s of

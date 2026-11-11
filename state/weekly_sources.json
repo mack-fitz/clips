@@ -723,7 +723,7 @@
    "duration": 24.5,
    "planned_mt": "2026-11-12 13:42",
    "status": "scheduled",
-   "note": "B: wipe cut at 1.5s (shirt down, before her first word), one CRF-17 encode; cover clips trial_covers/w3/B_w3_B3_cover.jpg",
+   "note": "B: wipe cut at 1.5s (shirt down, before her first word), one CRF-17 encode; cover clips trial_covers/w3/B_w3_B3_cover.jpg | Nov 11 chat run: Thu Nov 12 13:42 MT post converted to a REGULAR main-feed reel for launch day only (Mack; trialParams removed, shareToFeed true, cover kept)",
    "zernio_media": "https://media.zernio.com/temp/1794052831157_3fb18de3ed99f483_B_w3-pick-up_nowipe.mp4",
    "export": "scratch/w3-bexports:B_w3_B3.mp4",
    "zernio_id": "6aef14161f7edebfc3ba7f13",
@@ -853,9 +853,12 @@
    "registered": "2026-11-11 evening (chat run; Mack named it MG promo #1)",
    "duration": 15.43,
    "planned_mt": "2026-11-12 10:00",
-   "status": "scheduling",
+   "status": "scheduled",
    "note": "HEVC 1440x2560 30 fps 14.4 Mbps, NO shirt wipe in the file (opens on a putt; checked first 3 s at 10 fps + whole video at 2 fps) -> untouched everywhere incl. the YouTube Short",
-   "zernio_media": "https://media.zernio.com/temp/1794440637356_8c72bff783d8791d_MG_popstroke-reel-2_promo1.mov"
+   "zernio_media": "https://media.zernio.com/media/1794440637356_8c72bff783d8791d_MG_popstroke-reel-2_promo1.mov",
+   "zernio_id": "6af4fe818fb8ec3642cd1680",
+   "post_type": "IG regular main-feed reel (madeWithAi false, shareToFeed true, no trial), cover = her PROMO 1 THUMBNAIL.jpg",
+   "tiktok_fb_yt": "Thu Nov 12 10:00 MT: TikTok 6af4fe93e11ff29b2b7e41b8 (cover frame 0, '🔗 in bio' caption); FB Reel 6af4fe96e11ff29b2b7e41cd + YouTube Short 6af4fe998fb8ec3642cd1701 (title 'I owe Tiger Woods an apology.') with only the first two caption lines: YouTube URL not known yet -> add the URL line to both once Mack sends it; Mack sets the Short's related video"
   },
   "mackthegolfer/Week 3 11-9/popstroke reel 1": {
    "home": "ig:mackthegolfer",
@@ -873,9 +876,11 @@
    "registered": "2026-11-11 evening (chat run; Mack named it MTG promo #1)",
    "duration": 13.9,
    "planned_mt": "2026-11-12 10:00",
-   "status": "scheduling",
+   "status": "scheduled",
    "note": "no extension; probed = QuickTime HEVC 1440x2560 30 fps 14.3 Mbps. NO shirt wipe (opens on her talking in the car; first 3 s at 10 fps + whole video at 2 fps) -> posted untouched",
-   "zernio_media": "https://media.zernio.com/temp/1794440640332_b46720796159c216_MTG_popstroke-reel-1_promo1.mov"
+   "zernio_media": "https://media.zernio.com/media/1794440640332_b46720796159c216_MTG_popstroke-reel-1_promo1.mov",
+   "zernio_id": "6af4fe8be11ff29b2b7e417a",
+   "post_type": "IG regular main-feed reel (Mack: MTG main, not trial, Thu Nov 12 only), cover = her PROMO 1 THUMBNAIL.jpg"
   }
  },
  "loose_files_note": "Oct 30: the 3 earlier loose files (Vid (12).mp4, mg.mp4, Vid (3).mp4) were moved by Mack into the week 2 folders (same Dropbox ids); no loose files now."

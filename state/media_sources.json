@@ -1170,14 +1170,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/006_hole-in-one-loading_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/025_hole-in-one-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 14 03 AM.mov"
    ],
@@ -1213,14 +1213,14 @@
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 30 44 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/011_cactus-par-5_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 30 44 AM.mov"
    ],
@@ -1255,14 +1255,14 @@
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/012_wet-or-dry-par-3_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/027_par-3-sunset_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 35 57 AM.mov"
    ],
@@ -1276,14 +1276,14 @@
    "main": "Video Oct 12 2026, 7 35 57 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 17 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/028_lock-it-in-par-3-full_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/022_lock-it-in-par-3_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 17 58 AM.mov"
    ],
@@ -1311,14 +1311,14 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -2830,6 +2830,20 @@
    "main": "mackthegolfer/Week 3 11-9/PROMO 1 THUMBNAIL.jpg",
    "kind": "original"
   },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 3 11-9/popstroke reel 2.mov": {
+   "sources": [
+    "mackygolfs/Week 3 11-9/popstroke reel 2.mov"
+   ],
+   "main": "mackygolfs/Week 3 11-9/popstroke reel 2.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 3 11-9/popstroke reel 1": {
+   "sources": [
+    "mackthegolfer/Week 3 11-9/popstroke reel 1"
+   ],
+   "main": "mackthegolfer/Week 3 11-9/popstroke reel 1",
+   "kind": "original"
+  },
   "mackygolfs-mackthegolfer:trials/036_san-angelo-wipe-open_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 03 20 AM.mov"
@@ -4151,6 +4165,22 @@
     "mackthegolfer/Week 3 11-9/this is a genuine question"
    ],
    "main": "mackthegolfer/Week 3 11-9/this is a genuine question",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794440637356_8c72bff783d8791d_MG_popstroke-reel-2_promo1.mov": {
+   "sources": [
+    "mackygolfs/Week 3 11-9/popstroke reel 2.mov"
+   ],
+   "main": "mackygolfs/Week 3 11-9/popstroke reel 2.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794440640332_b46720796159c216_MTG_popstroke-reel-1_promo1.mov": {
+   "sources": [
+    "mackthegolfer/Week 3 11-9/popstroke reel 1"
+   ],
+   "main": "mackthegolfer/Week 3 11-9/popstroke reel 1",
    "kind": "edit",
    "note": "manual"
   }
