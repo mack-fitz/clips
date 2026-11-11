@@ -1,6 +1,6 @@
 {
  "note": "Unique source videos (Dropbox /Golf Captions + /golfclips). Built by tools/build_media_map.py.",
- "count": 111,
+ "count": 113,
  "sources": {
   "Video Oct 11 2026, 9 02 57 AM (2).mp4": {
    "files": [
@@ -718,6 +718,18 @@
   "mackthegolfer/Week 3 11-9/PROMO 1 THUMBNAIL.jpg": {
    "files": [
     "/Golf Captions/mackthegolfer/Week 3 11-9/PROMO 1 THUMBNAIL.jpg"
+   ],
+   "clip_pages_only": false
+  },
+  "mackygolfs/Week 3 11-9/popstroke reel 2.mov": {
+   "files": [
+    "/Golf Captions/mackygolfs/Week 3 11-9/popstroke reel 2.mov"
+   ],
+   "clip_pages_only": false
+  },
+  "mackthegolfer/Week 3 11-9/popstroke reel 1": {
+   "files": [
+    "/Golf Captions/mackthegolfer/Week 3 11-9/popstroke reel 1"
    ],
    "clip_pages_only": false
   }
