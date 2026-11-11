@@ -115,7 +115,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - GUARD (section 9) before scheduling every one; a FAIL leaves that day empty and goes in the run message (rule 4 = same bytes
   never twice on the same account is absolute).
 - Record each in weekly_sources.json (planned_mt, zernio id, caption) and mackygolfs-mackthegolfer state/trials.json.
-- **After IG:** each weekly video also goes on TikTok @mackygolfs + Facebook macky.golfs (section 6) the same day as its IG post (after it) or any later day (Mack, Nov 6 update).
+- **TikTok/FB:** each weekly video also goes on TikTok @mackygolfs + Facebook macky.golfs (section 6) on any day, with NO tie to
+  its IG post: it may go before, the same day or after (Mack, Nov 11: she never set an after-IG rule; TikTok/FB are independent of IG).
 - **Afternoon slot = promos** (section 5b: 3:30–5:00pm MT). No other afternoon fill on A/B unless Mack approved it on The Reviewer
   (comps/shorties/bounces: next open afternoon 2:00–3:30pm MT on a day without a promo or bumped post on that account).
 - **PM files (week 1/2 only)** ("pm.MOV"/"PM.MOV", any case): afternoon only, own account only, never bounce.
