@@ -176,6 +176,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
     (TikTok, IG), keep "🔗 in bio". No hashtags or anything else added. YouTube Shorts: title = her first line (<=100
     chars), description = her caption with the URL line (the only link ever allowed on YouTube). If the full-video URL isn't known yet, ask Mack in the run
     message (FB/YouTube promo posts can be edited to add it once known).
+  - **LIVE BY 10:00 (Mack, Nov 12): "These need to be POSTED at 10, not starting to post."** On Nov 12 the IG posts were
+    claimed at 10:00:21 and sat in Instagram "processing" for 4+ minutes (untouched HEVC .mov 1440x2560). From now on: schedule
+    every launch #1 post at **9:52am MT** (all platforms), and upload IG/FB launch files as H.264 MP4 1080x1920 high bitrate
+    (~16-20 Mbps, CRF ~17, AAC 256k) so Instagram processes fast. Check status at 9:57 and fix anything not live by 10:00.
   - **Launch Thursday, exactly 10:00am MT:** #1mackygolfs posts on IG @mackygolfs AND TikTok @mackygolfs, YouTube Shorts and
     Facebook macky.golfs; #1mackthegolfer posts on IG @mackthegolfer. Both #1 promos use the special cover = the thumbnail image
     Mack put in THAT account's Week folder (IG instagramThumbnail; Facebook custom thumbnail if Zernio allows; TikTok stays
