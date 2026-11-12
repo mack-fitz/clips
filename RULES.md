@@ -207,8 +207,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   "I owe Tiger Woods an apology.\nNew youtube video out NOW!\n🔗 in bio". #1 promos scheduled Nov 11 (chat run): MG "popstroke reel 2.mov"
   on IG @mackygolfs 6af4fe818fb8ec3642cd1680, TikTok 6af4fe93e11ff29b2b7e41b8, FB 6af4fe96e11ff29b2b7e41cd, YouTube Short
   6af4fe998fb8ec3642cd1701; MTG "popstroke reel 1" on IG @mackthegolfer 6af4fe8be11ff29b2b7e417a. Neither file has a shirt wipe
-  (all untouched). Video URL was NOT known on Nov 11: FB + Short carry only the first two lines; add the URL line (FB caption,
-  Short description) as soon as Mack sends it / the video is public (accounts_get_account_posts on the YouTube account).
+  (all untouched). VIDEO URL (Mack, Nov 11 evening): https://youtu.be/y-Npwvc9F7Y . Added as the 3rd line of the #1 FB caption
+  and Short description on Nov 11. Every later Video 2 promo on FB + Shorts: caption line 3 = this URL (no "🔗 in bio").
   Older notes on Video 2 cuts: 10 promo Shorts cut Nov 6 (workflow promo.yml; full files on release
   promo-popstroke-review + scratch/promo-popstroke-clips(2)) are on The Reviewer, collection "promos" (docs yt2_p01..p10).
   **Nov 7: replaced by 4 fast funny MONTAGES** (Reviewer docs yt2_m01..m04; full files on release promo-popstroke-montages +
