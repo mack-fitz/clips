@@ -5131,7 +5131,7 @@
    "added_by_sync": "2026-11-11 12:40 MT"
   }
  ],
- "synced_from_zernio": "2026-11-11 12:40 MT",
+ "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",
@@ -6104,13 +6104,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-10 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Sun Nov 15 08:42 MT (6af615db7f22b2ef90109798, untouched original via zupload)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-10 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Sun Nov 15 08:16 MT (6af615e47f22b2ef90109811, 96.3 s Page video)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "regular Short Wed Nov 11 08:52 MT (6af05ff3f13338c7309d30a7)"
@@ -6292,13 +6292,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-14 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Sat Nov 14 08:39 MT (6af4c48693f8d0811cdde664)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-14 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Sat Nov 14 08:14 MT (6af4c48193f8d0811cdde62e, Reel)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "regular Short Sun Nov 15 09:04 MT (6af5a60d94290095557e40fc, same wipe-cut file as IG)"
@@ -6316,13 +6316,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-14 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Sat Nov 14 17:37 MT (6af4c3ada913ed2134c008c1)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-14 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Sat Nov 14 18:16 MT (6af4c3b74f6e91f025b362ff, Page video)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB"
    },
@@ -6362,13 +6362,13 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-15 (after the IG post) or later",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled Sun Nov 15 17:33 MT (6af6152fb677ef3b4887ba8c, untouched via IG Zernio media)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-15 (after the IG post) or later",
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled Sun Nov 15 18:11 MT (6af61538b677ef3b4887baeb, 32.3 s Reel)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB"
    }
