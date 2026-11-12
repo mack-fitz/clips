@@ -6112,7 +6112,8 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "planned"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "youtube": "regular Short Wed Nov 11 08:52 MT (6af05ff3f13338c7309d30a7)"
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 3 11-9/i can't be the only one out here aiming for the hole???",
@@ -6252,7 +6253,8 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "planned"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "youtube": "regular Short Sat Nov 14 08:47 MT (6af455ddca4d33d6a048cc94)"
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 3 11-9/stay to the end to see me within lickin distance of the hole",
@@ -6298,7 +6300,8 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "planned"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "youtube": "regular Short Sun Nov 15 09:04 MT (6af5a60d94290095557e40fc, same wipe-cut file as IG)"
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 3 11-9/literally quit d*cking around for just 100 seconds",
@@ -6368,6 +6371,17 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB"
+   }
+  ],
+  "week3_promos": [
+   {
+    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/popstroke reel 1",
+    "promo_n": 1,
+    "caption": "I owe Tiger Woods an apology.\nNew youtube video out NOW!\n🔗 in bio",
+    "tiktok": "Fri Nov 13 15:52 MT 6af5a5d1c81fa71581be27a7",
+    "facebook": "Fri Nov 13 16:21 MT 6af5a5d2db47bdfcb5f551f5 (URL line)",
+    "youtube": "Fri Nov 13 16:38 MT 6af5a5d38776323289ba9dec (URL line)",
+    "added": "Nov 12 morning run"
    }
   ]
  }
