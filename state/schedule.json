@@ -5210,7 +5210,7 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-25",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "not possible: 110.3 s (FB Reels 3-60 s)"
+     "status": "scheduled Wed Nov 18 08:14 MT as regular Page video (6afa0b4d08ea98555c80644e, TikTok's Zernio media)"
     },
     "wipe": "kept (her untouched original)",
     "caption": "short dry lowercase; may reuse the IG caption idea",
@@ -5319,7 +5319,7 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-10-26",
      "note": "same schedule as TikTok; FB Reels max 60 s in Zernio -> longer originals as FB video per FACEBOOK PAGE section",
-     "status": "not possible: 177.7 s (FB Reels 3-60 s)"
+     "status": "scheduled Wed Nov 18 18:16 MT as regular Page video (6afa0b52e8a1699be7b4dd31, TikTok's Zernio media)"
     },
     "wipe": "kept (her untouched original)",
     "caption": "short dry lowercase; may reuse the IG caption idea",
@@ -6029,7 +6029,7 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "next open TikTok slot (clip page run)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned (registered Nov 1; untouched original, wipe kept)"
+     "status": "scheduled Wed Nov 18 08:43 MT (6afa0b4f08ea98555c806464, untouched raw pinned 703004e)"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -6136,7 +6136,11 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "scheduled Wed Nov 11 18:17 MT (6af0cf57f494eb4ae6e0f08f, 36.1 s Reel)"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "x": {
+     "account": "6acc3edbda858fbeab423c5a",
+     "status": "scheduled Tue Nov 17 17:48 MT (6afa0b1be8a1699be7b4dbd0, scratch/x-w3 bfc6fb5:X_A5.mp4)"
+    }
    },
    {
     "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/i need new clubs",
@@ -6160,7 +6164,11 @@
      "status": "scheduled Wed Nov 11 08:16 MT (6af0cf4a0ca29ed035e100f9, 9.5 s Reel)"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
-    "youtube": "regular Short Thu Nov 12 15:07 MT (6af1b14d0b9acb9c0a243035, launch-day afternoon, untouched same file as IG)"
+    "youtube": "regular Short Thu Nov 12 15:07 MT (6af1b14d0b9acb9c0a243035, launch-day afternoon, untouched same file as IG)",
+    "x": {
+     "account": "6acc3edbda858fbeab423c5a",
+     "status": "scheduled Mon Nov 16 18:22 MT (6afa0b19e8a1699be7b4dbae, untouched H.264 original scratch/x-w3 bfc6fb5:X_B5.mp4)"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 3 11-9/@nutrl why did i not know this was so tasty",
@@ -6206,7 +6214,11 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "scheduled Thu Nov 12 18:12 MT (6af21ff0e8b2629faf9bcf4f, 15.1 s Reel)"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "x": {
+     "account": "6acc3edbda858fbeab423c5a",
+     "status": "scheduled Mon Nov 16 08:37 MT (6afa0b0fe8a1699be7b4db48, H.264 CRF17 copy scratch/x-w3 bfc6fb5:X_A7.mp4)"
+    }
    },
    {
     "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/at what point do i pick up",
@@ -6370,7 +6382,11 @@
      "note": "Reel if 3-60 s, else Page video; caption = file name (+ optional #golf)",
      "status": "scheduled Sun Nov 15 18:11 MT (6af61538b677ef3b4887baeb, 32.3 s Reel)"
     },
-    "wipe": "kept (her untouched original) on TikTok/FB"
+    "wipe": "kept (her untouched original) on TikTok/FB",
+    "x": {
+     "account": "6acc3edbda858fbeab423c5a",
+     "status": "scheduled Tue Nov 17 08:56 MT (6afa0b1a6b4986e5c8607cc3, scratch/x-w3 bfc6fb5:X_A1.mp4)"
+    }
    }
   ],
   "week3_promos": [

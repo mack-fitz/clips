@@ -65,7 +65,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0512.MOV",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aef7ec95e332bb5641a1116",
     "x": "6aef7ecc31bd08a9415868d5"
@@ -937,7 +937,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0515.MOV",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aef7ed55e332bb5641a113f",
     "x": "6aef7ed831bd08a94158691e"
@@ -1051,7 +1051,7 @@
    "duration": null,
    "dup_of_path": null,
    "group": "duck-sunglasses",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aef7ece5e332bb5641a1125",
     "x": "in post"
@@ -1238,7 +1238,7 @@
    "duration": 11.62,
    "dup_of_path": null,
    "group": "dog-mad-at-me",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aecdaade73446ba7749b29b",
     "x": "6aecdab88847ce7f8ecc7477"
@@ -1278,7 +1278,7 @@
    "duration": 12.7,
    "dup_of_path": null,
    "group": "guess-my-sport",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aecdab88847ce7f8ecc7481",
     "x": "6aecdab907aeb734903d6375"
@@ -1372,7 +1372,7 @@
    "duration": 35.01,
    "dup_of_path": null,
    "group": "freckles-make-no-sense",
-   "status": "scheduled",
+   "status": "posted",
    "zernio": {
     "post": "6aef7ed05e332bb5641a1139",
     "x": "6aef7ed231bd08a9415868fe"
