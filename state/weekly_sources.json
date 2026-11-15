@@ -472,7 +472,13 @@
    "note": "week 2+: Mack posts/preps IG herself (RULES 0); feeds YouTube Shorts (B edit), TikTok + FB originals only from usable_from. Transcribed Oct 30; fingerprint pending (mackygolfs-mackthegolfer push not authorized).",
    "duration": 111.9,
    "transcript": "state/transcripts/B_w2-sat-11-7.mp4.json",
-   "fb_reel_ok": false
+   "fb_reel_ok": false,
+   "youtube_short": {
+    "zernio_id": "6af99c7c9756739c74423757",
+    "planned_mt": "2026-11-18 09:17",
+    "caption": "tucked in or untucked? the three wood has an opinion",
+    "edit": "wipe cut at 1.50 s, one CRF-17 L4.2 encode 14.8 Mbps (src 15.1), scratch/yt-w2b-086, zupload 200"
+   }
   },
   "mackthegolfer/week 2 11-1/monday 11-2.mp4": {
    "home": "ig:mackthegolfer",
