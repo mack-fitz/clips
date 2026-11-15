@@ -235,7 +235,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   her-style burned captions only if the source has none (none during the wipe). Story teaser (15 s, wipe first) with each reel.
   Cover = frame one. Cadence 2.5/day: 3-post days (Oct 23, 25, 27...: 8:00–9:30, 11:30–1:00, 5:00–7:00 MT) alternate with
   2-post days (Oct 24, 26...: morning + evening only). Never more than 3 a day.
-- **X @mackygolfs: STOPPED (Mack, Oct 29).** Never schedule anything on X @mackygolfs (6acc3edbda858fbeab423c5a) again. Golf cadence 2.5/day now = @moremackygolfs IG, TikTok, Facebook only.
+- **X @mackygolfs: BACK ON (Mack, Nov 14: "I want you posting mackygolfs stuff on x still").** (It was stopped Oct 29; that stop is over.)
+  X @mackygolfs (6acc3edbda858fbeab423c5a), profile 6acc27b455143ae1324c8bda: 2 posts EVERY day, morning 8:00–9:30 MT and
+  evening 5:00–7:00 MT (vary the minute). Content = the same pool as TikTok/FB: her already-posted originals and weekly-folder
+  reels whose IG post is already published (her file, wipe kept). Never the same video on X within 30 days. Caption = the file
+  name / its IG caption, no OnlyFans mention, no hashtags needed; a question works well. X needs H.264 SDR (one CRF-17
+  tone-mapped encode for HEVC/HDR files), max 2:20 (longer: cut at a natural gap for the X copy only, or skip that video).
+  Every clip-page run keeps X scheduled at least 2 days ahead, like TikTok/FB.
 - **TikTok @mackygolfs + Facebook Page:** weekly-folder reels post as-is (her file, wipe kept, cover = first frame).
   Week 3+ (Mack, Nov 6 update): each weekly video can go there the same day as its IG post (later than the IG post time) or
   any day after, with the same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
