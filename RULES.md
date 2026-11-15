@@ -354,7 +354,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 
 ## 14. mackyyaps (Mack, Oct 29) — separate from golf
 - Accounts: Instagram mackyyaps 6ae39dc291f8e9741c60c5cf, TikTok mackyyaps 6ae39d18bd5929e9a3c9e4df, X mackyyaps
-  6ae3a172456a4216e1e0ed17. Never cross-post to/from golf accounts or @heyymackyy. Golf-only rules (Golf Captions-only
+  6ae3a172456a4216e1e0ed17, Facebook Page "Macky Yaps" 6af929b9a1fc6c164172f004 (added Mack, Nov 14). Never cross-post to/from golf accounts or @heyymackyy. Golf-only rules (Golf Captions-only
   Dropbox rule, shirt wipe, trial reels, The Reviewer) don't apply here; no approval step.
 - **Source from Mon Nov 9 (Mack, Nov 6): her weekly folder "/Mackyyaps/Week N <m-d>/"** (ns:3302941984//Mackyyaps/Week N <m-d>;
   <m-d> = the Monday it starts; "Week 2 11-9" = Mon Nov 9-Sun Nov 15, 7 files). Always use the NEWEST Week folder: its videos
@@ -367,7 +367,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   TikTok AND X to the file name (keep its time). One whose file is NOT: delete those Zernio posts (all three platforms) and
   set the registry entry back to "unused". Then fill the open days of that week from the Week folder. Posts before Nov 9 stay.
 - ONE post a day: the SAME video at the SAME time on IG (reel, not a trial reel, cover = first frame), TikTok (public, cover
-  frame 0) and X. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily). No approval step.
+  frame 0), X and the Macky Yaps FACEBOOK Page (Mack, Nov 14: "same rules as tiktok"; from Sun Nov 15; her untouched file,
+  same file-name caption; 3–60 s = Reel (contentType reel), longer = regular Page video). Every mackyyaps post = all 4 platforms. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily). No approval step.
 - **Caption = the file name, exactly** (strip only a real media extension; keep her spelling/punctuation/caps). Same caption
   on all three. Never write captions for Week-folder files. Only if a name is clearly not a caption (camera default like
   "IMG_0512", hash names) or mentions OnlyFans/a link: skip it and ask Mack. Never mention OnlyFans. Never the Dua Lipa clip.
