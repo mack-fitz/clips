@@ -377,6 +377,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - ONE post a day: the SAME video at the SAME time on IG (reel, not a trial reel, cover = first frame), TikTok (public, cover
   frame 0), X and the Macky Yaps FACEBOOK Page (Mack, Nov 14: "same rules as tiktok"; from Sun Nov 15; her untouched file,
   same file-name caption; 3–60 s = Reel (contentType reel), longer = regular Page video). Every mackyyaps post = all 4 platforms. Time 5:00–6:30pm MT (best for both platforms; vary the minute daily). No approval step.
+- (Mack, Nov 15) If a mackyyaps Week-folder file name starts with "<n>-", that number is her posting order (1 = Monday ...)
+  and is stripped from the caption with the dash and space, same as golf (section 5).
 - **Caption = the file name, exactly** (strip only a real media extension; keep her spelling/punctuation/caps). Same caption
   on all three. Never write captions for Week-folder files. Only if a name is clearly not a caption (camera default like
   "IMG_0512", hash names) or mentions OnlyFans/a link: skip it and ask Mack. Never mention OnlyFans. Never the Dua Lipa clip.
