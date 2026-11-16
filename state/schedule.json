@@ -6497,16 +6497,30 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-16 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-18 17:52",
+     "zernio": "6afb5b00566e82400d7317d6"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-16 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 13:38",
+     "zernio": "6afb5b041ec6be2ba1c0cb36"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-18 08:47",
+     "zernio": "6afb5c0d231dd5ff06aceaab"
+    },
+    "youtube_post": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-16 17:48",
+     "zernio": "6afb5ae9566e82400d731784"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/1- send this to ur fave short king",
@@ -6523,16 +6537,25 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-16 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 13:24",
+     "zernio": "6afb5b011ec6be2ba1c0cb2b"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-16 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 18:07",
+     "zernio": "6afb5b05ff9dc38b7aebda20"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-18 17:33",
+     "zernio": "6afb5c0e16a9631121b3da19"
+    }
    },
    {
     "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/2- is this relatable",
@@ -6558,7 +6581,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B2 via zupload",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830341519_08b19571943795b4_B_w4-2-relatable_nowipe.mp4"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830341519_08b19571943795b4_B_w4-2-relatable_nowipe.mp4",
+    "youtube_post": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-17 18:06",
+     "zernio": "6afb5aeaf4646f678b461da7"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/2- SHOOT!",
@@ -6575,16 +6603,25 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-17 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 17:41",
+     "zernio": "6afb5b021ec6be2ba1c0cb2f"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-17 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-20 08:16",
+     "zernio": "6afb5b06ff9dc38b7aebda27"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 08:22",
+     "zernio": "6afb5c0f16a9631121b3da1e"
+    }
    },
    {
     "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/3- am i right on this.mov",
@@ -6610,7 +6647,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B3 via zupload",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830342112_34aa7add260e0116_B_w4-3-am-i-right_nowipe.mp4"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830342112_34aa7add260e0116_B_w4-3-am-i-right_nowipe.mp4",
+    "youtube_post": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-18 17:37",
+     "zernio": "6afb5aeb1ec6be2ba1c0cab7"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/3- should i try again?",
@@ -6627,7 +6669,9 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-18 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-20 12:46",
+     "zernio": "6afb5b03f4646f678b461e37"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -6636,7 +6680,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
-    "youtube": "NEVER (bikini reel, Mack Nov 15)"
+    "youtube": "NEVER (bikini reel, Mack Nov 15)",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 18:04",
+     "zernio": "6afb5c1016a9631121b3da22"
+    }
    },
    {
     "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/4- you me right now lets go",
@@ -6662,7 +6711,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B4 via zupload",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830342641_96b1cd481feb853a_B_w4-4-you-me-right-now_nowipe.mp4"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830342641_96b1cd481feb853a_B_w4-4-you-me-right-now_nowipe.mp4",
+    "youtube_post": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-19 13:52",
+     "zernio": "6afb5aecadb66b4bf7ad5835"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/4- gotta be something else guys",
@@ -6847,5 +6901,8 @@
     "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
    }
   ]
- }
+ },
+ "notes_nov16": [
+  "Nov 16 clip run: @moremackygolfs Thu Nov 19 18:37 'par 5. lock in your guess before the stroke counter does' = /golfclips/Video Sep 25 2026, 4 59 28 PM.mov untouched (pinned e1988566 fb_lock-it-in-par-5_orig.mov), Zernio 6afb5d6b4e4ab1109b947920; proof MG Oct 3 'LOCK IT IN BOYS' 13.9k views (<100k), 44 days since last IG post. X copies of week-4 files on scratch/x-w4@97dcc37."
+ ]
 }
