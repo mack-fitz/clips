@@ -68,8 +68,9 @@ jobs:
       - name: Posted reels
         run: |
           mkdir -p state/fp/posts /tmp/w
-          log=state/fp/last_posts_run.tsv; : > $log  # overwritten each run
+          log=state/fp/last_posts_run.tsv
           [ -s fp/want_posts.tsv ] || exit 0
+          : > $log  # overwritten by each run that has posts to fingerprint (kept otherwise)
           while IFS=$'\t' read -r key link vurl turl; do
             [ -z "$key" ] && continue
             rm -f /tmp/w/v.mp4 /tmp/w/t.jpg; how=""
