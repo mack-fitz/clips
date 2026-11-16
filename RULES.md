@@ -253,6 +253,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   name / its IG caption, no OnlyFans mention, no hashtags needed; a question works well. X needs H.264 SDR (one CRF-17
   tone-mapped encode for HEVC/HDR files), max 2:20 (longer: cut at a natural gap for the X copy only, or skip that video).
   Every clip-page run keeps X scheduled at least 2 days ahead, like TikTok/FB.
+- **NO BIKINI ON YOUTUBE (Mack, Nov 15):** the @mackygolfs Week 4 11-16 "bikini reel" NEVER goes on YouTube Shorts (any
+  week, ever). Which file it is: check frames of every MG Week 4 video before it goes to Shorts; any video where Mack is in a
+  bikini/swimsuit is excluded from Shorts (it still posts on IG/TikTok/FB/X as normal). If unsure, leave it off Shorts.
 - **NEWEST WEEK FIRST (Mack, Nov 15: "are tiktok/facebook/X/shorts not starting with this weeks stuff?"):** on TikTok,
   Facebook, X @mackygolfs and YouTube Shorts, the CURRENT week's folder videos (both accounts, number prefix stripped from
   captions) take the next open slots BEFORE any older original or leftover. Aim: each week's 14 videos are on every one of
