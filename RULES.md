@@ -146,7 +146,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   file-name captions are posted as she wrote them; only an OnlyFans mention or a link stops a post — ask her.)
 
 ## 5b. YouTube Shorts (Mack, Oct 26) and YouTube promos (Mack, Nov 6)
-- **Regular Shorts — existing system kept (Mack, Nov 6):** ONE a day, morning ~8:30–9:30 MT (varied), no approvals. The
+- **Regular Shorts — existing system kept (Mack, Nov 6):** TWO a day from Nov 16 (Mack, Nov 15; see "SHORTS = 2 A DAY" in section 6), ~8:30–9:30am + ~5:30–6:30pm MT (varied), no approvals. The
   4:38am morning run keeps the next 3 days scheduled, picking: (1) week-1 @mackthegolfer reels already posted on IG but not yet
   on YouTube, then (2) week-N @mackthegolfer files as soon as they're registered, wipe ALWAYS cut (one CRF-17 encode; the
   same wipe-cut file as its IG post is fine). Caption: for week 3+ files use her file-name caption when it passes the YouTube
@@ -253,6 +253,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   name / its IG caption, no OnlyFans mention, no hashtags needed; a question works well. X needs H.264 SDR (one CRF-17
   tone-mapped encode for HEVC/HDR files), max 2:20 (longer: cut at a natural gap for the X copy only, or skip that video).
   Every clip-page run keeps X scheduled at least 2 days ahead, like TikTok/FB.
+- **SHORTS = 2 A DAY, SHORT CLIPS FIRST (Mack, Nov 15, test ~2 weeks):** regular YouTube Shorts go to TWO a day (~8:30–9:30am
+  and ~5:30–6:30pm MT; vary the minute), promo Shorts on top as usual. Prefer clips UNDER ~30 s (the 10 s "i need new clubs"
+  got 4.2k vs ~1.3–1.6k for 2-minute holes); longer clips only when no short one is available. Wipe always cut, same file
+  never twice on YouTube, no bikini (below). Compare Shorts views after 2 weeks and report to Mack.
 - **NO BIKINI ON YOUTUBE (Mack, Nov 15):** the @mackygolfs Week 4 11-16 "bikini reel" = "3- should i try again?" (Dropbox
   id:etyjxrk_8sAAAAAAAAAGmQ; Mack named it) NEVER goes on YouTube Shorts (any
   week, ever). Which file it is: check frames of every MG Week 4 video before it goes to Shorts; any video where Mack is in a
