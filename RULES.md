@@ -239,13 +239,14 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   Notes (decision "changes") are applied like comp notes: re-cut via promo.yml, new preview, round +1, decision null.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
-- **@moremackygolfs:** only footage Mack has truly already posted herself (name the exact post with >= 15 s of it, from
-  mackygolfs-mackthegolfer state/posted_index.json; our trial posts and comp bits don't count). And only 30 days after the most
-  recent time that footage posted ANYWHERE on IG (@mackygolfs, @mackthegolfer, @moremackygolfs). Every video is a clearly
-  different edit: wipe first, then restructured order, 25–40 % cut, >= 3 punch-ins (alternate 1.0 / ~1.15), different ending,
-  her-style burned captions only if the source has none (none during the wipe). Story teaser (15 s, wipe first) with each reel.
-  Cover = frame one. Cadence 2.5/day: 3-post days (Oct 23, 25, 27...: 8:00–9:30, 11:30–1:00, 5:00–7:00 MT) alternate with
-  2-post days (Oct 24, 26...: morning + evening only). Never more than 3 a day.
+- **@moremackygolfs (Mack, Nov 15 — REPLACES the old re-edit rule): "treat it like tiktok but 30 days later".** Post Mack's
+  ORIGINAL reels UNTOUCHED (her file as uploaded, wipe kept, no re-edit, no restructure, no punch-ins, no burned captions, no
+  story teaser). Eligible = a video Mack already posted on @mackygolfs or @mackthegolfer, and 30+ days since that footage's most
+  recent IG post on ANY of the three accounts (clips state + mackygolfs-mackthegolfer state/posted_index.json; the
+  "moremackygolfs_eligibility" list there is a snapshot). Caption = the caption it had on TikTok/FB (or its file-name
+  caption; number prefix stripped), never OnlyFans. Cover = frame one. Regular reel (not trial). Same file never twice on
+  @moremackygolfs. Cadence 2.5/day: 3-post days 8:00–9:30, 11:30–1:00, 5:00–7:00 MT alternating with 2-post days (morning +
+  evening). Keep 3 days scheduled. Media: reuse the Zernio-hosted URL from its earlier TikTok/FB/IG post when there is one.
 - **X @mackygolfs: BACK ON (Mack, Nov 14: "I want you posting mackygolfs stuff on x still").** (It was stopped Oct 29; that stop is over.)
   X @mackygolfs (6acc3edbda858fbeab423c5a), profile 6acc27b455143ae1324c8bda: 2 posts EVERY day, morning 8:00–9:30 MT and
   evening 5:00–7:00 MT (vary the minute). Content = the same pool as TikTok/FB: her already-posted originals and weekly-folder
