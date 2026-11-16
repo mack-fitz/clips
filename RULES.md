@@ -245,8 +245,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   recent IG post on ANY of the three accounts (clips state + mackygolfs-mackthegolfer state/posted_index.json; the
   "moremackygolfs_eligibility" list there is a snapshot). Caption = the caption it had on TikTok/FB (or its file-name
   caption; number prefix stripped), never OnlyFans. Cover = frame one. Regular reel (not trial). Same file never twice on
-  @moremackygolfs. Cadence 2.5/day: 3-post days 8:00–9:30, 11:30–1:00, 5:00–7:00 MT alternating with 2-post days (morning +
-  evening). Keep 3 days scheduled. Media: reuse the Zernio-hosted URL from its earlier TikTok/FB/IG post when there is one.
+  @moremackygolfs. **Cadence (Mack, Nov 16): ONE post a day for now, ~5:00–7:00pm MT** (vary the minute). Keep 3 days scheduled.
+  **NO BIG HITS (Mack, Nov 16, new rule):** never post a video that got OVER 100,000 views on @mackygolfs or @mackthegolfer
+  when it was posted there (any IG post of that footage on either account; check Zernio analytics). Skip it entirely. Media: reuse the Zernio-hosted URL from its earlier TikTok/FB/IG post when there is one.
 - **X @mackygolfs: BACK ON (Mack, Nov 14: "I want you posting mackygolfs stuff on x still").** (It was stopped Oct 29; that stop is over.)
   X @mackygolfs (6acc3edbda858fbeab423c5a), profile 6acc27b455143ae1324c8bda: 2 posts EVERY day, morning 8:00–9:30 MT and
   evening 5:00–7:00 MT (vary the minute). Content = the same pool as TikTok/FB: her already-posted originals and weekly-folder
