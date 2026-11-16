@@ -5129,6 +5129,87 @@
     "Facebook": "https://media.zernio.com/media/1794052215283_df50205f345be2b1_A_w3-100-seconds.mp4"
    },
    "added_by_sync": "2026-11-11 12:40 MT"
+  },
+  {
+   "date": "2026-11-16",
+   "scheduled_mt": "17:43",
+   "slot": "evening",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "what do you call a pent-bogey?",
+   "kind": "original (untouched, @moremackygolfs Nov 15 rule)",
+   "source": "/Golf Captions/Video Sep 21 2026, 7 24 34 PM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Sep%2021%202026%2C%207%2024%2034%20PM.mov",
+   "zernio": {
+    "instagram": "6afb30b886a2f3e349a77960"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackygolfs 2026-09-22 09:40 MT https://www.instagram.com/reel/DdmFF-0hUDO/",
+   "guard": "PASS 2026-11-16 (candidates; R6 30-day + R1); <100k views on MG/MTG (analytics pull Nov 16)",
+   "cover": "frame 1 (no instagramThumbnail)",
+   "format": "regular reel shareToFeed, madeWithAi false",
+   "note": "caption from FB 6ad06148 (minus #golf); same pinned URL as its earlier TikTok/FB post",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Sep%2021%202026%2C%207%2024%2034%20PM.mov"
+   },
+   "added_by": "chat run Nov 16"
+  },
+  {
+   "date": "2026-11-17",
+   "scheduled_mt": "18:21",
+   "slot": "evening",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "trying to break 100. please help, this is getting embarrassing",
+   "kind": "original (untouched, @moremackygolfs Nov 15 rule)",
+   "source": "/Golf Captions/Video Oct 12 2026, 7 34 47 AM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov",
+   "zernio": {
+    "instagram": "6afb30bd86a2f3e349a779a1"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackthegolfer 2026-10-13 19:07 MT (last IG); proof help pls",
+   "guard": "PASS 2026-11-16 (candidates; R6 30-day + R1); <100k views on MG/MTG (analytics pull Nov 16)",
+   "cover": "frame 1 (no instagramThumbnail)",
+   "format": "regular reel shareToFeed, madeWithAi false",
+   "note": "caption from its Oct 20 TikTok post; same pinned URL as its earlier TikTok/FB post",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%207%2034%2047%20AM.mov"
+   },
+   "added_by": "chat run Nov 16"
+  },
+  {
+   "date": "2026-11-18",
+   "scheduled_mt": "17:16",
+   "slot": "evening",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "we don't talk about this par 4",
+   "kind": "original (untouched, @moremackygolfs Nov 15 rule)",
+   "source": "/Golf Captions/Video Oct 12 2026, 12 00 30 AM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%2012%2000%2030%20AM.mov",
+   "zernio": {
+    "instagram": "6afb30bf86a2f3e349a779b1"
+   },
+   "status": "scheduled",
+   "already_posted_proof": "@mackygolfs 2026-10-12 09:01 MT (last IG); proof absolutely brutal",
+   "guard": "PASS 2026-11-16 (candidates; R6 30-day + R1); <100k views on MG/MTG (analytics pull Nov 16)",
+   "cover": "frame 1 (no instagramThumbnail)",
+   "format": "regular reel shareToFeed, madeWithAi false",
+   "note": "caption from its Oct 18 TikTok post; same pinned URL as its earlier TikTok/FB post",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%2012%2000%2030%20AM.mov"
+   },
+   "added_by": "chat run Nov 16"
   }
  ],
  "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
