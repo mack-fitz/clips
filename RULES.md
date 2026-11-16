@@ -93,7 +93,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   or B's on A.
 - **Caption = the file name, exactly.** Strip only a real media extension (.mov .MOV .mp4 .MP4 .m4v .hevc); keep her spelling,
   punctuation, capitalization, emoji, "@" mentions and censoring (e.g. "d*cking") exactly as typed. Never rewrite, shorten,
-  add hashtags or add anything. Only exception: a name that is clearly not a caption (camera default like "IMG_1234",
+  add hashtags or add anything. **NUMBER PREFIX (Mack, Nov 15, from "Week 4 11-16"):** a leading "<n>-" / "<n> -" (e.g.
+  "3- should i try again?") is HER POSTING ORDER, not caption: strip the number, the dash and the following space everywhere
+  (IG, TikTok, FB, X, Shorts). Caption of "3- should i try again?" = "should i try again?". Post them in that order:
+  1 = Monday, 2 = Tuesday ... 7 = Sunday of that week, on each account (this overrides "order = Claude's choice").
+  Only exception: a name that is clearly not a caption (camera default like "IMG_1234",
   "Video Oct 26 2026...", "PM", a bare number) or that mentions OnlyFans/a link: don't post it; ask Mack for the caption in
   the run message and leave that day empty until she answers.
 - **NO approval, no Reviewer card:** as soon as a run sees a new Week folder, schedule all 7 videos for each account,
@@ -108,6 +112,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
   is supposed to be frame 1"): send NO instagramThumbnail so Instagram uses frame 1. B = an interesting-looking frame Claude
   picks (never the wipe; nothing suggestive). Exception: promo #1 on launch day still uses her special thumbnail (5b).
+  ONE-OFF COVER (Mack, Nov 15): @mackygolfs Week 4 "5- took a risk but it worked out!" (Fri Nov 20; Dropbox
+  id:etyjxrk_8sAAAAAAAAAFxw) — cover = the frame where Mack and Ally are KISSING (find it by checking frames; full-size, no
+  text). Send it as instagramThumbnail (this one post only), and use the same moment as the TikTok cover (videoCoverTimestampMs).
+  If no kiss frame can be found, schedule it with frame 1 and tell Mack.
 - **Posting type (Mack, Nov 10 — test on A only):** A (@mackygolfs) = REGULAR reel straight to the main feed, NOT a trial:
   platformSpecificData {madeWithAi:false, shareToFeed:true}, no trialParams, no instagramThumbnail. Promos on A too.
   Mack archives flops herself. B (@mackthegolfer) stays a trial reel {trialParams {graduationStrategy:"MANUAL"},
