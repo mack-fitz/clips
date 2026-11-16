@@ -1,0 +1,157 @@
+name: fingerprint
+# LIVE COPY (moved from mack-fitz/mackygolfs-mackthegolfer, Nov 16 2026: scheduled runs can't push there).
+# Duplicate check V2 (PLAYBOOK.md). Downloads videos, computes fingerprints, commits ONLY the small
+# JSON fingerprints under clips state/fp/. Never commits Instagram videos or Dropbox originals.
+# Inputs (push any of these to clips main; the workflow deletes them when done):
+#  - fp/want_posts.tsv   one posted reel per line: key<TAB>permalink<TAB>video_url<TAB>thumb_url
+#                        (fresh Zernio mediaItems URLs; IG CDN URLs expire). Tries video_url, then
+#                        yt-dlp on the permalink, then the thumbnail. -> state/fp/posts/<key>.json
+#                        (tools/posted_index.py want writes this file)
+#  - fp/want_sources.txt /Golf Captions file names, or ALL. Needs the clips secret GOLF_CAPTIONS_FOLDER_URL
+#                        (clips' DROPBOX_FOLDER_URL is /golfclips, not /Golf Captions). Without that secret the
+#                        step is skipped and the request file stays: use fp/want_links.tsv instead.
+#                        -> state/fp/sources/<name>.json (with dense 0.5 s frames)
+#  - fp/want_repo.txt    repo paths to fingerprint: a clips path (e.g. mg_pending/trials/x.mp4) or
+#                        mackygolfs-mackthegolfer:<path> (read-only checkout of that public repo)
+#                        -> state/fp/repo/<basename>.json
+#  - fp/want_links.tsv   any Dropbox file: name<TAB>temporary download_link URL
+#                        (Dropbox MCP download_link, 900 s; ~20 per push, one push at a time: links
+#                        expire, so they are all downloaded first, in parallel). name may hold a folder
+#                        ("Golf tracer/Video ....mov") -> state/fp/sources/<name>.json (dense frames)
+# Result: a "Fingerprints [skip ci]" commit on clips main (state/fp/last_posts_run.tsv = per-post log).
+on:
+  push:
+    paths: ['fp/want_posts.tsv', 'fp/want_sources.txt', 'fp/want_repo.txt', 'fp/want_links.tsv']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fingerprint
+  cancel-in-progress: false
+jobs:
+  fp:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      # Before checkout (the repo is big; checkout takes minutes and the links expire in 15).
+      - name: Download Dropbox links first (they expire)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/links
+          curl -sSL --fail -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/fp/want_links.tsv?ref=${{ github.sha }}" \
+            -o /tmp/links/want_links.tsv || exit 0
+          [ -s /tmp/links/want_links.tsv ] || exit 0
+          i=0
+          while IFS=$'\t' read -r name url; do
+            [ -z "$name" ] && continue
+            i=$((i+1)); printf '%s\t%s\t%s\n' "$i" "$name" "$url"
+          done < /tmp/links/want_links.tsv > /tmp/links/index.tsv
+          cut -f1,3 /tmp/links/index.tsv | xargs -P 6 -L 1 sh -c 'curl -sSL --fail --retry 2 -o "/tmp/links/$0.bin" "$1" || echo "FAILED $0"'
+          ls -la /tmp/links | head -60; df -h /tmp | tail -1
+      # Sparse checkout: the full tree is ~10 GB of videos and took 20+ min. Only the tools, the
+      # state and the request files are needed (want_repo.txt paths are added in "Repo files").
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /tools/
+            /state/fp/
+            /fp/
+            /.github/
+          sparse-checkout-cone-mode: false
+      - name: Tools
+        run: |
+          mkdir -p /tmp/inputs && cp fp/want_* /tmp/inputs/ 2>/dev/null || true
+          sudo apt-get update -qq && sudo apt-get install -y -qq libchromaprint-tools ffmpeg >/dev/null
+          pip install -q imagehash pillow yt-dlp
+      - name: Posted reels
+        run: |
+          mkdir -p state/fp/posts /tmp/w
+          log=state/fp/last_posts_run.tsv; : > $log  # overwritten each run
+          [ -s fp/want_posts.tsv ] || exit 0
+          while IFS=$'\t' read -r key link vurl turl; do
+            [ -z "$key" ] && continue
+            rm -f /tmp/w/v.mp4 /tmp/w/t.jpg; how=""
+            if [ -n "$vurl" ] && curl -sSL --fail --retry 2 -A "Mozilla/5.0" -o /tmp/w/v.mp4 "$vurl" </dev/null && [ -s /tmp/w/v.mp4 ]; then how=video_url
+            elif [ -n "$link" ] && yt-dlp -q --no-warnings -f "b[ext=mp4]/b" -o /tmp/w/v.mp4 "$link" </dev/null 2>/tmp/w/ytdlp.err && [ -s /tmp/w/v.mp4 ]; then how=yt_dlp
+            fi
+            if [ -n "$how" ]; then
+              python3 tools/fingerprint.py video /tmp/w/v.mp4 "state/fp/posts/$key.json" "got=$how" "permalink=$link" || how=""
+            fi
+            if [ -z "$how" ] && [ -n "$turl" ] && curl -sSL --fail --retry 2 -A "Mozilla/5.0" -o /tmp/w/t.jpg "$turl" </dev/null && [ -s /tmp/w/t.jpg ]; then
+              python3 tools/fingerprint.py image /tmp/w/t.jpg "state/fp/posts/$key.json" "got=thumbnail" "permalink=$link" && how=thumbnail
+            fi
+            printf '%s\t%s\t%s\n' "$key" "${how:-FAILED}" "$(head -c 200 /tmp/w/ytdlp.err 2>/dev/null | tr '\n\t' '  ')" >> $log
+            rm -f /tmp/w/v.mp4 /tmp/w/t.jpg /tmp/w/ytdlp.err
+          done < fp/want_posts.tsv
+          cut -f2 $log | sort | uniq -c
+      - name: Dropbox sources
+        env:
+          FOLDER_URL: ${{ secrets.GOLF_CAPTIONS_FOLDER_URL }}
+        run: |
+          mkdir -p state/fp/sources
+          [ -s fp/want_sources.txt ] || exit 0
+          if [ -z "$FOLDER_URL" ]; then
+            echo "::warning::GOLF_CAPTIONS_FOLDER_URL secret not set in clips: want_sources.txt skipped (kept); use fp/want_links.tsv"
+            rm -f /tmp/inputs/want_sources.txt; exit 0
+          fi
+          url=$(echo "$FOLDER_URL" | sed -E 's/([?&])dl=0/\1dl=1/')
+          case "$url" in *dl=1*) ;; *\?*) url="$url&dl=1";; *) url="$url?dl=1";; esac
+          curl -sSL --fail --retry 3 -o /tmp/folder.zip "$url"
+          mkdir -p /tmp/folder && unzip -qo /tmp/folder.zip -d /tmp/folder || true
+          rm -f /tmp/folder.zip
+          find /tmp/folder -type f \( -iname '*.mov' -o -iname '*.mp4' -o -iname '*.m4v' \) | while IFS= read -r f; do
+            name=$(basename "$f")
+            if grep -qx "ALL" fp/want_sources.txt || grep -qxF "$name" fp/want_sources.txt; then
+              python3 tools/fingerprint.py video "$f" "state/fp/sources/$name.json" --dense "name=$name" "bytes=$(stat -c %s "$f")"
+            fi
+          done
+      - name: Dropbox links (sources outside /Golf Captions)
+        run: |
+          [ -s /tmp/links/index.tsv ] || exit 0
+          mkdir -p state/fp/sources
+          while IFS=$'\t' read -r i name url; do
+            f="/tmp/links/$i.bin"
+            if [ ! -s "$f" ]; then echo "MISSING $name"; continue; fi
+            mkdir -p "state/fp/sources/$(dirname "$name")"
+            python3 tools/fingerprint.py video "$f" "state/fp/sources/$name.json" --dense "name=$name" "bytes=$(stat -c %s "$f")" </dev/null || echo "FP FAILED $name"
+            rm -f "$f"
+          done < /tmp/links/index.tsv
+      - name: Repo files
+        run: |
+          mkdir -p state/fp/repo
+          [ -s fp/want_repo.txt ] || exit 0
+          MGP=mackygolfs-mackthegolfer:
+          if grep -q "^$MGP" fp/want_repo.txt; then
+            # read-only, blobless + sparse (that repo is public; this workflow never pushes there)
+            git clone -q --filter=blob:none --no-checkout --depth 1 https://github.com/mack-fitz/mackygolfs-mackthegolfer /tmp/mg
+            git -C /tmp/mg sparse-checkout set --no-cone $(grep "^$MGP" fp/want_repo.txt | sed "s|^$MGP|/|")
+            git -C /tmp/mg checkout -q main
+          fi
+          while IFS= read -r p; do case "$p" in ""|$MGP*) ;; *) git sparse-checkout add "/$p";; esac; done < fp/want_repo.txt
+          while IFS= read -r p; do
+            case "$p" in "") continue;; $MGP*) f="/tmp/mg/${p#$MGP}"; rel="${p#$MGP}";; *) f="$p"; rel="$p";; esac
+            [ -f "$f" ] || { echo "MISSING $p"; continue; }
+            python3 tools/fingerprint.py video "$f" "state/fp/repo/$(basename "$rel").json" "path=$rel"
+          done < fp/want_repo.txt
+      - name: Commit (fingerprint JSON only)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          # Other runs push to main all the time: rebuild the commit on the latest main instead of
+          # rebasing (a rebase conflict once threw away a whole run's fingerprints).
+          rm -rf /tmp/fpout && cp -r state/fp /tmp/fpout
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            mkdir -p state/fp && cp -r /tmp/fpout/. state/fp/
+            for f in fp/want_posts.tsv fp/want_sources.txt fp/want_repo.txt fp/want_links.tsv; do
+              # remove only the inputs this run processed (a newer request stays for its own run)
+              [ -f "$f" ] && cmp -s "$f" "/tmp/inputs/$(basename $f)" && git rm -q "$f"
+            done
+            git add state/fp
+            git commit -q -m "Fingerprints [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1

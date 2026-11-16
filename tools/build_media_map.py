@@ -13,7 +13,7 @@ in ALIASES below (checked Oct 19 with tools/match_fp.py over every pair of sourc
 
 Media -> source comes from, in order:
   1. clips repo clip numbers (processed.json clip_map + CLIP_SRC below), tt_/xt_ exports, stories
-  2. mackygolfs-mackthegolfer state/trials.json (each reel's name + every file under it)
+  2. clips state/trials.json (live copy since Nov 16; each reel's name + every file under it)
   3. compilation bit lists (compilations/comp*_bits.json, newest round wins) -> every bit's source,
      main = first bit (the opening clip)
   4. shorties/<slug>_notes.md (source file named in the notes)
@@ -112,7 +112,7 @@ def lsdir(d):
 def canon_map():
     """every known file name -> source id"""
     m = {}
-    meta = json.load(open(os.path.join(MG, "state/fp/sources_meta.json")))["files"]
+    meta = json.load(open(os.path.join(CLIPS, "state/fp/sources_meta.json")))["files"]  # clips copy (Nov 16)
     gc_names = [n for n in meta if not n.startswith(("Golf", "Final", "golfclips/"))]
     for n in gc_names:
         m[n] = n
@@ -195,7 +195,7 @@ def build():
         if m and m.group(1) in CLIP_SRC:
             add(media, "clips:stories/" + f, [CLIP_SRC[m.group(1)]], "story")
     # 2. trials.json
-    t = json.load(open(os.path.join(MG, "state/trials.json")))["reels"]
+    t = json.load(open(os.path.join(CLIPS, "state/trials.json")))["reels"]  # clips copy (Nov 16)
     for k, v in t.items():
         sid = canon(v.get("name") or "")
         if not sid:
@@ -203,8 +203,8 @@ def build():
             sid = canon(m.group(1)) if m else None
         if not sid:
             continue
-        for f in set(re.findall(r"trials/[A-Za-z0-9_.-]+\.mp4", json.dumps(v))):
-            add(media, "mackygolfs-mackthegolfer:" + f, [sid], "edit")
+        for f in set(re.findall(r"(?:mg_pending/)?trials/[A-Za-z0-9_.-]+\.mp4", json.dumps(v))):
+            add(media, ("clips:" if f.startswith("mg_pending/") else "mackygolfs-mackthegolfer:") + f, [sid], "edit")
     # 3. compilations
     comp_dir = os.path.join(MG, "compilations")
     bits = {}

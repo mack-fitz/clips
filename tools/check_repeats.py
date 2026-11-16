@@ -27,8 +27,8 @@ RULES CHECKED (Mack, Oct 20: window is 30 DAYS — replaces the Oct 19 7-day ver
  R1 EXACT DUPLICATE, PER ACCOUNT: the same media file (same bytes, any commit/caption) never posts twice on the same
     account (any account, incl. @moremackygolfs, FB, X). Different accounts are not an R1 problem.
  Mack's own posts (not made through Zernio) count for R2/R3: they come from the analytics pull (fingerprinted
- against every source) AND from mackygolfs-mackthegolfer state/posted_index.json (older posts the analytics pull no
- longer returns). Keep posted_index.json current (posted_index.py build) or the 30-day look-back has holes.
+ against every source) AND from clips state/posted_index.json (older posts the analytics pull no
+ longer returns; live copy moved from mackygolfs-mackthegolfer Nov 16). Keep posted_index.json current (posted_index.py build) or the 30-day look-back has holes.
 
 INPUT: raw saved outputs of Zernio `posts_list_posts` (call_tool; from_date >= 60 days back, to_date ~45
 days ahead, limit 100, every page) and `analytics_get_analytics` per IG account (Mack's own posts):
@@ -245,9 +245,9 @@ def external_uses(paths, since):
 
 
 def index_uses(since, have_urls):
-    """Mack's own older posts on the main accounts from mackygolfs-mackthegolfer state/posted_index.json
+    """Mack's own older posts on the main accounts from clips state/posted_index.json (live copy since Nov 16)
     (fingerprint matches; covers posts the analytics pull no longer returns). A post matching > 2 sources = comp."""
-    p = os.path.join(MG, "state", "posted_index.json")
+    p = os.path.join(CLIPS, "state", "posted_index.json")
     if not os.path.exists(p):
         return []
     sys.path.insert(0, os.path.join(CLIPS, "tools"))
@@ -527,7 +527,7 @@ def main():
     for u in unknown:
         print(f"\nUNKNOWN MEDIA (add to state/media_sources.json): {u.label()}")
     for m in missing:
-        print(f"\nNO FINGERPRINT for Mack's own post {m} (push fp/want_posts.tsv in mackygolfs-mackthegolfer)")
+        print(f"\nNO FINGERPRINT for Mack's own post {m} (push fp/want_posts.tsv in clips: tools/posted_index.py want)")
     if a.json:
         json.dump([{"rule": k, "what": w, "earlier": x.label(), "later": y.label(),
                     "fix_post": (y if y.status != "published" else x).post_id,

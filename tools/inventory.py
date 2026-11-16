@@ -9,7 +9,7 @@ Writes state/inventory.json: for every unique source video in /Golf Captions + /
 --free T...: for each time T, list the sources that may be the main clip of a post at T on a pool account
   (no pool appearance within the guard window, 30 days, either side), least-recently-used first. Use it to pick footage.
 Inputs are the same raw Zernio outputs check_repeats.py takes. Mack's older own posts come from the
-mackygolfs-mackthegolfer state/posted_index.json fingerprint matches.
+clips state/posted_index.json fingerprint matches (live copy since Nov 16).
 """
 import argparse, json, os, sys, datetime as dt
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -52,7 +52,7 @@ GOLFCLIPS_TRIP = "golfclips batch (Aug-Sep, uploaded Oct 12)"
 def history_from_index():
     """Mack's own older posts (fingerprint matches in posted_index.json) -> list of (source, account, time, caption)."""
     out = []
-    p = os.path.join(C.MG, "state", "posted_index.json")
+    p = os.path.join(C.CLIPS, "state", "posted_index.json")
     if not os.path.exists(p):
         return out
     d = json.load(open(p))

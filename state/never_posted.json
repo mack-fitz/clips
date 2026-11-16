@@ -1,0 +1,16 @@
+{
+ "updated": "2026-11-16T05:50Z",
+ "from": "state/posted_index.json (fingerprint-checked against every post on @mackygolfs, @mackthegolfer, @moremackygolfs)",
+ "note": "Never-posted status comes ONLY from this file (PLAYBOOK DUPLICATE CHECK V2). 'lined_up' = already on the review page / scheduled; once it posts, the next refresh drops it (it matches its own post).",
+ "videos": [],
+ "scope": "Mack (Oct 14): source folders are ONLY /Golf Captions and /golfclips (copies collapsed by fingerprint). Other Dropbox folders are not sources.",
+ "summary": {
+  "unique_videos": 39,
+  "already_posted": 30,
+  "never_posted": 9,
+  "never_posted_lined_up": 3,
+  "never_posted_not_lined_up": 6,
+  "files_checked": 44,
+  "oct15_upload": "Mack uploaded 7 videos to /Golf Captions Oct 15 (~03:04 UTC): 6 never posted, 1 already posted (Video Sep 21 2026, 7 24 34 PM.mov = @mackygolfs 2026-09-22 'what do you guys call a pent-bogey?' https://www.instagram.com/reel/DdmFF-0hUDO/, 26 s audio+frames). Waiting on Mack for how to distribute the 6 (nothing scheduled)."
+ }
+}

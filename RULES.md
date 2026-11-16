@@ -128,7 +128,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   B is back to trial reels; never copy this exception to another day unless Mack says so.
 - GUARD (section 9) before scheduling every one; a FAIL leaves that day empty and goes in the run message (rule 4 = same bytes
   never twice on the same account is absolute).
-- Record each in weekly_sources.json (planned_mt, zernio id, caption) and mackygolfs-mackthegolfer state/trials.json.
+- Record each in weekly_sources.json (planned_mt, zernio id, caption) and clips state/trials.json ("weekly_posts" list; Nov 16:
+  live copy moved to clips, section 11).
 - **TikTok/FB:** each weekly video also goes on TikTok @mackygolfs + Facebook macky.golfs (section 6) on any day, with NO tie to
   its IG post: it may go before, the same day or after (Mack, Nov 11: she never set an after-IG rule; TikTok/FB are independent of IG).
 - **Afternoon slot = promos** (section 5b: 3:30–5:00pm MT). No other afternoon fill on A/B unless Mack approved it on The Reviewer
@@ -242,7 +243,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **@moremackygolfs (Mack, Nov 15 — REPLACES the old re-edit rule): "treat it like tiktok but 30 days later".** Post Mack's
   ORIGINAL reels UNTOUCHED (her file as uploaded, wipe kept, no re-edit, no restructure, no punch-ins, no burned captions, no
   story teaser). Eligible = a video Mack already posted on @mackygolfs or @mackthegolfer, and 30+ days since that footage's most
-  recent IG post on ANY of the three accounts (clips state + mackygolfs-mackthegolfer state/posted_index.json; the
+  recent IG post on ANY of the three accounts (clips state, incl. clips state/posted_index.json; the
   "moremackygolfs_eligibility" list there is a snapshot). Caption = the caption it had on TikTok/FB (or its file-name
   caption; number prefix stripped), never OnlyFans. Cover = frame one. Regular reel (not trial). Same file never twice on
   @moremackygolfs. **Cadence (Mack, Nov 16): ONE post a day for now, ~5:00–7:00pm MT** (vary the minute). Keep 3 days scheduled.
@@ -325,7 +326,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 
 ## 9. GUARD (repeat check) — ONE copy: /home/claude/clips/tools/check_repeats.py
 - Clone both repos side by side in /home/claude (section 11). Always run the clips copy (it has the v2 rules R1–R6); the copy in
-  mackygolfs-mackthegolfer may be older.
+  mackygolfs-mackthegolfer is old and never used. The guard reads clips state/posted_index.json, state/media_sources.json and
+  state/trials.json; the mackygolfs-mackthegolfer clone is only READ (old trials/comps/shorties media paths), never pushed.
+- posted_index refresh (Nov 16: lives in clips): tools/posted_index.py want <posts.json> -> push clips fp/want_posts.tsv ->
+  clips "fingerprint" workflow commits "Fingerprints [skip ci]" (state/fp/) -> pull -> tools/posted_index.py build <posts.json>
+  -> commit clips state/posted_index.json + state/never_posted.json (the moremackygolfs_eligibility snapshot is kept on rebuild).
 - Inputs: every page of Zernio call_tool posts_list_posts (from today-60d to today+30d, limit 100, sort_by scheduled-asc; big
   results auto-save to files: pass those files) + analytics_get_analytics for 6acce837f3bd55021dad245f and 6accea22c485191e985aa1cb
   (source all, from today-60d).
@@ -346,16 +351,19 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   next open slot; retry transient errors once, then change approach.
 
 ## 11. Repos, cloning, records
-- mack-fitz/clips (clip pages, RULES.md, guard, schedule.json, weekly_sources.json, runlog) and
-  mack-fitz/mackygolfs-mackthegolfer (trial reels, comps, shorties, notes, trials.json, posted_index.json, claims).
+- mack-fitz/clips = EVERYTHING a run writes (Nov 16: scheduled tasks can push only to clips): RULES.md, guard, schedule.json,
+  weekly_sources.json, runlog, trials.json, posted_index.json + never_posted.json, state/fp/ fingerprints + the fingerprint
+  workflow (fp/want_*), state/claims/, and new renders/notes (trials, comps, shorties) under clips mg_pending/<trials|compilations|shorties>/.
+  mack-fitz/mackygolfs-mackthegolfer = READ-ONLY archive (old trial reels, comps, shorties, notes, PLAYBOOK; its state/ copies
+  stopped Nov 16). Runs never push to it and never need to; if a step seems to need it, write the clips path instead.
 - Clone blobless + sparse ONLY (repos hold ~8 GB of video):
   `git clone --filter=blob:none --no-checkout https://github.com/mack-fitz/<repo>; cd <repo>; git sparse-checkout init --no-cone;
   printf '/*\n!*.mp4\n!*.mov\n!*.MOV\n!*.MP4\n!*.m4v\n!*.part[0-9][0-9]\n' > .git/info/sparse-checkout; git checkout main`
   Never a plain/--depth 1 clone, never `git ls-tree -l` (it downloads blobs), fetch single videos only when needed
   (`git show <sha>:<path> > file`), commit with `git add --sparse <path>`.
-- If a push is refused because the repo isn't authorized for this task, don't retry in loops: finish the work in Zernio/The
+- If a push (to clips) is refused because the repo isn't authorized for this task, don't retry in loops: finish the work in Zernio/The
   Reviewer, write what you couldn't save in the run log line, and tell Mack once that the task needs that repo added.
-- Claims: before editing an item commit state/claims/<doc>.md in mackygolfs-mackthegolfer; skip items claimed < 60 min ago by
+- Claims: before editing an item commit state/claims/<doc>.md in clips (moved Nov 16); skip items claimed < 60 min ago by
   another job; delete your claim in your final commit.
 - Base Camp (https://claude.ai/artifact/NkJnRhgLLfSWz1XXfHbQ79, collection "schedule", docs mackygolfs / mackthegolfer / golf /
   facebook): rebuild from a fresh Zernio pull only (never from memory); drafts (only R6-parked @moremackygolfs posts) show "(parked)". Pinned writes (if_version).
