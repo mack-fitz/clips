@@ -105,8 +105,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   Create each post already scheduled (never a draft). A day whose time already passed when the folder shows up = post at the
   next sensible time that day, or skip that day and add the leftover video to the end of the week as a second-afternoon post
   only if Mack says so (otherwise tell her it's left over).
-- **Times (Zernio best-time data, Mack asked Claude to pick, Nov 6):** @mackthegolfer about **7:00–7:30am MT**; @mackygolfs
-  about **11:15am–12:00pm MT**. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
+- **Times (Zernio best-time data, Mack asked Claude to pick, Nov 6; MG changed Nov 15):** @mackthegolfer about **7:00–7:30am MT**
+  (unchanged); @mackygolfs about **3:30–4:30pm MT** — TIME TEST from Week 4 (Mon Nov 16; Mack, Nov 15 "k cool we can test
+  those times"): MG's best past posts went out in the afternoon. On a day with an MG IG promo, the MG weekly post goes about
+  12:30–1:30pm MT instead and the promo stays 3:30–5:00pm (2+ h apart). Compare Week 4 MG vs Week 3 MG (11:15–12:00) at the
+  end of the week and report it to Mack. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
 - **Media:** A = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). B = wipe cut
   (section 4: check the first second at 10 fps, ONE CRF-17 encode at full resolution, nothing else changed).
 - **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
