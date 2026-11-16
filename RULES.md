@@ -253,6 +253,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   name / its IG caption, no OnlyFans mention, no hashtags needed; a question works well. X needs H.264 SDR (one CRF-17
   tone-mapped encode for HEVC/HDR files), max 2:20 (longer: cut at a natural gap for the X copy only, or skip that video).
   Every clip-page run keeps X scheduled at least 2 days ahead, like TikTok/FB.
+- **NEWEST WEEK FIRST (Mack, Nov 15: "are tiktok/facebook/X/shorts not starting with this weeks stuff?"):** on TikTok,
+  Facebook, X @mackygolfs and YouTube Shorts, the CURRENT week's folder videos (both accounts, number prefix stripped from
+  captions) take the next open slots BEFORE any older original or leftover. Aim: each week's 14 videos are on every one of
+  those platforms within that week (same day as its IG post or later is fine; never before Monday of its week). Older
+  originals only fill slots after the current week's videos are all placed. Shorts: wipe cut as always.
 - **TikTok @mackygolfs + Facebook Page:** weekly-folder reels post as-is (her file, wipe kept, cover = first frame).
   Week 3+ (Mack, Nov 6 update): each weekly video can go there the same day as its IG post (later than the IG post time) or
   any day after, with the same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
