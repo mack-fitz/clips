@@ -6677,7 +6677,9 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-18 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-20 18:24",
+     "zernio": "6afcabc898f98af7ba141589"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "NEVER (bikini reel, Mack Nov 15)",
@@ -6733,7 +6735,9 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-19 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-20 17:36",
+     "zernio": "6afcabc94d2c1f51600df4b2"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -6906,6 +6910,7 @@
   "Nov 16 clip run: @moremackygolfs Thu Nov 19 18:37 'par 5. lock in your guess before the stroke counter does' = /golfclips/Video Sep 25 2026, 4 59 28 PM.mov untouched (pinned e1988566 fb_lock-it-in-par-5_orig.mov), Zernio 6afb5d6b4e4ab1109b947920; proof MG Oct 3 'LOCK IT IN BOYS' 13.9k views (<100k), 44 days since last IG post. X copies of week-4 files on scratch/x-w4@97dcc37."
  ],
  "notes_nov17": [
-  "Nov 17 morning run: YT Shorts added Thu Nov 19 17:44 A1 'send this to ur fave short king' (wipe cut 1.15 s, 6afc40933821f0b2406386d1), Fri Nov 20 08:52 B5 'the issue is i love a long sleeve...' (Zernio-hosted B5 nowipe, 6afc409d3ee9bdaae9078a32), Fri 18:13 A2 'SHOOT!' (wipe cut 0.90 s, HLG->SDR tonemap, 6afc409dd6b03bd9ee3df94d); files on scratch/w4-yt@463a034. A3 (bikini) never on Shorts. No Week 4 promos/thumbnails yet; no Video 3 caption/URL known."
+  "Nov 17 morning run: YT Shorts added Thu Nov 19 17:44 A1 'send this to ur fave short king' (wipe cut 1.15 s, 6afc40933821f0b2406386d1), Fri Nov 20 08:52 B5 'the issue is i love a long sleeve...' (Zernio-hosted B5 nowipe, 6afc409d3ee9bdaae9078a32), Fri 18:13 A2 'SHOOT!' (wipe cut 0.90 s, HLG->SDR tonemap, 6afc409dd6b03bd9ee3df94d); files on scratch/w4-yt@463a034. A3 (bikini) never on Shorts. No Week 4 promos/thumbnails yet; no Video 3 caption/URL known.",
+  "Nov 17 clip run: FB Fri Nov 20 18:24 A3 'should i try again? #golf' Reel (6afcabc8), TikTok Fri 17:36 A4 'gotta be something else guys' (6afcabc9) - both Zernio-hosted untouched originals; @moremackygolfs Fri 17:58 'it all fell apart near the green. guess the score' = /golfclips/Video Sep 25 2026, 5 07 02 PM.mov untouched (pinned e1988566 fb_fell-apart-near-green_orig.mov, 6afcabca), proof MG Oct 5 15.0k views (<100k), guard candidate PASS. Base Camp golf/facebook rebuilt from Zernio pull Nov 16-26."
  ]
 }
