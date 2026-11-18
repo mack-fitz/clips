@@ -1017,7 +1017,13 @@
    "status": "scheduled",
    "note": "A: her file untouched (wipe kept), REGULAR main-feed reel, cover frame 1 (no instagramThumbnail)",
    "zernio_media": "https://media.zernio.com/media/1794830339639_2ac7b09f8ed34762_A_w4-6-factory-pmo.mov",
-   "zernio_id": "6afaf2a4bfe186bb6981e262"
+   "zernio_id": "6afaf2a4bfe186bb6981e262",
+   "yt_short": {
+    "zernio_id": "6afd91e808a9a9dea4116b2e",
+    "planned_mt": "2026-11-21 18:02",
+    "export": "scratch/w4-yt@5d2b5f9:A_w4_A6_factory_pmo_nowipe.mp4",
+    "note": "wipe cut 1.8 s, one CRF-17 L4.2 encode 15.6 Mbps (source 11.2 Mbps HEVC)"
+   }
   },
   "mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings": {
    "home": "ig:mackygolfs",
@@ -1170,7 +1176,11 @@
    "note": "B: wipe cut at 1.05s (shirt down, before her first word; 10 fps + audio check), one CRF-17 encode L4.2 full res; cover clips scratch/w4-bexports B_w4_B6_cover.jpg",
    "zernio_media": "https://media.zernio.com/media/1794830343839_cfb5217783222d00_B_w4-6-have-it-in-me_nowipe.mp4",
    "export": "scratch/w4-bexports:B_w4_B6_nowipe.mp4",
-   "zernio_id": "6afaf2984703a581a7a31dc4"
+   "zernio_id": "6afaf2984703a581a7a31dc4",
+   "yt_short": {
+    "zernio_id": "6afd91e308a9a9dea4116ac3",
+    "planned_mt": "2026-11-21 08:41"
+   }
   },
   "mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me": {
    "home": "ig:mackthegolfer",
@@ -1193,6 +1203,38 @@
    "zernio_media": "https://media.zernio.com/media/1794830344462_8076b3f2e9edc862_B_w4-7-tag-ur-buddy_nowipe.mp4",
    "export": "scratch/w4-bexports:B_w4_B7_nowipe.mp4",
    "zernio_id": "6afaf2a7bfe186bb6981e27d"
+  },
+  "mackygolfs/Week 4 11-16/let's find the best golf glizzy in the world.": {
+   "home": "ig:mackygolfs",
+   "week": 4,
+   "file": "let's find the best golf glizzy in the world.",
+   "role": "special",
+   "caption": "let's find the best golf glizzy in the world.\nturndogtribunal.com",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFcg",
+   "size": 29938880,
+   "dropbox_path": "/Golf/for claude/mackygolfs/Week 4 11-16/let's find the best golf glizzy in the world.",
+   "registered": "2026-11-18 morning run (Turn Dog one-off, Mack Nov 17; RULES 5b)",
+   "planned_mt": "2026-11-18 08:52",
+   "status": "scheduled",
+   "zernio_id": "6afd44d8a2c0e07c4935bebd",
+   "tiktok_fb_zernio_id": "6afd4f0058f7e07ad45c2da9",
+   "note": "NOT a weekly video; main feed; never schedule again"
+  },
+  "mackthegolfer/Week 4 11-16/THE COURT IS NOW IN SESSION. Let's find the best dog. .mov": {
+   "home": "ig:mackthegolfer",
+   "week": 4,
+   "file": "THE COURT IS NOW IN SESSION. Let's find the best dog. .mov",
+   "role": "special",
+   "caption": "THE COURT IS NOW IN SESSION. Let's find the best dog.\nturndogtribunal.com",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFug",
+   "size": 68999034,
+   "dropbox_path": "/Golf/for claude/mackthegolfer/Week 4 11-16/THE COURT IS NOW IN SESSION. Let's find the best dog. .mov",
+   "registered": "2026-11-18 morning run (Turn Dog one-off, Mack Nov 17; RULES 5b)",
+   "planned_mt": "2026-11-18 08:52",
+   "status": "scheduled",
+   "zernio_id": "6afd44dad34dd1719548c462",
+   "tiktok_fb_zernio_id": "6afd4f045807d9587f05a333",
+   "note": "NOT a weekly video; MTG main feed (not trial); TikTok/FB Thu Nov 19 13:37; never schedule again"
   }
  },
  "loose_files_note": "Oct 30: the 3 earlier loose files (Vid (12).mp4, mg.mp4, Vid (3).mp4) were moved by Mack into the week 2 folders (same Dropbox ids); no loose files now."
