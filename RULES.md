@@ -248,7 +248,9 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   find the best dog. .mov" (id:etyjxrk_8sAAAAAAAAAFug), are extra posts Mack asked for: both IG accounts, MAIN FEED (MTG too,
   not a trial), Wed Nov 18 8:52am MT (live by 9:00; Mack moved it from 7am, Nov 18 00:05), caption = file name + line break + "turndogtribunal.com" (Zernio
   6afd44d8a2c0e07c4935bebd MG, 6afd44dad34dd1719548c462 MTG). MTG's weekly "am i right on this" moved to 2:34pm MT that day.
-  They are NOT weekly videos: register them as role "special" and don't put them anywhere else unless Mack asks.
+  They are NOT weekly videos: register them as role "special". TikTok @mackygolfs + FB macky.golfs (Mack, Nov 18): MG's goes
+  there Wed Nov 18 8:52am MT with its IG (Zernio 6afd4f0058f7e07ad45c2da9); MTG's goes there Thu Nov 19 1:37pm MT, after the
+  10am YouTube launch (6afd4f045807d9587f05a333). Nowhere else (no X/Shorts/@moremackygolfs) unless Mack asks.
 
 ## 6. Clip pages — @moremackygolfs, X, TikTok, Facebook
 - **@moremackygolfs (Mack, Nov 15 — REPLACES the old re-edit rule): "treat it like tiktok but 30 days later".** Post Mack's
