@@ -5210,6 +5210,132 @@
     "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2012%202026%2C%2012%2000%2030%20AM.mov"
    },
    "added_by": "chat run Nov 16"
+  },
+  {
+   "date": "2026-11-20",
+   "scheduled_mt": "08:39",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "gotta be something else guys",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/4- gotta be something else guys",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-A4.mp4",
+   "zernio": {
+    "twitter": "6afdfe86d51ca49f35292e4d"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-20",
+   "scheduled_mt": "17:47",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "is this relatable",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/2- is this relatable",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-B2.mp4",
+   "zernio": {
+    "twitter": "6afdfe87d51ca49f35292e52"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "08:18",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "am i right on this",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/3- am i right on this.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-B3.mp4",
+   "zernio": {
+    "twitter": "6afdfe88229ace5ef016e0ed"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "18:12",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "took a risk but it worked out!",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-A5.mp4",
+   "zernio": {
+    "twitter": "6afdfe88fbcc81883b096eaa"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "12:44",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "took a risk but it worked out!",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "media_url": "https://media.zernio.com/media/1794830338976_4f31831408ec49b8_A_w4-5-took-a-risk.mov",
+   "zernio": {
+    "tiktok": "6afdfe89229ace5ef016e0f3"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "17:28",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "is this relatable",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/2- is this relatable",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/TF_w4-B2.mov",
+   "zernio": {
+    "tiktok": "6afdfe8a82a3e0857f031eeb"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "08:23",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "gotta be something else guys #golf",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/4- gotta be something else guys",
+   "media_url": "https://media.zernio.com/media/1794830338443_c8314eb48c8ced88_A_w4-4-something-else.mov",
+   "zernio": {
+    "facebook": "6afdfe8bfbcc81883b096eb6"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "18:41",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "is this relatable #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/2- is this relatable",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/TF_w4-B2.mov",
+   "zernio": {
+    "facebook": "6afdfe8c2dcc4c93a53d3e90"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "17:52",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "hi i'm mack. really good golfer btw",
+   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM.mp4",
+   "zernio": {
+    "instagram": "6afdfe8c229ace5ef016e105"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
   }
  ],
  "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
@@ -6913,5 +7039,6 @@
   "Nov 17 morning run: YT Shorts added Thu Nov 19 17:44 A1 'send this to ur fave short king' (wipe cut 1.15 s, 6afc40933821f0b2406386d1), Fri Nov 20 08:52 B5 'the issue is i love a long sleeve...' (Zernio-hosted B5 nowipe, 6afc409d3ee9bdaae9078a32), Fri 18:13 A2 'SHOOT!' (wipe cut 0.90 s, HLG->SDR tonemap, 6afc409dd6b03bd9ee3df94d); files on scratch/w4-yt@463a034. A3 (bikini) never on Shorts. No Week 4 promos/thumbnails yet; no Video 3 caption/URL known.",
   "Nov 18 morning run: YT Shorts added Sat Nov 21 08:41 B6 'DO YOU THINK I HAVE IT IN ME' (Zernio-hosted B6 nowipe, 6afd91e308a9a9dea4116ac3), Sat 18:02 A6 'this factory pmo' (wipe cut 1.8 s, scratch/w4-yt@5d2b5f9, 6afd91e808a9a9dea4116b2e). Still no Week 4 promos/thumbnails or Video 3 promo caption (URL known).",
   "Nov 17 clip run: FB Fri Nov 20 18:24 A3 'should i try again? #golf' Reel (6afcabc8), TikTok Fri 17:36 A4 'gotta be something else guys' (6afcabc9) - both Zernio-hosted untouched originals; @moremackygolfs Fri 17:58 'it all fell apart near the green. guess the score' = /golfclips/Video Sep 25 2026, 5 07 02 PM.mov untouched (pinned e1988566 fb_fell-apart-near-green_orig.mov, 6afcabca), proof MG Oct 5 15.0k views (<100k), guard candidate PASS. Base Camp golf/facebook rebuilt from Zernio pull Nov 16-26."
- ]
+ ],
+ "notes_nov18": "Clip run Nov 18: Thu Nov 19 launch-day spacing fixed (TikTok A1 6afb5b01 13:24->14:51, FB B1 6afb5b04 13:38->14:46 MT; both had been <1h from the 13:37 turn-dog post). Added X Fri/Sat, TikTok Sat, FB Sat, @moremackygolfs Sat (see slots added_by). Thu has no promo posts: no Video 3 promo files/caption yet."
 }
