@@ -27,7 +27,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           awk -F'\t' '$1=="t"{print $2}' /tmp/req/f.tsv | while read t; do
-            ffmpeg -v error -y -ss "$t" -i /tmp/src.vid -frames:v 1 "/tmp/out/f_${t}.png"
+            ffmpeg -nostdin -v error -y -ss "$t" -i /tmp/src.vid -frames:v 1 "/tmp/out/f_${t}.png"
           done
           ls -la /tmp/out
       - name: Push branch
