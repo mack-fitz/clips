@@ -1,0 +1,40 @@
+name: frames
+# Full-resolution stills from a long Dropbox video (Nov 18, thumbnails).
+# Push inbox/frames.tsv:  #branch scratch/<name>  /  src<TAB><temporary Dropbox download_link URL>  /  t<TAB><seconds> (one per line)
+# Output: <branch> containing f_<seconds>.png (full res) + sheet.jpg. Never main.
+on:
+  push:
+    paths: ['inbox/frames.tsv']
+permissions:
+  contents: write
+jobs:
+  frames:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Get request + download first
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/req /tmp/out
+          curl -sSL --fail -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/inbox/frames.tsv?ref=${{ github.sha }}" -o /tmp/req/f.tsv
+          grep -m1 '^#branch ' /tmp/req/f.tsv | cut -d' ' -f2 > /tmp/req/branch
+          url=$(awk -F'\t' '$1=="src"{print $2}' /tmp/req/f.tsv)
+          curl -sSL --fail --retry 3 -o /tmp/src.vid "$url"
+          ls -la /tmp/src.vid
+      - name: Extract
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          awk -F'\t' '$1=="t"{print $2}' /tmp/req/f.tsv | while read t; do
+            ffmpeg -v error -y -ss "$t" -i /tmp/src.vid -frames:v 1 "/tmp/out/f_${t}.png"
+          done
+          ls -la /tmp/out
+      - name: Push branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          b=$(cat /tmp/req/branch); cd /tmp/out
+          git init -q; git checkout -q -b out; git add -A
+          git -c user.name=bot -c user.email=bot@x commit -qm "frames"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" out:refs/heads/$b
