@@ -219,6 +219,10 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (6aeeb6fcf53369239702fea0); "reel 2A" = MTG Mon Nov 9 3:47pm MT (6aeeb700f53369239702feba). All 6 are now used on IG:
   never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
   which account.
+- Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
+  00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch = the next Thursday 10:00am MT (Thu Nov 19) unless Mack says otherwise.
+  Every Video 3 promo on FB + Shorts: caption line 3 = this URL (no "🔗 in bio"); TikTok/IG keep "🔗 in bio" lines per 5b.
+  Promo caption + which promo files go where: from Mack (ask if missing; no promo files were in the Week 4 folders on Nov 18).
 - Video 2 "I Owe Tiger Woods an Apology" (PopStroke, Thu Nov 12 10:00am MT = 17:00 UTC). Promo caption (Mack, Nov 11):
   "I owe Tiger Woods an apology.\nNew youtube video out NOW!\n🔗 in bio". #1 promos scheduled Nov 11 (chat run): MG "popstroke reel 2.mov"
   on IG @mackygolfs 6af4fe818fb8ec3642cd1680, TikTok 6af4fe93e11ff29b2b7e41b8, FB 6af4fe96e11ff29b2b7e41cd, YouTube Short
