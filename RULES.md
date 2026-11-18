@@ -246,7 +246,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **TURN DOG ONE-OFFS (Mack, Nov 17 night) — already scheduled, never schedule again:** Week 4 files without a number,
   MG "let's find the best golf glizzy in the world." (id:etyjxrk_8sAAAAAAAAAFcg) and MTG "THE COURT IS NOW IN SESSION. Let's
   find the best dog. .mov" (id:etyjxrk_8sAAAAAAAAAFug), are extra posts Mack asked for: both IG accounts, MAIN FEED (MTG too,
-  not a trial), Wed Nov 18 6:52am MT (live by 7:00), caption = file name + line break + "turndogtribunal.com" (Zernio
+  not a trial), Wed Nov 18 8:52am MT (live by 9:00; Mack moved it from 7am, Nov 18 00:05), caption = file name + line break + "turndogtribunal.com" (Zernio
   6afd44d8a2c0e07c4935bebd MG, 6afd44dad34dd1719548c462 MTG). MTG's weekly "am i right on this" moved to 2:34pm MT that day.
   They are NOT weekly videos: register them as role "special" and don't put them anywhere else unless Mack asks.
 
