@@ -220,9 +220,33 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
   which account.
 - Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
-  00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch = the next Thursday 10:00am MT (Thu Nov 19) unless Mack says otherwise.
-  Every Video 3 promo on FB + Shorts: caption line 3 = this URL (no "🔗 in bio"); TikTok/IG keep "🔗 in bio" lines per 5b.
-  Promo caption + which promo files go where: from Mack (ask if missing; no promo files were in the Week 4 folders on Nov 18).
+  00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch Thu Nov 19 10:00am MT.
+  PROMO CAPTION (Mack, Nov 19; she cut "my 7 iron is the club i trust most."): IG/TikTok = "i suck with my driver. so i played
+  9 holes with nothing but a 7 iron and a putter. the goal: break 50.\n🔗 in bio"; FB + Shorts description = same first line +
+  "\nhttps://youtu.be/xZh03ZipvX4". Shorts title "Can I Break 50 With Only a 7 Iron?". No hashtags.
+  Promo files (Week 4 11-16): MG "george w.mov" (id:etyjxrk_8sAAAAAAAAAG4w, launch), MG "mg.mov" (id:etyjxrk_8sAAAAAAAAAG5A),
+  MTG "1.mov" (id:etyjxrk_8sAAAAAAAAAG5Q, launch). Cover = "story_7iron_B.jpg" (in both folders). None of the 3 has a shirt
+  wipe (checked first 1.5 s at 10 fps), so ONE H.264 encode each (1080x1920 CRF17 High 4.2, AAC 256k, faststart) serves every
+  platform incl. YouTube + MTG; media on branch scratch/yt3-promos @ cc12f2c7e9ea717b9f902002258cadc7413a197e.
+  Scheduled Nov 19 ~00:35 MT (chat run), times MT:
+  | file | account | when | Zernio |
+  |---|---|---|---|
+  | george w | IG @mackygolfs main feed, cover story_7iron_B | Thu 11-19 9:52 | 6afea63ed38d23467369d2bd |
+  | george w | TikTok @mackygolfs | Thu 11-19 9:52 | 6afea6448f51011728e7d5f0 |
+  | george w | FB macky.golfs reel, custom thumbnail story_7iron_B | Thu 11-19 9:52 | 6afea6478f51011728e7d609 |
+  | george w | YouTube Short | Thu 11-19 9:52 | 6afea64b8f51011728e7d614 |
+  | 1.mov | IG @mackthegolfer main feed (not trial), cover story_7iron_B | Thu 11-19 9:52 | 6afea64ed38d23467369d322 |
+  | mg.mov | IG @mackygolfs TRIAL reel (MANUAL; Mack, Nov 19), cover story_7iron_B | Fri 11-20 4:17pm | 6afea655e110157f4bc57d2f |
+  | mg.mov | TikTok | Fri 11-20 3:47pm | 6afea658d38d23467369d349 |
+  | mg.mov | FB reel (default cover) | Fri 11-20 4:08pm | 6afea65aa1a5091d3c2aa43c |
+  | mg.mov | YouTube Short | Fri 11-20 4:31pm | 6afea65dfa9873a8a8542ec5 |
+  | 1.mov | TikTok | Sat 11-21 3:52pm | 6afea660fa9873a8a8542ecd |
+  | 1.mov | FB reel (default cover) | Sat 11-21 4:14pm | 6afea663e110157f4bc57d5f |
+  | 1.mov | YouTube Short | Sat 11-21 4:37pm | 6afea665e110157f4bc57d64 |
+  Bumped: MTG weekly "you me right now lets go" (6afaf2844703a581a7a31d7c) Thu 7:11am -> 1:43pm. MG weekly "took a risk but it
+  worked out!" (6afaf295c6eb019ec2841ed6, kiss cover kept) Fri 3:54pm -> 9:14am (Mack, Nov 19: on this Friday MG weekly goes in
+  the MORNING, the mg.mov trial promo in the afternoon, not close together). MG Thu weekly stays 4:21pm. All 3 promo files are
+  now used on IG/TikTok/FB/Shorts: never schedule them again. Mack sets the YouTube related video on the 3 Shorts herself.
 - Video 2 "I Owe Tiger Woods an Apology" (PopStroke, Thu Nov 12 10:00am MT = 17:00 UTC). Promo caption (Mack, Nov 11):
   "I owe Tiger Woods an apology.\nNew youtube video out NOW!\n🔗 in bio". #1 promos scheduled Nov 11 (chat run): MG "popstroke reel 2.mov"
   on IG @mackygolfs 6af4fe818fb8ec3642cd1680, TikTok 6af4fe93e11ff29b2b7e41b8, FB 6af4fe96e11ff29b2b7e41cd, YouTube Short
