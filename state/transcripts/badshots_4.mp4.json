@@ -1,0 +1,66 @@
+{
+"source": "badshots_4.mp4",
+"duration": 30.7626875,
+"segments": [
+{
+"start": 5.24,
+"end": 6.64,
+"text": "Dead.",
+"words": [
+[
+5.24,
+6.64,
+" Dead."
+]
+]
+},
+{
+"start": 13.96,
+"end": 15.36,
+"text": "Yikes.",
+"words": [
+[
+13.96,
+15.36,
+" Yikes."
+]
+]
+},
+{
+"start": 24.48,
+"end": 25.88,
+"text": "Backwards.",
+"words": [
+[
+24.48,
+25.88,
+" Backwards."
+]
+]
+},
+{
+"start": 26.88,
+"end": 27.8,
+"text": "Backwards.",
+"words": [
+[
+26.88,
+27.8,
+" Backwards."
+]
+]
+},
+{
+"start": 29.88,
+"end": 30.04,
+"text": "Backwards.",
+"words": [
+[
+29.34,
+30.04,
+" Backwards."
+]
+]
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"source": "badshots_3.mp4",
+"duration": 32.0,
+"segments": [
+{
+"start": 30.04,
+"end": 31.86,
+"text": "Thanks for watching!",
+"words": [
+[
+30.04,
+31.12,
+" Thanks"
+],
+[
+31.12,
+31.66,
+" for"
+],
+[
+31.66,
+31.86,
+" watching!"
+]
+]
+}
+]
+}
