@@ -1,0 +1,97 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 1.55 s); opens on 'I'm in a bad mood. This is hole number 11'. Every shot and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "should I take that as a no @universe",
+  "chosen_cover": null,
+  "cover_asset": "e7028832ae4250c5470a8f1802073298",
+  "cover_file": "trials/074_unlucky-hole-11_b_r2_cover_opt1.jpg",
+  "cover_full_note": "Full-res covers on clips branch scratch/mg-pending-oct28 (pinned; mackygolfs-mackthegolfer push not authorized).",
+  "cover_note": "new frames with nothing written on them (none of the earlier frames) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "e7028832ae4250c5470a8f1802073298",
+      "file": "trials/074_unlucky-hole-11_b_r2_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/074_unlucky-hole-11_b_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "full length with the club, talking (1:21), no words",
+      "url": "/_blob/e7028832ae4250c5470a8f1802073298"
+    },
+    {
+      "asset": "146e67d52ffbd9b6f8d1ef4675242a19",
+      "file": "trials/074_unlucky-hole-11_b_r2_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/074_unlucky-hole-11_b_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "talking selfie by the green (1:34), no words",
+      "url": "/_blob/146e67d52ffbd9b6f8d1ef4675242a19"
+    },
+    {
+      "asset": "e9388fbf478e6e7bf7479c9933be8633",
+      "file": "trials/074_unlucky-hole-11_b_r2_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/074_unlucky-hole-11_b_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "talking selfie (1:37), no words",
+      "url": "/_blob/e9388fbf478e6e7bf7479c9933be8633"
+    }
+  ],
+  "cover_url": "/_blob/e7028832ae4250c5470a8f1802073298",
+  "date": "2026-10-29",
+  "decided_at": "2026-10-27T20:23:01.372Z",
+  "decided_round": 1,
+  "decision": "self_post",
+  "duration": 164.8,
+  "file": "trials/074_unlucky-hole-11_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "caption": "asked the universe if it cares about me. it said no",
+      "cover_options": [
+        {
+          "asset": "f314bdeccc0b185d93691421f945aee3",
+          "file": "trials/074_unlucky-hole-11_b_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "typewriter \"does the universe care about me\", waist level",
+          "url": "/_blob/f314bdeccc0b185d93691421f945aee3"
+        },
+        {
+          "asset": "2f5ce4ad56593aea3e929702946f6f89",
+          "file": "trials/074_unlucky-hole-11_b_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "purple \"Macky vs. the Universe\" pill, waist level",
+          "url": "/_blob/2f5ce4ad56593aea3e929702946f6f89"
+        },
+        {
+          "asset": "6051edec32bc35f268909c84f5ae56a9",
+          "file": "trials/074_unlucky-hole-11_b_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "talking in the cart, no words",
+          "url": "/_blob/6051edec32bc35f268909c84f5ae56a9"
+        }
+      ],
+      "decided_at": "2026-10-27T20:23:01.372Z",
+      "decision": "changes",
+      "done": "Round 2: 3 new cover frames with no words on them (different frames from round 1). Caption now \"should I take that as a no @universe\" (heads up: @universe will tag whatever real Instagram account has that handle; drop the @ if you don't want that). Video unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Change caption to should I take that as a no @universe\n\nDo different cover frame that don’t have captions burned I",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Zernio DRAFT (trialParams MANUAL, cover opt1) so approval schedules instantly (RULES.md s8).",
+  "media_url": "https://media.zernio.com/media/1792839186009_0ujgy9yd_mackthegolfer_074_unlucky-hole-11_b.mp4",
+  "notes": "Mack posts Thu Oct 29 herself (files sent in chat); YouTube Short 6ae2ab98 Thu 9:13am MT",
+  "planned_mt": "2026-10-29 08:28 (B morning, POSTING RULES v2)",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week 1- 3.mp4.",
+  "round": 2,
+  "sent_at": "2026-10-29T02:12:00Z",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week 1- 3.mp4",
+  "status": "sent_to_mack",
+  "time_ct": "09:28",
+  "time_mt": "08:28",
+  "video_asset": "1b31bb15275972f973aebdc308e4a4cb",
+  "video_url": "/_blob/1b31bb15275972f973aebdc308e4a4cb",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

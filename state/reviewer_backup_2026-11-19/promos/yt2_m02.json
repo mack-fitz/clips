@@ -1,0 +1,110 @@
+{
+  "about": "Round 2 (your note: cut the last clip about needing a bogey): the bogey clip is gone, so it now ends on \"What'd I tell ya? What'd I tell ya? 12 was my unlucky number.\" Everything else unchanged (8 cuts, ~27 s). Cut from 'popstroke v2.mov'. Original audio, swearing kept, no added text or music, vertical 1080x1920.",
+  "branch": "scratch/promo-popstroke-montages3",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/fa059fb8f34cfc5f0ff122bd2e120bca",
+  "created": "2026-11-07",
+  "cuts": [
+    {
+      "at": "6:02.4–6:08.7",
+      "line": "It's just like really hard to hit it square with this shit hole of a putter. I should have spent 15 bucks and rented a spider."
+    },
+    {
+      "at": "3:59.5–4:05.8",
+      "line": "Extreme winds. I don't know if you can see these fans, but they are emulating a hurricane. It's gonna be fast."
+    },
+    {
+      "at": "16:29.8–16:31.4",
+      "line": "The sun is so in my eyes."
+    },
+    {
+      "at": "4:38.8–4:39.9",
+      "line": "I'm getting real sweaty."
+    },
+    {
+      "at": "8:11.0–8:13.3",
+      "line": "And as you can see, this is not a performance."
+    },
+    {
+      "at": "10:01.8–10:03.5",
+      "line": "12 is my unlucky number."
+    },
+    {
+      "at": "10:13.1–10:15.5",
+      "line": "That's not gonna be good. That's gonna be actually really terrible."
+    },
+    {
+      "at": "10:16.6–10:21.7",
+      "line": "What'd I tell ya? What'd I tell ya? 12 was my unlucky number."
+    }
+  ],
+  "decided_at": "2026-11-08T07:00:03.524Z",
+  "decided_round": 1,
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-montages/m02_the-excuses_r2.mp4",
+  "duration": 26.77,
+  "file": "clips/m02_the-excuses_r2.mp4",
+  "history": [
+    {
+      "at": "2026-11-08T11:50:00Z",
+      "decision": "changes",
+      "fix": "dropped the last clip (needing a bogey); now ends on the 12-unlucky-number punchline",
+      "notes": "cut the last clip about needing a bogey",
+      "round": 1
+    }
+  ],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M2",
+  "order": -9,
+  "posts_itself": false,
+  "range": "8 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/53b1eb55d9670db08907627d3c9ba5d4a2d33784/clips/m02_the-excuses_r2.mp4"
+  ],
+  "round": 2,
+  "segments": [
+    [
+      362.42,
+      368.71
+    ],
+    [
+      239.54,
+      245.84
+    ],
+    [
+      989.82,
+      991.35
+    ],
+    [
+      278.835,
+      279.895
+    ],
+    [
+      491,
+      493.275
+    ],
+    [
+      601.755,
+      603.54
+    ],
+    [
+      613.105,
+      615.45
+    ],
+    [
+      616.655,
+      621.71
+    ]
+  ],
+  "size_mb": 34,
+  "source_file": "popstroke v2.mov",
+  "status": "ready",
+  "theme": "Excuses montage: the putter, hurricane fans, the sun, the sweat, unlucky 12 — now ends on the landed punchline \"What'd I tell ya? 12 was my unlucky number.\"",
+  "title": "the excuses",
+  "type": "montage",
+  "video": "popstroke",
+  "video_asset": "23e598c8c89325755c1d0b5d9a8d12b2",
+  "video_title": "YouTube #2 · I Owe Tiger Woods an Apology (Thu Nov 12)",
+  "video_url": "/_blob/23e598c8c89325755c1d0b5d9a8d12b2"
+}

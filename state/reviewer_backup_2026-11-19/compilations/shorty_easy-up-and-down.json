@@ -1,0 +1,62 @@
+{
+  "about": "Your note: same clip, new line. One continuous clip, one hole-out attempt from the greenside bunker: wide shot, rainy day, three swings before it finally comes out. Your original sound, nothing cut inside. Line in the top third: “me after piping my drive / down the middle”. From Video Oct 12 2026, 12 00 30 AM.mov (23.6–34.3 s), which you posted on @mackygolfs Jul 26 — “we’ve got a DUMPER boys” https://www.instagram.com/reel/DbQq2MYRmJX/ (39.7 s of it in that post, fingerprint checked). The “easy up and down” line is now its own new shorty with a different clip (below).",
+  "account": "@mackthegolfer",
+  "caption": "golf giveth and golf taketh away",
+  "chosen_cover": "opt1",
+  "cover_options": [
+    {
+      "file": "shorties/easy-up-and-down_r3_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address in the bunker · line",
+      "url": "/_blob/f545fe87427d1cffbfe17a41a2e6b95e"
+    },
+    {
+      "file": "shorties/easy-up-and-down_r3_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "second swing · line",
+      "url": "/_blob/a2b7456f48dfd0d45e888a27664b06cf"
+    },
+    {
+      "file": "shorties/easy-up-and-down_r3_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "ball finally out · line",
+      "url": "/_blob/8f641ec0bb2c46a395b567f84f688ba9"
+    }
+  ],
+  "cover_text": "me after piping my drive down the middle",
+  "cover_url": "/_blob/f545fe87427d1cffbfe17a41a2e6b95e",
+  "decided_at": "2026-10-14T21:46:25.467Z",
+  "decided_round": 3,
+  "decision": "self_post",
+  "duration": 10.6,
+  "file": "shorties/easy-up-and-down_r3.mp4",
+  "handled_note": "Mack: 'It's fine but send to me to download and post because it needs music' — full-quality file sent to her in chat Oct 14; she posts it herself with music. Do NOT schedule or re-edit.",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "re-cut as one continuous clip (no cuts): bunker, three swings to get out; new footage from the Jul 26 rainy round, same line",
+      "notes": "This was supposed to be one clip",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "same one bunker clip, new line \"me after piping my drive down the middle\"; the \"easy up and down\" line moved to a new one-clip shorty (the lag that rolls back to her)",
+      "notes": "Use this clip with text that’s like classic follow up to a piped drive\n\nThen do a different clip for the current text",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/a330fd02d671e2c3cdf796bdd251472acd732f2b/shorties/easy-up-and-down_r3.mp4",
+  "notes": "It’s fine but send to me to download and post because it needs music",
+  "order": 11,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-14T21:18:00Z",
+  "round": 3,
+  "sent_at": "2026-10-14T22:02:00Z",
+  "status": "sent_to_mack",
+  "title": "Shorty: me after piping my drive down the middle",
+  "type": "shorty",
+  "video_asset": "b178ffd66a407cd2359b536e6a316189",
+  "video_url": "/_blob/b178ffd66a407cd2359b536e6a316189"
+}

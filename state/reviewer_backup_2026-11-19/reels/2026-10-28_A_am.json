@@ -1,0 +1,103 @@
+{
+  "about": "Week 1 @mackygolfs: your upload untouched (wipe first). Miller time par 4 after the turn, best drive of your life, the massive bird.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "any birders here?",
+  "chosen_cover": "opt1",
+  "cover_asset": "231760b308ac006422d118ab556e4a50",
+  "cover_file": "trials/067_miller-time-par-4_a_cover_r2_opt1.jpg",
+  "cover_files_location": "round-2 covers (q95 full-res) on mack-fitz/clips branch scratch/mg-pending-oct26, mg_pending/trials/067_miller-time-par-4_a_cover_r2_opt{1,2,3}.jpg (mackygolfs-mackthegolfer push not authorized Oct 26)",
+  "cover_note": "shirt-wipe frames, words over your hands between your face and chest (mid-frame, off your face and chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "231760b308ac006422d118ab556e4a50",
+      "file": "trials/067_miller-time-par-4_a_cover_r2_opt1.jpg",
+      "id": "opt1",
+      "label": "frame one (0.0 s): yellow \"it's miller time\" pill over your hands, cleavage showing below",
+      "url": "/_blob/231760b308ac006422d118ab556e4a50"
+    },
+    {
+      "asset": "74ec513d9dfab153e2e67b8d10af3a7d",
+      "file": "trials/067_miller-time-par-4_a_cover_r2_opt2.jpg",
+      "id": "opt2",
+      "label": "1.0 s: typewriter \"it's miller time\" over your hands, cleavage showing",
+      "url": "/_blob/74ec513d9dfab153e2e67b8d10af3a7d"
+    },
+    {
+      "asset": "b4aa4e9fdc598be3d92cca0b4cda921c",
+      "file": "trials/067_miller-time-par-4_a_cover_r2_opt3.jpg",
+      "id": "opt3",
+      "label": "1.25 s: purple \"it's miller time\" pill, cleavage showing",
+      "url": "/_blob/b4aa4e9fdc598be3d92cca0b4cda921c"
+    }
+  ],
+  "cover_url": "/_blob/231760b308ac006422d118ab556e4a50",
+  "date": "2026-10-28",
+  "decided_at": "2026-10-27T20:21:03.664Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 145.1,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week1 -6.mp4 (original, untouched)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "caption": "it's miller time. guess my score on this par 4",
+      "cover_options": [
+        {
+          "asset": "f8bdcbe0e05986b0cd27aa0db21cf257",
+          "file": "trials/067_miller-time-par-4_a_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "yellow \"Macky vs. Miller Time\" pill, mid-frame",
+          "url": "/_blob/f8bdcbe0e05986b0cd27aa0db21cf257"
+        },
+        {
+          "asset": "5e84c7885153cf5a1765ab72c432ac14",
+          "file": "trials/067_miller-time-par-4_a_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "typewriter \"it's miller time\", mid-frame",
+          "url": "/_blob/5e84c7885153cf5a1765ab72c432ac14"
+        },
+        {
+          "asset": "8f736a3b4d0773e0d97db7490f37a78e",
+          "file": "trials/067_miller-time-par-4_a_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "purple \"Macky vs. a Big Bird\" pill, mid-frame",
+          "url": "/_blob/8f736a3b4d0773e0d97db7490f37a78e"
+        }
+      ],
+      "decided_at": "2026-10-26T15:54:21.460Z",
+      "decision": "changes",
+      "done": "Round 2: 3 new \"it's miller time\" covers on frames that show your cleavage (opt1 is frame one); words mid-frame over your hands, never over your chest. Caption now \"any birders here?\". Video unchanged.",
+      "done_at": "2026-10-26T18:35:00Z",
+      "notes": "You can’t see my cleavage in the cover. Is that frame one? Do different it’s miller time covers\n\nCaption any birders here?",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Scheduled Oct 27 3:32pm MT by hourly approvals check: Zernio 6ae11863 (trial MANUAL), Wed Oct 28 8:22am MT, cover opt1, caption \"any birders here?\". Re-uploaded full quality (124,171,838 B, sha256 matches) via zupload from small branch scratch/relay-a-w1-6.",
+  "media_reupload": "scratch/relay-a-w1-6:A_w1-6.mp4",
+  "media_url": "https://media.zernio.com/media/1793136596507_d75eb7d3bf1c114c_mackygolfs_w1_week1-6_original.mp4",
+  "media_url_expired": "https://media.zernio.com/media/1792797352192_23b6h7ld_mackygolfs_w1_week1-6_original.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-28 08:22 (A morning, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/DfCozZ3ETCQ/",
+  "posted_account": "@mackygolfs",
+  "posted_at": "2026-10-28T14:24:00Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week1 -6.mp4. Posts untouched: H.264 1080x1920, 6.6 Mbps, 124 MB (uploaded to Zernio at full quality, no re-encode).",
+  "round": 2,
+  "scheduled_at": "2026-10-27T21:32:19Z",
+  "scheduled_for": "2026-10-28T08:22:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week1 -6.mp4",
+  "status": "posted",
+  "time_ct": "09:22",
+  "time_mt": "08:22",
+  "updated_at": "2026-10-26T18:35:00Z",
+  "video_asset": "b7d7f964bd7d0b8b2dce7a2e775636a8",
+  "video_url": "/_blob/b7d7f964bd7d0b8b2dce7a2e775636a8",
+  "zernio": "6ae118634bbbc6596da7c492",
+  "zernio_id": "6ae118634bbbc6596da7c492",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

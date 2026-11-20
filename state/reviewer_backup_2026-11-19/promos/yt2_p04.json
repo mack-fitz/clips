@@ -1,0 +1,36 @@
+{
+  "about": "Selfie: 'a lot of people think I sweat performatively on certain videos of mine, depending on how you found me… as you can see, this is not a performance.' Short one. Original audio, swearing kept, no added text, vertical 1080x1920.",
+  "branch": "scratch/promo-popstroke-clips",
+  "caption": "for the record the sweat is real. full video on my channel",
+  "cover_url": "/_blob/2616869ff9a090e9cb3b980f52984953",
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-review/p04_not-a-performance.mp4",
+  "duration": 9.9,
+  "file": "clips/p04_not-a-performance.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "4",
+  "order": 4,
+  "posts_itself": false,
+  "range": "8:19.4–8:29.4",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/da9eb6a5a29497e3351f59ef405b18f5ef7c1fe7/clips/p04_not-a-performance.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      499.45,
+      509.35
+    ]
+  ],
+  "size_mb": 21,
+  "status": "dropped",
+  "superseded": true,
+  "superseded_by": "yt2_m01..m04 montages (Nov 7)",
+  "title": "OLD single-moment cut: not a performance",
+  "video": "popstroke",
+  "video_asset": "7af11d4a2b8985be2be961f9a7724810",
+  "video_title": "YouTube #2 · PopStroke (Thu Nov 12)",
+  "video_url": "/_blob/7af11d4a2b8985be2be961f9a7724810"
+}

@@ -1,0 +1,76 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 0.7 s); opens on 'complete par 4 with a very realistic golfer'. Every shot, putt and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "one shot one opportunity type shit",
+  "chosen_cover": "opt1",
+  "cover_asset": "e68202b000243afdfb5d4106fb66bc1a",
+  "cover_file": "trials/070_realistic-golfer-par-4_b_r2_cover_opt1.jpg",
+  "cover_note": "no-wipe frames: two with no burned-in captions, one where the pill covers the caption; words low, off your face and chest — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "e68202b000243afdfb5d4106fb66bc1a",
+      "file": "trials/070_realistic-golfer-par-4_b_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "red \"Macky vs. a Par 4\" pill, drive with tracer, hands on hips (no captions on this frame)",
+      "url": "/_blob/e68202b000243afdfb5d4106fb66bc1a"
+    },
+    {
+      "asset": "cdfda25db0e4602ffcce011aa5bd7339",
+      "file": "trials/070_realistic-golfer-par-4_b_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "orange \"Macky vs. a Par 4\" pill, on the green by the flag (no captions on this frame)",
+      "url": "/_blob/cdfda25db0e4602ffcce011aa5bd7339"
+    },
+    {
+      "asset": "45e2af9aa9356905d1520089925a41af",
+      "file": "trials/070_realistic-golfer-par-4_b_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "blue \"Macky vs. a Par 4\" pill on the green, covering the burned-in caption",
+      "url": "/_blob/45e2af9aa9356905d1520089925a41af"
+    }
+  ],
+  "cover_url": "/_blob/e68202b000243afdfb5d4106fb66bc1a",
+  "date": "2026-10-25",
+  "decided_at": "2026-10-24T17:11:58.413Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 136.7,
+  "file": "trials/070_realistic-golfer-par-4_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "applied_at": "2026-10-24T15:59:52Z",
+      "decided_at": "2026-10-24T15:40:49.967Z",
+      "decision": "changes",
+      "fix": "\"Macky vs. a Par 4\" pill on frames WITHOUT burned-in captions (26.4 s drive+tracer, 104.6 s green) + one where the pill fully covers the caption (102.4 s); caption -> \"one shot one opportunity type shit\"",
+      "notes": "Do Macky vs. a Par 4 pill\nbut don’t choose a frame with captions\n\ncaption one shot one opportunity type shit",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_expires": "2026-10-30T23:59Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/w1-exports:070_realistic-golfer-par-4_b.mp4",
+  "media_url": "https://media.zernio.com/media/1792799406362_siyfwjwa_mackthegolfer_070_realistic-golfer-par-4_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-25 07:26 (B morning, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/De60HTCgYLR/",
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-25T13:29:23.593Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week1 -7.mp4.",
+  "round": 2,
+  "scheduled_at": "2026-10-24T17:26:15Z",
+  "scheduled_for": "2026-10-25T07:26:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week1 -7.mp4",
+  "status": "posted",
+  "time_ct": "08:26",
+  "time_mt": "07:26",
+  "video_asset": "1662432d3d02b3705d7f24f8b242644f",
+  "video_url": "/_blob/1662432d3d02b3705d7f24f8b242644f",
+  "zernio": "6adcea377906473393be7aed",
+  "zernio_id": "6adcea377906473393be7aed"
+}

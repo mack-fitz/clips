@@ -1,0 +1,74 @@
+{
+  "about": "Week 1 @mackygolfs PM file (afternoon only, never bounces): fall golf rant in the cart, opens on your shirt wipe, nothing cut. Your file is HEVC, so ONE full-quality H.264 conversion (CRF 17).",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders) — PM files added Oct 23 afternoon",
+  "caption": "why is no body talking about fall golf",
+  "chosen_cover": "opt2",
+  "cover_asset": "0d9054af720437ba892461275c26a92d",
+  "cover_file": "trials/076_cart-rant-pm_a_cover_opt2.jpg",
+  "cover_note": "shirt-wipe frames in the cart, words low over your waist (below your chest) or no words — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "88615a3fd825690526544618a875296b",
+      "file": "trials/076_cart-rant-pm_a_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "orange \"Macky vs. Fall Golf\" pill, low (waist)",
+      "url": "/_blob/88615a3fd825690526544618a875296b"
+    },
+    {
+      "asset": "0d9054af720437ba892461275c26a92d",
+      "file": "trials/076_cart-rant-pm_a_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"fall golf is so back\", low (waist)",
+      "url": "/_blob/0d9054af720437ba892461275c26a92d"
+    },
+    {
+      "asset": "67dfd501349ceb21f66a809a0a809dfd",
+      "file": "trials/076_cart-rant-pm_a_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "shirt wipe coming down, no words",
+      "url": "/_blob/67dfd501349ceb21f66a809a0a809dfd"
+    }
+  ],
+  "cover_url": "/_blob/0d9054af720437ba892461275c26a92d",
+  "date": "2026-10-25",
+  "decided_at": "2026-10-24T17:31:40.700Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 20.2,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/PM (1).MOV (one full-quality encode)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "caption swapped; kept cover 3 (your pick)",
+      "notes": "Caption why is no body talking about fall golf",
+      "round": 1
+    }
+  ],
+  "kind": "pm",
+  "length": "short",
+  "media_expires": "2026-10-31T16:08Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/w1-pm-exports:076_cart-rant-pm_a.mp4",
+  "media_url": "https://media.zernio.com/media/1792858071225_dvbf8bto_mackygolfs_076_cart-rant-pm_a.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-25 14:41 (A afternoon, PM file, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/De7l2S5gdLr/",
+  "posted_account": "@mackygolfs",
+  "posted_at": "2026-10-25T20:42:55.094Z",
+  "prepared_at": "2026-10-24T16:20:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every IG post). Dropbox /Golf/for claude/mackygolfs/week 1/PM (1).MOV (added Oct 23 afternoon).",
+  "round": 2,
+  "scheduled_at": "2026-10-24T18:26:18Z",
+  "scheduled_for": "2026-10-25T14:41:00-06:00",
+  "slot": "afternoon",
+  "source": "/Golf/for claude/mackygolfs/week 1/PM (1).MOV",
+  "status": "posted",
+  "time_ct": "15:41",
+  "time_mt": "14:41",
+  "video_asset": "5e738cb516cbf53c1364cff8a3d9c4b8",
+  "video_url": "/_blob/5e738cb516cbf53c1364cff8a3d9c4b8",
+  "zernio": "scheduled Sun Oct 25 2:41pm MT, trial MANUAL, cover opt2 (typewriter \"fall golf is so back\")",
+  "zernio_id": "6adcf84a90ba8842bddcc561"
+}

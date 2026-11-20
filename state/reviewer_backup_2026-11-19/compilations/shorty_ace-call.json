@@ -1,0 +1,52 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo, San Angelo par 3. \"you ready for this?\" → the tee shot with your tracer → \"oh, it's gonna be a little left… and about 40 yards past it\". Your original sound and your own captions. Line \"me after calling a hole in one\" sits up top, clear of your head the whole clip. From Video Oct 12 2026, 12 14 03 AM.mov (~30–45 s), which you posted on @mackthegolfer Oct 12 (\"said hole in one. close enough\") and @mackygolfs Oct 16 (\"called the hole in one. got the par\"). Pick the account below.",
+  "account": "",
+  "caption": "ace was called. ace was not delivered",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "784bb947b8910a432c93edbccd4a6893",
+      "file": "shorties/ace-call_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/f983a6f02f7ec314f9fc071c5e8f979dd96e19e4/mg_pending/shorties/ace-call_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address, \"you ready for this\"",
+      "url": "/_blob/784bb947b8910a432c93edbccd4a6893"
+    },
+    {
+      "asset": "2edd59e5959b886faf6128ea6b9288fb",
+      "file": "shorties/ace-call_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/f983a6f02f7ec314f9fc071c5e8f979dd96e19e4/mg_pending/shorties/ace-call_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "top of the swing, tracer taking off",
+      "url": "/_blob/2edd59e5959b886faf6128ea6b9288fb"
+    },
+    {
+      "asset": "afed02a71883efef7666af1e4f2dd129",
+      "file": "shorties/ace-call_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/f983a6f02f7ec314f9fc071c5e8f979dd96e19e4/mg_pending/shorties/ace-call_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "watching it go left with the tracer",
+      "url": "/_blob/afed02a71883efef7666af1e4f2dd129"
+    }
+  ],
+  "cover_text": "me after calling a hole in one",
+  "cover_url": "/_blob/784bb947b8910a432c93edbccd4a6893",
+  "decision": null,
+  "duration": 15,
+  "file": "shorties/ace-call.mp4",
+  "history": [],
+  "media_note": "Full quality (1080x1920, CRF 17, 11.8 Mbps export vs 11.3 Mbps source) on clips branch scratch/mg-pending-oct29 (pinned f983a6f). No Zernio post until you approve. Guard PASS for both trial accounts.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/f983a6f02f7ec314f9fc071c5e8f979dd96e19e4/mg_pending/shorties/ace-call.mp4",
+  "notes": "",
+  "order": 43,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-29T01:50:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Shorty: me after calling a hole in one",
+  "type": "shorty",
+  "video_asset": "45690e356eca2cf6d50cb6263b59bcc0",
+  "video_url": "/_blob/45690e356eca2cf6d50cb6263b59bcc0"
+}

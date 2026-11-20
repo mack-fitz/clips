@@ -1,0 +1,54 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: white shirt, camo hat, Amarillo par 4, wide-open tee shot → slices hard right (tracer) → “still rolling… technically kind of in the fairway” → walks back: “kind of on the cart path”. Your talk is the punchline so it stays; your original sound and captions. Line in the lower band (above your captions) since your head is in the upper band the whole time. From Video Oct 12 2026, 7 16 02 AM.mov (23.60–38.86 s), which you posted on @mackthegolfer Oct 11 — “does anyone know the lag masta’s schedule actually” https://www.instagram.com/reel/DeX0u_Ox_W3/ (136 s of the 141 s video in that post, this drive included). Not in any shorty or posted compilation (only the dropped comp6 had it). True original, single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "it's technically the fairway if you squint",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/fairway-to-hit_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address · line",
+      "url": "/_blob/600009edcc57904281ac44a0f95780af"
+    },
+    {
+      "file": "shorties/fairway-to-hit_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "follow-through, tracer slicing right · line",
+      "url": "/_blob/30bcd05b6ceb587843af902425be3127"
+    },
+    {
+      "file": "shorties/fairway-to-hit_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "walking back, “kind of on the cart path” · line",
+      "url": "/_blob/05b73dd274f9fa7b291762ce0b6af816"
+    }
+  ],
+  "cover_text": "me with 80 yards of fairway to hit",
+  "cover_url": "/_blob/600009edcc57904281ac44a0f95780af",
+  "decided_at": "2026-10-18T19:22:10.064Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 15.3,
+  "file": "shorties/fairway-to-hit.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 18): dropped from the page, never posted; the clip goes back to the pool.",
+      "notes": "This doesn’t make sense either cancel",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/7e085fcaf8764e0242626c8ea080d44641c5a8f6/shorties/fairway-to-hit.mp4",
+  "notes": "This doesn’t make sense either cancel",
+  "order": 30,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-18T18:35:00Z",
+  "round": 1,
+  "status": "dropped",
+  "title": "Shorty: me with 80 yards of fairway to hit",
+  "type": "shorty",
+  "video_asset": "9443e3355f16f8ca75fdfe0786e7c515",
+  "video_url": "/_blob/9443e3355f16f8ca75fdfe0786e7c515"
+}

@@ -1,0 +1,54 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo, short grass near the green, address → the chip goes hard right (tracer) → “motherf*cker” → “that's in some tall grass, I'm not fetching that”. Your original sound and captions, swearing kept. Line in the top third: “me after deciding / not to putt it”. From Video Oct 12 2026, 12 17 30 AM.mov (52.1–63.0 s, starts right after your “uproar in my comment section” line), which you posted yourself on @mackygolfs Oct 14 — “You me par four? 👉👈” https://www.instagram.com/reel/DefODPLhS7S/ (170 s of it in that post, fingerprint checked). Not in any posted or pending compilation or shorty. True original, single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "should have putted it",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/not-to-putt-it_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address · line",
+      "url": "/_blob/0a4704e9f15b679878df3f0243184f99"
+    },
+    {
+      "file": "shorties/not-to-putt-it_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "follow-through with tracer · line",
+      "url": "/_blob/dbacd7e22927b26e26ba0a5e86f74d99"
+    },
+    {
+      "file": "shorties/not-to-putt-it_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "“not fetching that” · line",
+      "url": "/_blob/1d8a4b6981344e1a11ad7fc288adf54d"
+    }
+  ],
+  "cover_text": "me after deciding not to putt it",
+  "cover_url": "/_blob/0a4704e9f15b679878df3f0243184f99",
+  "decided_at": "2026-10-15T21:31:10.948Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 10.9,
+  "file": "shorties/not-to-putt-it.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 15): dropped from the page, never posted; the clip goes back to the pool.",
+      "notes": "Cancel this idea it doesn’t make sense",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/ddf6d183f2ede26f12f68c7b8460a558987f45ae/shorties/not-to-putt-it.mp4",
+  "notes": "",
+  "order": 16,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-15T13:10:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "Shorty: me after deciding not to putt it",
+  "type": "shorty",
+  "video_asset": "ebbac61d1ff274b6d89cf8518fbfaaf8",
+  "video_url": "/_blob/ebbac61d1ff274b6d89cf8518fbfaaf8"
+}

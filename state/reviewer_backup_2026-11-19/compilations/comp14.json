@@ -1,0 +1,72 @@
+{
+  "about": "Round 3, your notes applied: now OPENS on “so I’m just gonna try to lag her up there and get a nice par tap in”. “Like I said, we’re pretty DC of the G” is split off at your own cut and moved to 3rd. Order (28 s): 1) lag her up there / par tap in (orange) 2) drive straight up with the full tracer → “and they call that an elephant’s ass” → “my lips are so dry” (green polo) 3) “like I said, we’re pretty DC of the G” (orange) 4) “a little pause at the top, a little pump pump” (green pinstripe) 5) “just a little bump and roll” (orange). The on-screen line “can you tell I was not formally trained in golf?” now sits in white rounded bubbles with black text so it can’t be mistaken for your captions. Every shot whole, swearing kept, one full-quality export from your originals. Covers unchanged.",
+  "account": "@mackthegolfer",
+  "caption": "make sure to really get your hips involved",
+  "chosen_cover": "opt2",
+  "cover_options": [
+    {
+      "file": "compilations/comp14_golf-lingo_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "elephant-trunk arm, purple in the sky",
+      "url": "/_blob/07f00aba28c2e921541cb87ba2ee1501"
+    },
+    {
+      "file": "compilations/comp14_golf-lingo_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "crouched 'lag her up there', blue",
+      "url": "/_blob/e73456901556883aa6d440f72ab79dd3"
+    },
+    {
+      "file": "compilations/comp14_golf-lingo_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "'bump and roll' with the club, typewriter",
+      "url": "/_blob/140a023c5fdcf70430b95945b37f0a44"
+    }
+  ],
+  "cover_text": "golf lingo to use next round",
+  "cover_url": "/_blob/07f00aba28c2e921541cb87ba2ee1501",
+  "decided_at": "2026-10-21T17:28:11.943Z",
+  "decided_round": 3,
+  "decision": "approved",
+  "duration": 28,
+  "file": "compilations/comp14_golf-lingo_r3.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cut bit 1 (two options on this hill) and bit 6 (tweener / not my best hole); now opens on “lag her up there… par tap in”. Added on-screen line “can you tell I was not formally trained in golf?”. 43.7 s → 28 s. Cover opt1 removed (its frame was in the cut clip).",
+      "notes": "Cut best hole and the very first clip\nStart with lag her up par tap in\n\nText on screen can you tell I was not formally trained in golf?",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Opens on “lag her up there… par tap in” now; “DC of the G” split off at your own cut and moved to 3rd (after the elephant drive). On-screen text now in white rounded bubbles, black letters. 28 s.",
+      "notes": "D c of the G should not be the first. The lag her up there and tap it in should be. \n\nPut bubble around the letters so it doesn’t look like the captions",
+      "round": 2
+    },
+    {
+      "decision": "approved",
+      "fix": "Not re-scheduled: this exact file (r3), cover opt2 and caption already went out as a trial reel on @mackthegolfer Tue Oct 20 7:34pm MT (Zernio 6ad7632a232f615ea390e290, instagram.com/reel/DevPRNsFDc4). Posting the same file twice on one account breaks HARD RULE 4, and the repeat guard fails it. Marked posted.",
+      "notes": "approved again Oct 21 11:28am (post_when next, cover opt2)",
+      "round": 3
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83e8cc98443a9f43cf21fc0a4d5101b62f1d095/compilations/comp14_golf-lingo_r3.mp4",
+  "notes": "",
+  "on_screen_text": "can you tell I was not formally trained in golf?",
+  "order": 23,
+  "platform_post_url": "https://www.instagram.com/reel/DevPRNsFDc4/",
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": true,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-21T01:34:57Z",
+  "prepared_at": "2026-10-16T19:55:00Z",
+  "round": 3,
+  "scheduled_at": "2026-10-20T12:48:42Z",
+  "scheduled_for": "2026-10-20T19:33:00-06:00",
+  "status": "posted",
+  "title": "golf lingo to use next round",
+  "video_asset": "24dceb76ed2839d8683bc65ce3497190",
+  "video_url": "/_blob/24dceb76ed2839d8683bc65ce3497190",
+  "zernio": "6ad7632a232f615ea390e290"
+}

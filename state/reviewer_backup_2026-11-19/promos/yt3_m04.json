@@ -1,0 +1,108 @@
+{
+  "about": "Heat-stroke meltdown: 'sorry you're having to watch this', lawyer threats, a surprise lake, crumbling, begging to end the video; ends on 'We're gonna finish strong.' Cuts (times in the long video '7iron final.mov'): 22:38.7–22:42.6 “I'm sorry you're having to watch this. I'm sure I've lost many of you.” | 10:20.1–10:25.9 “If I get another triple B2B trips, I'm calling my lawyer.” | 17:27.5–17:29.7 “Turns out there was a fucking lake.” | 17:34.3–17:36.3 “I'm just really crumbling at the end here.” | 17:45.5–17:49.0 “Terrible. Now I'm crumbling again. God, I'm actually so mad.” | 18:14.2–18:17.7 “Get this on the green. You stupid idiot.” | 22:00.8–22:02.6 “I mean, I'm out of breath just existing.” | 23:36.2–23:40.9 “We're gonna hole out right here so I can finally end this video. Put me out of my misery.” | 21:27.8–21:34.0 “Let's finish on a strong note. I know I've had a bad attitude recently, and that's my bad. We're gonna finish strong.”. Original audio, swearing kept, no added text or music, no shirt wipe, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-7iron-montages3",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/949975045149b8cfef4cf6bc7fb29a18",
+  "created": "2026-11-08",
+  "cuts": [
+    {
+      "at": "22:38.7–22:42.6",
+      "line": "I'm sorry you're having to watch this. I'm sure I've lost many of you."
+    },
+    {
+      "at": "10:20.1–10:25.9",
+      "line": "If I get another triple B2B trips, I'm calling my lawyer."
+    },
+    {
+      "at": "17:27.5–17:29.7",
+      "line": "Turns out there was a fucking lake."
+    },
+    {
+      "at": "17:34.3–17:36.3",
+      "line": "I'm just really crumbling at the end here."
+    },
+    {
+      "at": "17:45.5–17:49.0",
+      "line": "Terrible. Now I'm crumbling again. God, I'm actually so mad."
+    },
+    {
+      "at": "18:14.2–18:17.7",
+      "line": "Get this on the green. You stupid idiot."
+    },
+    {
+      "at": "22:00.8–22:02.6",
+      "line": "I mean, I'm out of breath just existing."
+    },
+    {
+      "at": "23:36.2–23:40.9",
+      "line": "We're gonna hole out right here so I can finally end this video. Put me out of my misery."
+    },
+    {
+      "at": "21:27.8–21:34.0",
+      "line": "Let's finish on a strong note. I know I've had a bad attitude recently, and that's my bad. We're gonna finish strong."
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-7iron-montages/m04_crumbling.mp4",
+  "duration": 33.57,
+  "file": "clips/m04_crumbling.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M4",
+  "order": -3,
+  "posts_itself": false,
+  "range": "9 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/9b2667b89e3ca5786103a49eade8dde03a4df094/clips/m04_crumbling.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      1358.725,
+      1362.565
+    ],
+    [
+      620.065,
+      625.93
+    ],
+    [
+      1047.455,
+      1049.67
+    ],
+    [
+      1054.335,
+      1056.315
+    ],
+    [
+      1065.47,
+      1068.98
+    ],
+    [
+      1094.235,
+      1097.73
+    ],
+    [
+      1320.835,
+      1322.64
+    ],
+    [
+      1416.24,
+      1420.86
+    ],
+    [
+      1287.77,
+      1293.975
+    ]
+  ],
+  "size_mb": 34,
+  "source_file": "7iron final.mov",
+  "status": "ready",
+  "theme": "Heat-stroke meltdown: 'sorry you're having to watch this', lawyer threats, a surprise lake, crumbling, begging to end the video; ends on 'We're gonna finish strong.'",
+  "title": "crumbling",
+  "type": "montage",
+  "video": "7iron",
+  "video_asset": "4538749a6f9b500f8fcbe8111bfaa709",
+  "video_title": "YouTube #3 · 7 iron only (Thu Nov 19)",
+  "video_url": "/_blob/4538749a6f9b500f8fcbe8111bfaa709"
+}

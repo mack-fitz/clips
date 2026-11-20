@@ -1,0 +1,52 @@
+{
+  "about": "Nothing but bad shots, one day / one outfit (green striped polo, khakis, white cap) from your Oct 21 Golf Tracer 2 clips. 9 bits back to back, each cut before you talk: opens on the driver you hit 'four inches in front of the ball', then the chunk that 'took a whole chunk out of the ground', the shot into the bunker ('trip to the beach'), 'what the heck was that', the 'atrocious' one, the bunker shot ('oh no'), the hay-stack shot, the one you 'hate that you had to see', and 'not a good drive'. Natural sound only, no music, no text, no shirt wipe (each clip's opening wipe is skipped). Transcript of the final file: empty (no speech). 32 s.",
+  "account": "",
+  "caption": "",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "d1eb5bc770e2cee7dce15171f0b6937a",
+      "file": "badshots/badshots_3_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_3_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "top of the driver swing",
+      "url": "/_blob/d1eb5bc770e2cee7dce15171f0b6937a"
+    },
+    {
+      "asset": "64ffc98b0ac8a0716ca8a00a74818224",
+      "file": "badshots/badshots_3_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_3_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "after the shot, sun behind",
+      "url": "/_blob/64ffc98b0ac8a0716ca8a00a74818224"
+    },
+    {
+      "asset": "257ad6bf8a2cc1639661642650ec3ace",
+      "file": "badshots/badshots_3_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_3_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "at address with the driver",
+      "url": "/_blob/257ad6bf8a2cc1639661642650ec3ace"
+    }
+  ],
+  "cover_text": "",
+  "cover_url": "/_blob/d1eb5bc770e2cee7dce15171f0b6937a",
+  "decision": null,
+  "duration": 32.1,
+  "file": "badshots/badshots_3.mp4",
+  "history": [],
+  "media_note": "Full quality 1080x1920 H.264 High@4.2 CRF 17, AAC 256k loudness-normalized, one encode from your originals, on clips branch scratch/badshots-comps (pinned b459e7b). No Zernio post until you approve.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_3.mp4",
+  "notes": "",
+  "order": 52,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-11-20T01:40:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Bad shots only: green striped polo day",
+  "type": "compilation",
+  "video_asset": "49708ae0b9e8f5f3afecfe2a9190b6d3",
+  "video_url": "/_blob/49708ae0b9e8f5f3afecfe2a9190b6d3"
+}

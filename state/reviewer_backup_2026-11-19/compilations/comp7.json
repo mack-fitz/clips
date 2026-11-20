@@ -1,0 +1,58 @@
+{
+  "about": "7 bits of you talking about how good you are at putting, no shots: 1) galaxy best putter 2) expert read greener 3) lag putt of the century 4) one of the best putts you've ever seen 5) lag master do her thang 6) you ever seen a lag putt that good 7) motherf*cking lag master. Text \"the sh*t I be saying while 4 putting every hole\" stays at the top of the reel the whole time (never over your face). 29.9 s, full-quality export from your originals.",
+  "account": "@mackthegolfer",
+  "also_tiktok_after_approval": true,
+  "caption": "i'm my biggest fan",
+  "chosen_cover": "r5opt2",
+  "cover_options": [],
+  "cover_text": "the sh*t I be saying while 4 putting every hole",
+  "cover_url": "",
+  "decided_at": "2026-10-15T22:18:35.424Z",
+  "decided_round": 5,
+  "decision": "approved",
+  "duration": 29.9,
+  "file": "compilations/comp7_putting_r5.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Rebuilt from scratch. Every bit is now just one shot that clearly goes wrong, then you rating it way too kindly — no setups that need explaining: over the tree → 'at least I'm in the shade now'; sky-high short one → 'couldn't have been more perfect… still not on the green'; four putt → 'pretty standard… but that long putt incredible'; pops up short → 'otherwise pure like butter'. 46 s. 4 new covers.",
+      "notes": "This doesn’t make sense go back to the drawing board",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Redone from scratch: 11 lines of you talking about how good you are, opening on best putter in the galaxy, no shots. 44s. New cover text as you wrote it, 4 covers. Tell me what to cut.",
+      "notes": "Redo this whole thing\nText says the sh*t I be saying while shooting a 115\nDo clips of me talking about how good I am\nOpen with best putter in the galaxy\nOther stuff like that. The more the better I’ll tell you what to cut",
+      "round": 2
+    },
+    {
+      "decision": "changes",
+      "fix": "Cut the pitching-wedge line (\"we could actually be alright here, I'm normally pretty good with a pitching wedge\"); other 10 lines unchanged, same order, 40.7 s. 3 new covers with the text kept off your face (below it, over your shirt). TikTok: noted for once it's approved (handled by the TikTok side, not this trial run).",
+      "notes": "Cut we could be alright here I’m usually pretty good with a pitching wedge \n\nDon’t ever put the cover text over my face \n\nI want this going out in TikTok too once I have this approved",
+      "round": 3
+    },
+    {
+      "decision": "changes",
+      "fix": "Cut the 3 non-putting lines (\"have you ever seen a shot better than that\", the 8-iron line, \"just have to hit this perfectly\"); 7 putting lines left, same order, 29.9 s. Text \"the sh*t I be saying while 4 putting every hole\" on the reel the whole time, top of the frame, never over your face. Cover text changed to match, 3 covers with the text on your shirt.",
+      "notes": "Take out every comment that isn’t about putting and then make the text “the sh*t I be saying while 4 putting every hole”\nKeep that text on the reel throughout",
+      "round": 4
+    }
+  ],
+  "media_note": "Round-5 full-quality file + covers in the repo (a919a4a).",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/a919a4a0cc84069214425aa5143eb0ff5d3cc005/compilations/comp7_putting_r5.mp4",
+  "notes": "",
+  "order": 7,
+  "post_account": "@mackthegolfer",
+  "post_when": "now",
+  "posted": true,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-15T22:41:34Z",
+  "prepared_at": "2026-10-14T21:12:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 5,
+  "status": "posted",
+  "title": "the sh*t I be saying while 4 putting every hole",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad1569e25bd503ce8f4811e"
+}

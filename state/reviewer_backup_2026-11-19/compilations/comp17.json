@@ -1,0 +1,59 @@
+{
+  "about": "On hold: the “Macky vs. Texas” cut is scrapped as you asked. For the Texas wedge comp I searched the word-level transcripts of all 30 talking videos in Golf Captions + golfclips: you only say “Texas wedge” twice — “if you’ve been following me for a minute, you know I love the Texas wedge” (orange checker, Colorado) and “I am in Texas, so it feels inappropriate to not use the Texas wedge… Texas is bringing me home” (San Angelo). Two lines isn’t enough for an “over and over” comp. If you have more Texas wedge videos, drop them in a new subfolder in /Golf Captions (or tell me which posts) and I’ll build it.",
+  "account": "@mackthegolfer",
+  "caption": "everything's bigger in texas. especially my score",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp17_texas_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "cart selfie grin 'San Angelo, Texas', red",
+      "url": "/_blob/afb669a243416ef68cc5072c6d8a9795"
+    },
+    {
+      "file": "compilations/comp17_texas_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "Bad hat close-up 'Sahara Desert', orange",
+      "url": "/_blob/6d3165c6b9343616ad6fed1834c675ad"
+    },
+    {
+      "file": "compilations/comp17_texas_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "orange checker 'Texas wedge', blue",
+      "url": "/_blob/ecc2e8370aee079dce8f4495df0a4d25"
+    },
+    {
+      "file": "compilations/comp17_texas_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "Bad hat, typewriter 'i didn't realize the sahara desert was in texas'",
+      "url": "/_blob/82e657a765b2c5cbdfefe04be3c79a90"
+    }
+  ],
+  "cover_text": "Macky vs. Texas",
+  "cover_url": "/_blob/afb669a243416ef68cc5072c6d8a9795",
+  "decided_at": "2026-10-18T19:21:23.066Z",
+  "decided_round": 1,
+  "decision": "on_hold",
+  "duration": 51.6,
+  "file": "compilations/comp17_texas.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Old Texas cut scrapped. Texas wedge comp on hold: only 2 “Texas wedge” lines exist in the transcribed footage.",
+      "notes": "Scrap this. Do a comp with me just saying over and over that I’m going to use the Texas wedge",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/9e714fe7ddbb3afc6c0d68403809829fe1ea54d0/compilations/comp17_texas.mp4",
+  "notes": "",
+  "order": 28,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-17T20:00:00Z",
+  "round": 1,
+  "status": "on_hold",
+  "title": "Texas wedge comp (on hold)",
+  "video_asset": "caa6a2ffdf8776164e3270929c4bad3c",
+  "video_url": "/_blob/caa6a2ffdf8776164e3270929c4bad3c"
+}

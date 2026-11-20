@@ -1,0 +1,54 @@
+{
+  "about": "Red Hawaiian shirt pent-bogey par 5 for @mackthegolfer: wipe removed, opens on 'Hey, it's Mack. Should we play a par 5 together?', every shot and swear kept. It posted on @mackygolfs Sep 22 9:40am, so the 30-day rule clears at midnight tonight (it counts whole days). Approve now and it goes out at the first slot after midnight; or tell Claude in chat to post it right at midnight.",
+  "account": "B",
+  "batch": "red hawaiian shirt (Mack, Oct 14)",
+  "caption": "if you count the shanks it's a pent-bogey. please help",
+  "chosen_cover": "opt2",
+  "cover_options": [
+    {
+      "asset": "29eefa7c9d872d2f3bcd79b2d28f9c96",
+      "file": "trials/052_pent-bogey-par-5-red-shirt_b_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "smiling in the cart, no words",
+      "url": "/_blob/29eefa7c9d872d2f3bcd79b2d28f9c96"
+    },
+    {
+      "asset": "63ceb6b0503965370dd1dbb2c6eaebe9",
+      "file": "trials/052_pent-bogey-par-5-red-shirt_b_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter note low, on the green",
+      "url": "/_blob/63ceb6b0503965370dd1dbb2c6eaebe9"
+    },
+    {
+      "asset": "5fe47ee9f1e536a351f06a401f7e4bb6",
+      "file": "trials/052_pent-bogey-par-5-red-shirt_b_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "typewriter note low, in the bunker",
+      "url": "/_blob/5fe47ee9f1e536a351f06a401f7e4bb6"
+    }
+  ],
+  "cover_url": "/_blob/29eefa7c9d872d2f3bcd79b2d28f9c96",
+  "date": "2026-10-23",
+  "decided_at": "2026-10-23T19:57:13.188Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 27.2,
+  "file": "trials/052_pent-bogey-par-5-red-shirt_b.mp4",
+  "handle": "@mackthegolfer",
+  "history": [],
+  "kind": "re-edit",
+  "length": "short",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/c6dc276cbd73a61322a1d5d054bbed0189ada9ce/trials/052_pent-bogey-par-5-red-shirt_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-23 19:31 (B evening; the 08:20 slot now has the approved comp18 'Macky vs. trees')",
+  "post_url": "https://www.instagram.com/reel/De7jthljBRu/",
+  "posted_at": "2026-10-25T20:24:19.116Z",
+  "round": 1,
+  "scheduled_for": "2026-10-25T14:23:00-06:00",
+  "slot": "evening",
+  "status": "posted",
+  "time_ct": "20:31",
+  "time_mt": "19:31",
+  "video_url": "/_blob/aff188b1096ba4cdd6b812cd0a74175a",
+  "zernio_id": "6adc339112d47ba508433397"
+}

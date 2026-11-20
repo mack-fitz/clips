@@ -1,0 +1,97 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 1.8 s); opens on 'I'm one of the worst rated golfers I know'. Every shot, juggle and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "ngl this was brutal",
+  "chosen_cover": "opt1",
+  "cover_asset": "3c51ae5dd86a2a41020a5dbbf597f637",
+  "cover_file": "trials/075_worst-rated-course_b_r2_cover_opt1.jpg",
+  "cover_full_note": "Full-res covers on clips branch scratch/mg-pending-oct28 (pinned; mackygolfs-mackthegolfer push not authorized).",
+  "cover_note": "juggling frames, words low (below your chest) or no words — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "3c51ae5dd86a2a41020a5dbbf597f637",
+      "file": "trials/075_worst-rated-course_b_r2_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/075_worst-rated-course_b_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "juggling (ball in the air), typewriter \"worst rated golfer, worst rated course\" low",
+      "url": "/_blob/3c51ae5dd86a2a41020a5dbbf597f637"
+    },
+    {
+      "asset": "d596cfb1c2be73d0315fc1dc5aef415a",
+      "file": "trials/075_worst-rated-course_b_r2_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/075_worst-rated-course_b_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "juggling (two balls up), blue \"Macky vs. a Par 3\" pill low",
+      "url": "/_blob/d596cfb1c2be73d0315fc1dc5aef415a"
+    },
+    {
+      "asset": "8be5b03a5404c46ac8adf2aa873d8b33",
+      "file": "trials/075_worst-rated-course_b_r2_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/075_worst-rated-course_b_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "juggling, no words",
+      "url": "/_blob/8be5b03a5404c46ac8adf2aa873d8b33"
+    }
+  ],
+  "cover_url": "/_blob/3c51ae5dd86a2a41020a5dbbf597f637",
+  "date": "2026-10-30",
+  "decided_at": "2026-10-27T20:38:34.432Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 155.9,
+  "file": "trials/075_worst-rated-course_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "caption": "worst rated golfer at the worst rated course in orlando. who's the problem",
+      "cover_options": [
+        {
+          "asset": "492d28c5c78d71120b576b8d810344d5",
+          "file": "trials/075_worst-rated-course_b_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "typewriter \"worst rated golfer, worst rated course\", waist level",
+          "url": "/_blob/492d28c5c78d71120b576b8d810344d5"
+        },
+        {
+          "asset": "c19d470e07cfcb32f116d2480f92369c",
+          "file": "trials/075_worst-rated-course_b_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "blue \"Macky vs. a Par 3\" pill, waist level",
+          "url": "/_blob/c19d470e07cfcb32f116d2480f92369c"
+        },
+        {
+          "asset": "e9cc4d9b91dbfe79ed737f814c4add8c",
+          "file": "trials/075_worst-rated-course_b_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "talking in the cart, no words",
+          "url": "/_blob/e9cc4d9b91dbfe79ed737f814c4add8c"
+        }
+      ],
+      "decided_at": "2026-10-27T20:38:34.432Z",
+      "decision": "changes",
+      "done": "Round 2: 3 juggling cover frames (two with words low, one without). Caption now \"ngl this was brutal\". Video unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Try cover frames where I’m juggling\n\nCaption ngl this was brutal",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Zernio DRAFT (trialParams MANUAL, cover opt1) so approval schedules instantly (RULES.md s8).",
+  "media_url": "https://media.zernio.com/media/1792839186647_d8lztcqx_mackthegolfer_075_worst-rated-course_b.mp4",
+  "notes": "Mack: post without approval (Oct 30 11:09); posted 11:16am; YouTube Short 6ae4d100 11:47am",
+  "planned_mt": "2026-10-30 07:58 (B morning, POSTING RULES v2)",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week 1 -6.mp4.",
+  "round": 2,
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week 1 -6.mp4",
+  "status": "posted",
+  "time_ct": "08:58",
+  "time_mt": "07:58",
+  "video_asset": "cd65e9140ba969cf17a6095c90743c81",
+  "video_url": "/_blob/cd65e9140ba969cf17a6095c90743c81",
+  "zernio": "6ae4d0f5fe862608f9374cf7",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

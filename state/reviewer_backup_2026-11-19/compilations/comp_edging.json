@@ -1,0 +1,65 @@
+{
+  "about": "For @mackygolfs only. 6 putts that get REALLY close: the lip-out ('get a double, get a double' → hand over mouth → 'oh it lipped… freaking lipped'); the long orange-checker putt from the far camera ('get in there', stops a few feet short, tap 'get in'); the light-blue long putt where the low camera at the cup shows it stop inches from the hole while you crouch in the back; 'should not speak while putt— oh' → it slides by → the leg kick and dropped putter → 'doesn't freaking matter'; the short orange-checker miss → frozen squat → 'that is a tough bog after two incredibly perfect shots'; ends on 'blue ball lagged right on up to the edge of the hole / not quite going in yet' → the lag → 'and that is why she's blue boys'. Every putt kept whole from stroke to stop, reactions and swearing kept, no shirt wipes, no added text, no music, even loudness (far-away lines lifted). Outfits alternate. Nothing reused from comps 1–4. 47.5 s (drop the 5th bit if you want it under 45: 40 s). Proposed slot: Mon Oct 19, 6:47pm MT (7:47 CT), your @mackygolfs evening slot — first day that's 3+ days clear of the same footage on B. All cut from your true Dropbox originals. Preview copy here; the real file is full quality.",
+  "account": "@mackygolfs",
+  "caption": "it definitely makes things last longer",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp_edging_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "hand over mouth after the lip-out · red",
+      "url": "/_blob/43850656fe4d55a3857edce87932e1ed"
+    },
+    {
+      "file": "compilations/comp_edging_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "ball inches from the cup · purple",
+      "url": "/_blob/edbef8427f866d389e02dcf5f489b505"
+    },
+    {
+      "file": "compilations/comp_edging_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "the putter kick · blue",
+      "url": "/_blob/8013f533346b80825b39e1982868d486"
+    },
+    {
+      "file": "compilations/comp_edging_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "orange checker grin · orange",
+      "url": "/_blob/8fc7b410429f543f440ca2ea5413d368"
+    }
+  ],
+  "cover_text": "is this edging?",
+  "cover_url": "/_blob/43850656fe4d55a3857edce87932e1ed",
+  "decided_at": "2026-10-14T16:51:06.913Z",
+  "decided_round": 1,
+  "decision": "on_hold",
+  "duration": 47.5,
+  "file": "compilations/comp_edging_mackygolfs.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "On hold: I checked every putt in your Golf Captions originals frame by frame. Only 2 clearly stop within ~2 inches without dropping (the 'freaking lipped' lip-out and the blue-ball lag 'right on up to the edge of the hole'); the low-camera light-blue putt stops a few inches past. Not enough for a compilation yet. It comes back here once new footage has enough near-misses.",
+      "notes": "Multiple balls went in, some weren’t that close. Only use clips where the ball stops within like 2 inches of going in",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/51f4be7982b06bd358bd08d0890fb85276948015/compilations/comp_edging_mackygolfs.mp4",
+  "notes": "",
+  "order": 5,
+  "post_account": "@mackygolfs",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-14T09:45:00Z",
+  "proposed_slot": {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "time_ct": "19:47",
+    "time_mt": "18:47"
+  },
+  "round": 2,
+  "status": "on_hold",
+  "title": "is this edging? (@mackygolfs)",
+  "video_asset": "c89c030f7b7c1a72c0d85946dbbfb84e",
+  "video_url": "/_blob/c89c030f7b7c1a72c0d85946dbbfb84e"
+}

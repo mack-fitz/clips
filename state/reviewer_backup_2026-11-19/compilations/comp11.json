@@ -1,0 +1,59 @@
+{
+  "about": "You asking for guesses, then roasting the guessers, 6 bits: 1) \"what do you think I'm shooting on this par four? you gotta lock your guess into the comments before I hit my drive, otherwise that's cheating… and cheaters never win. I think that's from the Bible\" 2) \"what do you think I'm hitting on this par three? lock it in in the comments\" → \"that way anybody who guesses above one looks like an absolute asshole\" (over your practice swings) 3) \"what do you think my handicap is based on this par 5?\" 4) putt → \"get all the way there\" x2 → \"honestly not bad… for those of you who guessed double bogey, are you starting to sweat?\" 5) tap-in → \"I'll take a bog… did you guess a four? because if you guessed higher than a four, you're a…\" 6) ends on \"if you put a double bogey… you're an idiot\". Every shot kept whole, no swearing cut, no shirt wipes. Outfits alternate (green → white/camo → blue → green → white/camo → green). Bits 2 and 5 are from the lock-it-in par 3, so this won't post before that full video does. 45 s, full-quality export from your originals.",
+  "account": "@mackthegolfer",
+  "caption": "lock it in",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp11_guess-my-score_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "green polo in the cart, pointing, red",
+      "url": "/_blob/b0feb62216f7bc3205e2c09e7af366f7"
+    },
+    {
+      "file": "compilations/comp11_guess-my-score_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "camo hat, 'lock it in' fist, blue",
+      "url": "/_blob/36ed035b66704ee9676a632664908ba3"
+    },
+    {
+      "file": "compilations/comp11_guess-my-score_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "blue shirt, pointing at your head, purple",
+      "url": "/_blob/de9b7496ece8c20eeb98c2cbd09fceb9"
+    },
+    {
+      "file": "compilations/comp11_guess-my-score_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "camo close-up, typewriter 'did you guess a 4?'",
+      "url": "/_blob/693475272fb48dddbfccb5a3bd9ed4d3"
+    }
+  ],
+  "cover_text": "guess my score",
+  "cover_url": "/_blob/b0feb62216f7bc3205e2c09e7af366f7",
+  "decided_at": "2026-10-15T21:31:34.557Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 45.2,
+  "file": "compilations/comp11_guess-my-score.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 15): dropped from the page, never posted; its bits go back to the pool.",
+      "notes": "This doesn’t make sense either cancel",
+      "round": 1
+    }
+  ],
+  "media_url": null,
+  "notes": "",
+  "order": 17,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-15T16:05:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "guess my score",
+  "video_asset": "a66785f58eb248de62b1d38fd0f14c43",
+  "video_url": "/_blob/a66785f58eb248de62b1d38fd0f14c43"
+}

@@ -1,0 +1,56 @@
+{
+  "about": "5 excuses in your order: 'the distances are getting to my head because I had that traumatic event with a cactus' (the whole word 'cactus', then cut) → 'I hit it better when there was a child target around' → 'I normally golf at altitude, and right now I'm in Texas' → 'I've really got to stop playing with a neon yellow ball when the grass is so bright green' → ends on 'I really have to pee… it's the lack of bathrooms'. Grip/'dumping' clip cut. 22.2 s. All from your true originals; preview copy here, the real file is full quality.",
+  "account": "@mackthegolfer",
+  "caption": "it's out of my control",
+  "chosen_cover": "r2opt3",
+  "cover_options": [],
+  "cover_url": "",
+  "decided_at": "2026-10-14T21:02:32.730Z",
+  "decided_round": 5,
+  "decision": "approved",
+  "duration": 22.2,
+  "file": "compilations/comp3_excuses.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cactus now first; slice kept; altitude ends on 'right now I'm in Texas'; water hazard + 'eleven' swapped for neon yellow ball, child target, lack of bathrooms. 34 s. Cover text 'what's keeping me from being a pro golfer' (4 options). Caption 'it's out of my control'.",
+      "notes": "First clip and cactus clip were good. Cut the altitude clip off at Texas. Find other clips. First clip should be the cactus. \n\nCover text say “what’s keeping me from being a pro golfer”\n\nCaption - it’s out of my control",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cut the 'but I guess that's what I get for joining a male dominated field' line: now ends on 'it's the lack of bathrooms'. 31.6 s. Caption and covers unchanged.",
+      "notes": "Cut out the that’s what I get for joining a male dominated field at the end of",
+      "round": 2
+    },
+    {
+      "decision": "changes",
+      "fix": "Cactus clip ends right on 'cactus' (no shot, no sun); order now cactus → child target → altitude → neon yellow ball → bathrooms; grip/dumping cut. 31.6 s → 21.7 s. You didn't mention the neon-ball clip, so it stays as clip 4 — say if it should go. Caption and covers unchanged.",
+      "notes": "Cut the first clip after the word cactus. Don’t need to see the shot or thing about the sun. \n\nClip 2 child target. Clip 3 altitude. Cut the grip because dumping clip. End on the bathrooms.",
+      "round": 3
+    },
+    {
+      "decision": "changes",
+      "fix": "\"cactus\" now plays in full (clip runs ~0.5s longer, still no swing). Nothing else changed. 22s.",
+      "notes": "You cut off the word cactus.",
+      "round": 4
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/4a9251bfcc32c3a8d684a12b3aa760d395fcd5b1/compilations/comp3_excuses.mp4",
+  "notes": "",
+  "order": 3,
+  "post_account": "@mackthegolfer",
+  "post_when": "now",
+  "posted": true,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-14T21:37:16Z",
+  "prepared_at": "2026-10-14T17:09:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 5,
+  "status": "posted",
+  "title": "every excuse I've ever made",
+  "trial": true,
+  "video_asset": "",
+  "video_url": "",
+  "zernio_id": "6acff60cf6788c059acd4516"
+}

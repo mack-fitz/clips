@@ -1,0 +1,75 @@
+{
+  "about": "Round 4: the second clip (white/camo) now starts before your putter moves back, so the whole tweener stroke plays, then the ball dropping in. Every other clip checked: each has the full stroke. 5 tweeners, 7.5 s, no talking. Same low on-screen line 'why do tweeners have a 100% success rate', same caption, covers unchanged.",
+  "account": "@mackthegolfer",
+  "caption": "can a scientist weigh in on this",
+  "chosen_cover": "opt1",
+  "cover_options": [
+    {
+      "id": "opt1",
+      "label": "red pill",
+      "url": "/_blob/587c431f0ccd9c78e31b10e19bb95cb2"
+    },
+    {
+      "id": "opt2",
+      "label": "blue pill",
+      "url": "/_blob/95162e2d2803bb20e7c004e2c49a8e14"
+    },
+    {
+      "id": "opt3",
+      "label": "purple pill",
+      "url": "/_blob/6365fb9de4e98b771fce286925293dc3"
+    },
+    {
+      "id": "opt4",
+      "label": "typewriter",
+      "url": "/_blob/baecb8620734ca2050bb83ad0fccb53a"
+    }
+  ],
+  "cover_text": "why do tweeners have a 100% success rate",
+  "cover_url": "/_blob/587c431f0ccd9c78e31b10e19bb95cb2",
+  "decided_at": "2026-10-23T22:18:36.784Z",
+  "decided_round": 4,
+  "decision": "approved",
+  "duration": 7.5,
+  "file": "compilations/comp19_tweeners_r4.mp4",
+  "history": [
+    {
+      "applied_at": "2026-10-22T05:15:00Z",
+      "decided_at": "2026-10-21T17:31:21.211Z",
+      "decision": "changes",
+      "notes": "Cancel this whole idea\n\nMake a comp of all of my tweeter shots (putt between the legs)-just the outta going in no talking. \n\nText on screen why do tweeners have a 100% success rate\n\nCaption can a scientist weigh in on this",
+      "round": 1
+    },
+    {
+      "applied_at": "2026-10-23T00:52:00Z",
+      "decided_at": "2026-10-22T15:40:56.972Z",
+      "decision": "changes",
+      "fix": "Removed clip 1 (Oct 12 12:17am green pinstripe, not a tweener). 5 tweeners left, 6.6 s; same order, text, caption and covers.",
+      "notes": "First one isn’t a tweener??",
+      "round": 2
+    },
+    {
+      "applied_at": "2026-10-23T22:13:48Z",
+      "decided_at": "2026-10-23T19:57:46.920Z",
+      "decision": "changes",
+      "fix": "Clip 2 (Oct 12 7:13am white/camo) moved from 91.75–92.93 (after the ball had dropped) to 89.60–91.50: starts before the putter moves back, plays the whole tweener stroke and the ball dropping in; her talking over it muted. Other clips checked for the full stroke; clips 1 and 5 now start on the exact first frame of her scene (45.19, 25.72). 7.5 s, same text, caption and covers.",
+      "notes": "On the second clip you cut off me hitting the ball",
+      "round": 3
+    }
+  ],
+  "media_url": "/_blob/49b16ba407d28c1021ed9eda9d6fe8ac",
+  "notes": "",
+  "order": 32,
+  "post_account": "@mackthegolfer",
+  "post_when": "now",
+  "posted": true,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-24T04:26:13Z",
+  "prepared_at": "2026-10-19T12:01:00Z",
+  "round": 4,
+  "status": "posted",
+  "title": "why do tweeners have a 100% success rate",
+  "video_asset": "49b16ba407d28c1021ed9eda9d6fe8ac",
+  "video_url": "/_blob/49b16ba407d28c1021ed9eda9d6fe8ac",
+  "zernio_id": "6adc336512d47ba50843332c"
+}

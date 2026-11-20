@@ -1,0 +1,48 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green pinstripe polo, San Angelo — \"I think I have no choice but to just whack it as hard as I can\" → the shot over the bunker with the tree in the way → \"holy shit. holy shit.\" → \"the rig just shot it up in the air straight onto the green.\" Your original sound and your own captions. Line \"me with a tree, a bunker and zero technique\" sits low (below your head, never on your face) for the whole clip. From Video Oct 12 2026, 12 11 12 AM.mov (131.2–142.1 s), which you posted on @mackygolfs Oct 13 — \"Keep watching there are a lot of twists\" https://www.instagram.com/reel/Deb8Tdpiq_8/. Pick the account below.",
+  "account": "",
+  "caption": "the strategy was whack it as hard as i can. it worked??",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "f825abd466b4ca793733e8833b27e0ee",
+      "file": "shorties/tree-bunker_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address (1.0 s), line visible",
+      "url": "/_blob/f825abd466b4ca793733e8833b27e0ee"
+    },
+    {
+      "asset": "2fc7ce2437e7008b03fb6f4a62eb87e1",
+      "file": "shorties/tree-bunker_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "top of backswing (3.9 s)",
+      "url": "/_blob/2fc7ce2437e7008b03fb6f4a62eb87e1"
+    },
+    {
+      "asset": "5d83e87f5b6a7bb9bff96e191f349dea",
+      "file": "shorties/tree-bunker_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "follow-through (5.6 s)",
+      "url": "/_blob/5d83e87f5b6a7bb9bff96e191f349dea"
+    }
+  ],
+  "cover_text": "me with a tree, a bunker and zero technique",
+  "cover_url": "/_blob/f825abd466b4ca793733e8833b27e0ee",
+  "decision": null,
+  "duration": 10.9,
+  "file": "shorties/tree-bunker.mp4",
+  "history": [],
+  "media_note": "Full quality (1080x1920, CRF 17, 23.6 Mbps export vs 10.7 Mbps source) on clips branch scratch/mg-pending-oct25 (pinned 91f383c). No Zernio post until you approve. Guard PASS for both trial accounts.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/91f383c206d1cc628187ad9bcdfdd7e7c60679f6/mg_pending/shorties/tree-bunker.mp4",
+  "notes": "",
+  "order": 41,
+  "post_account": "",
+  "post_when": "next",
+  "prepared_at": "2026-10-25T18:48:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Shorty: me with a tree, a bunker and zero technique",
+  "type": "shorty",
+  "video_asset": "389f49476b00ec6c24c8e34ee9adc651",
+  "video_url": "/_blob/389f49476b00ec6c24c8e34ee9adc651"
+}

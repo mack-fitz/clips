@@ -1,0 +1,124 @@
+{
+  "about": "Confidence vs reality: a confident call, then the miss, over and over — ends right before she rips the hole-18 tweenie. Cuts (times in the long video 'pop stroke beginning cut.mov'): 17:41.8–17:46.6 “I would even argue that this is birdable if I had the perfect shot.” | 17:50.9–17:52.7 “I didn't have the perfect shot.” | 1:37.0–1:40.9 “There's absolutely no reason we're not leaving hole two with a par.” | 2:16.7–2:19.0 “Wow, a double? Oh!” | 9:05.7–9:09.7 “Eleven is my lucky number, so I'm really expecting big things here.” | 9:41.9–9:45.5 “That's gonna be too shallow. Yep, yep, saw that.” | 16:02.7–16:06.8 “So really I have to hit this exactly perfectly perfect, which is not my specialty.” | 16:12.9–16:13.9 “Could be perfect.” | 16:16.6–16:18.0 “Perfectly in the bunker.” | 18:01.4–18:03.1 “It's not gonna be it.” | 18:03.8–18:10.5 “Look, I've had a lot of good luck with my tweeners, should I rip a tweenie? It's a long tweenie, but what do I have to lose?”. Original audio, swearing kept, no added text or music, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-popstroke-montages",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/84a00b5d230a704bd6812607d8ec9592",
+  "created": "2026-11-07",
+  "cuts": [
+    {
+      "at": "17:41.8–17:46.6",
+      "line": "I would even argue that this is birdable if I had the perfect shot."
+    },
+    {
+      "at": "17:50.9–17:52.7",
+      "line": "I didn't have the perfect shot."
+    },
+    {
+      "at": "1:37.0–1:40.9",
+      "line": "There's absolutely no reason we're not leaving hole two with a par."
+    },
+    {
+      "at": "2:16.7–2:19.0",
+      "line": "Wow, a double? Oh!"
+    },
+    {
+      "at": "9:05.7–9:09.7",
+      "line": "Eleven is my lucky number, so I'm really expecting big things here."
+    },
+    {
+      "at": "9:41.9–9:45.5",
+      "line": "That's gonna be too shallow. Yep, yep, saw that."
+    },
+    {
+      "at": "16:02.7–16:06.8",
+      "line": "So really I have to hit this exactly perfectly perfect, which is not my specialty."
+    },
+    {
+      "at": "16:12.9–16:13.9",
+      "line": "Could be perfect."
+    },
+    {
+      "at": "16:16.6–16:18.0",
+      "line": "Perfectly in the bunker."
+    },
+    {
+      "at": "18:01.4–18:03.1",
+      "line": "It's not gonna be it."
+    },
+    {
+      "at": "18:03.8–18:10.5",
+      "line": "Look, I've had a lot of good luck with my tweeners, should I rip a tweenie? It's a long tweenie, but what do I have to lose?"
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-montages/m04_confidence-vs-reality.mp4",
+  "duration": 35.13,
+  "file": "clips/m04_confidence-vs-reality.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M4",
+  "order": -7,
+  "posts_itself": false,
+  "range": "11 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/4f328e0d8c895fd6432dda56fdab1444c4f9ced7/clips/m04_confidence-vs-reality.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      1061.83,
+      1066.63
+    ],
+    [
+      1070.93,
+      1072.71
+    ],
+    [
+      96.98,
+      100.89
+    ],
+    [
+      136.68,
+      139.01
+    ],
+    [
+      545.71,
+      549.66
+    ],
+    [
+      581.93,
+      585.54
+    ],
+    [
+      962.66,
+      966.75
+    ],
+    [
+      972.94,
+      973.88
+    ],
+    [
+      976.65,
+      978
+    ],
+    [
+      1081.39,
+      1083.11
+    ],
+    [
+      1083.83,
+      1090.49
+    ]
+  ],
+  "size_mb": 41,
+  "source_file": "pop stroke beginning cut.mov",
+  "status": "ready",
+  "theme": "Confidence vs reality: a confident call, then the miss, over and over — ends right before she rips the hole-18 tweenie.",
+  "title": "confidence vs reality",
+  "type": "montage",
+  "video": "popstroke",
+  "video_asset": "fd5ec278a55fe3cd8504b513be16f884",
+  "video_title": "YouTube #2 · I Owe Tiger Woods an Apology (Thu Nov 12)",
+  "video_url": "/_blob/fd5ec278a55fe3cd8504b513be16f884"
+}

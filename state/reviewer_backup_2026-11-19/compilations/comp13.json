@@ -1,0 +1,47 @@
+{
+  "about": "Round 2, per your note: way faster. 53 hits + the cup drop in 22 s (about 2.5 sounds every second, was under 1). Every hit is the same 0.4 s window (a split second of downswing, contact, a beat of the ball leaving) so it plays like a steady rhythm. Still no talking, no music, every hit about equally loud, contact never cut, shirts/days never back to back. Drives, irons, bunker splashes, chips and putts mixed, ends on the ball dropping in the cup. \"asmr but it's golf\" for the first 2 s only (smaller, bolder and lower since Oct 17). Covers and caption unchanged.",
+  "account": "@mackthegolfer",
+  "caption": "very peaceful sport",
+  "chosen_cover": "opt1",
+  "cover_options": [],
+  "cover_text": "asmr but it's golf",
+  "cover_url": "",
+  "decided_at": "2026-10-16T18:34:33.570Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 22.1,
+  "file": "compilations/comp13_asmr-golf_r3.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Rebuilt with 53 hits at 0.4 s each (~2.5 sounds per second) instead of 18 bits at ~1.2 s; 22.1 s total, ends on the cup drop. Same sound rules (no talking/music, even loudness).",
+      "notes": "The sounds need to be way closer together. Like multiple sounds per second",
+      "round": 1
+    },
+    {
+      "decision": null,
+      "fix": "Re-rendered with the Oct 17 text rule: \"asmr but it's golf\" now Inter Bold 46 px (was SemiBold 72 at y 330), white with a thin dark outline + soft shadow, moved to the lower band (y 1180–1231), still only the first 2 s. Same 53 hits + cup drop, same frames and sound; covers unchanged. Zernio post 6ad27625e1fad39fd48c29f9 now uses the new file (same caption, time and cover). Your approval stands.",
+      "notes": "text smaller + moved below Instagram's top bar (Mack Oct 17)",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/02e2912f7e73c2c5763434a386924920638bdcd3/compilations/comp13_asmr-golf_r3.mp4",
+  "notes": "",
+  "order": 20,
+  "post_account": "@mackthegolfer",
+  "post_url": "https://www.instagram.com/reel/DereCqOE0Xe/",
+  "post_when": "next",
+  "posted": false,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-19T14:26:53.057Z",
+  "prepared_at": "2026-10-16T17:55:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 2,
+  "scheduled_for": "2026-10-19T08:25:00-06:00",
+  "status": "posted",
+  "title": "asmr but it's golf",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad27625e1fad39fd48c29f9",
+  "zernio_id": "6ad27625e1fad39fd48c29f9"
+}

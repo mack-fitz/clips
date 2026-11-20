@@ -1,0 +1,94 @@
+{
+  "about": "Week 1 @mackygolfs PM file (your filename: never post on mackthegolfer — it won't). Car talk about playing 9 with a 3 wood instead of driver, nothing cut. This file has NO shirt wipe at the start, so it opens on you talking. HEVC, so ONE full-quality H.264 conversion (CRF 17).",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders) — PM files added Oct 23 afternoon",
+  "caption": "call me three wood Mack from here on out",
+  "chosen_cover": null,
+  "cover_asset": "e83c54d4bf540c9e0a1c3e66de7a7492",
+  "cover_file": "trials/078_car-talk-pm_a_cover_opt1.jpg",
+  "cover_note": "no wipe in this video and no clear spot for words (your face runs straight into your chest), so all 3 are no-words frames — tap one",
+  "cover_options": [
+    {
+      "asset": "e83c54d4bf540c9e0a1c3e66de7a7492",
+      "file": "trials/078_car-talk-pm_a_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "talking in the car, no words",
+      "url": "/_blob/e83c54d4bf540c9e0a1c3e66de7a7492"
+    },
+    {
+      "asset": "e001bceeda7efd390ff4837a0dc0ec12",
+      "file": "trials/078_car-talk-pm_a_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "laughing in the car, no words",
+      "url": "/_blob/e001bceeda7efd390ff4837a0dc0ec12"
+    },
+    {
+      "asset": "856ff40f41aba1c862d5269618350973",
+      "file": "trials/078_car-talk-pm_a_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "mid-rant, no words",
+      "url": "/_blob/856ff40f41aba1c862d5269618350973"
+    }
+  ],
+  "cover_url": "/_blob/e83c54d4bf540c9e0a1c3e66de7a7492",
+  "date": "2026-10-29",
+  "decided_at": "2026-10-27T20:24:04.880Z",
+  "decided_round": 1,
+  "decision": "self_post",
+  "duration": 16.6,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/PM - never post on mackthegolfer.mov (one full-quality encode)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "caption": "10 strokes better without a driver. why did nobody tell me to throw it away",
+      "cover_options": [
+        {
+          "asset": "e83c54d4bf540c9e0a1c3e66de7a7492",
+          "file": "trials/078_car-talk-pm_a_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "talking in the car, no words",
+          "url": "/_blob/e83c54d4bf540c9e0a1c3e66de7a7492"
+        },
+        {
+          "asset": "e001bceeda7efd390ff4837a0dc0ec12",
+          "file": "trials/078_car-talk-pm_a_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "laughing in the car, no words",
+          "url": "/_blob/e001bceeda7efd390ff4837a0dc0ec12"
+        },
+        {
+          "asset": "856ff40f41aba1c862d5269618350973",
+          "file": "trials/078_car-talk-pm_a_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "mid-rant, no words",
+          "url": "/_blob/856ff40f41aba1c862d5269618350973"
+        }
+      ],
+      "decided_at": "2026-10-27T20:24:04.880Z",
+      "decision": "changes",
+      "done": "Round 2: caption now \"call me three wood Mack from here on out\". Video and covers unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Caption call me three wood Mack from here on out",
+      "round": 1
+    }
+  ],
+  "kind": "pm",
+  "length": "short",
+  "media_expires": "2026-10-31T16:08Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/w1-pm-exports:078_car-talk-pm_a.mp4",
+  "media_url": "https://media.zernio.com/temp/1792858072833_mokozh20_mackygolfs_078_car-talk-pm_a.mp4",
+  "notes": "Mack posts Thu Oct 29 herself (files sent in chat)",
+  "planned_mt": "2026-10-29 14:12 (A afternoon, PM file, POSTING RULES v2)",
+  "prepared_at": "2026-10-24T16:20:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every IG post). Dropbox /Golf/for claude/mackygolfs/week 1/PM - never post on mackthegolfer.mov (added Oct 23 afternoon).",
+  "round": 2,
+  "sent_at": "2026-10-29T02:12:00Z",
+  "slot": "afternoon",
+  "source": "/Golf/for claude/mackygolfs/week 1/PM - never post on mackthegolfer.mov",
+  "status": "sent_to_mack",
+  "time_ct": "15:12",
+  "time_mt": "14:12",
+  "video_asset": "7170012ea7caf212f7fc250509dd676f",
+  "video_url": "/_blob/7170012ea7caf212f7fc250509dd676f"
+}

@@ -1,0 +1,58 @@
+{
+  "about": "5 bits of you giving the ball instructions while it's moving: 'hopefully I can get pretty close to the green on this one' → swing → 'oh don't go in that sand, motherf*cker' → 'yeah we're at the beach'; putting with the driver ('whatever works dude') → 'get in there, get in there'; 'this is for par' → putt → 'break in, break in'; 'anyway let's get on the green' → swing → 'get on the green, get on the green… boom boom'; ends on 'into the hole, into the hole' → full tee shot with tracer → 'not bad, not bad'. Every shot kept whole, swearing kept, no shirt wipes, no added text, even loudness (far-away lines lifted so they're clear), outfits alternate (no same shirt back to back). None of comp 1/2/3's bits reused. All cut from your true originals. Preview copy here; the real file is full quality.",
+  "account": "@mackthegolfer",
+  "caption": "she never listens",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp4_golf-ball_cover.jpg",
+      "id": "opt1",
+      "label": "close-up · whatever works dude · red",
+      "url": "/_blob/b9f0c0986727981771c7da82beb8efaa"
+    },
+    {
+      "file": "compilations/comp4_golf-ball_cover_alt1.jpg",
+      "id": "opt2",
+      "label": "yeah we're at the beach · blue",
+      "url": "/_blob/d3d91469d00458f4a6d6f4ceb394d501"
+    },
+    {
+      "file": "compilations/comp4_golf-ball_cover_alt2.jpg",
+      "id": "opt3",
+      "label": "the boom boom kick · orange",
+      "url": "/_blob/f76c711efb0520e2fb839976719bd291"
+    },
+    {
+      "file": "compilations/comp4_golf-ball_cover_alt3.jpg",
+      "id": "opt4",
+      "label": "not bad not bad · purple",
+      "url": "/_blob/5a49aec881d8441c6378a5de5def0863"
+    }
+  ],
+  "cover_url": "/_blob/b9f0c0986727981771c7da82beb8efaa",
+  "decided_at": "2026-10-14T16:54:31.287Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 43.3,
+  "file": "compilations/comp4_golf-ball.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Deleted as asked: dropped from the page, never posted; its bits go back to the pool.",
+      "notes": "This doesn’t make any sense. Would just delete it",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/783ed83d08edcda68bd5a2b5a0e464a87e7eb35d/compilations/comp4_golf-ball.mp4",
+  "notes": "",
+  "order": 4,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-13T20:16:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "me talking to my golf ball",
+  "video_asset": "ec8b0c938cc6a565662a650477bff1d7",
+  "video_url": "/_blob/ec8b0c938cc6a565662a650477bff1d7"
+}

@@ -1,0 +1,118 @@
+{
+  "about": "Round 2 (your note: start the reel with that loser on the nose clip): now opens on \"you're a loser, you're right where you're supposed to be\" + \"A little on the nose.\", then the rest in the same order. Same 9 cuts, ~34 s. Cut from 'popstroke v2.mov'. Original audio, swearing kept, no added text or music, vertical 1080x1920.",
+  "branch": "scratch/promo-popstroke-montages3",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/eff0730db4f3beb7d78fa35b6a38d894",
+  "created": "2026-11-07",
+  "cuts": [
+    {
+      "at": "14:25.3–14:30.4",
+      "line": "And the whole thing was like, 'you're a loser, you're right where you're supposed to be.'"
+    },
+    {
+      "at": "14:31.0–14:32.4",
+      "line": "A little on the nose."
+    },
+    {
+      "at": "7:15.6–7:20.0",
+      "line": "No— oh, that's devastating. Absolutely devastating."
+    },
+    {
+      "at": "2:08.8–2:12.1",
+      "line": "That was an unbelievably poor performance there."
+    },
+    {
+      "at": "2:24.2–2:26.4",
+      "line": "We're plus three going into three, that's tough."
+    },
+    {
+      "at": "7:33.1–7:35.6",
+      "line": "Oh, I'm crumbling, I'm crumbling at the turn."
+    },
+    {
+      "at": "14:08.5–14:12.2",
+      "line": "No. … Tweener, tweener for double."
+    },
+    {
+      "at": "15:27.5–15:33.5",
+      "line": "What even was that? That was absolutely pathetic."
+    },
+    {
+      "at": "18:23.9–18:28.8",
+      "line": "And not a double, double, double — that does make me want to go to In-N-Out Burger."
+    }
+  ],
+  "decided_at": "2026-11-08T07:01:35.842Z",
+  "decided_round": 1,
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-montages/m03_pure-disaster_r2.mp4",
+  "duration": 33.73,
+  "file": "clips/m03_pure-disaster_r2.mp4",
+  "history": [
+    {
+      "at": "2026-11-08T11:50:00Z",
+      "decision": "changes",
+      "fix": "moved the 'loser' + 'on the nose' pair to the start",
+      "notes": "start the reel with that loser on the nose clip",
+      "round": 1
+    }
+  ],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M3",
+  "order": -8,
+  "posts_itself": false,
+  "range": "9 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/53b1eb55d9670db08907627d3c9ba5d4a2d33784/clips/m03_pure-disaster_r2.mp4"
+  ],
+  "round": 2,
+  "segments": [
+    [
+      865.285,
+      870.42
+    ],
+    [
+      870.985,
+      872.415
+    ],
+    [
+      435.635,
+      440.03
+    ],
+    [
+      128.845,
+      132.105
+    ],
+    [
+      144.15,
+      146.38
+    ],
+    [
+      453.05,
+      455.56
+    ],
+    [
+      848.49,
+      852.235
+    ],
+    [
+      927.55,
+      933.53
+    ],
+    [
+      1103.895,
+      1108.85
+    ]
+  ],
+  "size_mb": 38,
+  "source_file": "popstroke v2.mov",
+  "status": "ready",
+  "theme": "Pure disaster reel: opens on the 'you're a loser, you're right where you're supposed to be' / 'a little on the nose' pair, then devastating, crumbling, doubles, ends on the double-double In-N-Out line.",
+  "title": "pure disaster",
+  "type": "montage",
+  "video": "popstroke",
+  "video_asset": "5b4bd6161e776b04c85d46e4eb7fee15",
+  "video_title": "YouTube #2 · I Owe Tiger Woods an Apology (Thu Nov 12)",
+  "video_url": "/_blob/5b4bd6161e776b04c85d46e4eb7fee15"
+}

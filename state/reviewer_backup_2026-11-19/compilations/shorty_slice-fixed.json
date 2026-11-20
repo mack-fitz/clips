@@ -1,0 +1,52 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo, San Angelo par 4 — \"you ready for this?\" → the drive with your tracer peeling right → \"doesn't get much more straighter than this\". Your original sound and your own captions. Line \"me after fixing my slice\" sits low (above your captions, never on your face) for the whole clip. From Video Oct 12 2026, 12 05 56 AM.mov (14.7–27.7 s, exactly one of your own clips), which you posted on @mackygolfs Oct 11 — \"I will take offense if you guess high based on the looks of me btw\" https://www.instagram.com/reel/DeXwYbIxwsB/. Pick the account below.",
+  "account": "",
+  "caption": "straight is a state of mind",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "f536b86a9b4ba493272875ea6a4d9220",
+      "file": "shorties/slice-fixed_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/fd7b4766aa295826c7533b7cff6fedeb59237693/mg_pending/shorties/slice-fixed_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address, \"you ready for this\", line low over the grass",
+      "url": "/_blob/f536b86a9b4ba493272875ea6a4d9220"
+    },
+    {
+      "asset": "73905c5c7620f21344ee32546ca4f42c",
+      "file": "shorties/slice-fixed_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/fd7b4766aa295826c7533b7cff6fedeb59237693/mg_pending/shorties/slice-fixed_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "top of the backswing with your tracer peeling right",
+      "url": "/_blob/73905c5c7620f21344ee32546ca4f42c"
+    },
+    {
+      "asset": "0bd24807ef0ccb358e7b89e75cfb80b5",
+      "file": "shorties/slice-fixed_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/fd7b4766aa295826c7533b7cff6fedeb59237693/mg_pending/shorties/slice-fixed_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "deadpan \"straighter than this\" after the drive",
+      "url": "/_blob/0bd24807ef0ccb358e7b89e75cfb80b5"
+    }
+  ],
+  "cover_text": "me after fixing my slice",
+  "cover_url": "/_blob/f536b86a9b4ba493272875ea6a4d9220",
+  "decision": null,
+  "duration": 13,
+  "file": "shorties/slice-fixed.mp4",
+  "history": [],
+  "media_note": "Full quality (1080x1920, CRF 17, 10.0 Mbps export vs 10.6 Mbps source) on clips branch scratch/mg-pending-oct28 (pinned fd7b476). No Zernio post until you approve. Guard PASS for both trial accounts.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/fd7b4766aa295826c7533b7cff6fedeb59237693/mg_pending/shorties/slice-fixed.mp4",
+  "notes": "",
+  "order": 42,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-28T19:12:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Shorty: me after fixing my slice",
+  "type": "shorty",
+  "video_asset": "df38a67643f805686f01db2a6730ec33",
+  "video_url": "/_blob/df38a67643f805686f01db2a6730ec33"
+}

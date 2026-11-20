@@ -1,0 +1,67 @@
+{
+  "about": "Round 4: yellow-ball clip removed. Searched every /Golf Captions transcript, her burned-in captions (OCR) and every video frame: only these 2 moments where you say you can't find/see the ball exist. Near-misses are in comp20_notes.md (two are in 'vs. nature', which already posted).",
+  "account": "@mackthegolfer",
+  "caption": "if you've never lost a ball in a divot you're lying",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp20_where-did-it-go_r3_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "close-up looking for it, red pill over the cap",
+      "url": "/_blob/6327aa6f3a663dc614d497f52c9a07b6"
+    },
+    {
+      "file": "compilations/comp20_where-did-it-go_r3_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "'but which one', purple pill",
+      "url": "/_blob/4b3d1287773f05a17a0e90a7e84f8a16"
+    },
+    {
+      "file": "compilations/comp20_where-did-it-go_r3_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "typewriter 'i don't see the ball'",
+      "url": "/_blob/778780b173c5ebd44a9d18ffb99023b0"
+    }
+  ],
+  "cover_text": "Macky vs. where did it go",
+  "cover_url": "/_blob/6327aa6f3a663dc614d497f52c9a07b6",
+  "decided_at": "2026-10-23T22:01:00.996Z",
+  "decided_round": 4,
+  "decision": "dropped",
+  "dropped_note": "Mack Oct 23: cancel this idea and stop remaking it. Never remake.",
+  "duration": 6,
+  "file": "compilations/comp20_where-did-it-go_r4.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Rebuilt as only can't-find-my-ball lines back to back (5 bits, 48.5 s → 32.9 s): added 'not going to be able to find it' and 'don't feel like searching for the ball'; removed the water drive, the left-of-the-green clip and the swing before 'tall grass'. 2 new covers.",
+      "notes": "do a bunch of clips back to back of me saying i have no idea where my ball is/can;t find my ball etc",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Rebuilt from scratch as a quick montage of only her literal can't-find-my-ball lines (32.9 s → 8.9 s, 3 clips): 'I don't see the ball', 'I'm not going to be able to find it', 'which one?'. Every other line cut (raked into the hole, tall grass/not fetching, cactus/not searching). 4 new covers.",
+      "notes": "You did not do what I said. Should be a quick video with clips of me just saying where is my ball I can’t find my ball",
+      "round": 2
+    },
+    {
+      "applied_at": "2026-10-22T05:15:00Z",
+      "decided_at": "2026-10-21T17:32:00.231Z",
+      "decision": "changes",
+      "notes": "Second clip shouldn’t be in there. I should have way more clips of me saying I can’t find the ball. Add them",
+      "round": 3
+    }
+  ],
+  "media_url": "/_blob/4d25ca3034a18fe4c46da87047421301",
+  "notes": "Cancel this idea and stop remaking jt",
+  "order": 34,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-20T12:00:00Z",
+  "round": 4,
+  "status": "dropped",
+  "title": "Macky vs. where did it go",
+  "video_asset": "4d25ca3034a18fe4c46da87047421301",
+  "video_url": "/_blob/4d25ca3034a18fe4c46da87047421301"
+}

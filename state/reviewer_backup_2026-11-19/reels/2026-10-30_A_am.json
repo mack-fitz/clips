@@ -1,0 +1,98 @@
+{
+  "about": "Week 1 @mackygolfs: your upload, wipe first, nothing cut. Sweaty par 4, 'I'm one of the best', the strawberry drink. Your file is 330 MB (over Instagram's 300 MB limit), so this is ONE full-quality conversion (CRF 17, 13.2 Mbps vs your 15.1), nothing else changed.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "I'm the best",
+  "chosen_cover": "opt1",
+  "cover_asset": "33ddb78cad3a4e3959258cb387f9e038",
+  "cover_file": "trials/066_mindset-par-4_a_r2_cover_opt1.jpg",
+  "cover_full_note": "Full-res covers on clips branch scratch/mg-pending-oct28 (pinned; mackygolfs-mackthegolfer push not authorized).",
+  "cover_note": "frame one (the very first frame of your upload), words mid-frame between your face and chest — 3 colors, tap one",
+  "cover_options": [
+    {
+      "asset": "33ddb78cad3a4e3959258cb387f9e038",
+      "file": "trials/066_mindset-par-4_a_r2_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/066_mindset-par-4_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "blue \"Macky vs. Mindset\" pill on frame one, mid-frame",
+      "url": "/_blob/33ddb78cad3a4e3959258cb387f9e038"
+    },
+    {
+      "asset": "e87952acf898928a755d44b30aef6a84",
+      "file": "trials/066_mindset-par-4_a_r2_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/066_mindset-par-4_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "red \"Macky vs. Mindset\" pill on frame one, mid-frame",
+      "url": "/_blob/e87952acf898928a755d44b30aef6a84"
+    },
+    {
+      "asset": "af460518d4f8a640676169fd62e3a814",
+      "file": "trials/066_mindset-par-4_a_r2_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/066_mindset-par-4_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "purple \"Macky vs. Mindset\" pill on frame one, mid-frame",
+      "url": "/_blob/af460518d4f8a640676169fd62e3a814"
+    }
+  ],
+  "cover_url": "/_blob/33ddb78cad3a4e3959258cb387f9e038",
+  "date": "2026-10-30",
+  "decided_at": "2026-10-27T20:36:18.420Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 172.1,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week1 -4.mp4 (one full-quality encode)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "caption": "i'm one of the best. say it back",
+      "cover_options": [
+        {
+          "asset": "d63587cc2444822a20cedb970b6f6ed3",
+          "file": "trials/066_mindset-par-4_a_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "blue \"Macky vs. My Mindset\" pill, mid-frame",
+          "url": "/_blob/d63587cc2444822a20cedb970b6f6ed3"
+        },
+        {
+          "asset": "95732c78ca12e5d7ead2db61ee09589d",
+          "file": "trials/066_mindset-par-4_a_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "typewriter \"i'm one of the best\", mid-frame",
+          "url": "/_blob/95732c78ca12e5d7ead2db61ee09589d"
+        },
+        {
+          "asset": "d50174de70b73b6d723630af55fd6b67",
+          "file": "trials/066_mindset-par-4_a_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "red \"Macky vs. a Par 4\" pill, mid-frame",
+          "url": "/_blob/d50174de70b73b6d723630af55fd6b67"
+        }
+      ],
+      "decided_at": "2026-10-27T20:36:18.420Z",
+      "decision": "changes",
+      "done": "Round 2: all 3 covers are now frame one with \"Macky vs. Mindset\" (blue / red / purple). Caption now \"I'm the best\". Video unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "These aren’t frame one \nCover Macky vs. Mindset \n\nI’m the best caption",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Zernio DRAFT (trialParams MANUAL, cover opt1) so approval schedules instantly (RULES.md s8).",
+  "media_reupload": "scratch/w1-exports:066_mindset-par-4_a.mp4",
+  "media_url": "https://media.zernio.com/media/1792801106094_vtryzr5g_mackygolfs_066_mindset-par-4_a.mp4",
+  "notes": "Mack: post without approval (Oct 30 11:09); posted 11:16am",
+  "planned_mt": "2026-10-30 07:19 (A morning, POSTING RULES v2)",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week1 -4.mp4. Posts untouched: one conversion (original 329.6 MB is over IG's 300 MiB): H.264 High@4.2 CRF 17 capped 13.5 Mbps, 13.2 Mbps total, 283 MB vs source 15.3 Mbps (uploaded to Zernio at full quality, no re-encode).",
+  "round": 2,
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week1 -4.mp4",
+  "status": "posted",
+  "time_ct": "08:19",
+  "time_mt": "07:19",
+  "video_asset": "8c5f3c200e2d0fe56051239002fe95c8",
+  "video_url": "/_blob/8c5f3c200e2d0fe56051239002fe95c8",
+  "zernio": "6ae4d0dafe862608f9374b61",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

@@ -1,0 +1,60 @@
+{
+  "about": "ONE clip, nothing cut inside: white shirt + camo hat, Amarillo par 4, ball under the trees by the cart path — practice swing → “oh this is a really unfortunate… I had all that fairway and this is where we— surely I can at least take that stick out of the way, right?” → you poke the stick and move the ball → “I hit the ball. You didn't see that.” → “Dang, I'm actually close to the cart path now. This is worse.” Your original sound and captions. Line (smaller, bolder and lower since Oct 17 — above your captions, below the IG top bar): (below IG's top bar, above your hat the whole time): “me trying to improve my lie”. From Video Oct 12 2026, 7 16 02 AM.mov (64.70–77.70 s), which you posted yourself on @mackthegolfer Oct 11 — “does anyone know the lag masta’s schedule actually” https://www.instagram.com/reel/DeX0u_Ox_W3/ (136 s of it in that post, fingerprint checked). This moment isn't in any posted or pending compilation or shorty (safe-line uses the later 94.8–110 s of this round). True original, single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "if you say that's a penalty stroke we cant be friends",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/improve-my-lie_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address · line",
+      "url": "/_blob/733d37dda8072754e0daad881473cec3"
+    },
+    {
+      "file": "shorties/improve-my-lie_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "reaching for the stick · line",
+      "url": "/_blob/c68d8c585d2c7b666241478655ca5919"
+    },
+    {
+      "file": "shorties/improve-my-lie_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "“this is worse” · line",
+      "url": "/_blob/6d8e13d8ff615c5ccf5ec39f517e8eeb"
+    }
+  ],
+  "cover_text": "me trying to improve my lie",
+  "cover_url": "/_blob/733d37dda8072754e0daad881473cec3",
+  "decided_at": "2026-10-18T19:19:17.449Z",
+  "decided_round": 2,
+  "decision": "dropped",
+  "duration": 13,
+  "file": "shorties/improve-my-lie_r2.mp4",
+  "history": [
+    {
+      "decision": null,
+      "fix": "Re-rendered with the Oct 17 text rule: Inter Bold 46 px (was SemiBold 60–72), white with a thin dark outline + soft shadow so it reads on any background; moved to the lower band (y 1180–1231, above your own captions) because your head is in the upper band during the clip — below Instagram's top bar and never over your face. Same cut, same frames, single crf-17 export from the original.",
+      "notes": "text smaller + moved below Instagram's top bar (Mack Oct 17)",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 18): dropped from the page, never posted; the clip goes back to the pool.",
+      "notes": "Cancel this idea",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/02e2912f7e73c2c5763434a386924920638bdcd3/shorties/improve-my-lie_r2.mp4",
+  "notes": "Cancel this idea",
+  "order": 25,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-17T13:25:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "Shorty: me trying to improve my lie",
+  "type": "shorty",
+  "video_asset": "f098950bc5440e45cc839d6edea626eb",
+  "video_url": "/_blob/f098950bc5440e45cc839d6edea626eb"
+}

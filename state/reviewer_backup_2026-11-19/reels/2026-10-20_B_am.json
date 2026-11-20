@@ -1,0 +1,79 @@
+{
+  "account": "B",
+  "batch": "red hawaiian shirt (Mack, Oct 14)",
+  "caption": "👉👈",
+  "chosen_cover": "opt2",
+  "cover_asset": "be203864fa1ed3ec663e7f392067e111",
+  "cover_file": "trials/035_mountain-par-3-red-shirt_b_r3_cover_opt2.jpg",
+  "cover_note": "all 3 are you smiling in the cart: 2 with the typewriter note \"should we play a par 3 together?\" on your shirt (off your face), 1 with no words — tap one",
+  "cover_options": [
+    {
+      "asset": "22c5a2b3eefecb2d3ecfa430a92091ce",
+      "file": "trials/035_mountain-par-3-red-shirt_b_r3_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "smiling, typewriter note on your shirt",
+      "url": "/_blob/22c5a2b3eefecb2d3ecfa430a92091ce"
+    },
+    {
+      "asset": "be203864fa1ed3ec663e7f392067e111",
+      "file": "trials/035_mountain-par-3-red-shirt_b_r3_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "big smile, typewriter note on your shirt",
+      "url": "/_blob/be203864fa1ed3ec663e7f392067e111"
+    },
+    {
+      "asset": "8b05c0d856330f887388201e465bb30b",
+      "file": "trials/035_mountain-par-3-red-shirt_b_r3_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "smiling, no words",
+      "url": "/_blob/8b05c0d856330f887388201e465bb30b"
+    }
+  ],
+  "cover_url": "/_blob/be203864fa1ed3ec663e7f392067e111",
+  "date": "2026-10-20",
+  "decided_at": "2026-10-16T02:06:38.298Z",
+  "decided_round": 3,
+  "decision": "approved",
+  "duration": 19.2,
+  "file": "trials/035_mountain-par-3-red-shirt_b.mp4",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Both text covers redone with the words on your shirt below your chin, nothing on your face. Option 1 (no words) unchanged. Video and caption unchanged.",
+      "notes": "Don’t put covet text on my face ever",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Caption is now \"👉👈\". New covers all on a smiling frame: typewriter note on your shirt (2 frames) + one with no words. Video unchanged. Zernio draft updated (still a draft).",
+      "notes": "Make cover picture with me smiling\n\nMake caption 👉👈",
+      "round": 2
+    },
+    {
+      "at": "2026-10-20T08:20:00Z",
+      "by": "Claude",
+      "event": "moved to the morning slot 08:24 MT at Mack's request (Zernio + platform time verified)"
+    }
+  ],
+  "kind": "new",
+  "length": "short",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83ee72e89f7cdc74cdc139713b3bb3b2cfe0198/trials/035_mountain-par-3-red-shirt_b.mp4",
+  "notes": "",
+  "post_url": "https://www.instagram.com/reel/DeuCtRfnPir/",
+  "posted_at": "2026-10-20T14:25:46.935Z",
+  "prepared_at": "2026-10-15T05:05:00Z",
+  "reuses": "NEW — never posted (fingerprint checked). Red Hawaiian shirt par 3, cloudy with the mountains (Sep 21, Colorado): matches nothing on your 3 accounts. Your call to put 2 of these on @mackthegolfer. Starts on you saying \"should we play a par 3 together?\" right after the wipe; only the wipe (first 1.1 s) removed, every shot and putt kept. Tuesday evening, batch 4 of 6.",
+  "round": 3,
+  "scheduled_at": "2026-10-16T02:41:33Z",
+  "scheduled_for": "2026-10-20T08:24:00-06:00",
+  "slot": "morning",
+  "source": "/Golf Captions/Video Sep 21 2026, 7 31 40 PM.mov",
+  "status": "posted",
+  "time_ct": "09:24",
+  "time_mt": "08:24",
+  "video_asset": "98b7c8cec003aa6b435e4d1bed54a78b",
+  "video_url": "/_blob/98b7c8cec003aa6b435e4d1bed54a78b",
+  "zernio": "6ad05e9b96179afd8c22f51c",
+  "zernio_id": "6ad05e9b96179afd8c22f51c"
+}

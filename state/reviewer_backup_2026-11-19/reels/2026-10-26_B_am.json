@@ -1,0 +1,75 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 1.0 s); opens on 'I'm in a bad mood, come play a par 4 with me'. Every shot, putt and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "they say golf is a mental sport",
+  "chosen_cover": "opt1",
+  "cover_asset": "afc765712470aeed1b9fa6de926a3394",
+  "cover_file": "trials/071_bad-mood-par-4_b_r2_cover_opt1.jpg",
+  "cover_note": "no-wipe frames: two with no burned-in captions, one where the pill covers the caption; words low, off your face and chest — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "afc765712470aeed1b9fa6de926a3394",
+      "file": "trials/071_bad-mood-par-4_b_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "red \"I'm in a BAD mood\" pill, drive with tracer (no captions on this frame)",
+      "url": "/_blob/afc765712470aeed1b9fa6de926a3394"
+    },
+    {
+      "asset": "7a36cd69aec6707d5e9238505bbf5e6b",
+      "file": "trials/071_bad-mood-par-4_b_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"I'm in a BAD mood\" at address (no captions on this frame)",
+      "url": "/_blob/7a36cd69aec6707d5e9238505bbf5e6b"
+    },
+    {
+      "asset": "2c077815dbcb524e6975d38583fabff0",
+      "file": "trials/071_bad-mood-par-4_b_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "purple \"I'm in a BAD mood\" pill covering the burned-in caption",
+      "url": "/_blob/2c077815dbcb524e6975d38583fabff0"
+    }
+  ],
+  "cover_url": "/_blob/afc765712470aeed1b9fa6de926a3394",
+  "date": "2026-10-26",
+  "decided_at": "2026-10-24T17:10:57.111Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 160.9,
+  "file": "trials/071_bad-mood-par-4_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "applied_at": "2026-10-24T15:59:52Z",
+      "decided_at": "2026-10-24T15:37:19.582Z",
+      "decision": "changes",
+      "fix": "cover text -> \"I'm in a BAD mood\" on frames WITHOUT burned-in captions (42.6 s drive+tracer, 7.4 s address) + one where the pill fully covers the caption (56.4 s); caption -> \"they say golf is a mental sport\"",
+      "notes": "If you put cover words don’t choose a frame that has captions OR cover the captions with the text box. \n\nChange cover to say I’m in a BAD mood \n\ncaption they say golf is a mental sport",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_expires": "2026-10-30T23:59Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/w1-exports:071_bad-mood-par-4_b.mp4",
+  "media_url": "https://media.zernio.com/media/1792799407044_63nldf19_mackthegolfer_071_bad-mood-par-4_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-26 08:17 (B morning, POSTING RULES v2)",
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-26T14:20:00Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week 1 -4.mp4.",
+  "round": 2,
+  "scheduled_at": "2026-10-24T17:26:48Z",
+  "scheduled_for": "2026-10-26T08:17:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week 1 -4.mp4",
+  "status": "posted",
+  "time_ct": "09:17",
+  "time_mt": "08:17",
+  "video_asset": "414e083a15059b4b6780ee3cfd3ec613",
+  "video_url": "/_blob/414e083a15059b4b6780ee3cfd3ec613",
+  "zernio": "6adcea58c08e8bb17facc0a5",
+  "zernio_id": "6adcea58c08e8bb17facc0a5"
+}

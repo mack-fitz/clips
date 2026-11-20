@@ -1,0 +1,57 @@
+{
+  "about": "Trailer montage, 6 bits: perfectly in the bunker (cold open) → the putter's fault → rough draft of history → 'I just know who I am' → like a loser → hole 18: rips a 'tweenie', misses, 'double, double, double… that does make me want to go to In-N-Out Burger.' Original audio, swearing kept, no added text, vertical 1080x1920.",
+  "branch": "scratch/promo-popstroke-clips2",
+  "caption": "i played tiger woods' mini golf course and it played me. full video on my channel",
+  "cover_url": "/_blob/d99aac0cb072a44fd754855df7e0631c",
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-review/p10_trailer.mp4",
+  "duration": 134.9,
+  "file": "clips/p10_trailer.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "10",
+  "order": 10,
+  "posts_itself": false,
+  "range": "6 bits from 6:08.6–18:45.0 (16:12, 6:08, 10:41, 12:53, 14:26, 18:07)",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/43990a4bab89e71cc04fc044f36a116811c07a0c/clips/p10_trailer.mp4.part00",
+    "https://raw.githubusercontent.com/mack-fitz/clips/43990a4bab89e71cc04fc044f36a116811c07a0c/clips/p10_trailer.mp4.part01"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      972.5,
+      994.2
+    ],
+    [
+      368.6,
+      389.2
+    ],
+    [
+      641.8,
+      656.95
+    ],
+    [
+      773.8,
+      790.9
+    ],
+    [
+      866.3,
+      888.58
+    ],
+    [
+      1087,
+      1124.95
+    ]
+  ],
+  "size_mb": 169,
+  "status": "dropped",
+  "superseded": true,
+  "superseded_by": "yt2_m01..m04 montages (Nov 7)",
+  "title": "OLD single-moment cut: trailer",
+  "video": "popstroke",
+  "video_asset": "e9f2a5cf7fb06935357468c4804675df",
+  "video_title": "YouTube #2 · PopStroke (Thu Nov 12)",
+  "video_url": "/_blob/e9f2a5cf7fb06935357468c4804675df"
+}

@@ -1,0 +1,59 @@
+{
+  "about": "New idea: you talking straight to your comments, 5 bits. 1) cart selfie: \"everybody always tells me I need to turn my hat around and tuck my shirt in… that was a marshal and he didn't say shit to me. so you guys all need to shut up\" 2) \"whack it with my eight iron straight into the hole. that way anybody who guesses above one looks like an absolute asshole\" 3) \"I'd actually love to just putt this, but I can only imagine the uproar in my comment section if I were to do that\" 4) \"genuinely though please let me know what's up with all of my swings, because I do want to be better, that's all I live for, is being the best in the world\" 5) bogey putt drops → \"I'll take a bog. did you guess a four? because if you guessed higher than a four, you're a…\". Spacing: green pinstripe → Amarillo white → green polo/Bad hat → green pinstripe → Amarillo white (other hole), never the same shirt back to back. Only pauses between sentences cut, the one shot (the putt) kept whole, swearing kept, no shirt wipes, no added text, even loudness. 49.6 s, one full-quality export from your originals. Spares if you want swaps: \"the weight and pressure of you telling me I was a decent golfer\", \"lock your guess into the comments… cheaters never win, I think that's from the Bible\", the \"mostly male audience\" lesson bit.",
+  "account": "@mackthegolfer",
+  "caption": "say something about my hat. i dare you",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp16_comment-section_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "cart selfie 'you guys all need to shut up', red",
+      "url": "/_blob/e91703c55395b6e4526945d1b09426b4"
+    },
+    {
+      "file": "compilations/comp16_comment-section_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "leaning into the camera 'you're a…', purple",
+      "url": "/_blob/702801eae0ee635e59f9467ec0961b77"
+    },
+    {
+      "file": "compilations/comp16_comment-section_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "by the flag 'let me know', blue",
+      "url": "/_blob/bc2b72852a65c597ecb663ca3d71d3f7"
+    },
+    {
+      "file": "compilations/comp16_comment-section_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "cart selfie, typewriter 'you guys all need to shut up'",
+      "url": "/_blob/39b5b90d9b826247adeda850bf333e63"
+    }
+  ],
+  "cover_text": "Macky vs. my comment section",
+  "cover_url": "/_blob/e91703c55395b6e4526945d1b09426b4",
+  "decided_at": "2026-10-18T19:19:49.244Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 49.6,
+  "file": "compilations/comp16_comment-section.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 18): dropped from the page, never posted; its bits go back to the pool.",
+      "notes": "Cancel this idea",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/4d61bea010602cc34f0f37b9a3c22ca9578e4374/compilations/comp16_comment-section.mp4",
+  "notes": "Cancel this idea",
+  "order": 26,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-17T15:55:00Z",
+  "round": 1,
+  "status": "dropped",
+  "title": "Macky vs. my comment section",
+  "video_asset": "0179aadf4b9ceb96890154612645aeef",
+  "video_url": "/_blob/0179aadf4b9ceb96890154612645aeef"
+}

@@ -1,0 +1,75 @@
+{
+  "about": "Week 1 @mackygolfs: your upload untouched (wipe first). Rainy par 4, 'well, I'm wet', the lag master doink, and the guy who snuck up behind you with your own lost ball.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "stay til the end for something WEIRD",
+  "chosen_cover": "opt3",
+  "cover_asset": "6e683e7791d2d09052916d6cda27083d",
+  "cover_file": "trials/064_slippery-par-4_a_r2_cover_opt3.jpg",
+  "cover_note": "shirt-wipe frames (no captions), red pill over the shirt/hands, clear of your face and chest — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "16d1cf1dc9ee2e24d6a4ddc44c92e336",
+      "file": "trials/064_slippery-par-4_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "red \"well, I'm wet\" pill, over the shirt/hands (wipe 0.1 s)",
+      "url": "/_blob/16d1cf1dc9ee2e24d6a4ddc44c92e336"
+    },
+    {
+      "asset": "937b1e48788a31f1f2780ff09499f7f5",
+      "file": "trials/064_slippery-par-4_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "red \"well, I'm wet\" pill, over the shirt/hands (wipe 0.4 s)",
+      "url": "/_blob/937b1e48788a31f1f2780ff09499f7f5"
+    },
+    {
+      "asset": "6e683e7791d2d09052916d6cda27083d",
+      "file": "trials/064_slippery-par-4_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "red \"well, I'm wet\" pill, bigger (wipe 0.25 s)",
+      "url": "/_blob/6e683e7791d2d09052916d6cda27083d"
+    }
+  ],
+  "cover_url": "/_blob/6e683e7791d2d09052916d6cda27083d",
+  "date": "2026-10-26",
+  "decided_at": "2026-10-24T17:10:17.673Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 109.2,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week 1 -2.mp4 (original, untouched)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "applied_at": "2026-10-24T15:59:52Z",
+      "decided_at": "2026-10-24T15:33:26.315Z",
+      "decision": "changes",
+      "fix": "cover -> \"well, I'm wet\" red pill on 3 shirt-wipe frames (no captions, face and chest clear); caption -> \"stay til the end for something WEIRD\"",
+      "notes": "Change caption to stay til the end for something WEIRD\n\nCover is well, I’m wet in red pill",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_expires": "2026-10-30T23:59Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/relay-w1a:A_w1-2.mp4",
+  "media_url": "https://media.zernio.com/media/1792797349885_0kvzd3jb_mackygolfs_w1_week1-2_original.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-26 07:38 (A morning, POSTING RULES v2)",
+  "posted_account": "@mackygolfs",
+  "posted_at": "2026-10-26T13:39:00Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week 1 -2.mp4. Posts untouched: H.264 1080x1920, 15.0 Mbps, 208 MB (uploaded to Zernio at full quality, no re-encode).",
+  "round": 2,
+  "scheduled_at": "2026-10-24T17:26:33Z",
+  "scheduled_for": "2026-10-26T07:38:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week 1 -2.mp4",
+  "status": "posted",
+  "time_ct": "08:38",
+  "time_mt": "07:38",
+  "video_asset": "41ad5e5e09bd88282d62f146e26829bd",
+  "video_url": "/_blob/41ad5e5e09bd88282d62f146e26829bd",
+  "zernio": "6adcea497906473393be7afe",
+  "zernio_id": "6adcea497906473393be7afe"
+}

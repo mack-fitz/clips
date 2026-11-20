@@ -1,0 +1,59 @@
+{
+  "about": "You doing your own score math, 5 bits: 1) \"maybe we'll be on in four… I'm actually gonna be pissed if we're not on in four to be honest\" → the approach shot → \"so as it turns out, I'm pissed\" 2) \"absolutely pissing rain today, but I've got to break 100, so no days off\" 3) \"I think this is only my fifth or sixth stroke, but it feels like I've been playing this hole for an hour\" 4) short putts → \"honestly, a four putt is pretty standard, but that long putt, incredible\" 5) bunker shot → \"perfect, perfect. I've lost track of the score, it doesn't even matter, all that matters is being loosey goosey\". Every shot kept whole, no swearing cut, no shirt wipes. Outfits alternate (white/camo → blue rain polo → green cactus day → orange checker → green polo). All already-posted footage (the cactus par 5 full went up this morning). 45 s, full-quality export from your originals.",
+  "account": "@mackthegolfer",
+  "caption": "the math checks out",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp12_golf-math_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "wide-eyed in the rain cart, red",
+      "url": "/_blob/72a28ce90002c0b8fd4988e218c08330"
+    },
+    {
+      "file": "compilations/comp12_golf-math_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "orange-checker grin, purple",
+      "url": "/_blob/b9d64155498474d8998f6026916a8e5c"
+    },
+    {
+      "file": "compilations/comp12_golf-math_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "orange checker, typewriter 'a four putt is pretty standard'",
+      "url": "/_blob/41d86387deea5af5636e1e5ff7b22cf4"
+    },
+    {
+      "file": "compilations/comp12_golf-math_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "rain cart, typewriter 'gotta break 100'",
+      "url": "/_blob/5f778684e03b702490d9899dae7e8dff"
+    }
+  ],
+  "cover_text": "golf math",
+  "cover_url": "/_blob/72a28ce90002c0b8fd4988e218c08330",
+  "decided_at": "2026-10-15T21:34:39.080Z",
+  "decided_round": 1,
+  "decision": "on_hold",
+  "duration": 44.9,
+  "file": "compilations/comp12_golf-math.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "On hold: old 'golf math' cut scrapped. I searched the word-level transcripts of all 30 transcribed videos: only ONE clean standalone \"I'm pissed\" (\"so as it turns out, I'm pissed\", Oct 12 par 4). The other 3 run straight into the reason with no pause (\"pissed if we're not on in four\", \"pissed with this yellow box\", \"so pissed about this damage control\"). The 14 /golfclips videos aren't transcribed yet (relaying them was blocked this run). Needs more footage before it can be 'a bunch'.",
+      "notes": "Makes no sense\n\nNew idea\nA bunch of clips of me just saying I’m pissed. No shots. No explanations why I’m pissed. \nText is “golf is so relaxing”",
+      "round": 1
+    }
+  ],
+  "media_url": null,
+  "notes": "",
+  "order": 19,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-15T19:50:00Z",
+  "round": 2,
+  "status": "on_hold",
+  "title": "golf math",
+  "video_asset": "fb8d298fe2c350b9ea333ebecc7aa51e",
+  "video_url": "/_blob/fb8d298fe2c350b9ea333ebecc7aa51e"
+}

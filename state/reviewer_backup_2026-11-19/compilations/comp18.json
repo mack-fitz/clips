@@ -1,0 +1,78 @@
+{
+  "about": "Round 3, per your note: just the shots now, no talking before or after. 3 tree shots back to back, each one address, swing, tracer into the tree, with only what you say while the ball is still in the air: 1) pinstripe: \"oh, I pulled that and it hit the tree\" 2) green polo: chip straight up into the branches, \"well I hit the tree... don't tell me I'm in the sand\" 3) white shirt: into the tree, \"god damn it\". All the setup talk and after-talk is gone. The desert drive is out too: with no talking it was just a drive with no tracer or tree you could see. Every shot whole, swearing kept, no added text, no wipes. 14.4 s (was 39.2), one full-quality export from your originals.",
+  "account": "@mackthegolfer",
+  "caption": "trees are 90% air my ass",
+  "chosen_cover": "opt3",
+  "cover_options": [
+    {
+      "file": "compilations/comp18_trees_r3_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "pinstripe, tracer into the tree, red pill",
+      "url": "/_blob/de714e40c511b79dd47fc22f76829b14"
+    },
+    {
+      "file": "compilations/comp18_trees_r3_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "green polo watching it go into the branches, blue pill",
+      "url": "/_blob/4f01d11fa6ffe93462ace8b73dcd5087"
+    },
+    {
+      "file": "compilations/comp18_trees_r3_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "white shirt follow-through under the branches, purple pill",
+      "url": "/_blob/3ff50dc4b319c0c35d7a5c6bf83584ac"
+    },
+    {
+      "file": "compilations/comp18_trees_r3_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "typewriter 'trees are 90% air they said'",
+      "url": "/_blob/8075b08c167da7762a80d2f8a7b019b3"
+    }
+  ],
+  "cover_text": "Macky vs. trees",
+  "cover_url": "/_blob/de714e40c511b79dd47fc22f76829b14",
+  "decided_at": "2026-10-22T15:40:10.805Z",
+  "decided_round": 4,
+  "decision": "approved",
+  "duration": 15.6,
+  "file": "compilations/comp18_trees_r4.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Rebuilt with only ball-into-tree shots back to back (4 bits, 45 s → 39.2 s): added the pinstripe pulled-into-the-tree approach and the desert drive into the trees/cactus; removed the over-the-tree bit and the practice-swing talk. New covers.",
+      "notes": "do a bucnh of shots where the ball hits trees",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cut to the shots only (39.2 s → 14.4 s): each bit is address → swing → tracer into the tree, keeping only what she says while the ball is in the air; all before/after talk removed; desert drive dropped (no visible tree hit without the talk). 4 new covers.",
+      "notes": "Just shots no talking before and after. Should be much quicker",
+      "round": 2
+    },
+    {
+      "applied_at": "2026-10-22T05:15:00Z",
+      "decided_at": "2026-10-21T17:28:54.424Z",
+      "decision": "changes",
+      "notes": "Extend like one or two more seconds to hear me say I hit the tree on the last one",
+      "round": 3
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/c5d1b276cebdc0ca05dca29aab58876646be2e88/compilations/comp18_trees_r4.mp4",
+  "notes": "",
+  "order": 31,
+  "post_account": "@mackthegolfer",
+  "post_url": "https://www.instagram.com/reel/De1wq6RFnic/",
+  "post_when": "now",
+  "posted": false,
+  "posted_at": "2026-10-23T14:22:12.870Z",
+  "prepared_at": "2026-10-20T12:00:00Z",
+  "round": 4,
+  "scheduled_for": "2026-10-23T08:20:00-06:00",
+  "scheduled_note": "Scheduled by the morning run: @mackthegolfer trial (MANUAL) Fri Oct 23 08:20 MT, cover opt3. Approved Oct 22 'post now' but no review-check had posted it.",
+  "status": "posted",
+  "title": "Macky vs. trees",
+  "video_asset": "68859669e42f99e8c6ea6611c12b04db",
+  "video_url": "/_blob/68859669e42f99e8c6ea6611c12b04db",
+  "zernio": "6adb3d2044e7154419675c2b",
+  "zernio_id": "6adb3d2044e7154419675c2b"
+}

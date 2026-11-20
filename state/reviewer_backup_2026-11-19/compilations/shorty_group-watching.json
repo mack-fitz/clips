@@ -1,0 +1,66 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: San Angelo bunker, green polo + “Bad” hat → “I'm so nervous… I'm just gonna whack this out cause I don't know how to hit shots out of the bunker” → the bunker shot flies hard right (tracer) → she walks up to the camera: “well that landed on their tee box, so that sucks”. Your original sound and captions. Line (smaller, bolder and lower since Oct 17 — above your captions, below the IG top bar): “me when a group of guys / is watching” (fades out as you walk up to the camera so it never covers your face). From Video Oct 12 2026, 12 03 20 AM.mov (64.55–77.03 s), which you posted yourself on @mackygolfs Oct 12 — “no disrespect to the san angels” https://www.instagram.com/reel/DeakEGHEaxE/ (166 s of it in that post, fingerprint checked). Not in any posted or pending compilation or shorty. True original (10.8 Mbps), single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "they were very impressed",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/group-watching_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address · line",
+      "url": "/_blob/a072dbb5321574cb4a5896c7dec70fc3"
+    },
+    {
+      "file": "shorties/group-watching_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "takeaway · line",
+      "url": "/_blob/8cb8b6a507620075242e66698e22058e"
+    },
+    {
+      "file": "shorties/group-watching_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "top of swing + tracer · line",
+      "url": "/_blob/29b6d7afb10e0401e0c6661189b3abeb"
+    },
+    {
+      "file": "shorties/group-watching_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "“landed on their tee box” close-up",
+      "url": "/_blob/06015913797361d86bda5190079590ef"
+    }
+  ],
+  "cover_text": "me when a group of guys is watching",
+  "cover_url": "/_blob/a072dbb5321574cb4a5896c7dec70fc3",
+  "decided_at": "2026-10-15T21:33:03.606Z",
+  "decided_round": 1,
+  "decision": "on_hold",
+  "duration": 12.5,
+  "file": "shorties/group-watching_r2.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "On hold: in all 30 transcribed videos the only 'nervous' line is the one already in this clip (San Angelo bunker, \"young boys are my least favorite type of voyeur. I'm so nervous\"). The 14 /golfclips videos aren't transcribed yet (relaying them was blocked this run). Needs more footage before it can be multiple clips.",
+      "notes": "Get multiple clips of me saying I’m nervous bc people are watching me",
+      "round": 1
+    },
+    {
+      "decision": null,
+      "fix": "Re-rendered with the Oct 17 text rule: Inter Bold 46 px (was SemiBold 60–72), white with a thin dark outline + soft shadow so it reads on any background; moved to the lower band (y 1180–1231, above your own captions) because your head is in the upper band during the clip — below Instagram's top bar and never over your face. Same cut, same frames, single crf-17 export from the original.",
+      "notes": "text smaller + moved below Instagram's top bar (Mack Oct 17)",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/02e2912f7e73c2c5763434a386924920638bdcd3/shorties/group-watching_r2.mp4",
+  "notes": "",
+  "order": 18,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-15T18:10:00Z",
+  "round": 3,
+  "status": "on_hold",
+  "title": "Shorty: me when a group of guys is watching",
+  "type": "shorty",
+  "video_asset": "954c84762e1ebe8de297fbb93b355518",
+  "video_url": "/_blob/954c84762e1ebe8de297fbb93b355518"
+}

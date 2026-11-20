@@ -1,0 +1,53 @@
+{
+  "account": "A",
+  "batch": "red hawaiian shirt (Mack, Oct 14)",
+  "caption": "what do you think I’m shooting on this par 4?",
+  "chosen_cover": "opt3",
+  "cover_asset": "",
+  "cover_file": "trials/031_bunker-par-4-red-shirt_a_r3_cover_opt3.jpg",
+  "cover_note": "shirt-wipe frame, \"what do you think I'm shooting on this par 4?\" moved up to the top (over the cart roof): nothing on your face or chest — 3 options, tap one",
+  "cover_options": [],
+  "cover_url": "",
+  "date": "2026-10-19",
+  "decided_at": "2026-10-16T00:53:01.457Z",
+  "decided_round": 3,
+  "decision": "approved",
+  "duration": 25.6,
+  "file": "trials/031_bunker-par-4-red-shirt_a.mp4",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Caption and cover text are now \"what do you think I’m shooting on this par 4?\" (shirt-wipe frame, 3 styles). Video unchanged. Zernio draft updated (still a draft).",
+      "notes": "Change caption and cover what do you think I’m shooting on this par 4?",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cover text moved to the top of the frame (over the cart roof), nothing over your chest or face; 3 styles (red pill, typewriter, blue pill). Video and caption unchanged. Zernio draft updated (still a draft).",
+      "notes": "Cover text should never be over my boobs",
+      "round": 2
+    }
+  ],
+  "kind": "new",
+  "length": "short",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83ee72e89f7cdc74cdc139713b3bb3b2cfe0198/trials/031_bunker-par-4-red-shirt_a.mp4",
+  "notes": "",
+  "post_url": "https://www.instagram.com/reel/Deslf0CG8F7/",
+  "posted_at": "2026-10-20T00:51:27.560Z",
+  "prepared_at": "2026-10-15T05:05:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "reuses": "NEW — never posted (fingerprint checked). Red Hawaiian shirt par 4 with the bunker shot (Sep 23, Colorado): matches nothing on your 3 accounts. Your original file exactly as you made it, shirt wipe first. Monday's new video, batch 3 of 6.",
+  "round": 3,
+  "scheduled_at": "2026-10-16T01:15:02Z",
+  "scheduled_for": "2026-10-19T18:49:00-06:00",
+  "slot": "evening",
+  "source": "/Golf Captions/Video Sep 23 2026, 1 04 53 PM.mov",
+  "status": "posted",
+  "time_ct": "19:49",
+  "time_mt": "18:49",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad05e8b694b4089c8713931",
+  "zernio_id": "6ad05e8b694b4089c8713931"
+}

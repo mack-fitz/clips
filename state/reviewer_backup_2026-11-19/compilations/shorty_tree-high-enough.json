@@ -1,0 +1,54 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo, San Angelo loosey-goosey par 5, under the mesquite after the gallery drop — “alright, on the green” → address → “don't hit this tree above me, Mac” → the chip goes straight up into the branches (tracer) and drops → “well I hit the tree… don't tell me I'm in the sand”. Your talk is the punchline so it stays; your original sound and captions. Line “me assuming that tree is high enough” in the lower band (above your captions) because your head is in the upper band the whole time. From Video Oct 12 2026, 12 22 39 AM.mov (59.10–70.20 s), which you posted on @mackthegolfer Oct 10 — “LGB LOOSEY GOOSEY BABY #neverforget” https://www.instagram.com/reel/DeUZyg5xywP/ (123 s of it in that post, this chip included; fingerprint checked). Not in any shorty or compilation (only its 0.4 s contact sound is in the asmr comp). True original, single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "the tree counts as on the green right",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/tree-high-enough_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address under the tree · line",
+      "url": "/_blob/0f8970cdbb71b535de984cf19e7f44b9"
+    },
+    {
+      "file": "shorties/tree-high-enough_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "top of the backswing · line",
+      "url": "/_blob/f271790dad884445f762da07c20965a6"
+    },
+    {
+      "file": "shorties/tree-high-enough_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "tracer straight up into the tree · line",
+      "url": "/_blob/e6f31e46b3c13886ef809ec4b91f9b8f"
+    }
+  ],
+  "cover_text": "me assuming that tree is high enough",
+  "cover_url": "/_blob/0f8970cdbb71b535de984cf19e7f44b9",
+  "decided_at": "2026-10-18T19:21:50.547Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 11.1,
+  "file": "shorties/tree-high-enough.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 18): dropped from the page, never posted; the clip goes back to the pool.",
+      "notes": "This doesn’t make sense? Cancel",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/fb5768158cfb8f309e55b79c91a8b2d4843c5b4e/shorties/tree-high-enough.mp4",
+  "notes": "This doesn’t make sense? Cancel",
+  "order": 29,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-18T13:35:00Z",
+  "round": 1,
+  "status": "dropped",
+  "title": "Shorty: me assuming that tree is high enough",
+  "type": "shorty",
+  "video_asset": "0aac7bedcc745719861ca778e88f8a65",
+  "video_url": "/_blob/0aac7bedcc745719861ca778e88f8a65"
+}

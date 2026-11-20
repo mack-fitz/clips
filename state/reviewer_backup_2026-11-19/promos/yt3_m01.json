@@ -1,0 +1,100 @@
+{
+  "about": "The plan vs. the round: she's 'most confident' with her 7-iron and 'breaking 50', then it all goes sideways; ends on 'breaking 60 might have been a better goal'. Cuts (times in the long video '7iron final.mov'): 0:03.1–0:06.2 “The club I feel most confident with is my 7-iron.” | 1:08.3–1:13.0 “(no talking: the tee shot, ball tracer into the trees)” | 1:14.6–1:20.9 “Well, I did get over all the chunky stuff. I guess I just forgot to tell myself to also have a good shot.” | 4:26.0–4:31.2 “I feel no worries about these guys being on the green because I've never hit 188 with 7-iron in my life.” | 12:30.7–12:35.3 “Technically that was a safe play, it was a bad play, it was a bad shot, I'm a bad golfer.” | 13:59.1–14:03.6 “Is it possible? I wouldn't personally bet any money on it at this point in time.” | 20:19.1–20:25.7 “I know when we started this venture I was all like let's break 50, let's break 50, I'm only gonna use my 7-iron. I'm really good with my 7-iron.” | 20:52.4–20:56.5 “We're not even close to 50, I don't think. Breaking 60 might have been a better goal.”. Original audio, swearing kept, no added text or music, no shirt wipe, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-7iron-montages2",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/72ff72471f75d23c54453c667596658b",
+  "created": "2026-11-08",
+  "cuts": [
+    {
+      "at": "0:03.1–0:06.2",
+      "line": "The club I feel most confident with is my 7-iron."
+    },
+    {
+      "at": "1:08.3–1:13.0",
+      "line": "(no talking: the tee shot, ball tracer into the trees)"
+    },
+    {
+      "at": "1:14.6–1:20.9",
+      "line": "Well, I did get over all the chunky stuff. I guess I just forgot to tell myself to also have a good shot."
+    },
+    {
+      "at": "4:26.0–4:31.2",
+      "line": "I feel no worries about these guys being on the green because I've never hit 188 with 7-iron in my life."
+    },
+    {
+      "at": "12:30.7–12:35.3",
+      "line": "Technically that was a safe play, it was a bad play, it was a bad shot, I'm a bad golfer."
+    },
+    {
+      "at": "13:59.1–14:03.6",
+      "line": "Is it possible? I wouldn't personally bet any money on it at this point in time."
+    },
+    {
+      "at": "20:19.1–20:25.7",
+      "line": "I know when we started this venture I was all like let's break 50, let's break 50, I'm only gonna use my 7-iron. I'm really good with my 7-iron."
+    },
+    {
+      "at": "20:52.4–20:56.5",
+      "line": "We're not even close to 50, I don't think. Breaking 60 might have been a better goal."
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-7iron-montages/m01_the-7-iron-plan.mp4",
+  "duration": 39.2,
+  "file": "clips/m01_the-7-iron-plan.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M1",
+  "order": -6,
+  "posts_itself": false,
+  "range": "8 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/8b81975ad1731d425ef26bb12bbc9d991a77a5ff/clips/m01_the-7-iron-plan.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      3.105,
+      6.235
+    ],
+    [
+      68.31,
+      72.995
+    ],
+    [
+      74.615,
+      80.9
+    ],
+    [
+      266.025,
+      271.19
+    ],
+    [
+      750.66,
+      755.345
+    ],
+    [
+      839.11,
+      843.555
+    ],
+    [
+      1219.14,
+      1225.705
+    ],
+    [
+      1252.36,
+      1256.48
+    ]
+  ],
+  "size_mb": 51,
+  "source_file": "7iron final.mov",
+  "status": "ready",
+  "theme": "The plan vs. the round: she's 'most confident' with her 7-iron and 'breaking 50', then it all goes sideways; ends on 'breaking 60 might have been a better goal'.",
+  "title": "the 7-iron plan",
+  "type": "montage",
+  "video": "7iron",
+  "video_asset": "449e7a9543b2cc7f279b0fd8d140c96c",
+  "video_title": "YouTube #3 · 7 iron only (Thu Nov 19)",
+  "video_url": "/_blob/449e7a9543b2cc7f279b0fd8d140c96c"
+}

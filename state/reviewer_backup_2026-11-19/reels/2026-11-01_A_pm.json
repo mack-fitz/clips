@@ -1,0 +1,96 @@
+{
+  "about": "Week 1 @mackygolfs PM file (afternoon only, never bounces): the sim swing video, wipe first, nothing cut. Your file is HEVC, so ONE full-quality H.264 conversion (CRF 17). Earliest it can post is Sun Nov 1 afternoon (you posted it on @mackthegolfer Oct 2), so it's dated Nov 1.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "BE SPECIFIC",
+  "chosen_cover": "opt1",
+  "cover_asset": "dd9785a7b2a3785ecec91a48f3f739d7",
+  "cover_file": "trials/069_sim-swing-pm_a_cover_opt1.jpg",
+  "cover_note": "shirt-wipe frames at the sim, words low over your stomach/waist (below your chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "dd9785a7b2a3785ecec91a48f3f739d7",
+      "file": "trials/069_sim-swing-pm_a_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "typewriter \"please tell me what's wrong with my swing\", low",
+      "url": "/_blob/dd9785a7b2a3785ecec91a48f3f739d7"
+    },
+    {
+      "asset": "862dcbda90c173175f11700f262a0a46",
+      "file": "trials/069_sim-swing-pm_a_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "red \"Macky vs. the Sim\" pill, low",
+      "url": "/_blob/862dcbda90c173175f11700f262a0a46"
+    },
+    {
+      "asset": "c4f3e7c00dde2ad62c762cb617adde02",
+      "file": "trials/069_sim-swing-pm_a_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "blue \"Macky vs. My Swing\" pill, low",
+      "url": "/_blob/c4f3e7c00dde2ad62c762cb617adde02"
+    }
+  ],
+  "cover_url": "/_blob/dd9785a7b2a3785ecec91a48f3f739d7",
+  "date": "2026-11-01",
+  "decided_at": "2026-10-27T20:39:09.266Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 19.1,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/pm.MOV (one full-quality encode)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "caption": "booked the sim. please tell me what's wrong with my swing",
+      "cover_options": [
+        {
+          "asset": "dd9785a7b2a3785ecec91a48f3f739d7",
+          "file": "trials/069_sim-swing-pm_a_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "typewriter \"please tell me what's wrong with my swing\", low",
+          "url": "/_blob/dd9785a7b2a3785ecec91a48f3f739d7"
+        },
+        {
+          "asset": "862dcbda90c173175f11700f262a0a46",
+          "file": "trials/069_sim-swing-pm_a_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "red \"Macky vs. the Sim\" pill, low",
+          "url": "/_blob/862dcbda90c173175f11700f262a0a46"
+        },
+        {
+          "asset": "c4f3e7c00dde2ad62c762cb617adde02",
+          "file": "trials/069_sim-swing-pm_a_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "blue \"Macky vs. My Swing\" pill, low",
+          "url": "/_blob/c4f3e7c00dde2ad62c762cb617adde02"
+        }
+      ],
+      "decided_at": "2026-10-27T20:39:09.266Z",
+      "decision": "changes",
+      "done": "Round 2: caption now \"BE SPECIFIC\". Video and covers unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Caption BE SPECIFIC",
+      "round": 1
+    }
+  ],
+  "kind": "pm",
+  "length": "short",
+  "media_note": "Zernio DRAFT (trialParams MANUAL, cover opt1) so approval schedules instantly (RULES.md s8).",
+  "media_reupload": "scratch/w1-exports:069_sim-swing-pm_a.mp4",
+  "media_url": "https://media.zernio.com/media/1792801106902_60hnjfx0_mackygolfs_069_sim-swing-pm_a.mp4",
+  "notes": "Mack: post without approval (Oct 30 11:09)",
+  "planned_mt": "2026-11-01 14:16 (A afternoon, POSTING RULES v2)",
+  "posted_at": "2026-11-01T21:17:00Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "Already posted by you on @mackthegolfer Oct 2 (\"before you say it's my grip please tell me how to fix said grip\", https://www.instagram.com/reel/DeARiZasG4E/) — 30 days clear Sun Nov 1 1:51pm MT. New caption + new covers. Dropbox /Golf/for claude/mackygolfs/week 1/pm.MOV.",
+  "round": 2,
+  "scheduled_for": "2026-11-01T14:16:00-07:00",
+  "slot": "afternoon",
+  "source": "/Golf/for claude/mackygolfs/week 1/pm.MOV",
+  "status": "posted",
+  "time_ct": "15:16",
+  "time_mt": "14:16",
+  "video_asset": "9ee1618925d7dccdd3c5b0aaa75a3811",
+  "video_url": "/_blob/9ee1618925d7dccdd3c5b0aaa75a3811",
+  "zernio": "6ae4d0f9fe862608f9374d30",
+  "zernio_note": "Nov 1 morning run: Zernio 6ae4d0f9 had no cover set; added cover opt1 (default) full size, trial MANUAL, still 2:16pm MT."
+}

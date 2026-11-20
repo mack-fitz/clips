@@ -1,0 +1,98 @@
+{
+  "about": "Week 1 @mackygolfs: your upload untouched (wipe first). Par 5 at the nice course in the untucked jersey, 'lock it in the comments before I hit the drive'.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "guys this stays between us",
+  "chosen_cover": null,
+  "cover_asset": "796334df27013f091288bb1561ebcb81",
+  "cover_file": "trials/068_untucked-par-5_a_r2_cover_opt1.jpg",
+  "cover_full_note": "Full-res covers on clips branch scratch/mg-pending-oct28 (pinned; mackygolfs-mackthegolfer push not authorized).",
+  "cover_note": "shirt-wipe frames, words over your hands between your face and chest (mid-frame, off your face and chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "796334df27013f091288bb1561ebcb81",
+      "file": "trials/068_untucked-par-5_a_r2_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/068_untucked-par-5_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "red \"I'm MORTIFIED\" pill, wipe frame 0.4 s, mid-frame over your hands",
+      "url": "/_blob/796334df27013f091288bb1561ebcb81"
+    },
+    {
+      "asset": "9e688987793957f0d0733a65839b58ef",
+      "file": "trials/068_untucked-par-5_a_r2_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/068_untucked-par-5_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"I'm MORTIFIED\", wipe frame 0.4 s, mid-frame",
+      "url": "/_blob/9e688987793957f0d0733a65839b58ef"
+    },
+    {
+      "asset": "52f932d0a1fdc86cb9ad968e0fd5e38b",
+      "file": "trials/068_untucked-par-5_a_r2_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/068_untucked-par-5_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "purple \"I'm MORTIFIED\" pill on frame one, mid-frame",
+      "url": "/_blob/52f932d0a1fdc86cb9ad968e0fd5e38b"
+    }
+  ],
+  "cover_url": "/_blob/796334df27013f091288bb1561ebcb81",
+  "date": "2026-10-29",
+  "decided_at": "2026-10-27T20:22:04.132Z",
+  "decided_round": 1,
+  "decision": "self_post",
+  "duration": 161.8,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week1 -7.mp4 (original, untouched)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "caption": "guess my score on this par 5. leave the jersey out of it",
+      "cover_options": [
+        {
+          "asset": "df67eec96922666235fae99ce99fd8c2",
+          "file": "trials/068_untucked-par-5_a_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "blue \"Macky vs. a Par 5\" pill, mid-frame",
+          "url": "/_blob/df67eec96922666235fae99ce99fd8c2"
+        },
+        {
+          "asset": "aa8208fee5280c3bfc6ee0b2e0ca48c2",
+          "file": "trials/068_untucked-par-5_a_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "typewriter \"lock in your guess before i tee off\", mid-frame",
+          "url": "/_blob/aa8208fee5280c3bfc6ee0b2e0ca48c2"
+        },
+        {
+          "asset": "9951c8865e189829e04cad08bb894a00",
+          "file": "trials/068_untucked-par-5_a_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "orange \"Macky vs. Tucking In\" pill, mid-frame",
+          "url": "/_blob/9951c8865e189829e04cad08bb894a00"
+        }
+      ],
+      "decided_at": "2026-10-27T20:22:04.132Z",
+      "decision": "changes",
+      "done": "Round 2: 3 \"I'm MORTIFIED\" covers (opt3 is frame one), words mid-frame over your hands, off your face and chest. Caption now \"guys this stays between us\" (your note said \"between up\" — read as \"us\"; tell me if you meant something else). Video unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Change cover to I’m MORTIFIED\n\ncaption guys this stays between up",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Zernio DRAFT (trialParams MANUAL, cover opt1) so approval schedules instantly (RULES.md s8).",
+  "media_reupload": "scratch/relay-w1a:A_w1-7.mp4",
+  "media_url": "https://media.zernio.com/media/1792797352815_8omoro7n_mackygolfs_w1_week1-7_original.mp4",
+  "notes": "Mack posts Thu Oct 29 herself (files sent in chat)",
+  "planned_mt": "2026-10-29 07:47 (A morning, POSTING RULES v2)",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week1 -7.mp4. Posts untouched: H.264 1080x1920, 7.0 Mbps, 146 MB (uploaded to Zernio at full quality, no re-encode).",
+  "round": 2,
+  "sent_at": "2026-10-29T02:12:00Z",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week1 -7.mp4",
+  "status": "sent_to_mack",
+  "time_ct": "08:47",
+  "time_mt": "07:47",
+  "video_asset": "bcc9617b7ce05de5cb1bbe7621f310f7",
+  "video_url": "/_blob/bcc9617b7ce05de5cb1bbe7621f310f7",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

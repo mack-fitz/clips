@@ -1,0 +1,60 @@
+{
+  "about": "New clip per your note: a real up-and-down try. White shirt, camo hat, just off the green: \"I'm actually gonna be pissed if we're not on in 4 to be honest\" → the chip (tracer) → your own cut to the selfie \"so as it turns out, I'm pissed\". One shot, your sound and captions. Line on top: \"me after saying “easy up and down”\". From Video Oct 12 2026, 7 16 02 AM.mov (110.1–121.3 s), which you posted on @mackthegolfer Oct 11 \"does anyone know the lag masta\" https://www.instagram.com/reel/DeX0u_Ox_W3/ (136 s of it in that post). Not used in any other shorty.",
+  "account": "@mackthegolfer",
+  "caption": "as it turns out, i'm pissed",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/easy-up-and-down-chip_cover_opt1.jpg",
+      "id": "r2opt1",
+      "label": "at the ball · line",
+      "url": "/_blob/2e6fde40f037800426b1a7a18f912710"
+    },
+    {
+      "file": "shorties/easy-up-and-down-chip_cover_opt2.jpg",
+      "id": "r2opt2",
+      "label": "chip with tracer · line",
+      "url": "/_blob/bda592a649eaff245112276ab0745b36"
+    },
+    {
+      "file": "shorties/easy-up-and-down-chip_cover_opt3.jpg",
+      "id": "r2opt3",
+      "label": "\"as it turns out I'm pissed\" · line",
+      "url": "/_blob/22fa30c3d44750208734bf9bbce2fe06"
+    }
+  ],
+  "cover_text": "me after saying “easy up and down”",
+  "cover_url": "/_blob/2e6fde40f037800426b1a7a18f912710",
+  "decided_at": "2026-10-15T05:10:27.127Z",
+  "decided_round": 2,
+  "decision": "dropped",
+  "duration": 11.3,
+  "file": "shorties/easy-up-and-down-chip.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "New clip: an actual chip from just off the green. \"I'm actually gonna be pissed if we're not on in 4\" → chip → \"so as it turns out, I'm pissed\". Same line on top. 11s.",
+      "notes": "This is not an up and down thing. New clip",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "scrapped per your note (Oct 15); won't come back",
+      "notes": "Scrap this whole idea you aren’t getting what an up and down is",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/71f6be7f99b79573cc23e657f0776e9750670d71/shorties/easy-up-and-down-chip.mp4",
+  "notes": "Scrap this whole idea you aren’t getting what an up and down is",
+  "order": 14,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-14T21:18:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "Shorty: me after saying “easy up and down”",
+  "type": "shorty",
+  "video_asset": "2dad41dcb69d9040ac0811341b3f540d",
+  "video_url": "/_blob/2dad41dcb69d9040ac0811341b3f540d"
+}

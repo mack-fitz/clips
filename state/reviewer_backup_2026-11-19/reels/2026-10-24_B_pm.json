@@ -1,0 +1,63 @@
+{
+  "about": "Week 1 @mackthegolfer PM file (afternoon only, never bounces): the sim driver video with ONLY the shirt wipe cut out (first 0.7 s). Every swing kept. New caption and covers because you already posted this one on @mackygolfs.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "my driver and i are not on speaking terms. tell me what's wrong",
+  "chosen_cover": "opt1",
+  "cover_asset": "16832b3594295fb3105af2583f91510a",
+  "cover_file": "trials/062_sim-driver-pm_b_cover_opt1.jpg",
+  "cover_note": "smiling/talking frames at the sim, words low (below your chest) or no words — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "16832b3594295fb3105af2583f91510a",
+      "file": "trials/062_sim-driver-pm_b_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "typewriter \"what am i doing wrong with my driver\", low",
+      "url": "/_blob/16832b3594295fb3105af2583f91510a"
+    },
+    {
+      "asset": "45dab2acac905991dda7a48e8ff70719",
+      "file": "trials/062_sim-driver-pm_b_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "red \"Macky vs. the Driver\" pill, low",
+      "url": "/_blob/45dab2acac905991dda7a48e8ff70719"
+    },
+    {
+      "asset": "21d18b07d4fbec9777026d1713fa83ae",
+      "file": "trials/062_sim-driver-pm_b_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "smiling at the sim, no words",
+      "url": "/_blob/21d18b07d4fbec9777026d1713fa83ae"
+    }
+  ],
+  "cover_url": "/_blob/16832b3594295fb3105af2583f91510a",
+  "date": "2026-10-24",
+  "decided_at": "2026-10-23T23:19:18.696Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 33,
+  "file": "trials/062_sim-driver-pm_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [],
+  "kind": "pm",
+  "length": "short",
+  "media_url": "https://media.zernio.com/media/1792796553247_b1j0qvk0_mackthegolfer_062_sim-driver-pm_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-24 14:37 (B afternoon, PM file, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/De5AjumAWEi/",
+  "posted_at": "2026-10-24T20:38:51.674Z",
+  "prepared_at": "2026-10-23T23:05:00Z",
+  "reuses": "Already posted by you on @mackygolfs Sep 23 (\"please help 🙏 and please be specific\", https://www.instagram.com/reel/Ddp0orgxnx2/) and Sep 24 (\"what am I doing wrong??\", https://www.instagram.com/reel/DdrK6V1xIWs/) — 30 days cleared this morning. Dropbox /Golf/for claude/mackthegolfer/week 1/PM.MOV.",
+  "round": 1,
+  "scheduled_at": "2026-10-23T23:29:21Z",
+  "scheduled_for": "2026-10-24T14:37:00-06:00",
+  "slot": "afternoon",
+  "source": "/Golf/for claude/mackthegolfer/week 1/PM.MOV",
+  "status": "posted",
+  "time_ct": "15:37",
+  "time_mt": "14:37",
+  "video_asset": "c8bfb1447f3be830ad352481ef2d7b0b",
+  "video_url": "/_blob/c8bfb1447f3be830ad352481ef2d7b0b",
+  "zernio": "6adbe9468fea9db75f92d2f6",
+  "zernio_id": "6adbe9468fea9db75f92d2f6"
+}

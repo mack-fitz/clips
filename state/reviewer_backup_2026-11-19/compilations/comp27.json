@@ -1,0 +1,52 @@
+{
+  "about": "Nothing but bad shots, one day / one outfit (white Nike tee, navy cap + pants) from your YouTube round 'Worst Course in the Country' (#1 worst course.mov). 12 bits back to back, each cut before you talk: opens on the drive into the water, then the topped shots, the 'pretty terrible drive', the 90-degree slice, a second ball in the water, the last-hole flubs, ending on the one you had to fish out. Natural sound only, no music, no text, no shirt wipe. Vertical crop follows you (no scorecard in this video). Transcript of the final file: empty (no speech). Unreleased-video footage. 40 s.",
+  "account": "",
+  "caption": "",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "86e728477a61ab5f21903766e8593a09",
+      "file": "badshots/badshots_1_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_1_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "top of the backswing (water hole)",
+      "url": "/_blob/86e728477a61ab5f21903766e8593a09"
+    },
+    {
+      "asset": "6815de52244fcc6ac97cb5a44aebdc82",
+      "file": "badshots/badshots_1_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_1_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "mid-swing close-up",
+      "url": "/_blob/6815de52244fcc6ac97cb5a44aebdc82"
+    },
+    {
+      "asset": "3188eb36418b36522c949d451a93ec81",
+      "file": "badshots/badshots_1_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/b459e7b224bb5e5e9d29ab218bdefa3be8399465/badshots_1_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "through impact",
+      "url": "/_blob/3188eb36418b36522c949d451a93ec81"
+    }
+  ],
+  "cover_text": "",
+  "cover_url": "/_blob/86e728477a61ab5f21903766e8593a09",
+  "decision": null,
+  "duration": 40.4,
+  "file": "badshots/badshots_1.mp4",
+  "history": [],
+  "media_note": "Full quality 1080x1920 H.264 High@4.2 (CRF 16 single encode from the 1440p original, vertical person-tracking crop), AAC 256k loudness-normalized, on clips branch scratch/badshots-comps (pinned 20e1001). No Zernio post until you approve.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/20e1001781b787f77660d7056731ca66d76033c5/badshots_1.mp4",
+  "notes": "",
+  "order": 51,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-11-20T01:40:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Bad shots only: worst course in the country",
+  "type": "compilation",
+  "video_asset": "1b5ee15c663c5b15eb51264ee6e7b70a",
+  "video_url": "/_blob/1b5ee15c663c5b15eb51264ee6e7b70a"
+}

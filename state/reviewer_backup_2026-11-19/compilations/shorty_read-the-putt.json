@@ -1,0 +1,42 @@
+{
+  "about": "Your note: one single shot. Now one continuous clip with one putt: “alright let’s just… let’s just tap this in and call it a day right / don’t you think we should” → the tap-in stops on the lip. Your original sound and captions, nothing cut inside. Line in the top third: “me after reading this putt / from 4 different angles”. From Video Oct 12 2026, 7 13 58 AM.mov (76.0–86.6 s), which you posted on @mackthegolfer Oct 8 — “that’s why she’s blue boys” https://www.instagram.com/reel/DeQJNjZtEN_/ (76 s of it in that post, fingerprint checked). Not used in any compilation or shorty.",
+  "account": "@mackthegolfer",
+  "caption": "it was a 2 footer",
+  "chosen_cover": "opt3",
+  "cover_options": [],
+  "cover_text": "me after reading this putt from 4 different angles",
+  "cover_url": "",
+  "decided_at": "2026-10-15T03:17:52.433Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 10.6,
+  "file": "shorties/read-the-putt_r2.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "re-cut as one clip with one shot: the tap-in that stops on the lip (blue-ball round)",
+      "notes": "I want these to be like one single shot doesn’t make sense like this",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/a330fd02d671e2c3cdf796bdd251472acd732f2b/shorties/read-the-putt_r2.mp4",
+  "notes": "",
+  "order": 12,
+  "post_account": "@mackthegolfer",
+  "post_url": "https://www.instagram.com/reel/DehLEHECbE4/",
+  "post_when": "next",
+  "posted": false,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-15T14:28:38.411Z",
+  "prepared_at": "2026-10-14T21:18:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 2,
+  "scheduled_for": "2026-10-15T08:27:00-06:00",
+  "status": "posted",
+  "title": "Shorty: me after reading this putt from 4 different angles",
+  "type": "shorty",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad04a0f62ec95b55521380f",
+  "zernio_id": "6ad04a0f62ec95b55521380f"
+}

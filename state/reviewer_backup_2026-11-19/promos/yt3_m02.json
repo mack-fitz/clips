@@ -1,0 +1,108 @@
+{
+  "about": "The Lagmaster: putting meltdown (topped putt, four-putt triple, 'muscle mommy'); ends on 'If I four putt this, call 9-1-1' before the putt. Cuts (times in the long video '7iron final.mov'): 18:28.2–18:31.5 “If I three putt this, I'm ending my golf career.” | 2:38.9–2:45.4 “I'm gonna guess, in a sense, all putts are straight when you don't know how to read the green.” | 5:34.3–5:41.5 “(topped putt) Oh my god, I topped it. I'm absolutely mortified right now.” | 7:47.6–7:52.5 “This is gonna be a long par putt. We're all thinking it, but you got the lag master at work today.” | 7:59.4–8:01.7 “That was gonna be terrible. I'm not even gonna watch that.” | 8:29.1–8:30.9 “There's no reason I can't double this.” | 8:35.6–8:40.4 “Get in, get in, get in. So it's gonna be a triple.” | 10:05.5–10:08.2 “Too much muscle mommy for bogey.” | 18:41.3–18:46.8 “Maybe I should quit actually. If I four putt this, call 9-1-1.”. Original audio, swearing kept, no added text or music, no shirt wipe, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-7iron-montages2",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/ab4b9c3ce541d95b8b81ba16373814de",
+  "created": "2026-11-08",
+  "cuts": [
+    {
+      "at": "18:28.2–18:31.5",
+      "line": "If I three putt this, I'm ending my golf career."
+    },
+    {
+      "at": "2:38.9–2:45.4",
+      "line": "I'm gonna guess, in a sense, all putts are straight when you don't know how to read the green."
+    },
+    {
+      "at": "5:34.3–5:41.5",
+      "line": "(topped putt) Oh my god, I topped it. I'm absolutely mortified right now."
+    },
+    {
+      "at": "7:47.6–7:52.5",
+      "line": "This is gonna be a long par putt. We're all thinking it, but you got the lag master at work today."
+    },
+    {
+      "at": "7:59.4–8:01.7",
+      "line": "That was gonna be terrible. I'm not even gonna watch that."
+    },
+    {
+      "at": "8:29.1–8:30.9",
+      "line": "There's no reason I can't double this."
+    },
+    {
+      "at": "8:35.6–8:40.4",
+      "line": "Get in, get in, get in. So it's gonna be a triple."
+    },
+    {
+      "at": "10:05.5–10:08.2",
+      "line": "Too much muscle mommy for bogey."
+    },
+    {
+      "at": "18:41.3–18:46.8",
+      "line": "Maybe I should quit actually. If I four putt this, call 9-1-1."
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-7iron-montages/m02_the-lagmaster.mp4",
+  "duration": 39.2,
+  "file": "clips/m02_the-lagmaster.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M2",
+  "order": -5,
+  "posts_itself": false,
+  "range": "9 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/8b81975ad1731d425ef26bb12bbc9d991a77a5ff/clips/m02_the-lagmaster.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      1108.18,
+      1111.51
+    ],
+    [
+      158.905,
+      165.37
+    ],
+    [
+      334.28,
+      341.525
+    ],
+    [
+      467.58,
+      472.485
+    ],
+    [
+      479.365,
+      481.68
+    ],
+    [
+      509.06,
+      510.93
+    ],
+    [
+      515.645,
+      520.395
+    ],
+    [
+      605.47,
+      608.235
+    ],
+    [
+      1121.3,
+      1126.775
+    ]
+  ],
+  "size_mb": 47,
+  "source_file": "7iron final.mov",
+  "status": "ready",
+  "theme": "The Lagmaster: putting meltdown (topped putt, four-putt triple, 'muscle mommy'); ends on 'If I four putt this, call 9-1-1' before the putt.",
+  "title": "the lagmaster",
+  "type": "montage",
+  "video": "7iron",
+  "video_asset": "1f2b68eda6c4d964e79f3b82c8352d6f",
+  "video_title": "YouTube #3 · 7 iron only (Thu Nov 19)",
+  "video_url": "/_blob/1f2b68eda6c4d964e79f3b82c8352d6f"
+}

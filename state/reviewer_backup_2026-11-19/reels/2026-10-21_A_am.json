@@ -1,0 +1,73 @@
+{
+  "account": "A",
+  "batch": "red hawaiian shirt (Mack, Oct 14)",
+  "caption": "I was ROBBED",
+  "chosen_cover": "opt2",
+  "cover_asset": "2c24e273cd432e5c39e4493a0997d579",
+  "cover_file": "trials/032_pine-par-4-red-shirt_a_r2_cover_opt2.jpg",
+  "cover_note": "shirt-wipe frame, \"I was ROBBED\" at the top of the frame (off your face and chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "ee7966c4bd4eba8ce3661058930c8c6f",
+      "file": "trials/032_pine-par-4-red-shirt_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "purple \"I was ROBBED\" pill, up top",
+      "url": "/_blob/ee7966c4bd4eba8ce3661058930c8c6f"
+    },
+    {
+      "asset": "2c24e273cd432e5c39e4493a0997d579",
+      "file": "trials/032_pine-par-4-red-shirt_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"I was ROBBED\", up top",
+      "url": "/_blob/2c24e273cd432e5c39e4493a0997d579"
+    },
+    {
+      "asset": "ba276eedcb71ec6505df535ae80baa1a",
+      "file": "trials/032_pine-par-4-red-shirt_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "orange \"I was ROBBED\" pill, up top",
+      "url": "/_blob/ba276eedcb71ec6505df535ae80baa1a"
+    }
+  ],
+  "cover_url": "/_blob/2c24e273cd432e5c39e4493a0997d579",
+  "date": "2026-10-21",
+  "decided_at": "2026-10-16T00:54:02.371Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 20.1,
+  "file": "trials/032_pine-par-4-red-shirt_a.mp4",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Caption and cover are now \"I was ROBBED\" (shirt-wipe frame, text at the top, off your face and chest; 3 styles). Video unchanged. Zernio draft updated (still a draft).",
+      "notes": "Change cover and caption to I was ROBBED",
+      "round": 1
+    },
+    {
+      "at": "2026-10-20T08:20:00Z",
+      "by": "Claude",
+      "event": "moved to the morning slot 07:39 MT at Mack's request (Zernio + platform time verified)"
+    }
+  ],
+  "kind": "new",
+  "length": "short",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83ee72e89f7cdc74cdc139713b3bb3b2cfe0198/trials/032_pine-par-4-red-shirt_a.mp4",
+  "notes": "",
+  "post_url": "https://www.instagram.com/reel/DewiTmjigfG/",
+  "posted_at": "2026-10-21T13:40:28.984Z",
+  "prepared_at": "2026-10-15T05:05:00Z",
+  "reuses": "NEW — never posted (fingerprint checked). Red Hawaiian shirt par 4, approach from under the pine (Sep 21, Colorado): matches nothing on your 3 accounts. Your original file exactly as you made it, shirt wipe first. Wednesday's new video, batch 5 of 6.",
+  "round": 2,
+  "scheduled_at": "2026-10-16T01:15:08Z",
+  "scheduled_for": "2026-10-21T07:39:00-06:00",
+  "slot": "morning",
+  "source": "/Golf Captions/Video Sep 21 2026, 7 09 34 PM.mov",
+  "status": "posted",
+  "time_ct": "08:39",
+  "time_mt": "07:39",
+  "video_asset": "56a7e70f4c8c6ff4b9bd42665acd3e00",
+  "video_url": "/_blob/56a7e70f4c8c6ff4b9bd42665acd3e00",
+  "zernio": "6ad05e8f2ced7f681aed9a8d",
+  "zernio_id": "6ad05e8f2ced7f681aed9a8d"
+}

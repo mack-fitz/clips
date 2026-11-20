@@ -1,0 +1,65 @@
+{
+  "about": "5 times the course did you dirty: 'I actually didn't realize that the Sahara Desert was in Texas… and of course I'm in there… I thought it was like one of the best drives of my life, and yet now I'm in the sand'; the drive that keeps rolling → 'technically kind of in the fairway / kind of on the cart path, who really knows what that's called' → 'zoinks, that is a tough lie'; full drive → 'seems it actually landed in the cactus' → 'oh I'm scared / aw I got poked / aw I got poked again' → 'we're back in business, I'm just gonna take a drop out here'; 'getting eaten by mosquitoes… wow okay'; ends on 'shot two, I'm a little worried about this tree, so I gotta try to keep it low' → straight into the tree → 'god damn it, well I hit the tree'. Every shot kept whole (tracers to landing), swearing kept, no shirt wipes, no added text, no music, even loudness. Outfits alternate (green pinstripe → white/camo hat → green (cactus day) → orange checker → white/camo hat), never the same shirt back to back. Nothing reused from the other compilations. 47 s (drop the mosquito bit if you want it under 45: 44 s). All cut from your true Dropbox originals. Preview copy here; the real file is full quality.",
+  "account": "@mackthegolfer",
+  "caption": "it's personal",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp6_course-hates-me_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "Sahara Desert close-up · red",
+      "url": "/_blob/c1cf4c5ec33b56d98505b9b3fab2941d"
+    },
+    {
+      "file": "compilations/comp6_course-hates-me_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "and yet now I'm in the sand · blue",
+      "url": "/_blob/a8b602c51b7a5c34ac8e58b65dd633a8"
+    },
+    {
+      "file": "compilations/comp6_course-hates-me_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "bent over in the cactus · orange",
+      "url": "/_blob/30c74aae5e4556e1a2598294e7764708"
+    },
+    {
+      "file": "compilations/comp6_course-hates-me_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "hand over face · mosquitoes · purple",
+      "url": "/_blob/84af76c68fa96c0b7266ed102d45b755"
+    },
+    {
+      "file": "compilations/comp6_course-hates-me_cover_opt5.jpg",
+      "id": "opt5",
+      "label": "back in business grin · yellow",
+      "url": "/_blob/158e6a67adb299d3ee57ef08bdd02d90"
+    }
+  ],
+  "cover_text": "the course hates me",
+  "cover_url": "/_blob/84af76c68fa96c0b7266ed102d45b755",
+  "decided_at": "2026-10-14T16:55:04.701Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 47,
+  "file": "compilations/comp6_course-hates-me.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Dropped like comp4 (never posted; bits back to the pool). Say if you'd rather have a re-cut instead.",
+      "notes": "This also doesn’t make any sense",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/6cab95a705a610912a859f007c1432dcb6469018/compilations/comp6_course-hates-me.mp4",
+  "notes": "",
+  "order": 6,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-14T16:10:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "the course hates me",
+  "video_asset": "78841dadbaa4560fc8453b23e443786e",
+  "video_url": "/_blob/78841dadbaa4560fc8453b23e443786e"
+}

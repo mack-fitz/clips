@@ -1,0 +1,54 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo + “Bad” hat, San Angelo par 4 — address → the chip goes up and drops back short (tracer) → you walk up: “Wow, whoever told me to hit my little wedges like a putter, I don't actually know if I did that, but that felt so much better than usual. It noticeably is not on the green, but nevertheless, it felt good, and that's half of golf, the stroke feeling good.” Your talk is the punchline so it stays; your original sound and captions. Line “me trying the chipping tip / from the comments” (Oct 17 spec: Inter Bold 46, outline + light shadow) sits in the lower band because your hat is up in the top band during the swing; it fades out as you walk up so it's never on your face or chest. From Video Oct 12 2026, 12 03 20 AM.mov (108.20–123.75 s, inside one clip of yours), which you posted yourself on @mackygolfs Oct 12 — “no disrespect to the san angels” https://www.instagram.com/reel/DeakEGHEaxE/ (166.5 s of it in that post, fingerprint checked). This chip isn't in any shorty or compilation. True original, single crf-17 export; preview copy here. Alt caption: “it felt good tho”.",
+  "account": "@mackthegolfer",
+  "caption": "please help, this is getting embarrassing",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/chipping-tip_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address · line",
+      "url": "/_blob/98378513e4523dd52a7870e2d8c65b08"
+    },
+    {
+      "file": "shorties/chipping-tip_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "tracer peak · line",
+      "url": "/_blob/d0238dc0a034175c987f01f12a7bae5c"
+    },
+    {
+      "file": "shorties/chipping-tip_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "walking back “felt so much better” · line",
+      "url": "/_blob/b0d032f95a8a14f0aa4fab91b057d5f1"
+    }
+  ],
+  "cover_text": "me trying the chipping tip from the comments",
+  "cover_url": "/_blob/98378513e4523dd52a7870e2d8c65b08",
+  "decided_at": "2026-10-20T10:06:31.179Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 15.55,
+  "file": "shorties/chipping-tip.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cancelled per Mack's note (Oct 20). Not posted; files kept in the repo.",
+      "notes": "cancel this idea",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/aeba4552b5dc2de30bf26acb791acda67150162c/shorties/chipping-tip.mp4",
+  "notes": "cancel this idea",
+  "order": 35,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-19T18:10:00Z",
+  "round": 1,
+  "status": "dropped",
+  "title": "Shorty: me trying the chipping tip from the comments",
+  "type": "shorty",
+  "video_asset": "95abbf57179c99cf5169f379dceb68a6",
+  "video_url": "/_blob/95abbf57179c99cf5169f379dceb68a6"
+}

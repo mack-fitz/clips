@@ -1,0 +1,63 @@
+{
+  "about": "Week 1 @mackygolfs: your upload exactly as you made it (wipe first, untouched, full quality). Rainy par 3, 'anybody down for a wet three?', the lag master putt and the end of the hole. Every shot and word kept.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "a wet three. guess how the lag master did",
+  "chosen_cover": "opt2",
+  "cover_asset": "a1cffef9d4cf449d66a83762270b564e",
+  "cover_file": "trials/060_wet-par-3_a_cover_opt1.jpg",
+  "cover_note": "shirt-wipe frames, words over your hands between your face and chest (mid-frame, off your face and chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "a1cffef9d4cf449d66a83762270b564e",
+      "file": "trials/060_wet-par-3_a_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "orange \"Macky vs. a Wet Par 3\" pill, mid-frame",
+      "url": "/_blob/a1cffef9d4cf449d66a83762270b564e"
+    },
+    {
+      "asset": "2582f2da1e732b49bbca953f0b362ec9",
+      "file": "trials/060_wet-par-3_a_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"anybody down for a wet three?\", mid-frame",
+      "url": "/_blob/2582f2da1e732b49bbca953f0b362ec9"
+    },
+    {
+      "asset": "6d2bf202dbf2dd55d3c285b22d36c139",
+      "file": "trials/060_wet-par-3_a_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "blue \"Macky vs. the Rain\" pill, mid-frame",
+      "url": "/_blob/6d2bf202dbf2dd55d3c285b22d36c139"
+    }
+  ],
+  "cover_url": "/_blob/2582f2da1e732b49bbca953f0b362ec9",
+  "date": "2026-10-24",
+  "decided_at": "2026-10-23T23:17:01.614Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 58.7,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week 1 -5.mp4 (original, untouched)",
+  "handle": "@mackygolfs",
+  "history": [],
+  "kind": "new",
+  "length": "long",
+  "media_url": "https://media.zernio.com/media/1792796160643_ftqiwprs_mackygolfs_w1_week1-5_original.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-24 07:12 (A morning, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/De4NoRaDvAR/",
+  "posted_at": "2026-10-24T13:14:10.145Z",
+  "prepared_at": "2026-10-23T22:50:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week 1 -5.mp4. Posts untouched: H.264 1080x1920, 15.1 Mbps, 110 MB (uploaded to Zernio at full quality, no re-encode).",
+  "round": 1,
+  "scheduled_at": "2026-10-23T23:29:18Z",
+  "scheduled_for": "2026-10-24T07:12:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week 1 -5.mp4",
+  "status": "posted",
+  "time_ct": "08:12",
+  "time_mt": "07:12",
+  "video_asset": "20aa3472f572a66561b162f0e59210bb",
+  "video_url": "/_blob/20aa3472f572a66561b162f0e59210bb",
+  "zernio": "6adbe67ba9b7644fb0cc0800",
+  "zernio_id": "6adbe67ba9b7644fb0cc0800"
+}

@@ -1,0 +1,104 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 1.8 s); opens on 'I've got a par 3 next, what do you think I'm shooting'. Every shot and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "don't piss me off",
+  "chosen_cover": "opt1",
+  "cover_asset": "15823012955efd5863c3641fe1f4d37c",
+  "cover_file": "trials/073_electric-par-3_b_cover_r2_opt1.jpg",
+  "cover_files_location": "round-2 covers (q95 full-res) on mack-fitz/clips branch scratch/mg-pending-oct26, mg_pending/trials/073_electric-par-3_b_cover_r2_opt{1,2,3}.jpg (mackygolfs-mackthegolfer push not authorized Oct 26)",
+  "cover_note": "smiling/talking frames, words low (below your chest, inside the grid) or no words — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "15823012955efd5863c3641fe1f4d37c",
+      "file": "trials/073_electric-par-3_b_cover_r2_opt1.jpg",
+      "id": "opt1",
+      "label": "pointing at camera: typewriter \"don't piss me off\", under your chin",
+      "url": "/_blob/15823012955efd5863c3641fe1f4d37c"
+    },
+    {
+      "asset": "f643d9a5db4a32461d637614c379a9af",
+      "file": "trials/073_electric-par-3_b_cover_r2_opt2.jpg",
+      "id": "opt2",
+      "label": "\"I've got a par three next\": orange \"don't piss me off\" pill",
+      "url": "/_blob/f643d9a5db4a32461d637614c379a9af"
+    },
+    {
+      "asset": "2ba2cd90a4814006d5a176e373d95432",
+      "file": "trials/073_electric-par-3_b_cover_r2_opt3.jpg",
+      "id": "opt3",
+      "label": "\"higher than a four\" face: red \"don't piss me off\" pill",
+      "url": "/_blob/2ba2cd90a4814006d5a176e373d95432"
+    }
+  ],
+  "cover_url": "/_blob/15823012955efd5863c3641fe1f4d37c",
+  "date": "2026-10-28",
+  "decided_at": "2026-10-27T20:20:48.558Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 117.8,
+  "file": "trials/073_electric-par-3_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "caption": "if you guess higher than a 4 we can't be friends",
+      "cover_options": [
+        {
+          "asset": "d41c8b42a17ca63e18a06625d2fc07c1",
+          "file": "trials/073_electric-par-3_b_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "typewriter \"feeling electric\", low",
+          "url": "/_blob/d41c8b42a17ca63e18a06625d2fc07c1"
+        },
+        {
+          "asset": "deed950100d9ee24b83ec6863f7dda5c",
+          "file": "trials/073_electric-par-3_b_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "orange \"Macky vs. a Par 3\" pill, low",
+          "url": "/_blob/deed950100d9ee24b83ec6863f7dda5c"
+        },
+        {
+          "asset": "3de380e7a2567635638f35f7e78a45b9",
+          "file": "trials/073_electric-par-3_b_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "talking in the cart, no words",
+          "url": "/_blob/3de380e7a2567635638f35f7e78a45b9"
+        }
+      ],
+      "decided_at": "2026-10-26T15:53:18.676Z",
+      "decision": "changes",
+      "done": "Round 2: 3 new \"don't piss me off\" covers (talking frames, no wipe, words between your face and the burned captions). Caption now \"don't piss me off\". Video unchanged.",
+      "done_at": "2026-10-26T18:35:00Z",
+      "notes": "Cover don’t piss me off\n\nCaption don’t piss me off",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_note": "Scheduled Oct 27 by hourly approvals check: Zernio 6ae11002 (trial MANUAL), Wed Oct 28 7:09am MT, cover opt1. Old temp upload had expired; re-uploaded full quality from scratch/w1-exports. YouTube Short 6ae11006 at 7:37am MT.",
+  "media_reupload": "scratch/w1-exports:073_electric-par-3_b.mp4",
+  "media_url": "https://media.zernio.com/media/1793133248414_355dfcad8f1a3c99_mackthegolfer_073_electric-par-3_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-28 07:09 (B morning, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/DfCgfsKCWyC/",
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-28T13:11:14Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week1 -2.mp4.",
+  "round": 2,
+  "scheduled_at": "2026-10-27T20:56:35Z",
+  "scheduled_for": "2026-10-28T07:09:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week1 -2.mp4",
+  "status": "posted",
+  "time_ct": "08:09",
+  "time_mt": "07:09",
+  "updated_at": "2026-10-26T18:35:00Z",
+  "video_asset": "9924000f50ab0bac55de881ac0faf4ce",
+  "video_url": "/_blob/9924000f50ab0bac55de881ac0faf4ce",
+  "yt_short_url": "https://www.youtube.com/watch?v=7MaZ6FPuLx0",
+  "yt_short_zernio_id": "6ae110065baa052b65ba2196",
+  "zernio": "6ae11002334d0b56332d50b8",
+  "zernio_id": "6ae11002334d0b56332d50b8",
+  "zernio_note": "old Oct 23 draft id removed Oct 26 (draft no longer in Zernio; no Zernio post until approved)"
+}

@@ -1,0 +1,100 @@
+{
+  "about": "Week 1 @mackthegolfer PM file (your filename: never post as a bounce — it won't). Kyle Berkshire long-drive record take. This file has NO shirt wipe, so there was nothing to cut: it's your video untouched except ONE full-quality H.264 conversion with HDR->normal color mapping (your file is HDR HEVC 10-bit, CRF 17).",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders) — PM files added Oct 23 afternoon",
+  "caption": "not trying to start beef just my thoughts",
+  "chosen_cover": "opt1",
+  "cover_asset": "1d3d456153e599cac2b887c9822a3c27",
+  "cover_file": "trials/079_long-drive-record-pm_b_r2_cover_opt1.jpg",
+  "cover_full_note": "Full-res covers on clips branch scratch/mg-pending-oct28 (pinned; mackygolfs-mackthegolfer push not authorized).",
+  "cover_note": "smiling/talking frames in the sweatshirt, words low over your waist (below your chest) or no words — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "1d3d456153e599cac2b887c9822a3c27",
+      "file": "trials/079_long-drive-record-pm_b_r2_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/079_long-drive-record-pm_b_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "purple \"KYLE BERKSHIRE'S RECORD\" pill, smiling, low (waist)",
+      "url": "/_blob/1d3d456153e599cac2b887c9822a3c27"
+    },
+    {
+      "asset": "af27491f394d1456eff4c064a9e98030",
+      "file": "trials/079_long-drive-record-pm_b_r2_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/079_long-drive-record-pm_b_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"KYLE BERKSHIRE'S RECORD\", talking, low (waist)",
+      "url": "/_blob/af27491f394d1456eff4c064a9e98030"
+    },
+    {
+      "asset": "a9e6cd7bd29de6b079d93734adda16e8",
+      "file": "trials/079_long-drive-record-pm_b_r2_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/a3407e291a77e75b621731190a2027e47ca099c3/mg_pending/trials/079_long-drive-record-pm_b_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "red \"KYLE BERKSHIRE'S RECORD\" pill, talking, low (waist)",
+      "url": "/_blob/a9e6cd7bd29de6b079d93734adda16e8"
+    }
+  ],
+  "cover_url": "/_blob/1d3d456153e599cac2b887c9822a3c27",
+  "date": "2026-10-30",
+  "decided_at": "2026-10-27T20:37:09.244Z",
+  "decided_round": 1,
+  "decision": "approved",
+  "duration": 32.8,
+  "file": "Dropbox /Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov (one full-quality encode)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "caption": "not trying to start beef but this record shouldn't count",
+      "cover_options": [
+        {
+          "asset": "e38f567e19496c4ee4733941b0567a1c",
+          "file": "trials/079_long-drive-record-pm_b_cover_opt1.jpg",
+          "id": "opt1",
+          "label": "purple \"Macky vs. the Record\" pill, low (waist)",
+          "url": "/_blob/e38f567e19496c4ee4733941b0567a1c"
+        },
+        {
+          "asset": "4effc7f0840f692d8e2b68118c629d92",
+          "file": "trials/079_long-drive-record-pm_b_cover_opt2.jpg",
+          "id": "opt2",
+          "label": "typewriter \"this record shouldn't count\", low (waist)",
+          "url": "/_blob/4effc7f0840f692d8e2b68118c629d92"
+        },
+        {
+          "asset": "af449c36093fcd44dc54e3ef969920ea",
+          "file": "trials/079_long-drive-record-pm_b_cover_opt3.jpg",
+          "id": "opt3",
+          "label": "smiling, no words",
+          "url": "/_blob/af449c36093fcd44dc54e3ef969920ea"
+        }
+      ],
+      "decided_at": "2026-10-27T20:37:09.244Z",
+      "decision": "changes",
+      "done": "Round 2: cover text now \"KYLE BERKSHIRE'S RECORD\" (3 options, low over the sweatshirt, below your chest). Caption now \"not trying to start beef just my thoughts\". Video unchanged.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Cover text KYLE BERKSHIRE’S RECORD\n\ncaption not trying to start beef just my thoughts",
+      "round": 1
+    }
+  ],
+  "kind": "pm",
+  "length": "long",
+  "media_expires": "2026-10-31T16:08Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/w1-pm-exports:079_long-drive-record-pm_b.mp4",
+  "media_url": "https://media.zernio.com/temp/1792858073657_cornc550_mackthegolfer_079_long-drive-record-pm_b.mp4",
+  "notes": "Mack: post without approval (Oct 30 11:09)",
+  "planned_mt": "2026-10-30 14:54 (B afternoon, PM file, POSTING RULES v2)",
+  "posted_at": "2026-10-30T20:55:00Z",
+  "prepared_at": "2026-10-24T16:20:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every IG post). Dropbox /Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov (added Oct 23 afternoon). Same topic as the @mackygolfs PM on Tue Oct 27 (different take).",
+  "round": 2,
+  "scheduled_for": "2026-10-30T14:54:00-06:00",
+  "slot": "afternoon",
+  "source": "/Golf/for claude/mackthegolfer/week 1/PM - never post as a bounce.mov",
+  "status": "posted",
+  "time_ct": "15:54",
+  "time_mt": "14:54",
+  "video_asset": "40043fa3497975394d34bedcbff24b98",
+  "video_url": "/_blob/40043fa3497975394d34bedcbff24b98",
+  "zernio": "6ae4cf8cf662f261309c6867"
+}

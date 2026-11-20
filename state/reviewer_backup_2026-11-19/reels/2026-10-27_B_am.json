@@ -1,0 +1,73 @@
+{
+  "about": "Week 1 @mackthegolfer: your upload with ONLY the shirt wipe cut out (first 1.4 s); opens on 'holy shit, check this out'. The par 3 with the bunker from hell. Every shot and swear kept. One full-quality encode.",
+  "account": "B",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "does anyone else get the British thing?",
+  "chosen_cover": "opt2",
+  "cover_asset": "f70c2ebf894c68a130a9b63552341f1f",
+  "cover_file": "trials/072_bunker-from-hell-par-3_b_cover_r2_opt2.jpg",
+  "cover_note": "round 2: only frames with NO burned-in caption on screen (checked every frame used) — talking/drinking in the cart, words at the collar between face and chest, or no words. 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "19632a0097d7f201f74e39f903216cc4",
+      "file": "trials/072_bunker-from-hell-par-3_b_cover_r2_opt1.jpg",
+      "id": "opt1",
+      "label": "talking in the cart (0:56), typewriter \"the british thing\", no burned-in caption",
+      "url": "/_blob/19632a0097d7f201f74e39f903216cc4"
+    },
+    {
+      "asset": "f70c2ebf894c68a130a9b63552341f1f",
+      "file": "trials/072_bunker-from-hell-par-3_b_cover_r2_opt2.jpg",
+      "id": "opt2",
+      "label": "drinking in the cart (0:39), purple \"Macky vs. a Par 3\" pill, no burned-in caption",
+      "url": "/_blob/f70c2ebf894c68a130a9b63552341f1f"
+    },
+    {
+      "asset": "608a16796c00564cd71ca4834921b465",
+      "file": "trials/072_bunker-from-hell-par-3_b_cover_r2_opt3.jpg",
+      "id": "opt3",
+      "label": "cart side profile (0:48), no words, no burned-in caption",
+      "url": "/_blob/608a16796c00564cd71ca4834921b465"
+    }
+  ],
+  "cover_url": "/_blob/f70c2ebf894c68a130a9b63552341f1f",
+  "date": "2026-10-27",
+  "decided_at": "2026-10-24T18:55:31.517Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 134.7,
+  "file": "trials/072_bunker-from-hell-par-3_b.mp4 (full quality on clips branch scratch/w1-exports)",
+  "handle": "@mackthegolfer",
+  "history": [
+    {
+      "decision": "changes",
+      "done_at": "2026-10-24T18:50:00Z",
+      "fix": "caption changed; 3 new covers all from frames with no burned-in caption on screen (0:56 talking, 0:39 drinking, 0:48 no words)",
+      "notes": "Caption does anyone else get the British thing?\n\nFor covers don’t choose frames where there are burned in captions I have told you this before",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_cover_zernio": "https://raw.githubusercontent.com/mack-fitz/clips/b3b56c381664628ca56403197374cc337fae97fc/trial_covers/072_bunker-from-hell-par-3_b_cover_r2_opt2.jpg",
+  "media_note": "Scheduled Oct 24 by hourly approvals check: Zernio 6add06e2 (trial MANUAL), Tue Oct 27 7:44am MT, cover opt2 (drinking in the cart).",
+  "media_reupload": "scratch/w1-exports:072_bunker-from-hell-par-3_b.mp4",
+  "media_url": "https://media.zernio.com/media/1792799407752_q76dgop6_mackthegolfer_072_bunker-from-hell-par-3_b.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-27 07:44 (B morning, POSTING RULES v2)",
+  "posted_account": "@mackthegolfer",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackthegolfer/week 1/week1 -1nutrl.mp4.",
+  "round": 2,
+  "scheduled_at": "2026-10-24T19:28:34Z",
+  "scheduled_for": "2026-10-27T07:44:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackthegolfer/week 1/week1 -1nutrl.mp4",
+  "status": "posted",
+  "time_ct": "08:44",
+  "time_mt": "07:44",
+  "video_asset": "b5b54bb9c066e5625b3d0d35f7ed650d",
+  "video_url": "/_blob/b5b54bb9c066e5625b3d0d35f7ed650d",
+  "zernio": "6add06e2f9136e4aeb8eeb4d",
+  "zernio_id": "6add06e2f9136e4aeb8eeb4d"
+}

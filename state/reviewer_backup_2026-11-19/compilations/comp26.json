@@ -1,0 +1,51 @@
+{
+  "about": "Almost moments, 4 bits (~40 s): the lip-out (\"freaking lipped\"), the approach that almost drops (orange checkered, \"get in there… get in\"), almost driving the green, and \"I almost missed that. But I didn't.\" Every shot kept whole, cuts only between sentences, no wipe, no text. All already-posted /Golf Captions footage. Pick the account below.",
+  "account": "",
+  "caption": "if almost counted i'd be scratch",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "b8bfa8816586bf1c3022c6929aa0c428",
+      "file": "compilations/comp26_almost_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/92d73bb9da96c7cd145d004ed549de01979bd348/mg_pending/compilations/comp26_almost_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "blue \"Macky vs. almost\" pill, low",
+      "url": "/_blob/b8bfa8816586bf1c3022c6929aa0c428"
+    },
+    {
+      "asset": "c15bcfb7c3124b13e6e8d0300f66640d",
+      "file": "compilations/comp26_almost_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/92d73bb9da96c7cd145d004ed549de01979bd348/mg_pending/compilations/comp26_almost_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter \"almost counts in golf right?\"",
+      "url": "/_blob/c15bcfb7c3124b13e6e8d0300f66640d"
+    },
+    {
+      "asset": "acba6765968299e96e3ca2eb8a621a0e",
+      "file": "compilations/comp26_almost_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/92d73bb9da96c7cd145d004ed549de01979bd348/mg_pending/compilations/comp26_almost_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "tap-in going in, no words",
+      "url": "/_blob/acba6765968299e96e3ca2eb8a621a0e"
+    }
+  ],
+  "cover_url": "/_blob/b8bfa8816586bf1c3022c6929aa0c428",
+  "decision": null,
+  "duration": 40,
+  "file": "compilations/comp26_almost.mp4",
+  "history": [],
+  "media_note": "Full quality (1080x1920, CRF 17, ~12.5 Mbps) on clips branch scratch/mg-pending-oct29 (pinned 92d73bb). No Zernio post until you approve. Guard PASS for both trial accounts.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/92d73bb9da96c7cd145d004ed549de01979bd348/mg_pending/compilations/comp26_almost.mp4",
+  "notes": "",
+  "order": 44,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-29T02:10:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Macky vs. almost",
+  "type": "compilation",
+  "video_asset": "06e8d9829a91ab47d221081640cbfd05",
+  "video_url": "/_blob/06e8d9829a91ab47d221081640cbfd05"
+}

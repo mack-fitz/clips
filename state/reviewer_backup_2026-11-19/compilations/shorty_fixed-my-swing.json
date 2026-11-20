@@ -1,0 +1,59 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green pinstripe polo + black cap, cactus par 5 — \"okay.\" → your 3rd shot → \"pop, obviously that was pretty low, maybe it's not obvious, you can't see, hit a hill and popped up it.\" Your original sound. Line \"me thinking i finally fixed my swing\" sits low (below your head during the swing) and fades before you walk up. From Video Oct 12 2026, 7 30 44 AM.mov (51.95–62.00 s), which you posted on @mackygolfs Oct 15 — \"fr are they poisonous\" https://www.instagram.com/reel/DehF8YylZTQ/. Pick the account below.",
+  "account": "",
+  "caption": "be honest. was that the fix",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "56c124f835cb811bc57b1f406aebb243",
+      "file": "shorties/fixed-my-swing_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "address (2.0 s), line visible",
+      "url": "/_blob/56c124f835cb811bc57b1f406aebb243"
+    },
+    {
+      "asset": "335150ec5c49ebeb9601a44e366304e2",
+      "file": "shorties/fixed-my-swing_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "top of backswing (3.3 s)",
+      "url": "/_blob/335150ec5c49ebeb9601a44e366304e2"
+    },
+    {
+      "asset": "e00de28cd78a54ba9452c0a9e16dcfe5",
+      "file": "shorties/fixed-my-swing_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "follow-through (4.0 s)",
+      "url": "/_blob/e00de28cd78a54ba9452c0a9e16dcfe5"
+    }
+  ],
+  "cover_text": "me thinking i finally fixed my swing",
+  "cover_url": "/_blob/56c124f835cb811bc57b1f406aebb243",
+  "decided_at": "2026-10-27T20:37:34.246Z",
+  "decided_round": 1,
+  "decision": "dropped",
+  "duration": 10.1,
+  "file": "shorties/fixed-my-swing.mp4",
+  "history": [
+    {
+      "decided_at": "2026-10-27T20:37:34.246Z",
+      "decision": "changes",
+      "done": "Dropped per your note (deleted from the queue). Footage back in the pool.",
+      "done_at": "2026-10-28T10:55:00Z",
+      "notes": "Terrible; delete",
+      "round": 1
+    }
+  ],
+  "media_note": "Full quality (1080x1920, CRF 17, 15.7 Mbps export vs 11.2 Mbps source) on clips branch scratch/mg-pending-oct24 (pinned ff67efa). No Zernio post until you approve. Guard PASS for both trial accounts.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/ff67efa1bd15a0ac780bc05d5a689e4b6b0a994c/mg_pending/shorties/fixed-my-swing.mp4",
+  "notes": "",
+  "order": 40,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "prepared_at": "2026-10-24T18:50:00Z",
+  "round": 1,
+  "status": "dropped",
+  "title": "Shorty: me thinking i finally fixed my swing",
+  "type": "shorty",
+  "video_asset": "734f1205ce2e785d8407e0dc74c0fa8d",
+  "video_url": "/_blob/734f1205ce2e785d8407e0dc74c0fa8d"
+}

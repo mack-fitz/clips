@@ -1,0 +1,76 @@
+{
+  "about": "Week 1 @mackygolfs: your upload exactly as you made it (wipe first, untouched). Eagle Creek cheeseburger with no sauce, then the par 4 and the best drive of your life. Every shot and word kept.",
+  "account": "A",
+  "batch": "week 1 (Mack, Oct 23 weekly folders)",
+  "caption": "reeeally well seasoned though",
+  "chosen_cover": "opt1",
+  "cover_asset": "c2c1b98f03b5e849e8aec293ec99d292",
+  "cover_file": "trials/063_dry-burger-par-4_a_r2_cover_opt1.jpg",
+  "cover_note": "shirt-wipe frames (no captions), words over the shirt/hands, clear of your face and chest — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "c2c1b98f03b5e849e8aec293ec99d292",
+      "file": "trials/063_dry-burger-par-4_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "red \"THIS BURGER ALMOST KILLED ME\" pill, over the shirt/hands (wipe 0.2 s)",
+      "url": "/_blob/c2c1b98f03b5e849e8aec293ec99d292"
+    },
+    {
+      "asset": "2f9b6890b76f7f4cedfe4389267c5087",
+      "file": "trials/063_dry-burger-par-4_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "orange \"THIS BURGER ALMOST KILLED ME\" pill, over the shirt/hands (wipe 0.7 s)",
+      "url": "/_blob/2f9b6890b76f7f4cedfe4389267c5087"
+    },
+    {
+      "asset": "dad471e3c1811b0136f4ca87f1fa0461",
+      "file": "trials/063_dry-burger-par-4_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "typewriter \"THIS BURGER ALMOST KILLED ME\" (your caps kept), over the shirt/hands (wipe 0.4 s)",
+      "url": "/_blob/dad471e3c1811b0136f4ca87f1fa0461"
+    }
+  ],
+  "cover_url": "/_blob/c2c1b98f03b5e849e8aec293ec99d292",
+  "date": "2026-10-25",
+  "decided_at": "2026-10-24T17:12:26.519Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 177.7,
+  "file": "Dropbox /Golf/for claude/mackygolfs/week 1/week1 -1.mp4 (original, untouched)",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "applied_at": "2026-10-24T15:59:52Z",
+      "decided_at": "2026-10-24T15:44:42.369Z",
+      "decision": "changes",
+      "fix": "cover text -> \"THIS BURGER ALMOST KILLED ME\" (red pill / orange pill / typewriter, shirt-wipe frames with no captions, chest clear); caption -> \"reeeally well seasoned though\"",
+      "notes": "change cover to THIS BURGER ALMOST KILLED ME\n\ncaption reeeally well seasoned though",
+      "round": 1
+    }
+  ],
+  "kind": "new",
+  "length": "long",
+  "media_expires": "2026-10-30T23:59Z",
+  "media_note": "No Zernio post until approved (Mack, Oct 23). Zernio temp upload; if expired, re-upload from the scratch branch via clips zupload.",
+  "media_reupload": "scratch/relay-w1a:A_w1-1.mp4",
+  "media_url": "https://media.zernio.com/media/1792797348998_vm97yhz0_mackygolfs_w1_week1-1_original.mp4",
+  "notes": "",
+  "planned_mt": "2026-10-25 08:04 (A morning, POSTING RULES v2)",
+  "post_url": "https://www.instagram.com/reel/De64W1OFGEW/",
+  "posted_account": "@mackygolfs",
+  "posted_at": "2026-10-25T14:06:25.155Z",
+  "prepared_at": "2026-10-23T23:40:00Z",
+  "reuses": "NEW — never posted (fingerprint checked against every post on all 3 IG accounts). Dropbox /Golf/for claude/mackygolfs/week 1/week1 -1.mp4. Posts untouched: H.264 1080x1920, 7.8 Mbps, 178 MB (uploaded to Zernio at full quality, no re-encode).",
+  "round": 2,
+  "scheduled_at": "2026-10-24T17:25:53Z",
+  "scheduled_for": "2026-10-25T08:04:00-06:00",
+  "slot": "morning",
+  "source": "/Golf/for claude/mackygolfs/week 1/week1 -1.mp4",
+  "status": "posted",
+  "time_ct": "09:04",
+  "time_mt": "08:04",
+  "video_asset": "69af300487b8f33095fe2cbab55da41f",
+  "video_url": "/_blob/69af300487b8f33095fe2cbab55da41f",
+  "zernio": "6adcea21de7c857facff86df",
+  "zernio_id": "6adcea21de7c857facff86df"
+}

@@ -1,0 +1,100 @@
+{
+  "about": "Stuck behind a group of eight: slow-play rant, 'should literally be illegal', they let her through while she's talking trash; ends with them watching her tee off. Cuts (times in the long video '7iron final.mov'): 16:41.6–16:48.2 “And am I playing on this 8-pack's ass? Yes, but they're an 8-pack, and that should literally be illegal.” | 14:14.2–14:16.7 “I do seem to always have an excuse.” | 15:21.5–15:28.4 “I mean what do we do in letting an entire group of eight play together on one hole? Why are we not splitting up four and four? This is ridiculous.” | 15:34.5–15:40.6 “(tee shot) That's not gonna quite do it.” | 16:04.0–16:09.6 “I think I was really focused on the eight men on the green at this current time.” | 16:32.9–16:34.3 “Group of eight is crazy.” | 17:09.5–17:12.5 “They did actually let me play through, so I was talking shit for nothing.” | 17:14.8–17:19.0 “The part that sucks though is now they're watching me film, and so now I'm really nervous.”. Original audio, swearing kept, no added text or music, no shirt wipe, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-7iron-montages2",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/0aefcc2cc070cf0c0e0cc070efd452b2",
+  "created": "2026-11-08",
+  "cuts": [
+    {
+      "at": "16:41.6–16:48.2",
+      "line": "And am I playing on this 8-pack's ass? Yes, but they're an 8-pack, and that should literally be illegal."
+    },
+    {
+      "at": "14:14.2–14:16.7",
+      "line": "I do seem to always have an excuse."
+    },
+    {
+      "at": "15:21.5–15:28.4",
+      "line": "I mean what do we do in letting an entire group of eight play together on one hole? Why are we not splitting up four and four? This is ridiculous."
+    },
+    {
+      "at": "15:34.5–15:40.6",
+      "line": "(tee shot) That's not gonna quite do it."
+    },
+    {
+      "at": "16:04.0–16:09.6",
+      "line": "I think I was really focused on the eight men on the green at this current time."
+    },
+    {
+      "at": "16:32.9–16:34.3",
+      "line": "Group of eight is crazy."
+    },
+    {
+      "at": "17:09.5–17:12.5",
+      "line": "They did actually let me play through, so I was talking shit for nothing."
+    },
+    {
+      "at": "17:14.8–17:19.0",
+      "line": "The part that sucks though is now they're watching me film, and so now I'm really nervous."
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-7iron-montages/m03_group-of-eight.mp4",
+  "duration": 36.3,
+  "file": "clips/m03_group-of-eight.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M3",
+  "order": -4,
+  "posts_itself": false,
+  "range": "8 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/8b81975ad1731d425ef26bb12bbc9d991a77a5ff/clips/m03_group-of-eight.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      1001.625,
+      1008.195
+    ],
+    [
+      854.225,
+      856.69
+    ],
+    [
+      921.52,
+      928.375
+    ],
+    [
+      934.55,
+      940.6
+    ],
+    [
+      964,
+      969.595
+    ],
+    [
+      992.905,
+      994.28
+    ],
+    [
+      1029.54,
+      1032.5
+    ],
+    [
+      1034.82,
+      1039
+    ]
+  ],
+  "size_mb": 48,
+  "source_file": "7iron final.mov",
+  "status": "ready",
+  "theme": "Stuck behind a group of eight: slow-play rant, 'should literally be illegal', they let her through while she's talking trash; ends with them watching her tee off.",
+  "title": "group of eight",
+  "type": "montage",
+  "video": "7iron",
+  "video_asset": "6e6a115571764225836f1459e46c26ff",
+  "video_title": "YouTube #3 · 7 iron only (Thu Nov 19)",
+  "video_url": "/_blob/6e6a115571764225836f1459e46c26ff"
+}

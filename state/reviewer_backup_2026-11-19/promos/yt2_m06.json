@@ -1,0 +1,100 @@
+{
+  "about": "Brutally honest Mack: self-roasts and 'I just know who I am' — ends on a guy asking if she was a professional (answer is in the video). Cuts (times in the long video 'pop stroke beginning cut.mov'): 6:18.4–6:21.6 “I also need to get better about shutting up while I'm putting.” | 11:22.9–11:24.3 “Get it down there and shut up.” | 12:37.9–12:41.2 “Look, I'm a confident person naturally, but I'm telling you right now this isn't going in.” | 12:49.5–12:54.6 “Told ya. It's not that the opportunity wasn't there or it was an impossible shot, I just know who I am.” | 13:01.3–13:05.2 “I either need to be 20 plus or 4 inches.” | 16:56.0–16:59.9 “I'm a tweener girl. Don't call me that.” | 19:23.1–19:28.3 “It doesn't matter. This isn't a math YouTube channel. This is my YouTube channel.” | 18:56.0–19:01.2 “Also on hole 18, unfortunately I just turned the camera off, but a guy asked me if I was a professional.”. Original audio, swearing kept, no added text or music, vertical 1080x1920 cropped below the scorecard.",
+  "branch": "scratch/promo-popstroke-montages5",
+  "caption": "(no caption needed: uses your weekly promo caption)",
+  "cover_url": "/_blob/f8512785d2e2b28743b35c8fbc572f0b",
+  "created": "2026-11-08",
+  "cuts": [
+    {
+      "at": "6:18.4–6:21.6",
+      "line": "I also need to get better about shutting up while I'm putting."
+    },
+    {
+      "at": "11:22.9–11:24.3",
+      "line": "Get it down there and shut up."
+    },
+    {
+      "at": "12:37.9–12:41.2",
+      "line": "Look, I'm a confident person naturally, but I'm telling you right now this isn't going in."
+    },
+    {
+      "at": "12:49.5–12:54.6",
+      "line": "Told ya. It's not that the opportunity wasn't there or it was an impossible shot, I just know who I am."
+    },
+    {
+      "at": "13:01.3–13:05.2",
+      "line": "I either need to be 20 plus or 4 inches."
+    },
+    {
+      "at": "16:56.0–16:59.9",
+      "line": "I'm a tweener girl. Don't call me that."
+    },
+    {
+      "at": "19:23.1–19:28.3",
+      "line": "It doesn't matter. This isn't a math YouTube channel. This is my YouTube channel."
+    },
+    {
+      "at": "18:56.0–19:01.2",
+      "line": "Also on hole 18, unfortunately I just turned the camera off, but a guy asked me if I was a professional."
+    }
+  ],
+  "decision": null,
+  "download_url": "https://github.com/mack-fitz/clips/releases/download/promo-popstroke-montages/m06_brutally-honest.mp4",
+  "duration": 31.33,
+  "file": "clips/m06_brutally-honest.mp4",
+  "history": [],
+  "kind": "yt_promo",
+  "notes": "",
+  "num": "M6",
+  "order": -5,
+  "posts_itself": false,
+  "range": "8 cuts",
+  "raw_parts": [
+    "https://raw.githubusercontent.com/mack-fitz/clips/ef339c44408be3a17f9d10578fe051083da1c0c7/clips/m06_brutally-honest.mp4"
+  ],
+  "round": 1,
+  "segments": [
+    [
+      378.41,
+      381.59
+    ],
+    [
+      682.865,
+      684.265
+    ],
+    [
+      757.865,
+      761.235
+    ],
+    [
+      769.505,
+      774.58
+    ],
+    [
+      781.285,
+      785.16
+    ],
+    [
+      1016,
+      1019.9
+    ],
+    [
+      1163.115,
+      1168.265
+    ],
+    [
+      1136,
+      1141.22
+    ]
+  ],
+  "size_mb": 35,
+  "source_file": "pop stroke beginning cut.mov",
+  "status": "ready",
+  "theme": "Brutally honest Mack: self-roasts and 'I just know who I am' — ends on a guy asking if she was a professional (answer is in the video).",
+  "title": "brutally honest",
+  "type": "montage",
+  "video": "popstroke",
+  "video_asset": "2ab50838d00ccbcbbf5addd5bce441fe",
+  "video_title": "YouTube #2 · I Owe Tiger Woods an Apology (Thu Nov 12)",
+  "video_url": "/_blob/2ab50838d00ccbcbbf5addd5bce441fe"
+}

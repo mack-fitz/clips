@@ -1,0 +1,41 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo + “Bad” hat, greenside bunker on the triple-dipper par 4 — “I've had a couple drinks, who cares? loosey goosey, no thoughts” → swing → the ball goes straight up and drops right back in front of you (tracer) → you turn: “I do think I'm gonna be in an unfortunate position.” Your original sound and captions. NEW line (round 2): “me in the bunker after a couple drinks” — no more hero-shot, now sits lower-middle just above your captions and fades as you walk up. From Video Oct 12 2026, 12 17 30 AM.mov (98.67–113.20 s), which you posted on @mackygolfs Oct 14 — “You me par four? 👉👈” https://www.instagram.com/reel/DefODPLhS7S/. B's re-edit of this round is planned Sun Oct 18, so this shouldn't post that day. Caption unchanged — say if you want it changed too.",
+  "account": "@mackthegolfer",
+  "caption": "if you say i should have taken the easy out we cant be friends",
+  "chosen_cover": "opt1",
+  "cover_options": [],
+  "cover_text": "me in the bunker after a couple drinks",
+  "cover_url": "",
+  "decided_at": "2026-10-18T19:13:39.341Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 14.5,
+  "file": "shorties/hero-shot_r3.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "on-screen line changed to \"me in the bunker after a couple drinks\" (Oct 17 text style: smaller Inter Bold with outline, lower band above your captions); covers opt1–3 with the new line. Same clip, one encode from the true original (shorties/hero-shot_r3.mp4).",
+      "notes": "This is not a hero shot",
+      "round": 1
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/7e2a9fd7825dbb439fa283e8325afa7e05103a5e/shorties/hero-shot_r3.mp4",
+  "notes": "",
+  "order": 22,
+  "post_account": "@mackthegolfer",
+  "post_when": "now",
+  "posted": true,
+  "posted_account": "@mackthegolfer",
+  "posted_at": "2026-10-18T19:47:55Z",
+  "posted_cover": "shorties/hero-shot_r3_cover_opt1.jpg",
+  "posted_file": "shorties/hero-shot_r3.mp4",
+  "prepared_at": "2026-10-16T18:20:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 2,
+  "status": "posted",
+  "title": "Shorty: me in the bunker after a couple drinks",
+  "type": "shorty",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad5226b56862cbf690c5551"
+}

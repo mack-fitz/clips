@@ -1,0 +1,60 @@
+{
+  "about": "Round 2, your notes applied: the wrong-clubs clip (“tee off with a putter… putting with a driver”) is gone. Now 4 bits, 40.4 s: 1) “we’re some amount of yards out… I do have eyes and I would say it’s a good distance” 2) rangefinder / “sea level water… air pressure” 3) “I don’t see a flag… shooting straight is the name of the game” 4) “no choice but to just whack it as hard as I can” → the whole shot → “shout out to that rake… straight onto the green”. On-screen text the whole way: “golf is all about confidence” (Inter Bold, lower band above your captions, never over your face). Every shot whole, swearing kept, one full-quality export from your originals. Covers: the orange-checker one was from the cut clip, so it’s gone; the other 3 stay.",
+  "account": "@mackthegolfer",
+  "caption": "rangefinders are for people who don't have eyes",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "compilations/comp15_course-management_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "walking up after the rake shot, purple",
+      "url": "/_blob/547e5b2bbee436b4729065001ac0d45f"
+    },
+    {
+      "file": "compilations/comp15_course-management_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "white shirt under the clouds, blue",
+      "url": "/_blob/d0b8c0c387d5160fe3aae68f7abc264f"
+    },
+    {
+      "file": "compilations/comp15_course-management_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "backswing, typewriter 'i don't have a rangefinder but i do have eyes'",
+      "url": "/_blob/9ac6e145cad5ca0ef104da9c29979887"
+    }
+  ],
+  "cover_text": "Macky vs. course management",
+  "cover_url": "/_blob/547e5b2bbee436b4729065001ac0d45f",
+  "decided_at": "2026-10-20T10:03:03.230Z",
+  "decided_round": 2,
+  "decision": "dropped",
+  "duration": 40.4,
+  "file": "compilations/comp15_course-management_r2.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cut bit 2 (wrong clubs: putter off the tee / driver putting). Added on-screen line “golf is all about confidence”. 47.7 s → 40.4 s. Cover opt1 removed (its frame was in the cut clip).",
+      "notes": "Cut the second clip about using the wrong clubs\n\nText on the screen golf is all about confidence",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cancelled per Mack's note (Oct 20). Not posted; files kept in the repo.",
+      "notes": "cancel this idea",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/c6d4260f00639e65fc222805992a13081c920429/compilations/comp15_course-management_r2.mp4",
+  "notes": "cancel this idea",
+  "on_screen_text": "golf is all about confidence",
+  "order": 24,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-17T11:55:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "Macky vs. course management",
+  "video_asset": "3e07b3c044ce8df8418701c9c07f01c6",
+  "video_url": "/_blob/3e07b3c044ce8df8418701c9c07f01c6"
+}

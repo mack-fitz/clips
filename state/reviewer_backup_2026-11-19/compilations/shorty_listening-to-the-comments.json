@@ -1,0 +1,66 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: green polo + black cap, greenside bunker on the loosey goosey par 5 — “I don't know how to do these, but for some reason anytime I'm in a bunker I feel I need to bounce, so whatever that means” → swing → the ball goes about six inches → “and you know a lot of you tell me to hit behind the ball, but would you look at that, I just did that, and it went, I don't know, six inches.” Your original sound and captions. Line (smaller, bolder and lower since Oct 17 — above your captions, below the IG top bar): “me listening to the comment section” — fades right after impact as you step toward the camera so it stays off your face. From Video Oct 12 2026, 12 22 39 AM.mov (116.2–129.8 s), which you posted yourself on @mackthegolfer Oct 10 — “LGB LOOSEY GOOSEY BABY #neverforget” https://www.instagram.com/reel/DeUZyg5xywP/ (38 s of it in that post, fingerprint checked). This bunker shot isn't in any other shorty or compilation (asmr only uses its ~1 s contact sound). True original, single crf-17 export; preview copy here.",
+  "account": "@mackthegolfer",
+  "caption": "if you tell me to hit behind the ball one more time",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "file": "shorties/listening-to-the-comments_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "looking at camera · line",
+      "url": "/_blob/5125a05d5c897791dd20cada498a1d96"
+    },
+    {
+      "file": "shorties/listening-to-the-comments_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "backswing · line",
+      "url": "/_blob/62305691d92656896d646cf50c80f71a"
+    },
+    {
+      "file": "shorties/listening-to-the-comments_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "impact · line",
+      "url": "/_blob/39e557c1b326d5f5c395d57f72ceaf4c"
+    },
+    {
+      "file": "shorties/listening-to-the-comments_cover_opt4.jpg",
+      "id": "opt4",
+      "label": "“six inches” (no line)",
+      "url": "/_blob/05caf7414053bef9a921f812f4ac0593"
+    }
+  ],
+  "cover_text": "me listening to the comment section",
+  "cover_url": "/_blob/5125a05d5c897791dd20cada498a1d96",
+  "decided_at": "2026-10-18T19:20:02.923Z",
+  "decided_round": 2,
+  "decision": "dropped",
+  "duration": 13.6,
+  "file": "shorties/listening-to-the-comments_r2.mp4",
+  "history": [
+    {
+      "decision": null,
+      "fix": "Re-rendered with the Oct 17 text rule: Inter Bold 46 px (was SemiBold 60–72), white with a thin dark outline + soft shadow so it reads on any background; moved to the lower band (y 1180–1231, above your own captions) because your head is in the upper band during the clip — below Instagram's top bar and never over your face. Same cut, same frames, single crf-17 export from the original.",
+      "notes": "text smaller + moved below Instagram's top bar (Mack Oct 17)",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Cancelled as asked (Oct 18): dropped from the page, never posted; the clip goes back to the pool.",
+      "notes": "Cancel this idea",
+      "round": 2
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/32f33d2484d9963c493e9c7e0af57b25f6ce6645/shorties/listening-to-the-comments_r2.mp4",
+  "notes": "Cancel this idea",
+  "order": 27,
+  "post_account": "@mackthegolfer",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-10-17T18:25:00Z",
+  "round": 2,
+  "status": "dropped",
+  "title": "Shorty: me listening to the comment section",
+  "type": "shorty",
+  "video_asset": "3c1c4693c92149802985ffb7836843cd",
+  "video_url": "/_blob/3c1c4693c92149802985ffb7836843cd"
+}

@@ -1,0 +1,83 @@
+{
+  "account": "A",
+  "batch": "red hawaiian shirt (Mack, Oct 14)",
+  "caption": "as is - I think it might be broken",
+  "chosen_cover": "opt2",
+  "cover_asset": "eae2c64e6794fae3cefdebed10eda63b",
+  "cover_file": "trials/033_tree-par-4-red-shirt_a_r2_cover_opt2.jpg",
+  "cover_note": "shirt-wipe frame, \"I AM SELLING MY SPYDER PUTTER\" at the top (on the shirt over your head, off your face and chest) — 3 options, tap one",
+  "cover_options": [
+    {
+      "asset": "3afd53233e028d1a03fa108a65aae55c",
+      "file": "trials/033_tree-par-4-red-shirt_a_r2_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "orange \"I AM SELLING MY SPYDER PUTTER\" pill, up top",
+      "url": "/_blob/3afd53233e028d1a03fa108a65aae55c"
+    },
+    {
+      "asset": "eae2c64e6794fae3cefdebed10eda63b",
+      "file": "trials/033_tree-par-4-red-shirt_a_r2_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "typewriter, up top",
+      "url": "/_blob/eae2c64e6794fae3cefdebed10eda63b"
+    },
+    {
+      "asset": "cc5a4c48f898274a7259065b0388d7e8",
+      "file": "trials/033_tree-par-4-red-shirt_a_r2_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "blue pill, up top",
+      "url": "/_blob/cc5a4c48f898274a7259065b0388d7e8"
+    }
+  ],
+  "cover_url": "/_blob/eae2c64e6794fae3cefdebed10eda63b",
+  "date": "2026-10-23",
+  "decided_at": "2026-10-16T00:54:14.711Z",
+  "decided_round": 2,
+  "decision": "approved",
+  "duration": 28.2,
+  "file": "trials/033_tree-par-4-red-shirt_a.mp4",
+  "handle": "@mackygolfs",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Cover is now \"I AM SELLING MY SPYDER PUTTER\" (shirt-wipe frame, text at the top, off your face and chest; 3 styles). Caption is now \"as is - I think it might be broken\". Video unchanged. Zernio draft updated (still a draft).",
+      "notes": "Change cover to I AM SELLING MY SPYDER PUTTER\n\ncaption: as is - I think it might be broken",
+      "round": 1
+    },
+    {
+      "at": "2026-10-20T08:20:00Z",
+      "by": "Claude",
+      "event": "moved to the morning slot 07:39 MT at Mack's request (Zernio + platform time verified)"
+    },
+    {
+      "at": "2026-10-20T10:55:00Z",
+      "by": "Claude",
+      "event": "Moved from Fri Oct 23 to Mon Oct 26 07:39 MT under the Oct 20 30-day HARD RULE: its first ~4 s intro also ran in the Sep 25 @mackygolfs reel \"once I learn how to putt it's over\" (28 days before Oct 23). Oct 23 morning slot left empty."
+    },
+    {
+      "at": "2026-10-23T22:00:44Z",
+      "by": "Claude",
+      "event": "Moved back to TODAY Fri Oct 23 6:45pm MT at Mack's request (she wants it today; the shared ~4 s intro isn't a repeat of the reel). Zernio + platform time verified."
+    }
+  ],
+  "kind": "new",
+  "length": "short",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/b83ee72e89f7cdc74cdc139713b3bb3b2cfe0198/trials/033_tree-par-4-red-shirt_a.mp4",
+  "notes": "",
+  "post_url": "https://www.instagram.com/reel/De24Ha2j6-D/",
+  "posted_at": "2026-10-24T00:46:33.377Z",
+  "prepared_at": "2026-10-15T05:05:00Z",
+  "reuses": "NEW — never posted (fingerprint checked). Red Hawaiian shirt par 4, the shot by the tree (Sep 23, Colorado): never posted (its first ~4 s intro also opens your Sep 25 @mackygolfs \"once I learn how to putt\" reel, under 15 s so it still counts as new). Your original file exactly as you made it, shirt wipe first. Friday's new video, batch 6 of 6.",
+  "round": 2,
+  "scheduled_at": "2026-10-16T01:15:14Z",
+  "scheduled_for": "2026-10-23T18:45:00-06:00",
+  "slot": "evening",
+  "source": "/Golf Captions/Video Sep 23 2026, 1 07 33 PM.mov",
+  "status": "posted",
+  "time_ct": "19:45",
+  "time_mt": "18:45",
+  "video_asset": "53eacf251958ecdee521c14416f7a036",
+  "video_url": "/_blob/53eacf251958ecdee521c14416f7a036",
+  "zernio": "6ad05e93694b4089c8713957",
+  "zernio_id": "6ad05e93694b4089c8713957"
+}

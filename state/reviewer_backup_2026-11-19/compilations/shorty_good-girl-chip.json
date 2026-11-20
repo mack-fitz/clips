@@ -1,0 +1,52 @@
+{
+  "about": "ONE clip, ONE shot, nothing cut inside: white polo, sunset par 3 by the water. Address → the chip with your tracer → \"Dude, that's going to be a really good chip as long as it sits. As long as it sits. As long as it sits.\" → \"She sat. Good girl.\" Your original sound (no burned captions in this part). Line \"me talking to my chip like it's a dog\" sits low (over your legs/waist, off your face) and fades out as you walk up to the camera. From your week 2 @mackthegolfer video \"tues 11-3\" (22.3–36.7 s), which you posted on @mackthegolfer Nov 3 — \"would you crumble under stakes like these??\" https://www.instagram.com/reel/DfS8FnOxpcA/. Not used in any comp or shorty. Pick the account below.",
+  "account": "",
+  "caption": "she listened",
+  "chosen_cover": null,
+  "cover_options": [
+    {
+      "asset": "29f5d6e68d65ae5d96f901547d6ec908",
+      "file": "shorties/good-girl-chip_cover_opt1.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/5045f24bff8d8a9b852b5e223ae899755fab5cf4/mg_pending/shorties/good-girl-chip_cover_opt1.jpg",
+      "id": "opt1",
+      "label": "at address over the chip",
+      "url": "/_blob/29f5d6e68d65ae5d96f901547d6ec908"
+    },
+    {
+      "asset": "6f0c90308e410d4c488ec9d7a28bc1b9",
+      "file": "shorties/good-girl-chip_cover_opt2.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/5045f24bff8d8a9b852b5e223ae899755fab5cf4/mg_pending/shorties/good-girl-chip_cover_opt2.jpg",
+      "id": "opt2",
+      "label": "standing proud after \"good girl\"",
+      "url": "/_blob/6f0c90308e410d4c488ec9d7a28bc1b9"
+    },
+    {
+      "asset": "957dab6312dc46a0caeb9b19953b8d69",
+      "file": "shorties/good-girl-chip_cover_opt3.jpg",
+      "full_url": "https://raw.githubusercontent.com/mack-fitz/clips/5045f24bff8d8a9b852b5e223ae899755fab5cf4/mg_pending/shorties/good-girl-chip_cover_opt3.jpg",
+      "id": "opt3",
+      "label": "follow-through with the tracer",
+      "url": "/_blob/957dab6312dc46a0caeb9b19953b8d69"
+    }
+  ],
+  "cover_text": "me talking to my chip like it's a dog",
+  "cover_url": "/_blob/29f5d6e68d65ae5d96f901547d6ec908",
+  "decision": null,
+  "duration": 14.4,
+  "file": "shorties/good-girl-chip.mp4",
+  "history": [],
+  "media_note": "Full quality (1080x1920, CRF 17, one encode from your true original, 16.5 Mbps export vs 16.0 Mbps source) on clips branch scratch/mg-pending-nov19 (pinned 5045f24). No Zernio post until you approve.",
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/5045f24bff8d8a9b852b5e223ae899755fab5cf4/mg_pending/shorties/good-girl-chip.mp4",
+  "notes": "",
+  "order": 50,
+  "post_account": "",
+  "post_when": "next",
+  "posted": false,
+  "prepared_at": "2026-11-19T19:50:00Z",
+  "round": 1,
+  "status": "ready",
+  "title": "Shorty: me talking to my chip like it's a dog",
+  "type": "shorty",
+  "video_asset": "f2c29f5d14d7667994f0f5bf656bd2e2",
+  "video_url": "/_blob/f2c29f5d14d7667994f0f5bf656bd2e2"
+}

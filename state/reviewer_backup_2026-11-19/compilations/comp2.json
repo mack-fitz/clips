@@ -1,0 +1,65 @@
+{
+  "about": "7 bits, just you saying delusional things back to back, no shots: 1) \"it's fortunate that I'm one of the best putters that this galaxy has ever seen, so it actually won't be a problem, but it is shocking\" 2) \"alright you're about to see the lag MASTA at work\" 3) \"I'm getting a hole in one on this par 3\" 4) \"legit look how perfect this shot was… I'm the king of the world!\" 5) \"I am about to par the absolute living heck out of this, it's actually so crazy how par I'm about to get\" 6) \"do you know that they call Amarillo Bomb City? it's because of this drive\" 7) \"that's all I live for, is being the best in the world\". Outfits alternate green / white / orange. Cut at real gaps between words, swearing kept, no shirt wipes, no added text, one full-quality export from your originals. 30 s. The galaxy line is also the opener of comp7 (you asked for it in both), so only one of the two should post within 2 weeks. Bit 7 is from the cactus par 5, whose full video posts on @mackygolfs Thu 7:42am, so this won't post before then.",
+  "account": "@mackthegolfer",
+  "caption": "being a good golfer is all about mindset mindset",
+  "chosen_cover": "r6opt2",
+  "cover_options": [],
+  "cover_text": "the shxt I say while still being a 27 handicap",
+  "cover_url": "",
+  "decided_at": "2026-10-15T05:07:52.629Z",
+  "decided_round": 6,
+  "decision": "approved",
+  "duration": 30.2,
+  "file": "compilations/comp2_delusional_r6.mp4",
+  "history": [
+    {
+      "decision": "changes",
+      "fix": "Pitching-wedge bit now runs through 'pretty close' (one continuous take). Other 3 bits replaced with truly delusional ones: galaxy's-best-putter putt and the 'felt so much better / half of golf is the stroke feeling good' wedge. 3 bits, 43 s. 2 new covers (your opt2 pick kept).",
+      "notes": "On the second clip (orange checkered shirt, you cut off at the word “pretty” instead of “pretty close”\n\nNone of the other clips have to do with being delusional. Try new clips.",
+      "round": 1
+    },
+    {
+      "decision": "changes",
+      "fix": "Every bit is now you saying you're good → a bad shot: 'I'm getting a hole in one on this par 3' → 40 yards past it; 'you're about to see the lag MASTA at work' → 'took the day off after all'; galaxy's-best-putter → comes up short. Pitching-wedge and 'felt so much better' bits removed. 38 s. 3 new covers.",
+      "notes": "You have misunderstood the prompt. I shouldn’t ever have a good shot after saying I’m good",
+      "round": 2
+    },
+    {
+      "decision": "changes",
+      "fix": "\"all right wasn't an ace\" cut (hole-in-one bit ends on \"and about 40 yards past it\"). Galaxy-putter clip removed completely, so the \"problem\" cut is gone with it. Now 2 bits, 21s (shorter than usual; say if you want a third bit added). Covers that used cut frames removed; new purple \"lag MASTA\" option.",
+      "notes": "Cut out wasn’t an ace. \n\nYou cut off “problem” after it won’t be a peoblem\n\nWhole last clip actually doesn’t make sense because I do good.",
+      "round": 3
+    },
+    {
+      "decision": "changes",
+      "fix": "Added a 3rd bit: Bomb City par 4 (white shirt), 'let's get on the green, might as well right?' → short → 'a little short but absolutely perfect' → 'nice and easy' → chip → 'a little too nice, a little too easy' (one take, both shots whole). Order is now lag MASTA → hole in one → Bomb City so the two white-shirt bits aren't back to back. 21s → 41s. Caption and covers unchanged.",
+      "notes": "Needs more than two clips",
+      "round": 4
+    },
+    {
+      "decision": "changes",
+      "fix": "Rebuilt as 7 lines back to back, no shots at all: galaxy's best putter (all the way through \"won't be a problem, but it is shocking\") → \"you're about to see the lag MASTA at work\" → \"I'm getting a hole in one on this par 3\" → \"legit look how perfect this shot was… I'm the king of the world!\" → \"I am about to par the absolute living heck out of this\" → \"they call Amarillo Bomb City, it's because of this drive\" → \"that's all I live for, is being the best in the world\". 30s. New cover text and caption as you wrote them, 3 covers.",
+      "notes": "Last clip makes no sense. \nCut all the shots. Should just be back to back me saying delusional things. Include best putter in the galaxy. Any other time I refer to myself the best. I want like 7 clips. \n\nChange text to the shxt I say while still being a 27 handicap\n\nCaption being a good golfer is all about mindset mindset",
+      "round": 5
+    }
+  ],
+  "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/71f6be7f99b79573cc23e657f0776e9750670d71/compilations/comp2_delusional_r6.mp4",
+  "notes": "",
+  "order": 2,
+  "post_account": "@mackthegolfer",
+  "post_url": "https://www.instagram.com/reel/Deng4fuklAY/",
+  "post_when": "next",
+  "posted": false,
+  "posted_at": "2026-10-18T01:34:58.173Z",
+  "prepared_at": "2026-10-14T17:31:00Z",
+  "preview_note": "Preview and cover options removed 2026-10-20 to free review-page storage (already posted). Full-quality file: media_url / file in the repo.",
+  "round": 6,
+  "scheduled_for": "2026-10-17T19:33:00-06:00",
+  "slot_note": "@mackthegolfer trial, Sat Oct 17 7:33pm MT (8:33pm CT), evening short slot; cover r6opt2",
+  "status": "posted",
+  "title": "the shxt I say while still being a 27 handicap",
+  "video_asset": "",
+  "video_url": "",
+  "zernio": "6ad0b0046c00626d876f0640",
+  "zernio_id": "6ad0b0046c00626d876f0640"
+}
