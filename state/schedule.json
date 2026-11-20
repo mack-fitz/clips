@@ -5441,6 +5441,104 @@
    "status": "scheduled",
    "note": "@moremackygolfs untouched original; proof MG Oct 7 (own post, <100k); last IG MG Oct 18 (32 d); caption = its Oct 20 TikTok caption; targeted R1/R6 check PASS",
    "added_by": "clip page run 2026-11-19"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "08:23",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "tag ur buddy who is as good at golf as me",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/f8eb612478357323a474940b1126b1ec412a2aeb/TF_w4-B7.mov",
+   "zernio": {
+    "twitter": "6b00a1b9b7542ac8280ea090"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "08:52",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "this factory pmo",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/6- this factory pmo",
+   "media_url": "https://media.zernio.com/media/1794830339639_2ac7b09f8ed34762_A_w4-6-factory-pmo.mov",
+   "zernio": {
+    "tiktok": "6b00a1b7ac1882277e886043"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "09:19",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "the issue is i love a long sleeve but it feels in my way #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B5.mov",
+   "zernio": {
+    "facebook": "6b00a1b8ac1882277e886053"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "17:29",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "DO YOU THINK I HAVE IT IN ME",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
+   "media_url": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov",
+   "zernio": {
+    "twitter": "6b00a20003ddbca6e9ba32f0"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "17:44",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "tag ur buddy who is as good at golf as me",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/f8eb612478357323a474940b1126b1ec412a2aeb/TF_w4-B7.mov",
+   "zernio": {
+    "tiktok": "6b00a1b8ac1882277e88604a"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "18:33",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "this factory pmo #golf",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/6- this factory pmo",
+   "media_url": "https://media.zernio.com/media/1794830339639_2ac7b09f8ed34762_A_w4-6-factory-pmo.mov",
+   "zernio": {
+    "facebook": "6b00a1b9ac1882277e88605b"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-23",
+   "scheduled_mt": "18:47",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "what am i doing wrong? be honest. but nice",
+   "source": "/golfclips/Video Sep 25 2026, 4 41 09 PM.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/fb_please-help-me-get-better_orig.mov",
+   "zernio": {
+    "instagram": "6b00a1baac1882277e886064"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-20"
   }
  ],
  "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
@@ -7000,7 +7098,9 @@
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-20 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 09:19",
+     "zernio": "6b00a1b8ac1882277e886053"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B5 via zupload",
     "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830343269_316edd66b9c40389_B_w4-5-long-sleeve_nowipe.mp4"
@@ -7055,7 +7155,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B6 via zupload",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830343839_cfb5217783222d00_B_w4-6-have-it-in-me_nowipe.mp4"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830343839_cfb5217783222d00_B_w4-6-have-it-in-me_nowipe.mp4",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 17:29",
+     "zernio": "6b00a20003ddbca6e9ba32f0"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/6- this factory pmo",
@@ -7072,13 +7177,17 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-21 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 08:52",
+     "zernio": "6b00a1b7ac1882277e886043"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
      "date": "2026-11-21 or later",
      "note": "Reel if 3-60 s, else Page video; caption = caption (number prefix stripped) (+ optional #golf)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 18:33",
+     "zernio": "6b00a1b9ac1882277e88605b"
     },
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
@@ -7098,7 +7207,9 @@
      "account": "6acc3fd31ce18dfecf0a2249",
      "date": "2026-11-22 or later (any day Mon-Sun this week; newest week first)",
      "cover": "first frame (videoCoverTimestampMs 0)",
-     "status": "planned"
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 17:44",
+     "zernio": "6b00a1b8ac1882277e88604a"
     },
     "facebook": {
      "account": "6ad052a5a442d9968f306c31",
@@ -7107,7 +7218,12 @@
      "status": "planned"
     },
     "wipe": "kept (her untouched original) on TikTok/FB; untouched original not yet on Zernio: upload scratch/w4-relay:B7 via zupload",
-    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830344462_8076b3f2e9edc862_B_w4-7-tag-ur-buddy_nowipe.mp4"
+    "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode) - uses B wipe-cut Zernio media https://media.zernio.com/media/1794830344462_8076b3f2e9edc862_B_w4-7-tag-ur-buddy_nowipe.mp4",
+    "x": {
+     "status": "scheduled",
+     "scheduled_mt": "2026-11-23 08:23",
+     "zernio": "6b00a1b9b7542ac8280ea090"
+    }
    },
    {
     "source": "/Golf/for claude/mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
@@ -7137,23 +7253,23 @@
    }
   ],
   "week4_tiktok_fb_open": {
-   "as_of": "2026-11-20 morning run (fresh Zernio pull thru Nov 23)",
+   "as_of": "2026-11-20 clip page run",
    "tiktok_not_yet_scheduled": [
-    "A6 this factory pmo",
     "A7 send this to ur buddy who has mood swings",
     "B4 you me right now lets go",
-    "B6 DO YOU THINK I HAVE IT IN ME",
-    "B7 tag ur buddy who is as good at golf as me"
+    "B6 DO YOU THINK I HAVE IT IN ME (Zernio-hosted copy now: https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov)"
    ],
    "facebook_not_yet_scheduled": [
-    "A6 this factory pmo",
-    "A7 send this to ur buddy who has mood swings (153 s -> regular Page video)",
+    "A7 send this to ur buddy who has mood swings (153 s -> Page video)",
     "B4 you me right now lets go (100 s -> Page video)",
-    "B5 the issue is i love a long sleeve but it feels in my way",
     "B6 DO YOU THINK I HAVE IT IN ME",
     "B7 tag ur buddy who is as good at golf as me (85 s -> Page video)"
    ],
-   "rule": "her untouched files (Zernio-hosted originals in weekly_sources zernio_media for A; B originals on scratch/w4-relay), caption = name minus number prefix, FB may add #golf; open days Mon Nov 23+ (A7/B7 only after their Sun Nov 22 IG post), ~2-3/day incl. promos; clip page run places them"
+   "x_not_yet_scheduled": [
+    "A7 (153 s > 2:20: needs a cut for X or skip)",
+    "B4 you me right now lets go (199 MB -> zupload)"
+   ],
+   "rule": "her untouched files, caption = name minus number prefix, FB may add #golf; ~2-3/day incl. promos"
   }
  },
  "notes_nov16": [
@@ -7166,5 +7282,5 @@
  ],
  "notes_nov18": "Clip run Nov 18: Thu Nov 19 launch-day spacing fixed (TikTok A1 6afb5b01 13:24->14:51, FB B1 6afb5b04 13:38->14:46 MT; both had been <1h from the 13:37 turn-dog post). Added X Fri/Sat, TikTok Sat, FB Sat, @moremackygolfs Sat (see slots added_by). Thu has no promo posts: no Video 3 promo files/caption yet.",
  "notes_nov19": "Clip run Nov 19: Sun Nov 22 filled: TikTok B3 08:46 + B5 17:38, FB A5 09:13 + B3 18:52 (reels), X B5 08:27 + A6 17:16, @moremackygolfs 18:21 'Video Oct 12 7 33 50 AM' untouched. Files on scratch/x-w4b@8fe9f43 (TF_w4-B3/B5 untouched copies of w4-relay B3/B5, sha256 verified; X_w4-B5/A6 H.264 CRF17). Not done: whole-schedule guard/sync_schedule.py (no full 60-day dump this run), Base Camp rebuild.",
- "notes_nov20": "Morning run Nov 20: Shorts Mon Nov 23 added: 08:47 B7 tag ur buddy (6b0033fa, IG wipe-cut file) + 18:11 A7 mood swings (6b0034a6, wipe cut 1.2 s, scratch/w4-yt3). Week 4 Shorts now all placed except A3 (bikini, never). Base Camp mackygolfs/mackthegolfer rebuilt from Zernio pull."
+ "notes_nov20": "Morning run Nov 20: Shorts Mon Nov 23 added: 08:47 B7 tag ur buddy (6b0033fa, IG wipe-cut file) + 18:11 A7 mood swings (6b0034a6, wipe cut 1.2 s, scratch/w4-yt3). Week 4 Shorts now all placed except A3 (bikini, never). Base Camp mackygolfs/mackthegolfer rebuilt from Zernio pull. | Clip run Nov 20: Mon Nov 23 filled: X B7 08:23 + B6 17:29, TikTok A6 08:52 + B7 17:44, FB B5 09:19 + A6 18:33 (reels), @moremackygolfs 18:47 'what am i doing wrong? be honest. but nice' = /golfclips/Video Sep 25 2026, 4 41 09 PM.mov untouched (proof MG Sep 29 52k views, last IG post Sep 29). Media: TF_w4-B7.mov on scratch/clip-nov20@f8eb612 (sha256 = w4-relay B7), B6 via zupload (200). Targeted checks only (no full 60-day guard dump)."
 }
