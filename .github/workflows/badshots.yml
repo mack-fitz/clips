@@ -1,0 +1,166 @@
+name: badshots
+# Bad-shot compilations from traced clips (Nov 19). Push inbox/badshots.tsv:
+#   #mode analyze | render
+#   #branch scratch/<name>
+#   src<TAB><name><TAB><temporary Dropbox download_link URL>   (one per file)
+# analyze -> per file: sheets/<name>_<k>.jpg (4 fps, 20 s per sheet, timestamped), transcripts/<name>.json (word times),
+#            loud/<name>.tsv (RMS dB per 0.1 s), probe/<name>.json. Small outputs only.
+# render  -> inbox/badshots_plan.json {"reels":[{"name","bits":[[src_name,start,end],...],"top":0,"layout":"auto|vertical|blurpad"}]}
+#            vertical sources: scale to 1080x1920; horizontal: crop `top` px off the top, scale full width to 1080, centered over a
+#            blurred zoomed copy (1080x1920). H.264 High@4.2 CRF 17, AAC 256k, two-pass loudnorm, +faststart.
+#            Outputs reels/<name>.mp4, previews (720 px), covers (6 candidates), checks/<name>_bits.jpg, transcripts of the finals.
+on:
+  push:
+    paths: ['inbox/badshots.tsv']
+permissions:
+  contents: write
+concurrency:
+  group: badshots-${{ github.sha }}
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Download first (links expire)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          mkdir -p /tmp/src /tmp/req /tmp/out
+          curl -sSL --fail -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/inbox/badshots.tsv?ref=${{ github.sha }}" -o /tmp/req/r.tsv
+          grep -m1 '^#mode ' /tmp/req/r.tsv | cut -d' ' -f2 > /tmp/req/mode
+          grep -m1 '^#branch ' /tmp/req/r.tsv | cut -d' ' -f2 > /tmp/req/branch
+          : > /tmp/out/failed.txt
+          grep -v '^#' /tmp/req/r.tsv | awk -F'\t' 'NF>=3' > /tmp/req/l.tsv
+          while IFS=$'\t' read -r kind name url; do
+            ( curl -sSL --fail --retry 3 -o "/tmp/src/$name" "$url" || { echo "FAILED $name" >> /tmp/out/failed.txt; rm -f "/tmp/src/$name"; } ) &
+          done < /tmp/req/l.tsv
+          wait; ls -la /tmp/src; cat /tmp/out/failed.txt; df -h / | tail -1
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /inbox/
+          sparse-checkout-cone-mode: false
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core >/dev/null
+          pip install -q numpy pillow faster-whisper
+          cp inbox/badshots_plan.json /tmp/req/plan.json 2>/dev/null || true
+      - name: Work
+        run: |
+          python3 - <<'PY'
+          import os, json, subprocess, glob
+          import numpy as np
+          from PIL import Image, ImageDraw, ImageFont
+          from faster_whisper import WhisperModel
+          mode = open("/tmp/req/mode").read().strip(); out = "/tmp/out"
+          font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 16)
+          m = WhisperModel("small.en", device="cpu", compute_type="int8", cpu_threads=4)
+          def run(c): subprocess.run(c, check=True)
+          def probe(f):
+              return json.loads(subprocess.run(["ffprobe","-v","error","-show_streams","-show_format","-of","json",f],capture_output=True,text=True).stdout)
+          def dims(f):
+              p = probe(f); v = next(s for s in p["streams"] if s["codec_type"]=="video"); W,H = v["width"],v["height"]
+              for sd in v.get("side_data_list",[]) or []:
+                  if abs(int(sd.get("rotation",0) or 0))==90: W,H=H,W
+              return W,H,p
+          def audio(f):
+              raw = subprocess.run(["ffmpeg","-nostdin","-v","error","-i",f,"-ac","1","-ar","16000","-f","s16le","-"],capture_output=True).stdout
+              return np.frombuffer(raw,np.int16).astype(np.float32)/32768.0
+          def transcribe(a):
+              segs,_ = m.transcribe(a, word_timestamps=True, vad_filter=False, beam_size=5, condition_on_previous_text=False)
+              return [{"start":round(s.start,2),"end":round(s.end,2),"text":s.text.strip(),"words":[[round(w.start,2),round(w.end,2),w.word] for w in (s.words or [])]} for s in segs]
+          if mode == "analyze":
+              for d in ("sheets","transcripts","loud","probe"): os.makedirs(f"{out}/{d}",exist_ok=True)
+              for f in sorted(glob.glob("/tmp/src/*")):
+                  n = os.path.basename(f); W,H,p = dims(f); json.dump(p, open(f"{out}/probe/{n}.json","w"))
+                  tw = 120 if H > W else 213
+                  d = f"/tmp/fr_{n}"; os.makedirs(d, exist_ok=True)
+                  run(["ffmpeg","-nostdin","-v","error","-y","-i",f,"-vf",f"fps=4,scale={tw}:-2","-q:v","5","-start_number","0",f"{d}/%05d.jpg"])
+                  fr = sorted(glob.glob(f"{d}/*.jpg")); w,h = Image.open(fr[0]).size; cols = 20 if H > W else 12
+                  per = 80
+                  for k in range(0, len(fr), per):
+                      ch = fr[k:k+per]; rows = (len(ch)+cols-1)//cols; s = Image.new("RGB",(cols*w,rows*h))
+                      for i,pth in enumerate(ch):
+                          im = Image.open(pth); dr = ImageDraw.Draw(im); t=(k+i)/4; dr.rectangle([0,0,52,18],fill=(0,0,0)); dr.text((2,1),f"{t:.2f}",fill=(255,255,0),font=font)
+                          s.paste(im,((i%cols)*w,(i//cols)*h))
+                      s.save(f"{out}/sheets/{n}_{k//per:02d}.jpg", quality=70)
+                  a = audio(f)
+                  hop=1600; kk=len(a)//hop; r=np.sqrt((a[:kk*hop].reshape(kk,hop)**2).mean(1)+1e-12)
+                  open(f"{out}/loud/{n}.tsv","w").write("".join(f"{i*0.1:.1f}\t{20*np.log10(v):.1f}\n" for i,v in enumerate(r)))
+                  json.dump({"source":n,"segments":transcribe(a)}, open(f"{out}/transcripts/{n}.json","w"), indent=0)
+                  print("done", n, W, H, flush=True)
+          else:
+              plan = json.load(open("/tmp/req/plan.json"))
+              for d in ("reels","previews","covers","checks","transcripts"): os.makedirs(f"{out}/{d}",exist_ok=True)
+              res = []
+              for R in plan["reels"]:
+                  name = R["name"]; top = int(R.get("top",0)); parts=[]
+                  for i,(sn,s,e) in enumerate(R["bits"]):
+                      f = f"/tmp/src/{sn}"; W,H,_ = dims(f); d = e - s
+                      if H > W:
+                          vf = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30,format=yuv420p"
+                          fc = None
+                      else:
+                          ch = H - top
+                          fc = (f"[0:v]crop={W}:{ch}:0:{top},split[a][b];"
+                                f"[a]scale=-2:1920,crop=1080:1920,boxblur=30:3,eq=brightness=-0.08[bg];"
+                                f"[b]scale=1080:-2[fg];[bg][fg]overlay=0:(H-h)/2,setsar=1,fps=30,format=yuv420p[v]")
+                      af = f"aresample=48000,afade=t=in:d=0.02,afade=t=out:st={max(d-0.03,0):.3f}:d=0.03"
+                      pth = f"/tmp/part_{name}_{i:02d}.mkv"
+                      c = ["ffmpeg","-nostdin","-v","error","-y","-ss",f"{s:.3f}","-i",f,"-t",f"{d:.3f}"]
+                      if fc: c += ["-filter_complex",fc,"-map","[v]","-map","0:a:0","-af",af]
+                      else: c += ["-vf",vf,"-af",af]
+                      c += ["-ac","2","-c:v","libx264","-qp","0","-preset","ultrafast","-c:a","pcm_s24le",pth]
+                      run(c); parts.append((pth,d))
+                  open("/tmp/l.txt","w").write("".join(f"file '{p}'\n" for p,_ in parts))
+                  run(["ffmpeg","-nostdin","-v","error","-y","-f","concat","-safe","0","-i","/tmp/l.txt","-c","copy","/tmp/cat.mkv"])
+                  r = subprocess.run(["ffmpeg","-nostdin","-hide_banner","-i","/tmp/cat.mkv","-af","loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json","-f","null","-"],capture_output=True,text=True).stderr
+                  j = json.loads(r[r.rfind("{"):r.rfind("}")+1])
+                  ln = f"loudnorm=I=-14:TP=-1.5:LRA=11:measured_I={j['input_i']}:measured_TP={j['input_tp']}:measured_LRA={j['input_lra']}:measured_thresh={j['input_thresh']}:offset={j['target_offset']}:linear=true,aresample=48000"
+                  fin = f"{out}/reels/{name}.mp4"
+                  run(["ffmpeg","-nostdin","-v","error","-y","-i","/tmp/cat.mkv","-c:v","libx264","-profile:v","high","-level","4.2","-preset","slow","-crf","17","-pix_fmt","yuv420p",
+                       "-color_primaries","bt709","-color_trc","bt709","-colorspace","bt709","-af",ln,"-c:a","aac","-b:a","256k","-ar","48000","-movflags","+faststart",fin])
+                  dur = float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",fin],capture_output=True,text=True).stdout)
+                  run(["ffmpeg","-nostdin","-v","error","-y","-i",fin,"-vf","scale=720:-2","-c:v","libx264","-profile:v","high","-b:v","3000k","-maxrate","4000k","-bufsize","6000k","-c:a","aac","-b:a","128k","-movflags","+faststart",f"{out}/previews/{name}_preview.mp4"])
+                  # per-bit check: 6 frames per bit (start, 20/40/60/80 %, end)
+                  ims=[]; acc=0
+                  for p,d in parts:
+                      for q in (0.03,0.2,0.4,0.6,0.8,0.97):
+                          t=acc+d*q; pth=f"/tmp/ck.jpg"
+                          subprocess.run(["ffmpeg","-nostdin","-v","error","-y","-ss",f"{t:.3f}","-i",fin,"-frames:v","1","-vf","scale=150:-2",pth]); ims.append(Image.open(pth).copy())
+                      acc+=d
+                  w,h=ims[0].size; rows=len(parts); s=Image.new("RGB",(6*w,rows*h))
+                  for k,im in enumerate(ims): s.paste(im,((k%6)*w,(k//6)*h))
+                  s.save(f"{out}/checks/{name}_bits.jpg",quality=75)
+                  for k,q in enumerate((0.08,0.3,0.5,0.62,0.75,0.9)):
+                      subprocess.run(["ffmpeg","-nostdin","-v","error","-y","-ss",f"{dur*q:.2f}","-i",fin,"-frames:v","1","-q:v","2",f"{out}/covers/{name}_c{k+1}.jpg"])
+                  tr = transcribe(audio(fin)); json.dump({"source":name,"duration":dur,"segments":tr}, open(f"{out}/transcripts/{name}.json","w"), indent=0)
+                  res.append({"name":name,"duration":round(dur,2),"bits":R["bits"],"transcript":[(s["start"],s["end"],s["text"]) for s in tr]})
+                  print("done", name, dur, tr, flush=True)
+              json.dump(res, open(f"{out}/result.json","w"), indent=1)
+          PY
+      - name: Push branch + clear request
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd /tmp/out
+          for f in reels/*.mp4; do [ -f "$f" ] || continue; sha256sum "$f" | cut -d' ' -f1 > "$f.sha256"
+            if [ "$(stat -c %s "$f")" -gt 95000000 ]; then split -b 90000000 -d -a 2 "$f" "$f.part"; rm -f "$f"; fi; done
+          git init -q && git checkout -q -b tmp
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add -A && git commit -qm "badshots $(cat /tmp/req/mode) (scratch)"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "HEAD:$(cat /tmp/req/branch)"
+          cd $GITHUB_WORKSPACE
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            git rm -q --ignore-unmatch inbox/badshots.tsv inbox/badshots_plan.json
+            git commit -q -m "badshots done (outputs on $(cat /tmp/req/branch)) [skip ci]" || exit 0
+            git push -q origin HEAD:main && exit 0
+            sleep $((i * 7))
+          done
+          exit 1
