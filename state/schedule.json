@@ -7135,7 +7135,26 @@
     "wipe": "kept (her untouched original) on TikTok/FB",
     "youtube": "regular Short candidate (wipe cut; A files need a wipe-cut encode)"
    }
-  ]
+  ],
+  "week4_tiktok_fb_open": {
+   "as_of": "2026-11-20 morning run (fresh Zernio pull thru Nov 23)",
+   "tiktok_not_yet_scheduled": [
+    "A6 this factory pmo",
+    "A7 send this to ur buddy who has mood swings",
+    "B4 you me right now lets go",
+    "B6 DO YOU THINK I HAVE IT IN ME",
+    "B7 tag ur buddy who is as good at golf as me"
+   ],
+   "facebook_not_yet_scheduled": [
+    "A6 this factory pmo",
+    "A7 send this to ur buddy who has mood swings (153 s -> regular Page video)",
+    "B4 you me right now lets go (100 s -> Page video)",
+    "B5 the issue is i love a long sleeve but it feels in my way",
+    "B6 DO YOU THINK I HAVE IT IN ME",
+    "B7 tag ur buddy who is as good at golf as me (85 s -> Page video)"
+   ],
+   "rule": "her untouched files (Zernio-hosted originals in weekly_sources zernio_media for A; B originals on scratch/w4-relay), caption = name minus number prefix, FB may add #golf; open days Mon Nov 23+ (A7/B7 only after their Sun Nov 22 IG post), ~2-3/day incl. promos; clip page run places them"
+  }
  },
  "notes_nov16": [
   "Nov 16 clip run: @moremackygolfs Thu Nov 19 18:37 'par 5. lock in your guess before the stroke counter does' = /golfclips/Video Sep 25 2026, 4 59 28 PM.mov untouched (pinned e1988566 fb_lock-it-in-par-5_orig.mov), Zernio 6afb5d6b4e4ab1109b947920; proof MG Oct 3 'LOCK IT IN BOYS' 13.9k views (<100k), 44 days since last IG post. X copies of week-4 files on scratch/x-w4@97dcc37."
@@ -7146,5 +7165,6 @@
   "Nov 17 clip run: FB Fri Nov 20 18:24 A3 'should i try again? #golf' Reel (6afcabc8), TikTok Fri 17:36 A4 'gotta be something else guys' (6afcabc9) - both Zernio-hosted untouched originals; @moremackygolfs Fri 17:58 'it all fell apart near the green. guess the score' = /golfclips/Video Sep 25 2026, 5 07 02 PM.mov untouched (pinned e1988566 fb_fell-apart-near-green_orig.mov, 6afcabca), proof MG Oct 5 15.0k views (<100k), guard candidate PASS. Base Camp golf/facebook rebuilt from Zernio pull Nov 16-26."
  ],
  "notes_nov18": "Clip run Nov 18: Thu Nov 19 launch-day spacing fixed (TikTok A1 6afb5b01 13:24->14:51, FB B1 6afb5b04 13:38->14:46 MT; both had been <1h from the 13:37 turn-dog post). Added X Fri/Sat, TikTok Sat, FB Sat, @moremackygolfs Sat (see slots added_by). Thu has no promo posts: no Video 3 promo files/caption yet.",
- "notes_nov19": "Clip run Nov 19: Sun Nov 22 filled: TikTok B3 08:46 + B5 17:38, FB A5 09:13 + B3 18:52 (reels), X B5 08:27 + A6 17:16, @moremackygolfs 18:21 'Video Oct 12 7 33 50 AM' untouched. Files on scratch/x-w4b@8fe9f43 (TF_w4-B3/B5 untouched copies of w4-relay B3/B5, sha256 verified; X_w4-B5/A6 H.264 CRF17). Not done: whole-schedule guard/sync_schedule.py (no full 60-day dump this run), Base Camp rebuild."
+ "notes_nov19": "Clip run Nov 19: Sun Nov 22 filled: TikTok B3 08:46 + B5 17:38, FB A5 09:13 + B3 18:52 (reels), X B5 08:27 + A6 17:16, @moremackygolfs 18:21 'Video Oct 12 7 33 50 AM' untouched. Files on scratch/x-w4b@8fe9f43 (TF_w4-B3/B5 untouched copies of w4-relay B3/B5, sha256 verified; X_w4-B5/A6 H.264 CRF17). Not done: whole-schedule guard/sync_schedule.py (no full 60-day dump this run), Base Camp rebuild.",
+ "notes_nov20": "Morning run Nov 20: Shorts Mon Nov 23 added: 08:47 B7 tag ur buddy (6b0033fa, IG wipe-cut file) + 18:11 A7 mood swings (6b0034a6, wipe cut 1.2 s, scratch/w4-yt3). Week 4 Shorts now all placed except A3 (bikini, never). Base Camp mackygolfs/mackthegolfer rebuilt from Zernio pull."
 }
