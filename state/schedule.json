@@ -5539,6 +5539,83 @@
    },
    "status": "scheduled",
    "added_by": "clip page run 2026-11-20"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "08:31",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "at what point do i pick up",
+   "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/at what point do i pick up",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-B3.mp4",
+   "zernio": "6b01f2d78132d7094b173f95",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "08:44",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "DO YOU THINK I HAVE IT IN ME",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
+   "media_url": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov",
+   "zernio": "6b01f2c22e19299640380efb",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "09:17",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "DO YOU THINK I HAVE IT IN ME #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
+   "media_url": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov",
+   "zernio": "6b01f2d6c0ca1cbff1f4195b",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "17:41",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "send this to ur buddy who has mood swings",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
+   "media_url": "https://media.zernio.com/media/1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov",
+   "zernio": "6b01f2d5edcbee0b1d60242c",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "17:52",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "a weaker loser would have just skipped this hole",
+   "source": "/Golf/for claude/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-A3.mp4",
+   "zernio": "6b01f2d82e19299640380f35",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "18:09",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "new swing just dropped",
+   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (2).mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM%20(2).mp4",
+   "zernio": "6b01f2d92e19299640380f3e",
+   "added_by": "clip run Nov 21"
+  },
+  {
+   "date": "2026-11-24",
+   "scheduled_mt": "18:36",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "tag ur buddy who is as good at golf as me #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/f8eb612478357323a474940b1126b1ec412a2aeb/TF_w4-B7.mov",
+   "zernio": "6b01f2d7c0ca1cbff1f4195f",
+   "added_by": "clip run Nov 21"
   }
  ],
  "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
@@ -7253,21 +7330,18 @@
    }
   ],
   "week4_tiktok_fb_open": {
-   "as_of": "2026-11-20 clip page run",
+   "as_of": "2026-11-21 clip page run",
    "tiktok_not_yet_scheduled": [
-    "A7 send this to ur buddy who has mood swings",
-    "B4 you me right now lets go",
-    "B6 DO YOU THINK I HAVE IT IN ME (Zernio-hosted copy now: https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov)"
+    "B4 you me right now lets go"
    ],
    "facebook_not_yet_scheduled": [
-    "A7 send this to ur buddy who has mood swings (153 s -> Page video)",
-    "B4 you me right now lets go (100 s -> Page video)",
-    "B6 DO YOU THINK I HAVE IT IN ME",
-    "B7 tag ur buddy who is as good at golf as me (85 s -> Page video)"
+    "A7 send this to ur buddy who has mood swings (153 s -> Page video; Zernio media 1794830340180_..._A_w4-7-mood-swings.mov)",
+    "B4 you me right now lets go (100 s -> Page video)"
    ],
    "x_not_yet_scheduled": [
     "A7 (153 s > 2:20: needs a cut for X or skip)",
-    "B4 you me right now lets go (199 MB -> zupload)"
+    "B4 you me right now lets go (199 MB -> zupload, H.264 check)",
+    "Week 3 never on X: B2 either be bad, B1 glizzy, A2 nutrl, B6 good-bad, A4 lickin, B7 genuine question, A6 d*cking, B4 will this be the one (A3 + B3 now scheduled Tue)"
    ],
    "rule": "her untouched files, caption = name minus number prefix, FB may add #golf; ~2-3/day incl. promos"
   }
@@ -7283,5 +7357,5 @@
  "notes_nov18": "Clip run Nov 18: Thu Nov 19 launch-day spacing fixed (TikTok A1 6afb5b01 13:24->14:51, FB B1 6afb5b04 13:38->14:46 MT; both had been <1h from the 13:37 turn-dog post). Added X Fri/Sat, TikTok Sat, FB Sat, @moremackygolfs Sat (see slots added_by). Thu has no promo posts: no Video 3 promo files/caption yet.",
  "notes_nov19": "Clip run Nov 19: Sun Nov 22 filled: TikTok B3 08:46 + B5 17:38, FB A5 09:13 + B3 18:52 (reels), X B5 08:27 + A6 17:16, @moremackygolfs 18:21 'Video Oct 12 7 33 50 AM' untouched. Files on scratch/x-w4b@8fe9f43 (TF_w4-B3/B5 untouched copies of w4-relay B3/B5, sha256 verified; X_w4-B5/A6 H.264 CRF17). Not done: whole-schedule guard/sync_schedule.py (no full 60-day dump this run), Base Camp rebuild.",
  "notes_nov20": "Morning run Nov 20: Shorts Mon Nov 23 added: 08:47 B7 tag ur buddy (6b0033fa, IG wipe-cut file) + 18:11 A7 mood swings (6b0034a6, wipe cut 1.2 s, scratch/w4-yt3). Week 4 Shorts now all placed except A3 (bikini, never). Base Camp mackygolfs/mackthegolfer rebuilt from Zernio pull. | Clip run Nov 20: Mon Nov 23 filled: X B7 08:23 + B6 17:29, TikTok A6 08:52 + B7 17:44, FB B5 09:19 + A6 18:33 (reels), @moremackygolfs 18:47 'what am i doing wrong? be honest. but nice' = /golfclips/Video Sep 25 2026, 4 41 09 PM.mov untouched (proof MG Sep 29 52k views, last IG post Sep 29). Media: TF_w4-B7.mov on scratch/clip-nov20@f8eb612 (sha256 = w4-relay B7), B6 via zupload (200). Targeted checks only (no full 60-day guard dump).",
- "notes_nov21": "Morning run Nov 21 (Sat): no Week 5 golf folders yet, no new files. Shorts Tue Nov 24 added (Week 4 used up except A3 bikini; Week 3 MG files never on YT): 08:56 'just a girl and her best friend' (6b018507..d24f, wipe cut 1.53 s) + 18:14 'i can't be the only one out here aiming for the hole???' (6b018507..d259, wipe cut 1.20 s), CRF17 on scratch/w4-yt4@50c5941 (keep until posted). Base Camp mackygolfs/mackthegolfer updated. TikTok/FB weekly_plan still open: TikTok A7 B4 B6, FB A7 B4 B6 B7 -> clip run."
+ "notes_nov21": "Morning run Nov 21 (Sat): no Week 5 golf folders yet, no new files. Shorts Tue Nov 24 added (Week 4 used up except A3 bikini; Week 3 MG files never on YT): 08:56 'just a girl and her best friend' (6b018507..d24f, wipe cut 1.53 s) + 18:14 'i can't be the only one out here aiming for the hole???' (6b018507..d259, wipe cut 1.20 s), CRF17 on scratch/w4-yt4@50c5941 (keep until posted). Base Camp mackygolfs/mackthegolfer updated. TikTok/FB weekly_plan still open: TikTok A7 B4 B6, FB A7 B4 B6 B7 -> clip run. | Clip run Nov 21: Tue Nov 24 filled: X B3w3 08:31 + A3w3 17:52 (scratch/x-w3c@1beb263: A3 untouched H.264, B3 HEVC->H.264 CRF17), TikTok B6 08:44 + A7 17:41, FB B6 09:17 (reel) + B7 18:36 (Page video), @moremackygolfs 18:09 'new swing just dropped' = /Golf Captions/Video Oct 11 2026, 9 02 57 AM (2).mp4 untouched (proof MG Oct 11 DeXXLu2RKlt 17.8k views; last IG post Oct 16). Targeted checks only. No Week 5 golf / week 4 mackyyaps folders yet."
 }
