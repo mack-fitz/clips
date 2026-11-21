@@ -629,7 +629,13 @@
    "status": "scheduled",
    "note": "A: her file untouched (opens on the wipe); cover = wipe frame 1.1s (clips trial_covers/w3/A_w3_A5_cover.jpg)",
    "zernio_media": "https://media.zernio.com/temp/1794052214369_f94844c5bf67383a_A_w3-aiming-for-the-hole.mov",
-   "zernio_id": "6aef12a3263236a8ac312deb"
+   "zernio_id": "6aef12a3263236a8ac312deb",
+   "yt_short": {
+    "zernio": "6b0185072cbf09577557d259",
+    "planned_mt": "2026-11-24 18:14",
+    "media": "scratch/w4-yt4@50c5941:YT_w3-aiming.mp4",
+    "wipe_cut_s": 1.2
+   }
   },
   "mackygolfs/Week 3 11-9/literally quit d*cking around for just 100 seconds": {
    "home": "ig:mackygolfs",
@@ -670,7 +676,13 @@
    "status": "scheduled",
    "note": "A: her file untouched (opens on the wipe); cover = wipe frame 1.3s (clips trial_covers/w3/A_w3_A7_cover.jpg)",
    "zernio_media": "https://media.zernio.com/temp/1794052216292_b23f2c607dc1e3bc_A_w3-best-friend.mov",
-   "zernio_id": "6aef12aa343225b8892f77f3"
+   "zernio_id": "6aef12aa343225b8892f77f3",
+   "yt_short": {
+    "zernio": "6b0185072cbf09577557d24f",
+    "planned_mt": "2026-11-24 08:56",
+    "media": "scratch/w4-yt4@50c5941:YT_w3-girl.mp4",
+    "wipe_cut_s": 1.533
+   }
   },
   "mackthegolfer/Week 3 11-9/do you think i'll hit the glizzy in thrizzy y or n": {
    "home": "ig:mackthegolfer",
