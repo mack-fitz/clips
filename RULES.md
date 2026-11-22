@@ -78,10 +78,13 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 9. Read section 0 (HOLDS / who posts what) before scheduling anything. Nothing on either IG account before Mon Nov 9.
 
 ## 4. Shirt wipe
-- Everything opens on Mack's shirt wipe EXCEPT @mackthegolfer, which NEVER shows it (reels, comps, shorties, covers).
+- **WIPE KEPT ON @mackthegolfer TOO (Mack, Sun Nov 22: "go to not cutting the shirt wipe for mackthegolfer instagram"):**
+  from Nov 22, @mackthegolfer IG posts (weekly reels AND promos) use her file as uploaded, wipe kept, NO wipe-cut encode.
+  Covers still never show the wipe frame. YouTube is unchanged (wipe always cut). The older MTG lines below are HISTORY.
+- (HISTORY before Nov 22) Everything opens on Mack's shirt wipe EXCEPT @mackthegolfer, which NEVER shows it (reels, comps, shorties, covers).
 - @mackygolfs: weekly uploads as-is (wipe first). @moremackygolfs reels + stories: wipe, her first sentence, then the edit.
   X/TikTok/FB originals: her untouched file (just confirm it opens on the wipe).
-- @mackthegolfer: cut out ONLY the wipe (right after the shirt is down, before her first word; check the first second at 10 fps). Nothing else changes for a weekly reel.
+- (HISTORY before Nov 22) @mackthegolfer: cut out ONLY the wipe (right after the shirt is down, before her first word; check the first second at 10 fps). Nothing else changes for a weekly reel.
   Week 3+ (Mack, Nov 6): EVERY file that posts on @mackthegolfer IG (weekly videos AND promos) gets this check and, if a wipe
   is there, ONE CRF-17 encode at full resolution with the wipe cut before posting. @mackygolfs posts keep the wipe (as uploaded).
 - YouTube (regular Shorts and promo Shorts): never the wipe (section 5b). TikTok/Facebook: her file as uploaded.
@@ -110,7 +113,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   those times"): MG's best past posts went out in the afternoon. On a day with an MG IG promo, the MG weekly post goes about
   12:30–1:30pm MT instead and the promo stays 3:30–5:00pm (2+ h apart). Compare Week 4 MG vs Week 3 MG (11:15–12:00) at the
   end of the week and report it to Mack. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
-- **Media:** A = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). B = wipe cut
+- **Media:** A AND B (from Nov 22) = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). Before Nov 22: B = wipe cut
   (section 4: check the first second at 10 fps, ONE CRF-17 encode at full resolution, nothing else changed).
 - **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
   is supposed to be frame 1"): send NO instagramThumbnail so Instagram uses frame 1. B = an interesting-looking frame Claude
