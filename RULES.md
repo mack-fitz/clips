@@ -115,7 +115,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   end of the week and report it to Mack. Vary the minute every day. On a YouTube launch Thursday both move to the afternoon (section 5b).
 - **Media:** A AND B (from Nov 22) = her file untouched (wipe kept; section 7 quality: one conversion only if IG can't take it). Before Nov 22: B = wipe cut
   (section 4: check the first second at 10 fps, ONE CRF-17 encode at full resolution, nothing else changed).
-- **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
+- **COVERS = FIRST FRAME (the shirt wipe) ON ALL THREE IG ACCOUNTS (Mack, Sun Nov 22):** @mackygolfs, @mackthegolfer and
+  @moremackygolfs: send NO instagramThumbnail, so Instagram uses frame 1 (the wipe). This replaces the MTG "interesting frame"
+  and "never the wipe" cover rules. Only exceptions: a special cover Mack gives for a specific post (e.g. launch-day #1 promo
+  thumbnail). The older cover lines below are HISTORY.
+- (HISTORY) **Covers (no text on either, Mack, Nov 6; A updated Nov 10):** A = the video's FIRST FRAME (Mack, Nov 10: "mackygolfs cover
   is supposed to be frame 1"): send NO instagramThumbnail so Instagram uses frame 1. B = an interesting-looking frame Claude
   picks (never the wipe; nothing suggestive). Exception: promo #1 on launch day still uses her special thumbnail (5b).
   ONE-OFF COVER (Mack, Nov 15): @mackygolfs Week 4 "5- took a risk but it worked out!" (Fri Nov 20; Dropbox
