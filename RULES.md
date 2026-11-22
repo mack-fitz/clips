@@ -119,7 +119,12 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   id:etyjxrk_8sAAAAAAAAAFxw) — cover = the frame where Mack and Ally are KISSING (find it by checking frames; full-size, no
   text). Send it as instagramThumbnail (this one post only), and use the same moment as the TikTok cover (videoCoverTimestampMs).
   If no kiss frame can be found, schedule it with frame 1 and tell Mack.
-- **Posting type (Mack, Nov 10 — test on A only):** A (@mackygolfs) = REGULAR reel straight to the main feed, NOT a trial:
+- **BACK TO TRIALS ON A (Mack, Sun Nov 22: "Let's go back to posting mackygolfs on trial reels"):** from Nov 22 on, every
+  @mackygolfs IG post (weekly + promos) is a TRIAL reel: platformSpecificData {madeWithAi:false, shareToFeed:true,
+  trialParams {graduationStrategy:"MANUAL"}}; NEVER SS_PERFORMANCE. Cover stays frame 1 (no instagramThumbnail) unless Mack
+  gives a special cover. Launch-day #1 promo on A: trial too unless Mack says otherwise. W4 A7 "mood swings" (6afaf2af, Sun
+  Nov 22 3:33pm) was converted Nov 22. The Nov 10 main-feed test below is OVER; keep it only as history.
+- (HISTORY) **Posting type (Mack, Nov 10 — test on A only):** A (@mackygolfs) = REGULAR reel straight to the main feed, NOT a trial:
   platformSpecificData {madeWithAi:false, shareToFeed:true}, no trialParams, no instagramThumbnail. Promos on A too.
   Mack archives flops herself. B (@mackthegolfer) stays a trial reel {trialParams {graduationStrategy:"MANUAL"},
   instagramThumbnail}; NEVER SS_PERFORMANCE. Week 3 A posts from Nov 11 on were converted Nov 10. Review A vs B after a week.
@@ -201,7 +206,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   - **The rest, IG:** each account's own remaining promos (#2, #3...) post on that account in her labeled order, ONE per day,
     in the AFTERNOON slot about **3:30–5:00pm MT** (vary the minute; Zernio data shows @mackygolfs' strongest window is late
     afternoon), starting Friday. Covers: @mackygolfs = frame 1 (no custom cover, Nov 10); @mackthegolfer = an interesting frame (wipe cut from the
-    video, section 4). Post type as section 5 (A = regular main-feed reel, B = trial).
+    video, section 4). Post type as section 5 (A and B = trial reels from Nov 22).
   - **The rest, TikTok + Facebook + YouTube Shorts:** EVERY promo from BOTH folders that hasn't been there yet (incl. #1mackthegolfer)
     posts once on each, any order, ONE promo per day per platform, afternoon slot 3:30–5:00pm MT, starting Friday. Post every one.
     Covers: TikTok first frame (videoCoverTimestampMs 0); Facebook default (special thumbnail ONLY on the launch-day promo);
