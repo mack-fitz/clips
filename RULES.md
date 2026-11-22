@@ -318,6 +318,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   captions) take the next open slots BEFORE any older original or leftover. Aim: each week's 14 videos are on every one of
   those platforms within that week (same day as its IG post or later is fine; never before Monday of its week). Older
   originals only fill slots after the current week's videos are all placed. Shorts: wipe cut as always.
+- **TIKTOK + FB DAILY PAIR (Mack, Sun Nov 22):** TikTok @mackygolfs and Facebook macky.golfs each get TWO posts a day:
+  ONE from the current @mackygolfs Week folder and ONE from the current @mackthegolfer Week folder (her order; same day as
+  its IG post or later). Space them (~morning/early afternoon + evening, >= 1 h apart, vary the minute). On a promo day
+  the promo is extra on top of the pair. If one folder runs out for that day, fill that slot from the other folder, then
+  older originals. This replaces the "about 2-3 a day" cadence below.
 - **TikTok @mackygolfs + Facebook Page:** weekly-folder reels post as-is (her file, wipe kept, cover = first frame).
   Week 3+ (Mack, Nov 6 update): each weekly video can go there the same day as its IG post (later than the IG post time) or
   any day after, with the same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
