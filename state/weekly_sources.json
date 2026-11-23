@@ -1380,14 +1380,18 @@
    "usable_from": "2026-11-23",
    "duration": 43.8,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454370648_2c82c70bd4c2f2aa_A_w5-1-girl-pick-clubs.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454370648_2c82c70bd4c2f2aa_A_w5-1-girl-pick-clubs.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477430cf254f4b0c0ffe9 (published 11-23 10:40)",
-    "tiktok": "6b0477d1d57e8b88408b6836",
-    "fb": "6b0477ea3384eaf5834d1d4e",
-    "x": "6b049666a8c21cc83290510e (Thu 11-26 08:47, scratch/x-w5a@0336060b X_w5-A1.mp4)"
-   }
+    "tiktok": "6b0477d1d57e8b88408b6836 (published 11-23 13:38)",
+    "fb": "6b0477ea3384eaf5834d1d4e (published 11-23 14:21, reel)",
+    "x": "6b049666a8c21cc83290510e (Thu 11-26 08:47, scratch/x-w5a@0336060b X_w5-A1.mp4)",
+    "yt": "6b04bf03c128264e22436e10 Sat 11-28 17:53 (wipe cut 1.2s; zernio yt_w5A1_girl_clubs.mp4; scratch/w5-yt@2397324)"
+   },
+   "planned_mt": "2026-11-23 10:40",
+   "zernio_id": "6b0477430cf254f4b0c0ffe9",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackygolfs/Week 5 11-23/2. yes or no?.mp4": {
    "home": "ig:mackygolfs",
@@ -1405,13 +1409,17 @@
    "usable_from": "2026-11-23",
    "duration": 39.0,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454371568_e15346e519d45c69_A_w5-2-yes-or-no.mp4",
+   "zernio_media": "https://media.zernio.com/media/1795454371568_e15346e519d45c69_A_w5-2-yes-or-no.mp4",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477989d1c6d4c12e5e8b6",
-    "tiktok": "6b0477d64f4e6064eea54ecf",
-    "fb": "6b0477eed57e8b88408b68e5"
-   }
+    "tiktok": "6b0477d64f4e6064eea54ecf Wed 11-25 17:58",
+    "fb": "6b0477eed57e8b88408b68e5 Thu 11-26 14:12 reel",
+    "yt": "6b04bebe06b403a335b9cac6 Sat 11-28 09:07 (wipe cut 0.6s; https://raw.githubusercontent.com/mack-fitz/clips/2397324235e377d2680ab6b0d296a75d27c16051/yt_w5A2_yes_or_no.mp4)"
+   },
+   "planned_mt": "2026-11-24 15:52",
+   "zernio_id": "6b0477989d1c6d4c12e5e8b6",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov": {
    "home": "ig:mackygolfs",
@@ -1429,13 +1437,17 @@
    "usable_from": "2026-11-23",
    "duration": 12.3,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454371984_fadaf7a2f8d2ba8b_A_w5-3-better-or-worse.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454371984_fadaf7a2f8d2ba8b_A_w5-3-better-or-worse.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b04779f95169fd5168d1380",
-    "tiktok": "6b0477da3384eaf5834d1cee",
-    "fb": "6b0477f264eb322dd097aff6"
-   }
+    "tiktok": "6b0477da3384eaf5834d1cee Thu 11-26 18:22",
+    "fb": "6b0477f264eb322dd097aff6 Fri 11-27 09:33 reel",
+    "yt": "NEVER (bikini reel; no wipe in file)"
+   },
+   "planned_mt": "2026-11-25 16:08",
+   "zernio_id": "6b04779f95169fd5168d1380",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov": {
    "home": "ig:mackygolfs",
@@ -1455,7 +1467,8 @@
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
    "zernio_media": "https://media.zernio.com/temp/1795454378131_1b9ee851d3c09600_A_w5-5-turndogtribunal.mov",
    "status": "held_ask_mack",
-   "hold_note": "Nov 23 clip run: caption names a link (turndogtribunal.com) -> RULES s5: ask Mack; Fri Nov 27 IG + its TikTok/FB left empty until she OKs it"
+   "hold_note": "Nov 23 clip run: caption names a link (turndogtribunal.com) -> RULES s5: ask Mack; Fri Nov 27 IG + its TikTok/FB left empty until she OKs it",
+   "note": "HELD: caption has a link (RULES 5). Media uploaded to Zernio temp Nov 23 17:23Z (expires ~Nov 30) - re-upload if used later. Fri 11-27 slot empty on IG/TikTok(MG)/FB until Mack answers."
   },
   "mackygolfs/Week 5 11-23/6. does anyone know the science here.mov": {
    "home": "ig:mackygolfs",
@@ -1473,13 +1486,17 @@
    "usable_from": "2026-11-23",
    "duration": 17.2,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454372420_fd2b59749e1ee9b3_A_w5-6-science.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454372420_fd2b59749e1ee9b3_A_w5-6-science.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477a995169fd5168d13ab",
-    "tiktok": "6b0477e24f4e6064eea54f12",
-    "fb": "6b0477f7f2866377ef454985"
-   }
+    "tiktok": "6b0477e24f4e6064eea54f12 Sat 11-28 18:27",
+    "fb": "6b0477f7f2866377ef454985 Sat 11-28 19:03 reel",
+    "yt": "NEVER (bikini; no wipe in file)"
+   },
+   "planned_mt": "2026-11-28 15:41",
+   "zernio_id": "6b0477a995169fd5168d13ab",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4": {
    "home": "ig:mackygolfs",
@@ -1497,13 +1514,17 @@
    "usable_from": "2026-11-23",
    "duration": 117.2,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454372931_07bed091fb0bf948_A_w5-7-3-wood-mack.mp4",
+   "zernio_media": "https://media.zernio.com/media/1795454372931_07bed091fb0bf948_A_w5-7-3-wood-mack.mp4",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477ae4f4e6064eea54e24",
-    "tiktok": "6b0477e64f4e6064eea54f30",
-    "fb": "6b0477faadc9593f32349228"
-   }
+    "tiktok": "6b0477e64f4e6064eea54f30 Sun 11-29 18:48",
+    "fb": "6b0477faadc9593f32349228 Sun 11-29 19:21 Page video (117s)",
+    "yt": "6b04bf0780afe72a707aa233 Sun 11-29 18:31 (wipe cut 1.0s; zernio yt_w5A7_3wood.mp4)"
+   },
+   "planned_mt": "2026-11-29 16:16",
+   "zernio_id": "6b0477ae4f4e6064eea54e24",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackthegolfer/week 5 11-23/1. please keep me in your thoughts": {
    "home": "ig:mackthegolfer",
@@ -1521,14 +1542,18 @@
    "usable_from": "2026-11-23",
    "duration": 33.6,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454371073_4d5cbe38793a2cdf_B_w5-1-keep-me-in-your-thoughts.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454371073_4d5cbe38793a2cdf_B_w5-1-keep-me-in-your-thoughts.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b04774755b387fe8b215e31 (published 11-23 10:40)",
-    "tiktok": "6b0477d4d57e8b88408b6840",
-    "fb": "6b0477ec4f4e6064eea54f6a",
-    "x": "6b049667d1db847a8411bcbc (Thu 11-26 17:38, X_w5-B1.mp4)"
-   }
+    "tiktok": "6b0477d4d57e8b88408b6840 Mon 11-23 19:52",
+    "fb": "6b0477ec4f4e6064eea54f6a Mon 11-23 20:24 reel",
+    "x": "6b049667d1db847a8411bcbc (Thu 11-26 17:38, X_w5-B1.mp4)",
+    "yt": "6b04bebbc128264e22436d09 Fri 11-27 18:16 (wipe cut 1.1s; https://raw.githubusercontent.com/mack-fitz/clips/2397324235e377d2680ab6b0d296a75d27c16051/yt_w5B1_thoughts.mp4)"
+   },
+   "planned_mt": "2026-11-23 10:40",
+   "zernio_id": "6b04774755b387fe8b215e31",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackthegolfer/week 5 11-23/2. actually insane.mov": {
    "home": "ig:mackthegolfer",
@@ -1546,13 +1571,17 @@
    "usable_from": "2026-11-23",
    "duration": 12.5,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454373463_d1bff66f5099a4a6_B_w5-2-actually-insane.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454373463_d1bff66f5099a4a6_B_w5-2-actually-insane.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b04779695169fd5168d1343",
-    "tiktok": "6b0477d83384eaf5834d1cdd",
-    "fb": "6b0477f064eb322dd097aff1"
-   }
+    "tiktok": "6b0477d83384eaf5834d1cdd Thu 11-26 13:47",
+    "fb": "6b0477f064eb322dd097aff1 Thu 11-26 19:08 reel",
+    "yt": "6b04beb9a4b5a6551d6ccc43 Fri 11-27 08:44 (wipe cut 1.0s; https://raw.githubusercontent.com/mack-fitz/clips/2397324235e377d2680ab6b0d296a75d27c16051/yt_w5B2_insane.mp4)"
+   },
+   "planned_mt": "2026-11-24 07:13",
+   "zernio_id": "6b04779695169fd5168d1343",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackthegolfer/week 5 11-23/3. should i try again?.mov": {
    "home": "ig:mackthegolfer",
@@ -1570,13 +1599,17 @@
    "usable_from": "2026-11-23",
    "duration": 19.6,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454373879_ec981f8f603a13fd_B_w5-3-should-i-try-again.mov",
+   "zernio_media": "https://media.zernio.com/media/1795454373879_ec981f8f603a13fd_B_w5-3-should-i-try-again.mov",
    "status": "scheduled",
    "zernio": {
     "ig": "6b04779b95169fd5168d135f",
-    "tiktok": "6b0477dd3384eaf5834d1cfe",
-    "fb": "6b0477f34f4e6064eea54f89"
-   }
+    "tiktok": "6b0477dd3384eaf5834d1cfe Fri 11-27 09:18",
+    "fb": "6b0477f34f4e6064eea54f89 Fri 11-27 18:41 reel",
+    "yt": "NEVER (bikini; no wipe in file). Same dock/bikini session + same caption as MG W4 A3 (posted MG Nov 18) but a different take (hair down, no bandana) - flagged to Mack"
+   },
+   "planned_mt": "2026-11-25 07:24",
+   "zernio_id": "6b04779b95169fd5168d135f",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov": {
    "home": "ig:mackthegolfer",
@@ -1596,7 +1629,8 @@
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
    "zernio_media": "https://media.zernio.com/temp/1795454378779_801118dc31389510_B_w5-5-turndogtribunal.mov",
    "status": "held_ask_mack",
-   "hold_note": "Nov 23 clip run: caption names a link (turndogtribunal.com) -> RULES s5: ask Mack; Fri Nov 27 IG + its TikTok/FB left empty until she OKs it"
+   "hold_note": "Nov 23 clip run: caption names a link (turndogtribunal.com) -> RULES s5: ask Mack; Fri Nov 27 IG + its TikTok/FB left empty until she OKs it",
+   "note": "HELD: caption has a link (RULES 5). Media uploaded to Zernio temp Nov 23 17:23Z (expires ~Nov 30) - re-upload if used later. Fri 11-27 slot empty on IG/TikTok(MG)/FB until Mack answers."
   },
   "mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4": {
    "home": "ig:mackthegolfer",
@@ -1614,13 +1648,17 @@
    "usable_from": "2026-11-23",
    "duration": 137.7,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454374475_26ccd5ae7a5da8e0_B_w5-6-focus-more-often.mp4",
+   "zernio_media": "https://media.zernio.com/media/1795454374475_26ccd5ae7a5da8e0_B_w5-6-focus-more-often.mp4",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477a395169fd5168d13a2",
-    "tiktok": "6b0477dfd57e8b88408b6896",
-    "fb": "6b0477f5d57e8b88408b6905"
-   }
+    "tiktok": "6b0477dfd57e8b88408b6896 Sat 11-28 09:12",
+    "fb": "6b0477f5d57e8b88408b6905 Sat 11-28 09:41 Page video (138s)",
+    "yt": "not scheduled (138s; shorter clips first)"
+   },
+   "planned_mt": "2026-11-28 07:07",
+   "zernio_id": "6b0477a395169fd5168d13a2",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   },
   "mackthegolfer/week 5 11-23/7. wet or dry??.mp4": {
    "home": "ig:mackthegolfer",
@@ -1638,13 +1676,17 @@
    "usable_from": "2026-11-23",
    "duration": 11.8,
    "wipe": "opens on shirt wipe: kept on IG/TikTok/FB/X, cut on Shorts",
-   "zernio_media": "https://media.zernio.com/temp/1795454375177_19a6efe94541712d_B_w5-7-wet-or-dry.mp4",
+   "zernio_media": "https://media.zernio.com/media/1795454375177_19a6efe94541712d_B_w5-7-wet-or-dry.mp4",
    "status": "scheduled",
    "zernio": {
     "ig": "6b0477ac3384eaf5834d1bcb",
-    "tiktok": "6b0477e44f4e6064eea54f26",
-    "fb": "6b0477f9f2866377ef45498a"
-   }
+    "tiktok": "6b0477e44f4e6064eea54f26 Sun 11-29 09:24",
+    "fb": "6b0477f9f2866377ef45498a Sun 11-29 09:52 reel",
+    "yt": "6b04bec180afe72a707aa106 Sun 11-29 08:38 title \"did it clear the water? wet or dry??\" (wipe cut 1.1s; https://raw.githubusercontent.com/mack-fitz/clips/2397324235e377d2680ab6b0d296a75d27c16051/yt_w5B7_wet_or_dry.mp4)"
+   },
+   "planned_mt": "2026-11-29 07:19",
+   "zernio_id": "6b0477ac3384eaf5834d1bcb",
+   "note": "IG trial reel (MANUAL), her file untouched (wipe kept), cover frame 1 (no instagramThumbnail)"
   }
  },
  "loose_files_note": "Oct 30: the 3 earlier loose files (Vid (12).mp4, mg.mp4, Vid (3).mp4) were moved by Mack into the week 2 folders (same Dropbox ids); no loose files now."

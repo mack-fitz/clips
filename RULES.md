@@ -231,6 +231,25 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (6aeeb6fcf53369239702fea0); "reel 2A" = MTG Mon Nov 9 3:47pm MT (6aeeb700f53369239702feba). All 6 are now used on IG:
   never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
   which account.
+- **Video 4 "Can I Break 50 if I Give Myself a Mulligan on Every Hole?" — PENDING (Mack, Nov 23).** Launch Thu Nov 26
+  (Thanksgiving) 10:00am MT; every launch #1 post scheduled at 9:52am MT (H.264 launch files, LIVE BY 10:00 above).
+  Slot 4 (Thu) on BOTH accounts = this promo, NOT a weekly video. Mack uploads the promo files ("4-..." / "#1mackygolfs" /
+  "#1mackthegolfer" + thumbnail) into the Week 5 folders before Thursday; on Nov 23 neither Week 5 folder had a "4" file
+  or any promo/thumbnail. NOT scheduled yet: Wednesday + Thursday runs re-check both Week 5 folders and schedule the launch
+  per the rules above. PROMO CAPTION (Mack, Nov 23) = the final YouTube description Mack approves, then "🔗 in bio" on
+  IG/TikTok and the video URL on FB/Shorts (same format as Video 3). Description and URL are NOT final yet: the main
+  session adds them here; don't schedule promos without them. Thu Nov 26 other posts are already in the afternoon: regular
+  Short moved 08:52 -> 14:22 (6b0428bc), TikTok 13:47 + 18:22, FB 14:12 + 19:08; no MG/MTG weekly IG post that day.
+- **Week 5 11-23 (scheduled Nov 23 chat run; ids in weekly_sources.json):** folders appeared 16:58Z, after the 4:38 run.
+  Her prefix this week is "<n>. " (dot, e.g. "1. please keep me in your thoughts") = same posting order, stripped the same
+  way as "<n>- ". 6+6 files: no #4 (promo slot). #1s posted Mon 10:40am MT (both IG published). IG Tue/Wed/Sat/Sun
+  scheduled (MTG ~7am, MG ~3:40-4:20pm, all trial MANUAL, no instagramThumbnail, her files untouched). **#5 "check out
+  turndogtribunal.com" (both accounts) HELD**: the caption has a link (section 5) -> Fri Nov 27 IG + that day's
+  TikTok-MG/FB pair slot empty until Mack says post it as is or gives a caption. Bikini reels (NEVER on Shorts): MG
+  "3. was this better or worse than normal?", MG "6. does anyone know the science here", MTG "3. should i try again?"
+  (these three have no shirt wipe; first frame = her in the bikini, incl. the MTG cover). MTG "3. should i try again?" =
+  same dock/bikini session and caption as MG W4 "3- should i try again?" (MG Nov 18) but a different take; flagged to Mack.
+  Shorts this week: Fri B2 + B1, Sat A2 + A1, Sun B7 + A7 (wipe cut). B6 (138 s) not on Shorts yet.
 - Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
   00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch Thu Nov 19 10:00am MT.
   PROMO CAPTION (Mack, Nov 19; she cut "my 7 iron is the club i trust most."): IG/TikTok = "i suck with my driver. so i played
