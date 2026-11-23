@@ -36,6 +36,12 @@ if len(sys.argv) > 5 and sys.argv[5] == "pct":  # pick a typical-ambience window
     while len(tone) < int(2.7 * sr):
         t2 = piece.copy(); tone[-xf:] = tone[-xf:] * (1 - ramp) + t2[:xf] * ramp; tone = np.concatenate([tone, t2[xf:]])
     tone = tone[:int(2.6 * sr)]; tone[-fo:] *= np.linspace(1, 0, fo)[:, None]; tone.astype(np.float32).tofile(f"{tmp}/tone.raw")
+if len(sys.argv) > 5 and sys.argv[5].startswith("at="):  # explicit clean gap: at=<clip seconds>:<gain dB>
+    t0, gdb = map(float, sys.argv[5][3:].split(":")); bi = int(t0 * sr); piece = a[bi:bi + L].copy() * (10 ** (gdb / 20))
+    best = float(np.sqrt((piece ** 2).mean() + 1e-12)); tone = piece.copy()
+    while len(tone) < int(2.7 * sr):
+        t2 = piece.copy(); tone[-xf:] = tone[-xf:] * (1 - ramp) + t2[:xf] * ramp; tone = np.concatenate([tone, t2[xf:]])
+    tone = tone[:int(2.6 * sr)]; tone[-fo:] *= np.linspace(1, 0, fo)[:, None]; tone.astype(np.float32).tofile(f"{tmp}/tone.raw")
 print(f"room tone from clip t={bi/sr:.2f}s rms={20*np.log10(best):.1f} dB")
 fc = (f"[0:v][1:v]overlay=0:0:enable='{en('top')}'[v1];[v1][2:v]overlay=0:0:enable='{en('low')}',fps=30,format=yuv420p,setsar=1[a];"
       f"[3:v]fps=30,format=yuv420p,setsar=1[e];[a][e]concat=n=2:v=1:a=0[v];"
