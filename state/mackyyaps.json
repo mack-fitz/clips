@@ -79,17 +79,23 @@
   {
    "key": "my005",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFlQ",
-   "path": "/Mackyyaps/IMG_0004.MOV",
+   "path": "/Mackyyaps/week 4 11-23/1. do you guys like these things?.MOV",
    "size": 17512636,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0004.MOV",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb": "6b04957db8f18b1a9ccfc00e",
+    "x": "6b04957e1e82deea613611d8"
+   },
+   "caption": "do you guys like these things?",
+   "scheduled_mt": "2026-11-23 17:43",
+   "notes": " | Nov 23 clip run: week 4 11-23 #1, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X H.264 SDR copy scratch/my-w4:x_my4-1.mp4 (4f48503c)",
+   "week": "week 4 11-23",
+   "order": 1,
+   "relay": "scratch/my-w4:my4-1.MOV (ed8d1224)"
   },
   {
    "key": "my006",
@@ -128,17 +134,22 @@
   {
    "key": "my008",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAF5w",
-   "path": "/Mackyyaps/stash/593cd18563d24cd88c5f4f7064e50504.MP4",
+   "path": "/Mackyyaps/week 4 11-23/3. anyone know how to fix a toenail injury?.MP4",
    "size": 7958003,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "593cd18563d24cd88c5f4f7064e50504.MP4",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b04958d0f944959a3c2da6f"
+   },
+   "caption": "anyone know how to fix a toenail injury?",
+   "scheduled_mt": "2026-11-25 18:08",
+   "notes": " | Nov 23 clip run: week 4 11-23 #3, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X same raw file (already H.264 SDR)",
+   "week": "week 4 11-23",
+   "order": 3,
+   "relay": "scratch/my-w4:my4-3.MP4 (ed8d1224)"
   },
   {
    "key": "my009",
@@ -411,17 +422,22 @@
   {
    "key": "my026",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGAw",
-   "path": "/Mackyyaps/stash/edf748b43c014fd49d92897494c667ba.MP4",
+   "path": "/Mackyyaps/week 4 11-23/2. isn't he so cute.MP4",
    "size": 5794629,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "edf748b43c014fd49d92897494c667ba.MP4",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b04958cb8f18b1a9ccfc051"
+   },
+   "caption": "isn't he so cute",
+   "scheduled_mt": "2026-11-24 17:16",
+   "notes": " | Nov 23 clip run: week 4 11-23 #2, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X same raw file (already H.264 SDR)",
+   "week": "week 4 11-23",
+   "order": 2,
+   "relay": "scratch/my-w4:my4-2.MP4 (ed8d1224)"
   },
   {
    "key": "my027",
@@ -534,17 +550,22 @@
   {
    "key": "my034",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAF4w",
-   "path": "/Mackyyaps/stash/144fdb69242b414194d3b17740d8f769.MP4",
+   "path": "/Mackyyaps/week 4 11-23/4. how cool is that!.MP4",
    "size": 4266607,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "imodium-vending",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b04958e0f944959a3c2da84"
+   },
+   "caption": "how cool is that!",
+   "scheduled_mt": "2026-11-26 17:31",
+   "notes": " | Nov 23 clip run: week 4 11-23 #4, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X same raw file (already H.264 SDR)",
+   "week": "week 4 11-23",
+   "order": 4,
+   "relay": "scratch/my-w4:my4-4.MP4 (ed8d1224)"
   },
   {
    "key": "my035",
@@ -750,17 +771,22 @@
   {
    "key": "my048",
    "dropbox_id": "id:etyjxrk_8sAAAAAAAAAFgw",
-   "path": "/Mackyyaps/stash/IMG_0514.MOV",
+   "path": "/Mackyyaps/week 4 11-23/5. do you guys love nature as much as me?.MOV",
    "size": 15763641,
    "sha256": null,
    "duration": null,
    "dup_of_path": null,
    "group": "IMG_0514.MOV",
-   "status": "unused",
-   "zernio": {},
-   "caption": null,
-   "scheduled_mt": null,
-   "notes": ""
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b04959e0f944959a3c2dac6"
+   },
+   "caption": "do you guys love nature as much as me?",
+   "scheduled_mt": "2026-11-27 18:22",
+   "notes": " | Nov 23 clip run: week 4 11-23 #5, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X H.264 SDR copy scratch/my-w4:x_my4-5.mp4 (4f48503c)",
+   "week": "week 4 11-23",
+   "order": 5,
+   "relay": "scratch/my-w4:my4-5.MOV (ed8d1224)"
   },
   {
    "key": "my049",
@@ -1545,6 +1571,38 @@
    "relay": "scratch/my-w3:my3-3.mov (3f0ea4aa)",
    "caption": "looking for someone to connect me with a squanshorship",
    "scheduled_mt": "2026-11-18 18:21"
+  },
+  {
+   "key": "my095",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGkg",
+   "group": "w4-6-am-i-stupid?",
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b04959f3c7f775b851d4c41"
+   },
+   "notes": "new file; transcript-checked vs posted groups, no repeat | Nov 23 clip run: week 4 11-23 #6, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X H.264 SDR copy scratch/my-w4:x_my4-6.mp4 (4f48503c)",
+   "path": "/Mackyyaps/week 4 11-23/6. am i stupid?.mov",
+   "week": "week 4 11-23",
+   "order": 6,
+   "relay": "scratch/my-w4:my4-6.mov (ed8d1224)",
+   "caption": "am i stupid?",
+   "scheduled_mt": "2026-11-28 17:07"
+  },
+  {
+   "key": "my096",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAGjQ",
+   "group": "w4-7-has-anyone-ever-told",
+   "status": "scheduled",
+   "zernio": {
+    "ig_tiktok_fb_x": "6b0495a03c7f775b851d4c4d"
+   },
+   "notes": "new file; transcript-checked vs posted groups, no repeat | Nov 23 clip run: week 4 11-23 #7, IG reel+TikTok+FB Macky Yaps reel (raw pinned ed8d1224) + X H.264 SDR copy scratch/my-w4:x_my4-7.mp4 (4f48503c)",
+   "path": "/Mackyyaps/week 4 11-23/7. has anyone ever told you this?.mov",
+   "week": "week 4 11-23",
+   "order": 7,
+   "relay": "scratch/my-w4:my4-7.mov (ed8d1224)",
+   "caption": "has anyone ever told you this?",
+   "scheduled_mt": "2026-11-29 17:54"
   }
  ],
  "reconciled_nov9": "2026-11-07 clip page run: done"
