@@ -318,7 +318,13 @@
    "note": "week 2+: Mack posts/preps IG herself (RULES 0); feeds YouTube Shorts (B edit), TikTok + FB originals only from usable_from. Transcribed Oct 30; fingerprint pending (mackygolfs-mackthegolfer push not authorized).",
    "duration": 90.2,
    "transcript": "state/transcripts/A_w2-monday-11-2.mp4.json",
-   "fb_reel_ok": false
+   "fb_reel_ok": false,
+   "youtube_short": {
+    "zernio_id": "6b0428c419f20064ffcad0a9",
+    "planned_mt": "2026-11-26 18:07",
+    "caption": "a cart boy pulled up mid backswing. i'm choosing to blame him",
+    "edit": "wipe cut at 1.20 s (first word 1.28), one CRF-17 L4.2 encode 16.1 Mbps (src 15.1), scratch/w5-yt6b@e6f80dd, zupload 200"
+   }
   },
   "mackygolfs/week 2/pm 11-1.mov": {
    "home": "ig:mackygolfs",
@@ -352,7 +358,13 @@
    "note": "week 2+: Mack posts/preps IG herself (RULES 0); feeds YouTube Shorts (B edit), TikTok + FB originals only from usable_from. Transcribed Oct 30; fingerprint pending (mackygolfs-mackthegolfer push not authorized).",
    "duration": 63.7,
    "transcript": "state/transcripts/A_w2-tues-11-3.mp4.json",
-   "fb_reel_ok": false
+   "fb_reel_ok": false,
+   "youtube_short": {
+    "zernio_id": "6b0428bc19f20064ffcad06a",
+    "planned_mt": "2026-11-26 08:52",
+    "caption": "spilled a hot dog, played awful all day, then one good shot and i'm so back",
+    "edit": "wipe cut at 1.60 s (first word 1.64), one CRF-17 L4.2 encode 14.2 Mbps (src 15.1), scratch/w5-yt6b@e6f80dd, zupload 200"
+   }
   },
   "mackygolfs/week 2/sat 11-6.mp4": {
    "home": "ig:mackygolfs",
