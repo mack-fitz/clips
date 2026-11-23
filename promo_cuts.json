@@ -1,0 +1,337 @@
+{
+ "clips": [
+  {
+   "id": "p1",
+   "name": "promo_1_mulligans",
+   "track": "auto",
+   "segments": [
+    [
+     1.06,
+     7.68,
+     {
+      "snap": [
+       [
+        1.06,
+        1.2
+       ],
+       [
+        7.36,
+        7.68
+       ]
+      ],
+      "note": "premise: Today I've got to break 50 on nine holes. However, I get one mulligan on every single hole."
+     }
+    ],
+    [
+     82.9,
+     90.95,
+     {
+      "snap": [
+       [
+        82.9,
+        83.3
+       ],
+       [
+        90.45,
+        90.95
+       ]
+      ],
+      "note": "and just right off the bat we will be using a mulligan very first shot / I don't think really anybody's surprised to find that information out"
+     }
+    ],
+    [
+     425.3,
+     428.16,
+     {
+      "snap": [
+       [
+        425.3,
+        425.63
+       ],
+       [
+        427.83,
+        428.16
+       ]
+      ],
+      "note": "Would love to save my mulligan for putting."
+     }
+    ],
+    [
+     429.9,
+     435.62,
+     {
+      "snap": [
+       [
+        429.9,
+        430.15
+       ],
+       [
+        435.29,
+        435.62
+       ]
+      ],
+      "note": "[topped tee shot] Topped that, dang.",
+      "top": 300
+     }
+    ],
+    [
+     587.1,
+     590.54,
+     {
+      "snap": [
+       [
+        587.1,
+        587.43
+       ],
+       [
+        590.21,
+        590.54
+       ]
+      ],
+      "note": "Shoot, I should I kept the first one, that was worse."
+     }
+    ],
+    [
+     959.7,
+     963.26,
+     {
+      "snap": [
+       [
+        959.7,
+        959.95
+       ],
+       [
+        962.93,
+        963.26
+       ]
+      ],
+      "note": "Damn, that was a terrible shot. But I know I can hit much worse.",
+      "top": 300
+     }
+    ],
+    [
+     903.35,
+     907.6,
+     {
+      "snap": [
+       [
+        903.35,
+        904.0
+       ],
+       [
+        907.47,
+        907.6
+       ]
+      ],
+      "note": "this might be the stupidest worst decision I've ever made in my entire life"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p2",
+   "name": "promo_2_reactions",
+   "track": "auto",
+   "segments": [
+    [
+     1.06,
+     7.68,
+     {
+      "snap": [
+       [
+        1.06,
+        1.2
+       ],
+       [
+        7.36,
+        7.68
+       ]
+      ],
+      "note": "premise: Today I've got to break 50 on nine holes. However, I get one mulligan on every single hole."
+     }
+    ],
+    [
+     194.7,
+     197.95,
+     {
+      "snap": [
+       [
+        194.7,
+        195.3
+       ],
+       [
+        197.58,
+        197.95
+       ]
+      ],
+      "note": "oh that's gonna fuck me up"
+     }
+    ],
+    [
+     295.65,
+     298.68,
+     {
+      "snap": [
+       [
+        295.65,
+        296.2
+       ],
+       [
+        298.35,
+        298.68
+       ]
+      ],
+      "note": "Not only is it not gonna do it, it's not gonna be close to doing it.",
+      "top": 300
+     }
+    ],
+    [
+     1047.3,
+     1057.2,
+     {
+      "snap": [
+       [
+        1047.3,
+        1047.8
+       ],
+       [
+        1056.87,
+        1057.2
+       ]
+      ],
+      "note": "[shot] Ooh, terrible, terrible, don't be in the sand x5. So that's gonna be in the sand. Really terrible time to be such a bad golfer.",
+      "top": 300
+     }
+    ],
+    [
+     1163.42,
+     1169.79,
+     {
+      "snap": [
+       [
+        1163.42,
+        1163.75
+       ],
+       [
+        1169.69,
+        1169.79
+       ]
+      ],
+      "note": "This is going to be a birdie. [shot] Well, that's not going to be the birdie, is it?",
+      "top": 300
+     }
+    ],
+    [
+     1369.18,
+     1373.32,
+     {
+      "snap": [
+       [
+        1369.18,
+        1369.51
+       ],
+       [
+        1372.99,
+        1373.32
+       ]
+      ],
+      "note": "Oh, it's gonna be left. Cause I'm such a bad golfer.",
+      "top": 300
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p3",
+   "name": "promo_3_stakes",
+   "track": "auto",
+   "segments": [
+    [
+     1.06,
+     7.68,
+     {
+      "snap": [
+       [
+        1.06,
+        1.2
+       ],
+       [
+        7.36,
+        7.68
+       ]
+      ],
+      "note": "premise: Today I've got to break 50 on nine holes. However, I get one mulligan on every single hole."
+     }
+    ],
+    [
+     10.88,
+     16.45,
+     {
+      "snap": [
+       [
+        10.88,
+        10.94
+       ],
+       [
+        16.12,
+        16.45
+       ]
+      ],
+      "note": "However, I've been playing some of the worst golf I've ever played in my entire life recently."
+     }
+    ],
+    [
+     1500.73,
+     1506.81,
+     {
+      "snap": [
+       [
+        1500.73,
+        1501.03
+       ],
+       [
+        1506.49,
+        1506.81
+       ]
+      ],
+      "note": "I have to get my first ever birdie on the ninth hole when I have a full bladder."
+     }
+    ],
+    [
+     1567.3,
+     1575.98,
+     {
+      "snap": [
+       [
+        1567.3,
+        1568.1
+       ],
+       [
+        1575.92,
+        1575.98
+       ]
+      ],
+      "note": "this has got to go in this has got to be there's never been a more high-pressure putt but I'm ready to rise to the occasion for once in my life"
+     }
+    ],
+    [
+     1624.62,
+     1629.97,
+     {
+      "snap": [
+       [
+        1624.62,
+        1624.95
+       ],
+       [
+        1629.94,
+        1629.97
+       ]
+      ],
+      "note": "I have to get a birdie here. Or I'm the biggest loser I've ever known."
+     }
+    ]
+   ]
+  }
+ ]
+}
