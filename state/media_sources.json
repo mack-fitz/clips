@@ -1184,13 +1184,6 @@
    "main": "Video Oct 12 2026, 12 14 03 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
-   "sources": [
-    "Video Oct 12 2026, 7 16 02 AM.mov"
-   ],
-   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
-   "kind": "edit"
-  },
   "mackygolfs-mackthegolfer:trials/041_cart-path-wipe_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 16 02 AM.mov"
@@ -1199,14 +1192,21 @@
    "kind": "edit",
    "note": "manual"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/007_found-the-trees_b.mp4": {
+   "sources": [
+    "Video Oct 12 2026, 7 16 02 AM.mov"
+   ],
+   "main": "Video Oct 12 2026, 7 16 02 AM.mov",
+   "kind": "edit"
+  },
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
    "main": "Video Oct 12 2026, 12 11 12 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/008_san-angelo-water_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 11 12 AM.mov"
    ],
@@ -1241,14 +1241,14 @@
    "main": "Video Oct 12 2026, 7 26 20 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
    "main": "Video Oct 11 2026, 9 02 57 AM (3).mp4",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/010_driver-putter_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/010_driver-putter_b.mp4": {
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (3).mp4"
    ],
@@ -1311,14 +1311,14 @@
    "main": "Video Oct 12 2026, 7 19 40 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
+  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
    "main": "Video Oct 12 2026, 7 13 58 AM.mov",
    "kind": "edit"
   },
-  "mackygolfs-mackthegolfer:trials/020_lag-master-blue-ball_b.mp4": {
+  "mackygolfs-mackthegolfer:trials/016_lag-master-par-4_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 7 13 58 AM.mov"
    ],
@@ -2844,6 +2844,237 @@
    "main": "mackthegolfer/Week 3 11-9/popstroke reel 1",
    "kind": "original"
   },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/1- send this to ur fave short king": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/1- send this to ur fave short king"
+   ],
+   "main": "mackygolfs/Week 4 11-16/1- send this to ur fave short king",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/2- SHOOT!": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/2- SHOOT!"
+   ],
+   "main": "mackygolfs/Week 4 11-16/2- SHOOT!",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/3- should i try again?": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/3- should i try again?"
+   ],
+   "main": "mackygolfs/Week 4 11-16/3- should i try again?",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/4- gotta be something else guys": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/4- gotta be something else guys"
+   ],
+   "main": "mackygolfs/Week 4 11-16/4- gotta be something else guys",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/5- took a risk but it worked out!": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/5- took a risk but it worked out!"
+   ],
+   "main": "mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/6- this factory pmo": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/6- this factory pmo"
+   ],
+   "main": "mackygolfs/Week 4 11-16/6- this factory pmo",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings"
+   ],
+   "main": "mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/1- send this to ur buddy who loves a practice swing": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/1- send this to ur buddy who loves a practice swing"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/1- send this to ur buddy who loves a practice swing",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/2- is this relatable": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/2- is this relatable"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/2- is this relatable",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/3- am i right on this.mov": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/3- am i right on this.mov"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/3- am i right on this.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/4- you me right now lets go": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/4- you me right now lets go"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/4- you me right now lets go",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/let's find the best golf glizzy in the world.": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/let's find the best golf glizzy in the world."
+   ],
+   "main": "mackygolfs/Week 4 11-16/let's find the best golf glizzy in the world.",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/THE COURT IS NOW IN SESSION. Let's find the best dog. .mov": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/THE COURT IS NOW IN SESSION. Let's find the best dog. .mov"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/THE COURT IS NOW IN SESSION. Let's find the best dog. .mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/george w.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/george w.mov"
+   ],
+   "main": "mackygolfs/Week 4 11-16/george w.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/mg.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/mg.mov"
+   ],
+   "main": "mackygolfs/Week 4 11-16/mg.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/1.mov": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/1.mov"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/1.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 4 11-16/story_7iron_B.jpg": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/story_7iron_B.jpg"
+   ],
+   "main": "mackygolfs/Week 4 11-16/story_7iron_B.jpg",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/Week 4 11-16/story_7iron_B.jpg": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/story_7iron_B.jpg"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/story_7iron_B.jpg",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/2. yes or no?.mp4": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/2. yes or no?.mp4"
+   ],
+   "main": "mackygolfs/Week 5 11-23/2. yes or no?.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/6. does anyone know the science here.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/6. does anyone know the science here.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/6. does anyone know the science here.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4"
+   ],
+   "main": "mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/1. please keep me in your thoughts": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/1. please keep me in your thoughts"
+   ],
+   "main": "mackthegolfer/week 5 11-23/1. please keep me in your thoughts",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/2. actually insane.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/2. actually insane.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/2. actually insane.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/3. should i try again?.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/3. should i try again?.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/3. should i try again?.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4"
+   ],
+   "main": "mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4",
+   "kind": "original"
+  },
+  "mackygolfs-mackthegolfer:inbox/videos/mackthegolfer/week 5 11-23/7. wet or dry??.mp4": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/7. wet or dry??.mp4"
+   ],
+   "main": "mackthegolfer/week 5 11-23/7. wet or dry??.mp4",
+   "kind": "original"
+  },
   "mackygolfs-mackthegolfer:trials/036_san-angelo-wipe-open_a.mp4": {
    "sources": [
     "Video Oct 12 2026, 12 03 20 AM.mov"
@@ -4181,6 +4412,214 @@
     "mackthegolfer/Week 3 11-9/popstroke reel 1"
    ],
    "main": "mackthegolfer/Week 3 11-9/popstroke reel 1",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830336474_71b7c76bd0659bae_A_w4-1-short-king.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/1- send this to ur fave short king"
+   ],
+   "main": "mackygolfs/Week 4 11-16/1- send this to ur fave short king",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830337073_399eaa7c39ce6d6e_A_w4-2-shoot.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/2- SHOOT!"
+   ],
+   "main": "mackygolfs/Week 4 11-16/2- SHOOT!",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830337889_410c5f8d97d03652_A_w4-3-try-again.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/3- should i try again?"
+   ],
+   "main": "mackygolfs/Week 4 11-16/3- should i try again?",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830338443_c8314eb48c8ced88_A_w4-4-something-else.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/4- gotta be something else guys"
+   ],
+   "main": "mackygolfs/Week 4 11-16/4- gotta be something else guys",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830338976_4f31831408ec49b8_A_w4-5-took-a-risk.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/5- took a risk but it worked out!"
+   ],
+   "main": "mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830339639_2ac7b09f8ed34762_A_w4-6-factory-pmo.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/6- this factory pmo"
+   ],
+   "main": "mackygolfs/Week 4 11-16/6- this factory pmo",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov": {
+   "sources": [
+    "mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings"
+   ],
+   "main": "mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830340885_3a1ae6bb47794708_B_w4-1-practice-swing.mov": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/1- send this to ur buddy who loves a practice swing"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/1- send this to ur buddy who loves a practice swing",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830341519_08b19571943795b4_B_w4-2-relatable_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/2- is this relatable"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/2- is this relatable",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830342112_34aa7add260e0116_B_w4-3-am-i-right_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/3- am i right on this.mov"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/3- am i right on this.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830342641_96b1cd481feb853a_B_w4-4-you-me-right-now_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/4- you me right now lets go"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/4- you me right now lets go",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830343269_316edd66b9c40389_B_w4-5-long-sleeve_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830343839_cfb5217783222d00_B_w4-6-have-it-in-me_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1794830344462_8076b3f2e9edc862_B_w4-7-tag-ur-buddy_nowipe.mp4": {
+   "sources": [
+    "mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me"
+   ],
+   "main": "mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454370648_2c82c70bd4c2f2aa_A_w5-1-girl-pick-clubs.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454371568_e15346e519d45c69_A_w5-2-yes-or-no.mp4": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/2. yes or no?.mp4"
+   ],
+   "main": "mackygolfs/Week 5 11-23/2. yes or no?.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454371984_fadaf7a2f8d2ba8b_A_w5-3-better-or-worse.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454378131_1b9ee851d3c09600_A_w5-5-turndogtribunal.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/5. check out turndogtribunal.com.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454372420_fd2b59749e1ee9b3_A_w5-6-science.mov": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/6. does anyone know the science here.mov"
+   ],
+   "main": "mackygolfs/Week 5 11-23/6. does anyone know the science here.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454372931_07bed091fb0bf948_A_w5-7-3-wood-mack.mp4": {
+   "sources": [
+    "mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4"
+   ],
+   "main": "mackygolfs/Week 5 11-23/7. can 3 wood mack pull this hole off?.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454371073_4d5cbe38793a2cdf_B_w5-1-keep-me-in-your-thoughts.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/1. please keep me in your thoughts"
+   ],
+   "main": "mackthegolfer/week 5 11-23/1. please keep me in your thoughts",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454373463_d1bff66f5099a4a6_B_w5-2-actually-insane.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/2. actually insane.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/2. actually insane.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454373879_ec981f8f603a13fd_B_w5-3-should-i-try-again.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/3. should i try again?.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/3. should i try again?.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454378779_801118dc31389510_B_w5-5-turndogtribunal.mov": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov"
+   ],
+   "main": "mackthegolfer/week 5 11-23/5. check out turndogtribunal.com.mov",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454374475_26ccd5ae7a5da8e0_B_w5-6-focus-more-often.mp4": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4"
+   ],
+   "main": "mackthegolfer/week 5 11-23/6. maybe i should focus more often?.mp4",
+   "kind": "edit",
+   "note": "manual"
+  },
+  "zernio:1795454375177_19a6efe94541712d_B_w5-7-wet-or-dry.mp4": {
+   "sources": [
+    "mackthegolfer/week 5 11-23/7. wet or dry??.mp4"
+   ],
+   "main": "mackthegolfer/week 5 11-23/7. wet or dry??.mp4",
    "kind": "edit",
    "note": "manual"
   }
