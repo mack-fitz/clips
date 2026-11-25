@@ -2,13 +2,7 @@
  "updated": "2026-11-25T11:54Z",
  "from": "state/posted_index.json (fingerprint-checked against every post on @mackygolfs, @mackthegolfer, @moremackygolfs)",
  "note": "Never-posted status comes ONLY from this file (PLAYBOOK DUPLICATE CHECK V2). 'lined_up' = already on the review page / scheduled; once it posts, the next refresh drops it (it matches its own post).",
- "videos": [
-  {
-   "name": "Video Oct 12 2026, 12 11 12 AM.mov",
-   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAE3g",
-   "duration": 173.5
-  }
- ],
+ "videos": [],
  "scope": "Mack (Oct 14): source folders are ONLY /Golf Captions and /golfclips (copies collapsed by fingerprint). Other Dropbox folders are not sources.",
  "summary": {
   "unique_videos": 39,
@@ -18,5 +12,13 @@
   "never_posted_not_lined_up": 6,
   "files_checked": 44,
   "oct15_upload": "Mack uploaded 7 videos to /Golf Captions Oct 15 (~03:04 UTC): 6 never posted, 1 already posted (Video Sep 21 2026, 7 24 34 PM.mov = @mackygolfs 2026-09-22 'what do you guys call a pent-bogey?' https://www.instagram.com/reel/DdmFF-0hUDO/, 26 s audio+frames). Waiting on Mack for how to distribute the 6 (nothing scheduled)."
- }
+ },
+ "excluded_as_posted": [
+  {
+   "name": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAE3g",
+   "duration": 173.5,
+   "why": "Nov 25 morning run: was posted on @mackygolfs Oct 13 (Deb8Tdpiq_8, ig 18091798511197489); that post now 404s in Zernio (deleted/archived on IG), so the refresh dropped it. Still counts as POSTED (rule 4). Also missing from Zernio: Deegb6mm5ok Oct 14, DejqP2LnQMH Oct 16, DeqAbQ6jyd6 Oct 18 (all @mackygolfs)."
+  }
+ ]
 }

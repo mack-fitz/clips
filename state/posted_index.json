@@ -9283,6 +9283,78 @@
    "sources": [
     "Video Oct 11 2026, 9 02 57 AM (2).mp4"
    ]
+  },
+  {
+   "account": "mackygolfs",
+   "platformPostUrl": "https://www.instagram.com/reel/Deb8Tdpiq_8/",
+   "date": "2026-10-13T13:44:18.000Z",
+   "date_mt": "2026-10-13 07:44 MT",
+   "caption": "Keep watching there are a lot of twists",
+   "duration": 173,
+   "zernio_id": "6ace3b772c9ed7f604bf1fc5",
+   "late_post_id": "6acd92bfe6ae203b5b6a60af",
+   "media_type": "video",
+   "fingerprint": "state/fp/posts/mackygolfs_18091798511197489.json",
+   "fp_kind": "video",
+   "fp_from": "video_url",
+   "sources": [
+    "Video Oct 12 2026, 12 11 12 AM.mov"
+   ],
+   "gone_from_zernio": "2026-11-25: 404 in Zernio (deleted/archived on IG); kept so the guard still counts it as posted"
+  },
+  {
+   "account": "mackygolfs",
+   "platformPostUrl": "https://www.instagram.com/reel/Deegb6mm5ok/",
+   "date": "2026-10-14T13:38:08.000Z",
+   "date_mt": "2026-10-14 07:38 MT",
+   "caption": "please send broomstick putter recs",
+   "duration": 99,
+   "zernio_id": "6acf97ca97f7914fa90eec4a",
+   "late_post_id": "6acdc2818bbebee1aa7901e1",
+   "media_type": "video",
+   "fingerprint": "state/fp/posts/mackygolfs_18010926350972710.json",
+   "fp_kind": "video",
+   "fp_from": "video_url",
+   "sources": [
+    "Video Oct 11 2026, 9 02 57 AM (3).mp4"
+   ],
+   "gone_from_zernio": "2026-11-25: 404 in Zernio (deleted/archived on IG); kept so the guard still counts it as posted"
+  },
+  {
+   "account": "mackygolfs",
+   "platformPostUrl": "https://www.instagram.com/reel/DejqP2LnQMH/",
+   "date": "2026-10-16T13:39:31.000Z",
+   "date_mt": "2026-10-16 07:39 MT",
+   "caption": "called the hole in one. got the par",
+   "duration": 35,
+   "zernio_id": "6ad2363b13de56b344f5e5c7",
+   "late_post_id": "6ace7fc243ef21a82a0d2fc1",
+   "media_type": "video",
+   "fingerprint": "state/fp/posts/mackygolfs_17989316679065499.json",
+   "fp_kind": "video",
+   "fp_from": "video_url",
+   "sources": [
+    "Video Oct 12 2026, 12 14 03 AM.mov"
+   ],
+   "gone_from_zernio": "2026-11-25: 404 in Zernio (deleted/archived on IG); kept so the guard still counts it as posted"
+  },
+  {
+   "account": "mackygolfs",
+   "platformPostUrl": "https://www.instagram.com/reel/DeqAbQ6jyd6/",
+   "date": "2026-10-19T00:49:43.000Z",
+   "date_mt": "2026-10-18 18:49 MT",
+   "caption": "lock in your guess before i tee off. no cheating",
+   "duration": 135,
+   "zernio_id": "6ad58a467e8b67853b6855ed",
+   "late_post_id": "6ad3ce8f27655d6c6abc31d8",
+   "media_type": "video",
+   "fingerprint": "state/fp/posts/mackygolfs_17923722153436796.json",
+   "fp_kind": "video",
+   "fp_from": "video_url",
+   "sources": [
+    "Video Oct 12 2026, 12 05 56 AM.mov"
+   ],
+   "gone_from_zernio": "2026-11-25: 404 in Zernio (deleted/archived on IG); kept so the guard still counts it as posted"
   }
  ],
  "moremackygolfs_eligibility": {
