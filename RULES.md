@@ -231,21 +231,44 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (6aeeb6fcf53369239702fea0); "reel 2A" = MTG Mon Nov 9 3:47pm MT (6aeeb700f53369239702feba). All 6 are now used on IG:
   never schedule another Orlando promo on MG/MTG. From the PopStroke video (Nov 12) on, Mack says which promo goes on
   which account.
-- **Video 4 "Can I Break 50 if I Give Myself a Mulligan on Every Hole?" — PENDING (Mack, Nov 23).** Launch Thu Nov 26
-  (Thanksgiving) 10:00am MT; every launch #1 post scheduled at 9:52am MT (H.264 launch files, LIVE BY 10:00 above).
-  Slot 4 (Thu) on BOTH accounts = this promo, NOT a weekly video. Mack uploads the promo files ("4-..." / "#1mackygolfs" /
-  "#1mackthegolfer" + thumbnail) into the Week 5 folders before Thursday; on Nov 23 neither Week 5 folder had a "4" file
-  or any promo/thumbnail. NOT scheduled yet: Wednesday + Thursday runs re-check both Week 5 folders and schedule the launch
-  per the rules above. PROMO CAPTION (Mack, Nov 23) = the final YouTube description Mack approves, then "🔗 in bio" on
-  IG/TikTok and the video URL on FB/Shorts (same format as Video 3). Description and URL are NOT final yet: the main
-  session adds them here; don't schedule promos without them. Thu Nov 26 other posts are already in the afternoon: regular
-  Short moved 08:52 -> 14:22 (6b0428bc), TikTok 13:47 + 18:22, FB 14:12 + 19:08; no MG/MTG weekly IG post that day.
+- **Video 4 "Can I Break 50 if I Give Myself a Mulligan on Every Hole?" — SCHEDULED (Mack, Nov 25 6:44am: launch MOVED
+  from Thu Nov 26 to FRI NOV 27 10:00am MT; Thursday is a normal day).** VIDEO URL (Mack, Nov 25): https://youtu.be/ljmd-jilze8
+  Promo files = #5 in each Week 5 folder (Mack's slot 5): MG "5. can i break 50 with one mulligan every hole? New youtube
+  video OUT NOW. Link in bio.mp4.mp4" (id:etyjxrk_8sAAAAAAAAAG-Q, 39,550,825 B = our promo_1 "mulligans" cut) and MTG "5. ...
+  Link in bio.mp4" (id:etyjxrk_8sAAAAAAAAAG-A, 42,373,668 B = our promo_2 "reactions" cut). Both H.264 1080x1920 30fps, no
+  shirt wipe (first 1 s checked at 10 fps), so the same file serves IG/TikTok/FB/Shorts; hosted on scratch/yt4-launch @
+  df0d48664d8c23876fbe1a7a1847f52b1831a6aa (yt4_promo_1_mg.mp4, yt4_promo_2_mtg.mp4, yt4_cover_endcard.jpg).
+  CAPTIONS (Mack, Nov 25): IG + TikTok = her file name "can i break 50 with one mulligan every hole? New youtube video OUT NOW.
+  Link in bio" (exact caps); FB + Shorts description = "can i break 50 with one mulligan every hole? New youtube video OUT
+  NOW.\nhttps://youtu.be/ljmd-jilze8". Shorts title = "Can I Break 50 if I Give Myself a Mulligan on Every Hole?". No hashtags.
+  COVER (Mack, Nov 25 — special cover, exception to frame 1): BOTH IG promos = the LAST frame, the yellow-stripe end card
+  (frame 0.5 s before the end; identical in both files) as instagramThumbnail; FB launch reel gets the same as its thumbnail.
+  BOTH IG promos go at 10:00 (Mack, Nov 25 correction), scheduled 9:52am MT per LIVE BY 10:00. Times MT:
+  | file | account | when | Zernio |
+  |---|---|---|---|
+  | promo_2 | IG @mackthegolfer, REGULAR reel to followers (not trial), end-card cover | Fri 11-27 9:52 | 6b06e88f26edcd4ee3300f4a |
+  | promo_1 | IG @mackygolfs TRIAL (MANUAL), end-card cover | Fri 11-27 9:52 | 6b06e89326edcd4ee3300f5e |
+  | promo_1 | TikTok @mackygolfs (frame 0) | Fri 11-27 9:52 | 6b06e89826edcd4ee3300f8c |
+  | promo_1 | FB macky.golfs reel, end-card thumbnail | Fri 11-27 9:52 | 6b06e89ca71312be437038d2 |
+  | promo_1 | YouTube Short | Fri 11-27 9:52 | 6b06e89f26edcd4ee3300fab |
+  | promo_2 | TikTok | Sat 11-28 3:47pm | 6b06e8a326edcd4ee3300fbe |
+  | promo_2 | FB reel (default cover) | Sat 11-28 4:08pm | 6b06e8a6a71312be4370390c |
+  | promo_2 | YouTube Short | Sat 11-28 4:31pm | 6b06e8a926edcd4ee3300fee |
+  Moved for the launch (>= 1 h from the 9:52 promos): TikTok "should i try again?" (6b0477dd) Fri 9:18 -> 1:37pm; FB "was this
+  better or worse than normal?" (6b0477f2) Fri 9:33 -> 1:12pm. Fri 8:44 Short (68 min before) left as is. Nothing was ever
+  scheduled for the old Thursday launch (no posts to clear). Zernio has no "related video" field: Mack sets the related
+  video on both promo Shorts herself (-> https://youtu.be/ljmd-jilze8). Both promo files are now used on every platform:
+  never schedule them again. Hourly check Fri 7:23-9:23: make sure these are still scheduled; check status at 9:57.
 - **Week 5 11-23 (scheduled Nov 23 chat run; ids in weekly_sources.json):** folders appeared 16:58Z, after the 4:38 run.
   Her prefix this week is "<n>. " (dot, e.g. "1. please keep me in your thoughts") = same posting order, stripped the same
-  way as "<n>- ". 6+6 files: no #4 (promo slot). #1s posted Mon 10:40am MT (both IG published). IG Tue/Wed/Sat/Sun
-  scheduled (MTG ~7am, MG ~3:40-4:20pm, all trial MANUAL, no instagramThumbnail, her files untouched). **#5 "check out
-  turndogtribunal.com" (both accounts) HELD**: the caption has a link (section 5) -> Fri Nov 27 IG + that day's
-  TikTok-MG/FB pair slot empty until Mack says post it as is or gives a caption. Bikini reels (NEVER on Shorts): MG
+  way as "<n>- ". #1s posted Mon 10:40am MT (both IG published). IG Tue/Wed/Sat/Sun
+  scheduled (MTG ~7am, MG ~3:40-4:20pm, all trial MANUAL, no instagramThumbnail, her files untouched). **Nov 25 (Mack):
+  she renamed the turn dog files to "4. check out turndogtribunal.com.mov" and APPROVED the caption as is (hold lifted) ->
+  #4 Thu Nov 26: MTG 7:08am (6b06e8be844f224b8a117b4f), MG 3:52pm (6b06e8c1bef1855530a55651), both trial MANUAL, frame-1
+  cover, her file untouched; caption "check out turndogtribunal.com". Footage checked: different from the W4 turn dog
+  one-offs (Nov 18). MG #4 also on TikTok Fri 6:22pm (6b06e8c8bef1855530a55667, the empty Fri MG pair slot). Still NOT on
+  TikTok/FB: MTG #4, and MG #4 on FB -> next open pair slots (Zernio media media.zernio.com/media/1795454378131_..._A_w5-5-
+  turndogtribunal.mov and ..._B_w5-5-turndogtribunal.mov). #5 in both folders = the Video 4 promo (see Video 4 above).** Bikini reels (NEVER on Shorts): MG
   "3. was this better or worse than normal?", MG "6. does anyone know the science here", MTG "3. should i try again?"
   (these three have no shirt wipe; first frame = her in the bikini, incl. the MTG cover). MTG "3. should i try again?" =
   same dock/bikini session and caption as MG W4 "3- should i try again?" (MG Nov 18) but a different take; flagged to Mack.
