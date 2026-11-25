@@ -1,8 +1,14 @@
 {
- "updated": "2026-11-16T05:50Z",
+ "updated": "2026-11-25T11:54Z",
  "from": "state/posted_index.json (fingerprint-checked against every post on @mackygolfs, @mackthegolfer, @moremackygolfs)",
  "note": "Never-posted status comes ONLY from this file (PLAYBOOK DUPLICATE CHECK V2). 'lined_up' = already on the review page / scheduled; once it posts, the next refresh drops it (it matches its own post).",
- "videos": [],
+ "videos": [
+  {
+   "name": "Video Oct 12 2026, 12 11 12 AM.mov",
+   "dropbox_id": "id:etyjxrk_8sAAAAAAAAAE3g",
+   "duration": 173.5
+  }
+ ],
  "scope": "Mack (Oct 14): source folders are ONLY /Golf Captions and /golfclips (copies collapsed by fingerprint). Other Dropbox folders are not sources.",
  "summary": {
   "unique_videos": 39,
