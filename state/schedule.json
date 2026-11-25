@@ -5255,14 +5255,14 @@
   },
   {
    "date": "2026-11-21",
-   "scheduled_mt": "18:12",
-   "platform": "twitter",
-   "account_id": "6acc3edbda858fbeab423c5a",
-   "caption": "took a risk but it worked out!",
-   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-A5.mp4",
+   "scheduled_mt": "08:23",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "gotta be something else guys #golf",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/4- gotta be something else guys",
+   "media_url": "https://media.zernio.com/media/1794830338443_c8314eb48c8ced88_A_w4-4-something-else.mov",
    "zernio": {
-    "twitter": "6afdfe88fbcc81883b096eaa"
+    "facebook": "6afdfe8bfbcc81883b096eb6"
    },
    "status": "scheduled",
    "added_by": "clip page run 2026-11-18"
@@ -5297,14 +5297,28 @@
   },
   {
    "date": "2026-11-21",
-   "scheduled_mt": "08:23",
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "caption": "gotta be something else guys #golf",
-   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/4- gotta be something else guys",
-   "media_url": "https://media.zernio.com/media/1794830338443_c8314eb48c8ced88_A_w4-4-something-else.mov",
+   "scheduled_mt": "17:52",
+   "platform": "instagram",
+   "account_id": "6acc2885bac230e9d1133105",
+   "caption": "hi i'm mack. really good golfer btw",
+   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM.mp4",
    "zernio": {
-    "facebook": "6afdfe8bfbcc81883b096eb6"
+    "instagram": "6afdfe8c229ace5ef016e105"
+   },
+   "status": "scheduled",
+   "added_by": "clip page run 2026-11-18"
+  },
+  {
+   "date": "2026-11-21",
+   "scheduled_mt": "18:12",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "took a risk but it worked out!",
+   "source": "/Golf/for claude/mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/61fd7cfb4c3bea26a804894dac83743fb03526b7/X_w4-A5.mp4",
+   "zernio": {
+    "twitter": "6afdfe88fbcc81883b096eaa"
    },
    "status": "scheduled",
    "added_by": "clip page run 2026-11-18"
@@ -5324,18 +5338,19 @@
    "added_by": "clip page run 2026-11-18"
   },
   {
-   "date": "2026-11-21",
-   "scheduled_mt": "17:52",
-   "platform": "instagram",
-   "account_id": "6acc2885bac230e9d1133105",
-   "caption": "hi i'm mack. really good golfer btw",
-   "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM.mp4",
+   "date": "2026-11-22",
+   "scheduled_mt": "08:27",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "the issue is i love a long sleeve but it feels in my way",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/X_w4-B5.mp4",
    "zernio": {
-    "instagram": "6afdfe8c229ace5ef016e105"
+    "twitter": "6aff50e1a4e066783858d82f"
    },
    "status": "scheduled",
-   "added_by": "clip page run 2026-11-18"
+   "note": "H.264 CRF17 X copy (source HEVC SDR), IG published Fri",
+   "added_by": "clip page run 2026-11-19"
   },
   {
    "date": "2026-11-22",
@@ -5347,21 +5362,6 @@
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B3.mov",
    "zernio": {
     "tiktok": "6aff50dfb92af613516d0737"
-   },
-   "status": "scheduled",
-   "note": "untouched original, wipe kept, cover frame 0",
-   "added_by": "clip page run 2026-11-19"
-  },
-  {
-   "date": "2026-11-22",
-   "scheduled_mt": "17:38",
-   "platform": "tiktok",
-   "account_id": "6acc3fd31ce18dfecf0a2249",
-   "caption": "the issue is i love a long sleeve but it feels in my way",
-   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B5.mov",
-   "zernio": {
-    "tiktok": "6aff50dfa4e066783858d81e"
    },
    "status": "scheduled",
    "note": "untouched original, wipe kept, cover frame 0",
@@ -5384,36 +5384,6 @@
   },
   {
    "date": "2026-11-22",
-   "scheduled_mt": "18:52",
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "caption": "am i right on this #golf",
-   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/3- am i right on this.mov",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B3.mov",
-   "zernio": {
-    "facebook": "6aff50e171c90c1822387fb6"
-   },
-   "status": "scheduled",
-   "note": "untouched 25.7 s Reel",
-   "added_by": "clip page run 2026-11-19"
-  },
-  {
-   "date": "2026-11-22",
-   "scheduled_mt": "08:27",
-   "platform": "twitter",
-   "account_id": "6acc3edbda858fbeab423c5a",
-   "caption": "the issue is i love a long sleeve but it feels in my way",
-   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/X_w4-B5.mp4",
-   "zernio": {
-    "twitter": "6aff50e1a4e066783858d82f"
-   },
-   "status": "scheduled",
-   "note": "H.264 CRF17 X copy (source HEVC SDR), IG published Fri",
-   "added_by": "clip page run 2026-11-19"
-  },
-  {
-   "date": "2026-11-22",
    "scheduled_mt": "17:16",
    "platform": "twitter",
    "account_id": "6acc3edbda858fbeab423c5a",
@@ -5429,6 +5399,21 @@
   },
   {
    "date": "2026-11-22",
+   "scheduled_mt": "17:38",
+   "platform": "tiktok",
+   "account_id": "6acc3fd31ce18dfecf0a2249",
+   "caption": "the issue is i love a long sleeve but it feels in my way",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/5- the issue is i love a long sleeve but it feels in my way",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B5.mov",
+   "zernio": {
+    "tiktok": "6aff50dfa4e066783858d81e"
+   },
+   "status": "scheduled",
+   "note": "untouched original, wipe kept, cover frame 0",
+   "added_by": "clip page run 2026-11-19"
+  },
+  {
+   "date": "2026-11-22",
    "scheduled_mt": "18:21",
    "platform": "instagram",
    "account_id": "6acc2885bac230e9d1133105",
@@ -5440,6 +5425,21 @@
    },
    "status": "scheduled",
    "note": "@moremackygolfs untouched original; proof MG Oct 7 (own post, <100k); last IG MG Oct 18 (32 d); caption = its Oct 20 TikTok caption; targeted R1/R6 check PASS",
+   "added_by": "clip page run 2026-11-19"
+  },
+  {
+   "date": "2026-11-22",
+   "scheduled_mt": "18:52",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "am i right on this #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/3- am i right on this.mov",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/8fe9f434490cd47255baa5af962b706c43a23dbd/TF_w4-B3.mov",
+   "zernio": {
+    "facebook": "6aff50e171c90c1822387fb6"
+   },
+   "status": "scheduled",
+   "note": "untouched 25.7 s Reel",
    "added_by": "clip page run 2026-11-19"
   },
   {
@@ -5542,14 +5542,23 @@
   },
   {
    "date": "2026-11-24",
-   "scheduled_mt": "08:31",
+   "scheduled_mt": "08:32",
    "platform": "twitter",
    "account_id": "6acc3edbda858fbeab423c5a",
    "caption": "at what point do i pick up",
    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9/at what point do i pick up",
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-B3.mp4",
    "zernio": "6b01f2d78132d7094b173f95",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-B3.mp4"
+   },
+   "posted_mt": "2026-11-24 08:32",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
@@ -5560,18 +5569,36 @@
    "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
    "media_url": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov",
    "zernio": "6b01f2c22e19299640380efb",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov"
+   },
+   "posted_mt": "2026-11-24 08:44",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
-   "scheduled_mt": "09:17",
+   "scheduled_mt": "09:18",
    "platform": "facebook",
    "account_id": "6ad052a5a442d9968f306c31",
    "caption": "DO YOU THINK I HAVE IT IN ME #golf",
    "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/6- DO YOU THINK I HAVE IT IN ME",
    "media_url": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov",
    "zernio": "6b01f2d6c0ca1cbff1f4195b",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795203473955_9e56e440ac2798cb_B_w4-6-do-you-think.mov"
+   },
+   "posted_mt": "2026-11-24 09:18",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
@@ -5582,29 +5609,56 @@
    "source": "/Golf/for claude/mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
    "media_url": "https://media.zernio.com/media/1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov",
    "zernio": "6b01f2d5edcbee0b1d60242c",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov"
+   },
+   "posted_mt": "2026-11-24 17:41",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
-   "scheduled_mt": "17:52",
+   "scheduled_mt": "17:53",
    "platform": "twitter",
    "account_id": "6acc3edbda858fbeab423c5a",
    "caption": "a weaker loser would have just skipped this hole",
    "source": "/Golf/for claude/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4",
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-A3.mp4",
    "zernio": "6b01f2d82e19299640380f35",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/1beb263cbdcd8d6f765b66aedd28088eba768531/X_w3-A3.mp4"
+   },
+   "posted_mt": "2026-11-24 17:53",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
-   "scheduled_mt": "18:09",
+   "scheduled_mt": "18:10",
    "platform": "instagram",
    "account_id": "6acc2885bac230e9d1133105",
    "caption": "new swing just dropped",
    "source": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM (2).mp4",
    "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM%20(2).mp4",
    "zernio": "6b01f2d92e19299640380f3e",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM%20(2).mp4"
+   },
+   "posted_mt": "2026-11-24 18:10",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-24",
@@ -5615,7 +5669,16 @@
    "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/7- tag ur buddy who is as good at golf as me",
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/f8eb612478357323a474940b1126b1ec412a2aeb/TF_w4-B7.mov",
    "zernio": "6b01f2d7c0ca1cbff1f4195f",
-   "added_by": "clip run Nov 21"
+   "added_by": "clip run Nov 21",
+   "status": "published",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/f8eb612478357323a474940b1126b1ec412a2aeb/TF_w4-B7.mov"
+   },
+   "posted_mt": "2026-11-24 18:36",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-25",
@@ -5626,18 +5689,16 @@
    "source": "/Golf/for claude/mackthegolfer/Week 3 11-9 (B7)",
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/45ef9069e38a9caefe275546ab73db9f766a7256/X_w3B7.mp4",
    "zernio": "6b0344030462ebb808069256",
-   "added_by": "clip run Nov 22"
-  },
-  {
-   "date": "2026-11-25",
-   "scheduled_mt": "17:43",
-   "platform": "twitter",
-   "account_id": "6acc3edbda858fbeab423c5a",
-   "caption": "either be bad or slow you can't be both",
-   "source": "/Golf/for claude/mackthegolfer/Week 3 11-9 (B2)",
-   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/45ef9069e38a9caefe275546ab73db9f766a7256/X_w3B2.mp4",
-   "zernio": "6b03440a42258d936410bd78",
-   "added_by": "clip run Nov 22"
+   "added_by": "clip run Nov 22",
+   "status": "published",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/45ef9069e38a9caefe275546ab73db9f766a7256/X_w3B7.mp4"
+   },
+   "posted_mt": "2026-11-25 08:38",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-25",
@@ -5648,7 +5709,16 @@
    "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/4- you me right now lets go",
    "media_url": "https://media.zernio.com/media/1795376096022_49eb07215f6489cd_B_w4-4-you-me-right-now.mov",
    "zernio": "6b03447c33d3b45d8e34c759",
-   "added_by": "clip run Nov 22"
+   "added_by": "clip run Nov 22",
+   "status": "published",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795376096022_49eb07215f6489cd_B_w4-4-you-me-right-now.mov"
+   },
+   "posted_mt": "2026-11-25 09:06",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-25",
@@ -5659,18 +5729,35 @@
    "source": "/Golf/for claude/mackygolfs/Week 4 11-16/7- send this to ur buddy who has mood swings",
    "media_url": "https://media.zernio.com/media/1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov",
    "zernio": "6b03440b42258d936410bd7d",
-   "added_by": "clip run Nov 22"
+   "added_by": "clip run Nov 22",
+   "status": "published",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1794830340180_f7ffdfe4e3a33299_A_w4-7-mood-swings.mov"
+   },
+   "posted_mt": "2026-11-25 09:21",
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-25",
-   "scheduled_mt": "18:34",
-   "platform": "facebook",
-   "account_id": "6ad052a5a442d9968f306c31",
-   "caption": "you me right now lets go #golf",
-   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/4- you me right now lets go",
-   "media_url": "https://media.zernio.com/media/1795376096022_49eb07215f6489cd_B_w4-4-you-me-right-now.mov",
-   "zernio": "6b03448a33d3b45d8e34c75d",
-   "added_by": "clip run Nov 22"
+   "scheduled_mt": "17:43",
+   "platform": "twitter",
+   "account_id": "6acc3edbda858fbeab423c5a",
+   "caption": "either be bad or slow you can't be both",
+   "source": "/Golf/for claude/mackthegolfer/Week 3 11-9 (B2)",
+   "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/45ef9069e38a9caefe275546ab73db9f766a7256/X_w3B2.mp4",
+   "zernio": "6b03440a42258d936410bd78",
+   "added_by": "clip run Nov 22",
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/45ef9069e38a9caefe275546ab73db9f766a7256/X_w3B2.mp4"
+   },
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-25",
@@ -5682,7 +5769,178 @@
    "media_url": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM%20(1).mp4",
    "zernio": "6b03440cea8638f406aa608b",
    "note": "untouched; proof MG Sep 11 28.8k + MTG Oct 3 64.7k (<100k); last IG = moremacky Oct 11 (42 d); caption = its Oct 17 FB caption",
-   "added_by": "clip run Nov 22"
+   "added_by": "clip run Nov 22",
+   "status": "scheduled",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/mackygolfs-mackthegolfer/0125bc5b173cc62fa32eef620478dfcb47bb2ae0/inbox/videos/Video%20Oct%2011%202026%2C%209%2002%2057%20AM%20(1).mp4"
+   },
+   "synced": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-25",
+   "scheduled_mt": "17:58",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "yes or no?",
+   "zernio": {
+    "post": "6b0477d64f4e6064eea54ecf"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454371568_e15346e519d45c69_A_w5-2-yes-or-no.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-25",
+   "scheduled_mt": "18:34",
+   "platform": "facebook",
+   "account_id": "6ad052a5a442d9968f306c31",
+   "caption": "you me right now lets go #golf",
+   "source": "/Golf/for claude/mackthegolfer/Week 4 11-16/4- you me right now lets go",
+   "media_url": "https://media.zernio.com/media/1795376096022_49eb07215f6489cd_B_w4-4-you-me-right-now.mov",
+   "zernio": "6b03448a33d3b45d8e34c75d",
+   "added_by": "clip run Nov 22",
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795376096022_49eb07215f6489cd_B_w4-4-you-me-right-now.mov"
+   },
+   "synced": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "08:47",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "should i let my girl pick my clubs more often",
+   "zernio": {
+    "post": "6b049666a8c21cc83290510e"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/0336060b7a2db5aaf42fb9854feadff9c05b52f1/X_w5-A1.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "13:47",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "actually insane",
+   "zernio": {
+    "post": "6b0477d83384eaf5834d1cdd"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454373463_d1bff66f5099a4a6_B_w5-2-actually-insane.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "14:12",
+   "slot": "midday",
+   "platform": "facebook",
+   "caption": "yes or no? #golf",
+   "zernio": {
+    "post": "6b0477eed57e8b88408b68e5"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454371568_e15346e519d45c69_A_w5-2-yes-or-no.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "17:38",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "please keep me in your thoughts",
+   "zernio": {
+    "post": "6b049667d1db847a8411bcbc"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/0336060b7a2db5aaf42fb9854feadff9c05b52f1/X_w5-B1.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "18:22",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "was this better or worse than normal?",
+   "zernio": {
+    "post": "6b0477da3384eaf5834d1cee"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454371984_fadaf7a2f8d2ba8b_A_w5-3-better-or-worse.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "18:33",
+   "slot": "evening",
+   "platform": "instagram",
+   "caption": "this ball is cursed. not me",
+   "zernio": {
+    "post": "6b0495f53b0b96e8f7f63d41"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/clips/8de691c51c604d0c82bd181ce563bcc5e06e1db4/queue/005_cursed-ball_orig.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-26",
+   "scheduled_mt": "19:08",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "actually insane #golf",
+   "zernio": {
+    "post": "6b0477f064eb322dd097aff1"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454373463_d1bff66f5099a4a6_B_w5-2-actually-insane.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-27",
@@ -5694,7 +5952,87 @@
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/b098c465a5d5f45f7807e97ab8a2c408faeffb35/X_w5-B2.mp4",
    "zernio": "6b05e7ee7a6d18398505d651",
    "note": "HEVC->H.264 CRF17 one encode (scratch/x-w5b); IG MTG published 11-24",
-   "added_by": "clip run Nov 24"
+   "added_by": "clip run Nov 24",
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/b098c465a5d5f45f7807e97ab8a2c408faeffb35/X_w5-B2.mp4"
+   },
+   "synced": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "09:52",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "can i break 50 with one mulligan every hole? New youtube video OUT NOW.\nhttps://youtu.be/ljmd-jilze8",
+   "zernio": {
+    "post": "6b06e89ca71312be437038d2"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/df0d48664d8c23876fbe1a7a1847f52b1831a6aa/yt4_promo_1_mg.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "09:52",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "can i break 50 with one mulligan every hole? New youtube video OUT NOW. Link in bio",
+   "zernio": {
+    "post": "6b06e89826edcd4ee3300f8c"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/df0d48664d8c23876fbe1a7a1847f52b1831a6aa/yt4_promo_1_mg.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "13:12",
+   "slot": "midday",
+   "platform": "facebook",
+   "caption": "was this better or worse than normal? #golf",
+   "zernio": {
+    "post": "6b0477f264eb322dd097aff6"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454371984_fadaf7a2f8d2ba8b_A_w5-3-better-or-worse.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "13:37",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "should i try again?",
+   "zernio": {
+    "post": "6b0477dd3384eaf5834d1cfe"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454373879_ec981f8f603a13fd_B_w5-3-should-i-try-again.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-27",
@@ -5706,7 +6044,15 @@
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/b098c465a5d5f45f7807e97ab8a2c408faeffb35/X_w5-A2.mp4",
    "zernio": "6b05e7ef6b7189c8acab62bb",
    "note": "rotated H.264 -> upright H.264 CRF17 (scratch/x-w5b); IG MG 11-24 15:52",
-   "added_by": "clip run Nov 24"
+   "added_by": "clip run Nov 24",
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/b098c465a5d5f45f7807e97ab8a2c408faeffb35/X_w5-A2.mp4"
+   },
+   "synced": "2026-11-25 12:39 MT"
   },
   {
    "date": "2026-11-27",
@@ -5718,10 +6064,342 @@
    "media_url": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/fb_guess-my-handicap_orig.mov",
    "zernio": "6b05e7f06cf47dfab007ad5e",
    "note": "untouched; proof MG Oct 14 'top 4' 8.5k (<100k); last IG Oct 14 (44 d); never on moremacky; caption = its Oct 22 FB caption",
-   "added_by": "clip run Nov 24"
+   "added_by": "clip run Nov 24",
+   "status": "scheduled",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/clips/e19885668891e78756c3a1115468044e413baa9b/queue/fb_guess-my-handicap_orig.mov"
+   },
+   "synced": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "18:22",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "check out turndogtribunal.com",
+   "zernio": {
+    "post": "6b06e8c8bef1855530a55667"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454378131_1b9ee851d3c09600_A_w5-5-turndogtribunal.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-27",
+   "scheduled_mt": "18:41",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "should i try again? #golf",
+   "zernio": {
+    "post": "6b0477f34f4e6064eea54f89"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454373879_ec981f8f603a13fd_B_w5-3-should-i-try-again.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "08:46",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "should i try again?",
+   "zernio": {
+    "post": "6b0739446472c5774d7148ca"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/184794713456f50ec4e1d5db715f66189a4c5e3c/X_w5-B3.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "09:12",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "maybe i should focus more often?",
+   "zernio": {
+    "post": "6b0477dfd57e8b88408b6896"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454374475_26ccd5ae7a5da8e0_B_w5-6-focus-more-often.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "09:41",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "maybe i should focus more often? #golf",
+   "zernio": {
+    "post": "6b0477f5d57e8b88408b6905"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454374475_26ccd5ae7a5da8e0_B_w5-6-focus-more-often.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "15:47",
+   "slot": "midday",
+   "platform": "x_tiktok",
+   "caption": "can i break 50 with one mulligan every hole? New youtube video OUT NOW. Link in bio",
+   "zernio": {
+    "post": "6b06e8a326edcd4ee3300fbe"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://raw.githubusercontent.com/mack-fitz/clips/df0d48664d8c23876fbe1a7a1847f52b1831a6aa/yt4_promo_2_mtg.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "16:08",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "can i break 50 with one mulligan every hole? New youtube video OUT NOW.\nhttps://youtu.be/ljmd-jilze8",
+   "zernio": {
+    "post": "6b06e8a6a71312be4370390c"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://raw.githubusercontent.com/mack-fitz/clips/df0d48664d8c23876fbe1a7a1847f52b1831a6aa/yt4_promo_2_mtg.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "17:34",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "was this better or worse than normal?",
+   "zernio": {
+    "post": "6b073945be3f02dcc0ff43fc"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "X"
+   ],
+   "live_media": {
+    "X": "https://raw.githubusercontent.com/mack-fitz/clips/184794713456f50ec4e1d5db715f66189a4c5e3c/X_w5-A3.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "18:14",
+   "slot": "evening",
+   "platform": "instagram",
+   "caption": "do i finally get a par today?",
+   "zernio": {
+    "post": "6b0739466472c5774d7148d4"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "IG"
+   ],
+   "live_media": {
+    "IG": "https://raw.githubusercontent.com/mack-fitz/clips/8ceeee39af674480849e62f77373b73d76045e1b/queue/014_no-pars-yet_orig.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "18:27",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "does anyone know the science here",
+   "zernio": {
+    "post": "6b0477e24f4e6064eea54f12"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454372420_fd2b59749e1ee9b3_A_w5-6-science.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-28",
+   "scheduled_mt": "19:03",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "does anyone know the science here #golf",
+   "zernio": {
+    "post": "6b0477f7f2866377ef454985"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454372420_fd2b59749e1ee9b3_A_w5-6-science.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-29",
+   "scheduled_mt": "09:24",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "wet or dry??",
+   "zernio": {
+    "post": "6b0477e44f4e6064eea54f26"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454375177_19a6efe94541712d_B_w5-7-wet-or-dry.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-29",
+   "scheduled_mt": "09:52",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "wet or dry?? #golf",
+   "zernio": {
+    "post": "6b0477f9f2866377ef45498a"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454375177_19a6efe94541712d_B_w5-7-wet-or-dry.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-29",
+   "scheduled_mt": "18:48",
+   "slot": "evening",
+   "platform": "x_tiktok",
+   "caption": "can 3 wood mack pull this hole off?",
+   "zernio": {
+    "post": "6b0477e64f4e6064eea54f30"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454372931_07bed091fb0bf948_A_w5-7-3-wood-mack.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-29",
+   "scheduled_mt": "19:21",
+   "slot": "evening",
+   "platform": "facebook",
+   "caption": "can 3 wood mack pull this hole off? #golf",
+   "zernio": {
+    "post": "6b0477faadc9593f32349228"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454372931_07bed091fb0bf948_A_w5-7-3-wood-mack.mp4"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-30",
+   "scheduled_mt": "09:14",
+   "slot": "morning",
+   "platform": "x_tiktok",
+   "caption": "check out turndogtribunal.com",
+   "zernio": {
+    "post": "6b0739556472c5774d714920"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "TikTok"
+   ],
+   "live_media": {
+    "TikTok": "https://media.zernio.com/media/1795454378779_801118dc31389510_B_w5-5-turndogtribunal.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-11-30",
+   "scheduled_mt": "09:27",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "check out turndogtribunal.com",
+   "zernio": {
+    "post": "6b07395678ab9e40912f9e79"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454378131_1b9ee851d3c09600_A_w5-5-turndogtribunal.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
+  },
+  {
+   "date": "2026-12-01",
+   "scheduled_mt": "09:22",
+   "slot": "morning",
+   "platform": "facebook",
+   "caption": "check out turndogtribunal.com",
+   "zernio": {
+    "post": "6b0739571661b866d8975d02"
+   },
+   "status": "scheduled",
+   "live_platforms": [
+    "Facebook"
+   ],
+   "live_media": {
+    "Facebook": "https://media.zernio.com/media/1795454378779_801118dc31389510_B_w5-5-turndogtribunal.mov"
+   },
+   "added_by_sync": "2026-11-25 12:39 MT"
   }
  ],
- "synced_from_zernio": "2026-11-12T19:40Z clip page run (weekly_plan week3 updated from Zernio pull Nov 11-Dec 12)",
+ "synced_from_zernio": "2026-11-25 12:39 MT",
  "ig_pending_reschedule": {
   "since": "2026-10-21",
   "reason": "@moremackygolfs disconnected (Instagram security check, Oct 20). Zernio refuses new IG posts (ACCOUNT_DISCONNECTED). Failed/stuck Oct 20 IG reels+stories deleted in Zernio; re-create them once Mack reconnects.",

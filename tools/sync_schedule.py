@@ -72,7 +72,10 @@ def main():
     named, changes = set(), []
     stamp = dt.datetime.now(MT).strftime("%Y-%m-%d %H:%M MT")
     for s in d["slots"]:
-        ids = [v for v in (s.get("zernio") or {}).values() if isinstance(v, str)]
+        z = s.get("zernio") or {}
+        if isinstance(z, str):
+            z = {"id": z}
+        ids = [v for v in z.values() if isinstance(v, str)]
         named.update(ids)
         if s.get("date", "") < a.since or not ids:
             continue
