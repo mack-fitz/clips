@@ -142,8 +142,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   never twice on the same account is absolute).
 - Record each in weekly_sources.json (planned_mt, zernio id, caption) and clips state/trials.json ("weekly_posts" list; Nov 16:
   live copy moved to clips, section 11).
-- **TikTok/FB:** each weekly video also goes on TikTok @mackygolfs + Facebook macky.golfs (section 6) on any day, with NO tie to
-  its IG post: it may go before, the same day or after (Mack, Nov 11: she never set an after-IG rule; TikTok/FB are independent of IG).
+- **TikTok/FB/X/Shorts:** each weekly video goes there on the SAME DAY as its IG post (MTG morning, MG ~4:30–6:00pm) —
+  section 6 "SAME DAY AS IG" (Mack, Nov 25; replaces the Nov 11 "no tie to IG" line).
 - **Afternoon slot = promos** (section 5b: 3:30–5:00pm MT). No other afternoon fill on A/B unless Mack approved it on The Reviewer
   (comps/shorties/bounces: next open afternoon 2:00–3:30pm MT on a day without a promo or bumped post on that account).
 - **PM files (week 1/2 only)** ("pm.MOV"/"PM.MOV", any case): afternoon only, own account only, never bounce.
@@ -248,14 +248,17 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   |---|---|---|---|
   | promo_2 | IG @mackthegolfer, REGULAR reel to followers (not trial), end-card cover | Fri 11-27 9:52 | 6b06e88f26edcd4ee3300f4a |
   | promo_1 | IG @mackygolfs TRIAL (MANUAL), end-card cover | Fri 11-27 9:52 | 6b06e89326edcd4ee3300f5e |
-  | promo_1 | TikTok @mackygolfs (frame 0) | Fri 11-27 9:52 | 6b06e89826edcd4ee3300f8c |
-  | promo_1 | FB macky.golfs reel, end-card thumbnail | Fri 11-27 9:52 | 6b06e89ca71312be437038d2 |
-  | promo_1 | YouTube Short | Fri 11-27 9:52 | 6b06e89f26edcd4ee3300fab |
-  | promo_2 | TikTok | Sat 11-28 3:47pm | 6b06e8a326edcd4ee3300fbe |
-  | promo_2 | FB reel (default cover) | Sat 11-28 4:08pm | 6b06e8a6a71312be4370390c |
-  | promo_2 | YouTube Short | Sat 11-28 4:31pm | 6b06e8a926edcd4ee3300fee |
-  Moved for the launch (>= 1 h from the 9:52 promos): TikTok "should i try again?" (6b0477dd) Fri 9:18 -> 1:37pm; FB "was this
-  better or worse than normal?" (6b0477f2) Fri 9:33 -> 1:12pm. Fri 8:44 Short (68 min before) left as is. Nothing was ever
+  MOVED Nov 25 evening (Mack's SAME DAY AS IG rule: MTG promo copies at the 9:52 launch, MG promo copies 4:30–6:00pm):
+  | promo_2 (MTG) | TikTok (frame 0) | Fri 11-27 9:52 | 6b06e8a326edcd4ee3300fbe |
+  | promo_2 (MTG) | FB reel (default cover) | Fri 11-27 9:52 | 6b06e8a6a71312be4370390c |
+  | promo_2 (MTG) | YouTube Short | Fri 11-27 9:52 | 6b06e8a926edcd4ee3300fee |
+  | promo_2 (MTG) | X @mackygolfs (caption with URL) | Fri 11-27 9:52 | 6b079865a41e7a8444c5317c |
+  | promo_1 (MG) | X @mackygolfs (caption with URL) | Fri 11-27 4:36pm | 6b07986a6aae219450a78b09 |
+  | promo_1 (MG) | TikTok (frame 0) | Fri 11-27 4:47pm | 6b06e89826edcd4ee3300f8c |
+  | promo_1 (MG) | FB reel, end-card thumbnail kept | Fri 11-27 5:13pm | 6b06e89ca71312be437038d2 |
+  | promo_1 (MG) | YouTube Short | Fri 11-27 5:31pm | 6b06e89f26edcd4ee3300fab |
+  (Nov 25 evening: the wrong-day TikTok "should i try again?" 6b0477dd, FB "was this better or worse than normal?" 6b0477f2
+  and the Fri 8:44 Short were DELETED under the SAME DAY AS IG rule; Friday = the two promos only on TikTok/FB/X/Shorts.) Nothing was ever
   scheduled for the old Thursday launch (no posts to clear). Zernio has no "related video" field: Mack sets the related
   video on both promo Shorts herself (-> https://youtu.be/ljmd-jilze8). Both promo files are now used on every platform:
   never schedule them again. Hourly check Fri 7:23-9:23: make sure these are still scheduled; check status at 9:57.
@@ -266,13 +269,28 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   she renamed the turn dog files to "4. check out turndogtribunal.com.mov" and APPROVED the caption as is (hold lifted) ->
   #4 Thu Nov 26: MTG 7:08am (6b06e8be844f224b8a117b4f), MG 3:52pm (6b06e8c1bef1855530a55651), both trial MANUAL, frame-1
   cover, her file untouched; caption "check out turndogtribunal.com". Footage checked: different from the W4 turn dog
-  one-offs (Nov 18). MG #4 also on TikTok Fri 6:22pm (6b06e8c8bef1855530a55667, the empty Fri MG pair slot). Still NOT on
-  TikTok/FB: MTG #4, and MG #4 on FB -> next open pair slots (Zernio media media.zernio.com/media/1795454378131_..._A_w5-5-
-  turndogtribunal.mov and ..._B_w5-5-turndogtribunal.mov). #5 in both folders = the Video 4 promo (see Video 4 above).** Bikini reels (NEVER on Shorts): MG
+  one-offs (Nov 18). #5 in both folders = the Video 4 promo (see Video 4 above).**
+  **Nov 25 evening re-plan (SAME DAY AS IG, section 6), times MT, Thu-Sun; TikTok / FB / X / Shorts:**
+  Thu MTG #4 turn dog: TT 9:14 (6b0739556472c5774d714920), FB 9:41 (6b0739571661b866d8975d02, Page video), X 8:47
+  (6b0798e58d1cf291afaa6c67), YT 10:18 (6b0798776aae219450a78b3b, no wipe, title "the court is now in session. rating golf
+  course hot dogs"). Thu MG #4 turn dog: X 4:41pm (6b0798e7c6065601d239275a), TT 4:58pm (6b06e8c8bef1855530a55667), FB
+  5:22pm (6b07395678ab9e40912f9e79), YT 5:44pm (6b0798ed8d1cf291afaa6c89, wipe cut 1.0 s, "be honest. would you eat this
+  turn dog"). Fri = Video 4 promos only (table above). Sat MTG #6: X 8:53 (6b07986c09624f89bb667444), TT 9:12
+  (6b0477dfd57e8b88408b6896), FB 9:41 (6b0477f5d57e8b88408b6905), YT 10:07 (6b0798f08d1cf291afaa6c9e, wipe cut 1.0 s).
+  Sat MG #6 (bikini): X 4:44pm (6b0798eaa41e7a8444c53410), TT 4:52pm (6b0477e24f4e6064eea54f12), FB 5:18pm
+  (6b0477f7f2866377ef454985); YT 5:37pm = REPLACEMENT from MG week 2 "tues 11-3" ("spilled a hot dog...",
+  6b0428bc19f20064ffcad06a, no bikini, frames checked). Sun MTG #7: YT 8:38 (6b04bec180afe72a707aa106), X 8:58
+  (6b07986fa41e7a8444c531ae), TT 9:24 (6b0477e44f4e6064eea54f26), FB 9:52 (6b0477f9f2866377ef45498a). Sun MG #7: X 4:49pm
+  (6b07987109624f89bb66745e), TT 5:08pm (6b0477e64f4e6064eea54f30), FB 5:34pm (6b0477faadc9593f32349228), YT 5:46pm
+  (6b04bf0780afe72a707aa233). New media: scratch/w5-sameday @ 1c962ad72e035f4a27d27ff9f6d7556ee4dea2fb (X_w5-A4/B4/A6 H.264
+  SDR CRF17; yt_w5A4_turndog_nowipe, yt_w5B6_focus_nowipe). Removed as wrong-day leftovers (never back-filled): X W5 A1/B1
+  (Thu), B2/A2 (Fri), B3/A3 (Sat); TikTok B2, A3, B3; FB A2, B2, A3, B3; Shorts B2, B1, A2, A1 + MG week-2 "monday 11-2".
+  So W5 #1-#3 never reached X; #2-#3 partly missing on TikTok/FB; B1/B2/A1/A2 never on Shorts — list for Mack.
+  Bikini reels (NEVER on Shorts): MG
   "3. was this better or worse than normal?", MG "6. does anyone know the science here", MTG "3. should i try again?"
   (these three have no shirt wipe; first frame = her in the bikini, incl. the MTG cover). MTG "3. should i try again?" =
   same dock/bikini session and caption as MG W4 "3- should i try again?" (MG Nov 18) but a different take; flagged to Mack.
-  Shorts this week: Fri B2 + B1, Sat A2 + A1, Sun B7 + A7 (wipe cut). B6 (138 s) not on Shorts yet.
+  (Old Shorts plan "Fri B2 + B1, Sat A2 + A1" replaced by the Nov 25 re-plan above.)
 - Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
   00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch Thu Nov 19 10:00am MT.
   PROMO CAPTION (Mack, Nov 19; she cut "my 7 iron is the club i trust most."): IG/TikTok = "i suck with my driver. so i played
@@ -340,34 +358,56 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   @moremackygolfs. **Cadence (Mack, Nov 16): ONE post a day for now, ~5:00–7:00pm MT** (vary the minute). Keep 3 days scheduled.
   **NO BIG HITS (Mack, Nov 16, new rule):** never post a video that got OVER 100,000 views on @mackygolfs or @mackthegolfer
   when it was posted there (any IG post of that footage on either account; check Zernio analytics). Skip it entirely. Media: reuse the Zernio-hosted URL from its earlier TikTok/FB/IG post when there is one.
-- **X @mackygolfs: BACK ON (Mack, Nov 14: "I want you posting mackygolfs stuff on x still").** (It was stopped Oct 29; that stop is over.)
-  X @mackygolfs (6acc3edbda858fbeab423c5a), profile 6acc27b455143ae1324c8bda: 2 posts EVERY day, morning 8:00–9:30 MT and
-  evening 5:00–7:00 MT (vary the minute). Content = the same pool as TikTok/FB: her already-posted originals and weekly-folder
-  reels whose IG post is already published (her file, wipe kept). Never the same video on X within 30 days. Caption = the file
-  name / its IG caption, no OnlyFans mention, no hashtags needed; a question works well. X needs H.264 SDR (one CRF-17
-  tone-mapped encode for HEVC/HDR files), max 2:20 (longer: cut at a natural gap for the X copy only, or skip that video).
-  Every clip-page run keeps X scheduled at least 2 days ahead, like TikTok/FB.
-- **SHORTS = 2 A DAY, SHORT CLIPS FIRST (Mack, Nov 15, test ~2 weeks):** regular YouTube Shorts go to TWO a day (~8:30–9:30am
-  and ~5:30–6:30pm MT; vary the minute), promo Shorts on top as usual. Prefer clips UNDER ~30 s (the 10 s "i need new clubs"
-  got 4.2k vs ~1.3–1.6k for 2-minute holes); longer clips only when no short one is available. Wipe always cut, same file
-  never twice on YouTube, no bikini (below). Compare Shorts views after 2 weeks and report to Mack.
-- **NO BIKINI ON YOUTUBE (Mack, Nov 15):** the @mackygolfs Week 4 11-16 "bikini reel" = "3- should i try again?" (Dropbox
-  id:etyjxrk_8sAAAAAAAAAGmQ; Mack named it) NEVER goes on YouTube Shorts (any
-  week, ever). Which file it is: check frames of every MG Week 4 video before it goes to Shorts; any video where Mack is in a
-  bikini/swimsuit is excluded from Shorts (it still posts on IG/TikTok/FB/X as normal). If unsure, leave it off Shorts.
+- **SAME DAY AS IG: TikTok @mackygolfs + Facebook macky.golfs + X @mackygolfs + YouTube Shorts (Mack, Wed Nov 25 7:11-7:15pm
+  — ONE rule for all four; replaces the old X entry, the Nov 22 "daily pair, same day or later" wording and the Shorts
+  "short clips first" picking for weekly videos).** Mack: "Does X golf not have the same posting rules as TikTok?" and
+  "No do it all the same day as IG. MTG in the morning and MG at night. Posting same day on these other platforms shouldn't
+  affect anything in Instagram. If it is a bikini thing or something I prohibit then you can pull from the earlier folders."
+  Then (Nov 25): 6–8:30pm "is too late" -> MG window 4:30–6:00pm.
+  - Every weekly video goes on all four platforms on the SAME DAY as its own IG post, never another day: that day's
+    @mackthegolfer video in the MORNING (after its IG post, ~8:00–11:30am MT) and that day's @mackygolfs video in the late
+    AFTERNOON (after its IG post, ~4:30–6:00pm MT). Vary the minute; >= 1 h between posts on the same platform. So each
+    platform gets 2 a day (MTG am + MG pm), her number order = her IG order.
+  - Promo days: the promo copies follow the same split. Video 4 (launch Fri Nov 27): MTG promo on TikTok/FB/X/Shorts at the
+    9:52am launch, MG promo on TikTok/FB/X/Shorts in the 4:30–6:00pm window. Nothing else those days (no weekly that day).
+  - A day's video that is prohibited on a platform (bikini -> never Shorts, see below; anything else Mack bans) is replaced
+    on THAT platform by an unused video from EARLIER weekly folders (same account's folder first), same slot. Never leave
+    the slot empty when an earlier unused clip exists.
+  - Wrong-day posts (a weekly video on a day other than its IG day) and older leftovers are removed, not stacked: max
+    2 + promo a day per platform. Videos whose IG day passed without a copy are NOT back-filled (list them for Mack).
+  - Media: TikTok/FB/X = her file as uploaded (wipe kept, cover frame 1). X keeps its technical limits: H.264 SDR (one
+    CRF-17 tone-mapped encode for HEVC/HDR files; Zernio-hosted H.264 SDR originals can be reused as is), max 2:20 (longer:
+    cut at a natural gap for the X copy only, or skip X that day). X does NOT wait for the IG post to be published: it is
+    scheduled for a time after the IG post time like TikTok, using the Dropbox file / Zernio-hosted media. Shorts = wipe
+    always cut (one CRF-17 encode; an untouched file only when it has no wipe), no link in title/description (write a
+    caption in her voice when the file name has one, e.g. "check out turndogtribunal.com").
+  - X captions: file name (number stripped); X links are clickable, so promo captions use the full URL line (Video 4:
+    "can i break 50 with one mulligan every hole? New youtube video OUT NOW.\nhttps://youtu.be/ljmd-jilze8"). Never the same
+    video on X within 30 days (alt takes of the same bit count as the same video). No OnlyFans, no hashtags needed on X.
+  - X @mackygolfs = 6acc3edbda858fbeab423c5a, profile 6acc27b455143ae1324c8bda (BACK ON since Mack, Nov 14).
+  - Every clip-page run keeps all four platforms scheduled at least 2 days ahead.
+- **SHORTS = 2 A DAY (Mack, Nov 15; slots now set by the SAME DAY AS IG rule above, Nov 25):** MTG video of the day in
+  the morning, MG video of the day ~4:30–6:00pm, promo Shorts per the promo split. The Nov 15 "short clips first" preference
+  now only applies when picking a REPLACEMENT clip from earlier folders (prefer clips under ~30 s). Wipe always cut, same
+  file never twice on YouTube, no bikini (below). Compare Shorts views after 2 weeks and report to Mack.
+- **NO BIKINI ON YOUTUBE SHORTS — EVER (Mack, Nov 15; strengthened Nov 25: "Also don't post any bikini videos on shorts"):**
+  NO video in which Mack is in a bikini/swimsuit EVER goes on YouTube Shorts — from ANY account or folder (MG, MTG, old
+  weeks, /Golf Captions, compilations), INCLUDING promos and any file Mack hands over. Before scheduling EVERY Short, look
+  at frames yourself (contact sheet of ~12 frames spread across the whole clip + the first second at 10 fps); a bikini/
+  swimsuit in any frame = off Shorts. If unsure, leave it off. It still posts on IG/TikTok/FB/X as normal. Known bikini
+  files: MG W4 "3- should i try again?" (id:etyjxrk_8sAAAAAAAAAGmQ), MG W5 "3. was this better or worse than normal?",
+  MG W5 "6. does anyone know the science here" (frames checked Nov 25: blue bikini throughout), MTG W5 "3. should i try
+  again?". Nov 25 audit: every scheduled Short and every Short published Nov 11-25 was frame-checked (results in runlog).
 - **NEWEST WEEK FIRST (Mack, Nov 15: "are tiktok/facebook/X/shorts not starting with this weeks stuff?"):** on TikTok,
   Facebook, X @mackygolfs and YouTube Shorts, the CURRENT week's folder videos (both accounts, number prefix stripped from
   captions) take the next open slots BEFORE any older original or leftover. Aim: each week's 14 videos are on every one of
-  those platforms within that week (same day as its IG post or later is fine; never before Monday of its week). Older
+  those platforms within that week (Nov 25: on the SAME DAY as its IG post, see SAME DAY AS IG above). Older
   originals only fill slots after the current week's videos are all placed. Shorts: wipe cut as always.
-- **TIKTOK + FB DAILY PAIR (Mack, Sun Nov 22):** TikTok @mackygolfs and Facebook macky.golfs each get TWO posts a day:
-  ONE from the current @mackygolfs Week folder and ONE from the current @mackthegolfer Week folder (her order; same day as
-  its IG post or later). Space them (~morning/early afternoon + evening, >= 1 h apart, vary the minute). On a promo day
-  the promo is extra on top of the pair. If one folder runs out for that day, fill that slot from the other folder, then
-  older originals. This replaces the "about 2-3 a day" cadence below.
+- (HISTORY, replaced Nov 25 by SAME DAY AS IG above) TIKTOK + FB DAILY PAIR (Mack, Sun Nov 22): two a day, one MG-week +
+  one MTG-week video, same day as its IG post or later.
 - **TikTok @mackygolfs + Facebook Page:** weekly-folder reels post as-is (her file, wipe kept, cover = first frame).
-  Week 3+ (Mack, Nov 6 update): each weekly video can go there the same day as its IG post (later than the IG post time) or
-  any day after, with the same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
+  Week 3+: each weekly video goes there the SAME DAY as its IG post, after the IG post time (Nov 25 rule above), with the
+  same file-name caption (FB may add one #golf). Week 1/2 files: any order, as before. FB on the
   same schedule as TikTok. Usual cadence: about 2–3 posts a day each on TikTok and FB (promos included in that count).
   Plan in clips state/schedule.json "weekly_plan". Other TikTok/FB slots: Mack's already-posted originals (TikTok should
   eventually get every original); never-posted videos only after their IG post is published.
