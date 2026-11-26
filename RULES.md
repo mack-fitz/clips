@@ -272,10 +272,8 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   one-offs (Nov 18). #5 in both folders = the Video 4 promo (see Video 4 above).**
   **Nov 25 evening re-plan (SAME DAY AS IG, section 6), times MT, Thu-Sun; TikTok / FB / X / Shorts:**
   Thu MTG #4 turn dog: TT 9:14 (6b0739556472c5774d714920), FB 9:41 (6b0739571661b866d8975d02, Page video), X 8:47
-  (6b0798e58d1cf291afaa6c67), YT 10:18 (6b0798776aae219450a78b3b, no wipe, title "the court is now in session. rating golf
-  course hot dogs"). Thu MG #4 turn dog: X 4:41pm (6b0798e7c6065601d239275a), TT 4:58pm (6b06e8c8bef1855530a55667), FB
-  5:22pm (6b07395678ab9e40912f9e79), YT 5:44pm (6b0798ed8d1cf291afaa6c89, wipe cut 1.0 s, "be honest. would you eat this
-  turn dog"). Fri = Video 4 promos only (table above). Sat MTG #6: X 8:53 (6b07986c09624f89bb667444), TT 9:12
+  (6b0798e58d1cf291afaa6c67), YT 10:18 (6b0798776aae219450a78b3b, no wipe, title "check out the turn dog tribunal"). Thu MG #4 turn dog: X 4:41pm (6b0798e7c6065601d239275a), TT 4:58pm (6b06e8c8bef1855530a55667), FB
+  5:22pm (6b07395678ab9e40912f9e79), YT 5:44pm (6b0798ed8d1cf291afaa6c89, wipe cut 1.0 s, title "check out the turn dog tribunal"). Fri = Video 4 promos only (table above). Sat MTG #6: X 8:53 (6b07986c09624f89bb667444), TT 9:12
   (6b0477dfd57e8b88408b6896), FB 9:41 (6b0477f5d57e8b88408b6905), YT 10:07 (6b0798f08d1cf291afaa6c9e, wipe cut 1.0 s).
   Sat MG #6 (bikini): X 4:44pm (6b0798eaa41e7a8444c53410), TT 4:52pm (6b0477e24f4e6064eea54f12), FB 5:18pm
   (6b0477f7f2866377ef454985); YT 5:37pm = REPLACEMENT from MG week 2 "tues 11-3" ("spilled a hot dog...",
@@ -291,6 +289,16 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (these three have no shirt wipe; first frame = her in the bikini, incl. the MTG cover). MTG "3. should i try again?" =
   same dock/bikini session and caption as MG W4 "3- should i try again?" (MG Nov 18) but a different take; flagged to Mack.
   (Old Shorts plan "Fri B2 + B1, Sat A2 + A1" replaced by the Nov 25 re-plan above.)
+  **Nov 26 ~9am MT (Mack: "for this week ... just make sure everything gets posted"):** both turn dog Short titles were
+  invented AI captions; replaced on both (YT title "check out the turn dog tribunal", description "check out the turn
+  dog tribunal\n\n#golf #shorts" = her caption minus the link). Never invent Shorts titles: use her file-name caption
+  (minus links). Audit of missing W5 copies (verified in Zernio, nothing extra created; Mack does NOT want extra posts,
+  slots stay 2/day per platform): X: MG #1-#3 + MTG #1-#3; TikTok: MTG #2, MG #3, MTG #3; FB: MG #2, MTG #2, MG #3,
+  MTG #3; Shorts: MG #1, MG #2, MTG #1, MTG #2 (MG #3/#6 + MTG #3 bikini = never Shorts). MTG #3 "should i try again?"
+  is an alt take of MG W4 "should i try again?" (X/TikTok/FB Nov 19) -> blocked on X/TikTok/FB until Dec 19 (30-day
+  rule). Ready media for a later fill: X encodes scratch/x-w5a (A1,B1), x-w5b (A2,B2), x-w5c (A3,B3); Shorts wipe-cut
+  scratch/w5-yt @2397324 (yt_w5A1_girl_clubs split parts, yt_w5A2_yes_or_no, yt_w5B1_thoughts, yt_w5B2_insane);
+  TikTok/FB originals hosted on media.zernio.com (from the W5 IG posts). How to fill = Mack/main session decides.
 - Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
   00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch Thu Nov 19 10:00am MT.
   PROMO CAPTION (Mack, Nov 19; she cut "my 7 iron is the club i trust most."): IG/TikTok = "i suck with my driver. so i played
