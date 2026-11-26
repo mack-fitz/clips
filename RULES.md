@@ -289,16 +289,17 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   (these three have no shirt wipe; first frame = her in the bikini, incl. the MTG cover). MTG "3. should i try again?" =
   same dock/bikini session and caption as MG W4 "3- should i try again?" (MG Nov 18) but a different take; flagged to Mack.
   (Old Shorts plan "Fri B2 + B1, Sat A2 + A1" replaced by the Nov 25 re-plan above.)
-  **Nov 26 ~9am MT (Mack: "for this week ... just make sure everything gets posted"):** both turn dog Short titles were
-  invented AI captions; replaced on both (YT title "check out the turn dog tribunal", description "check out the turn
-  dog tribunal\n\n#golf #shorts" = her caption minus the link). Never invent Shorts titles: use her file-name caption
-  (minus links). Audit of missing W5 copies (verified in Zernio, nothing extra created; Mack does NOT want extra posts,
-  slots stay 2/day per platform): X: MG #1-#3 + MTG #1-#3; TikTok: MTG #2, MG #3, MTG #3; FB: MG #2, MTG #2, MG #3,
-  MTG #3; Shorts: MG #1, MG #2, MTG #1, MTG #2 (MG #3/#6 + MTG #3 bikini = never Shorts). MTG #3 "should i try again?"
-  is an alt take of MG W4 "should i try again?" (X/TikTok/FB Nov 19) -> blocked on X/TikTok/FB until Dec 19 (30-day
-  rule). Ready media for a later fill: X encodes scratch/x-w5a (A1,B1), x-w5b (A2,B2), x-w5c (A3,B3); Shorts wipe-cut
-  scratch/w5-yt @2397324 (yt_w5A1_girl_clubs split parts, yt_w5A2_yes_or_no, yt_w5B1_thoughts, yt_w5B2_insane);
-  TikTok/FB originals hosted on media.zernio.com (from the W5 IG posts). How to fill = Mack/main session decides.
+  **Nov 26 ~9am MT (Mack) W5 FINAL FILL for TikTok/FB/X/Shorts (replaces the Nov 25 Thu-Sun lines above; IG unchanged):**
+  same slots only (MTG ~8-11:30am, MG ~4:30-6pm, Fri promos kept), no extras, NO rollover. Each account's stream filled
+  with PROTECTED videos first (every bikini video, and any video with Ally), then unposted ones in number order; only
+  non-protected are dropped. Bikini never on Shorts. Mack overrode the 30-day alt-take rule for MTG #3 this week.
+  Ally judged (frames checked): only MG #1 "should i let my girl pick my clubs" (second woman on camera); no one else.
+  Both turn dog Short titles = "check out the turn dog tribunal" (the invented titles were replaced). All edits were in place
+  on existing post ids (same times). Result (Thu/Sat/Sun; Fri = promos):
+  X MTG: Thu #4 (published) / Sat #1 / Sun #3. X MG: #1 / #3 / #6.  TikTok MTG: #2 / #3 / #4. TikTok MG: #3 / #4 / #6.
+  FB MTG: #2 / #3 / #4. FB MG: #2 / #3 / #6.  Shorts MTG: #1 / #2 / #4. Shorts MG: #1 / #2 / #4.
+  DROPPED (never back-fill): X MTG #2,#6,#7; X MG #2,#4,#7; TikTok MTG #6,#7; TikTok MG #7; FB MTG #6,#7;
+  FB MG #4,#7; Shorts MTG #6,#7 (+#3 bikini); Shorts MG #7 (+#3,#6 bikini). MG #1 Short media = scratch/w5-fill@c2cc73b.
 - Video 3 "Can I Break 50 With Only a 7 Iron?" (Dropbox /Youtube/3. 7iron only/7iron final.mov). VIDEO URL (Mack, Nov 18
   00:00 MT): https://youtu.be/xZh03ZipvX4 . Launch Thu Nov 19 10:00am MT.
   PROMO CAPTION (Mack, Nov 19; she cut "my 7 iron is the club i trust most."): IG/TikTok = "i suck with my driver. so i played
