@@ -58,7 +58,11 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
 - **/golfclips**: CLIP PAGES ONLY (@moremackygolfs, X, TikTok, Facebook). Never anything from /golfclips on @mackygolfs/@mackthegolfer
   (no reels, re-edits, comp or shorty bits).
 - No other Dropbox folder, ever (tracer folders, /Golf, batches...).
-- Copies of the same clip (byte twins, alt takes of the same hole) count as ONE video (clips state/sources.json).
+- Copies of the same clip (byte twins, re-exports/re-edits of the SAME recording) count as ONE video (clips state/sources.json).
+  **SEPARATE TAKES = DIFFERENT VIDEOS (Mack, Nov 26: "If it is a different video then treat it as a different video. I took like
+  15 of that same video because I knew it would do well. That doesn't count as the same video because it was filmed separately.")**
+  A clip filmed separately (another take of the same bit/hole/outfit/session, same caption or not) is its OWN video for every
+  repeat/30-day rule on every platform. Only the same recording counts as a repeat.
 - Workspace can't download Dropbox or reach Zernio storage directly: relay via clips inbox/relay_links.tsv (links mode,
   scratch branch, never main); uploads > 100 MB via Zernio presigned URL + clips "zupload" workflow.
 
@@ -292,7 +296,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
   **Nov 26 ~9am MT (Mack) W5 FINAL FILL for TikTok/FB/X/Shorts (replaces the Nov 25 Thu-Sun lines above; IG unchanged):**
   same slots only (MTG ~8-11:30am, MG ~4:30-6pm, Fri promos kept), no extras, NO rollover. Each account's stream filled
   with PROTECTED videos first (every bikini video, and any video with Ally), then unposted ones in number order; only
-  non-protected are dropped. Bikini never on Shorts. Mack overrode the 30-day alt-take rule for MTG #3 this week.
+  non-protected are dropped. Bikini never on Shorts. MTG #3 is a separate take = a different video (Mack, Nov 26), so no override was needed.
   Ally judged (frames checked): only MG #1 "should i let my girl pick my clubs" (second woman on camera); no one else.
   Both turn dog Short titles = "check out the turn dog tribunal" (the invented titles were replaced). All edits were in place
   on existing post ids (same times). Result (Thu/Sat/Sun; Fri = promos):
@@ -392,7 +396,7 @@ commits. Don't copy rules into task prompts: prompts say "read RULES.md" so ther
     caption in her voice when the file name has one, e.g. "check out turndogtribunal.com").
   - X captions: file name (number stripped); X links are clickable, so promo captions use the full URL line (Video 4:
     "can i break 50 with one mulligan every hole? New youtube video OUT NOW.\nhttps://youtu.be/ljmd-jilze8"). Never the same
-    video on X within 30 days (alt takes of the same bit count as the same video). No OnlyFans, no hashtags needed on X.
+    video on X within 30 days (separately filmed takes are DIFFERENT videos — Mack, Nov 26; only the same recording counts). No OnlyFans, no hashtags needed on X.
   - X @mackygolfs = 6acc3edbda858fbeab423c5a, profile 6acc27b455143ae1324c8bda (BACK ON since Mack, Nov 14).
   - Every clip-page run keeps all four platforms scheduled at least 2 days ahead.
 - **SHORTS = 2 A DAY (Mack, Nov 15; slots now set by the SAME DAY AS IG rule above, Nov 25):** MTG video of the day in
