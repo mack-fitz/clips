@@ -1,0 +1,771 @@
+{
+ "generated": "2026-11-27 (Zernio analytics from 2025-11-28, sort views, pages 1-2; threshold views > 100,000; golf accounts)",
+ "folder": "/Golf/100k+ originals",
+ "rule": "Copies only (never move/rename/delete). One copy per original file; if an original hit 100k on several posts/platforms the name uses the highest view count and lists all platforms. Separately filmed takes are different originals. Weekly-folder originals saved without an extension were copied with .mov (their Zernio relays were .mov). Skip any source_dropbox_id already listed here.",
+ "copied_count": 26,
+ "copied": [
+  {
+   "zernio_post_ids": [
+    "6accea2422786139172f03d7"
+   ],
+   "platforms": [
+    "IG mackthegolfer"
+   ],
+   "caption": "what do you thinking I’m shooting??",
+   "views_at_copy": 1177214,
+   "views_each": {
+    "6accea2422786139172f03d7": 1177214
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFOg",
+   "source_path": "/golfclips/Video Sep 29 2026, 10 16 23 PM.mov",
+   "match": "fingerprint: 84 s audio overlap, duration 86.97 vs post 87.07",
+   "copy_name": "1.18M - IG mackthegolfer - what do you thinking Im shooting.mov",
+   "copy_path": "/Golf/100k+ originals/1.18M - IG mackthegolfer - what do you thinking Im shooting.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHBA"
+  },
+  {
+   "zernio_post_ids": [
+    "6acce840deaf1a6f0e752461"
+   ],
+   "platforms": [
+    "IG mackygolfs"
+   ],
+   "caption": "all children were safe (this time)  (if u liked this video you’ll love my lives ;) )",
+   "views_at_copy": 741418,
+   "views_each": {
+    "6acce840deaf1a6f0e752461": 741418
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFPA",
+   "source_path": "/golfclips/Video Sep 29 2026, 5 05 52 PM.mov",
+   "match": "fingerprint: 104 s audio, duration 106.97 vs post 107.06 (10 14 07 PM is a tracer re-export of the same footage)",
+   "copy_name": "741k - IG mackygolfs - all children were safe (this time) (if u liked this video.mov",
+   "copy_path": "/Golf/100k+ originals/741k - IG mackygolfs - all children were safe (this time) (if u liked this video.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHBQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6accea2422786139172f03c5",
+    "6accea2422786139172f03df"
+   ],
+   "platforms": [
+    "IG mackthegolfer",
+    "IG mackthegolfer"
+   ],
+   "caption": "do you think the singing is helping or hurting my game",
+   "views_at_copy": 290143,
+   "views_each": {
+    "6accea2422786139172f03c5": 290143,
+    "6accea2422786139172f03df": 114326
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFOQ",
+   "source_path": "/golfclips/Video Sep 29 2026, 10 17 37 PM.mov",
+   "match": "fingerprint (both singing reels cut from this 198 s file) + registry",
+   "copy_name": "290k - IG mackthegolfer - do you think the singing is helping or hurting my game.mov",
+   "copy_path": "/Golf/100k+ originals/290k - IG mackthegolfer - do you think the singing is helping or hurting my game.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHBg"
+  },
+  {
+   "zernio_post_ids": [
+    "6b06f3895392ef5224734dab"
+   ],
+   "platforms": [
+    "IG mackthegolfer"
+   ],
+   "caption": "should i try again?",
+   "views_at_copy": 452365,
+   "views_each": {
+    "6b06f3895392ef5224734dab": 452365
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAGlw",
+   "source_path": "/Golf/for claude/mackthegolfer/week 5 11-23/3. should i try again?.mov",
+   "match": "weekly registry",
+   "copy_name": "452k - IG mackthegolfer - should i try again.mov",
+   "copy_path": "/Golf/100k+ originals/452k - IG mackthegolfer - should i try again.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHBw"
+  },
+  {
+   "zernio_post_ids": [
+    "6af3d2e0b13229e727e30b41"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "a weaker loser would have just skipped this hole #golf",
+   "views_at_copy": 310856,
+   "views_each": {
+    "6af3d2e0b13229e727e30b41": 310856
+   },
+   "source_dropbox_id": "id:Xjc4ura-3M8AAAAAAAAAFA",
+   "source_path": "/Golf/for claude/mackygolfs/Week 3 11-9/a weaker loser would have just skipped this hole.mp4",
+   "match": "weekly registry + schedule",
+   "copy_name": "311k - FB macky.golfs - a weaker loser would have just skipped this hole.mp4",
+   "copy_path": "/Golf/100k+ originals/311k - FB macky.golfs - a weaker loser would have just skipped this hole.mp4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHCA"
+  },
+  {
+   "zernio_post_ids": [
+    "6b04ad368d71a94ec4a0b710",
+    "6b04ddc4d3ec9deb49769244"
+   ],
+   "platforms": [
+    "TikTok mackygolfs",
+    "FB macky.golfs"
+   ],
+   "caption": "should i let my girl pick my clubs more often",
+   "views_at_copy": 240230,
+   "views_each": {
+    "6b04ad368d71a94ec4a0b710": 240230,
+    "6b04ddc4d3ec9deb49769244": 148794
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFyg",
+   "source_path": "/Golf/for claude/mackygolfs/Week 5 11-23/1. should i let my girl pick my clubs more often.mov",
+   "match": "weekly registry",
+   "copy_name": "240k - TikTok mackygolfs + FB macky.golfs - should i let my girl pick my clubs more often.mov",
+   "copy_path": "/Golf/100k+ originals/240k - TikTok mackygolfs + FB macky.golfs - should i let my girl pick my clubs more often.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHCQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6af87e274ad21be463f10523"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "this is a genuine question #golf",
+   "views_at_copy": 206240,
+   "views_each": {
+    "6af87e274ad21be463f10523": 206240
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFow",
+   "source_path": "/Golf/for claude/mackthegolfer/Week 3 11-9/this is a genuine question",
+   "match": "weekly registry + schedule",
+   "copy_name": "206k - FB macky.golfs - this is a genuine question.mov",
+   "copy_path": "/Golf/100k+ originals/206k - FB macky.golfs - this is a genuine question.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHCg"
+  },
+  {
+   "zernio_post_ids": [
+    "6ad6930b1a802a13c23dfdf7"
+   ],
+   "platforms": [
+    "TikTok mackygolfs"
+   ],
+   "caption": "bunker, then a hot dog. if you say that's not a par we can't be friends",
+   "views_at_copy": 176315,
+   "views_each": {
+    "6ad6930b1a802a13c23dfdf7": 176315
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAE-w",
+   "source_path": "/Golf Captions/Video Sep 21 2026, 7 28 37 PM.mov",
+   "match": "schedule (untouched original, sha256 checked)",
+   "copy_name": "176k - TikTok mackygolfs - bunker, then a hot dog. if you say that's not a par we.mov",
+   "copy_path": "/Golf/100k+ originals/176k - TikTok mackygolfs - bunker, then a hot dog. if you say that's not a par we.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHCw"
+  },
+  {
+   "zernio_post_ids": [
+    "6adb6b36bda6ee173047d5bd"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "par 3. guess my score before i ruin it",
+   "views_at_copy": 150816,
+   "views_each": {
+    "6adb6b36bda6ee173047d5bd": 150816
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFPg",
+   "source_path": "/golfclips/Video Sep 28 2026, 8 54 37 AM.mov",
+   "match": "schedule media, byte size identical",
+   "copy_name": "151k - FB macky.golfs - par 3. guess my score before i ruin it.mov",
+   "copy_path": "/Golf/100k+ originals/151k - FB macky.golfs - par 3. guess my score before i ruin it.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHDA"
+  },
+  {
+   "zernio_post_ids": [
+    "6ae8120126078dcd414c0959"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "basically a hole in one. how close was it? #golf",
+   "views_at_copy": 143566,
+   "views_each": {
+    "6ae8120126078dcd414c0959": 143566
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAEpg",
+   "source_path": "/golfclips/copy_99A28E54-DA4E-4AD6-956C-A4CC7A3C4FC1.MOV",
+   "match": "schedule media, byte size identical",
+   "copy_name": "144k - FB macky.golfs - basically a hole in one. how close was it.MOV",
+   "copy_path": "/Golf/100k+ originals/144k - FB macky.golfs - basically a hole in one. how close was it.MOV",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHDQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6afe3238125f71dfd67690e9"
+   ],
+   "platforms": [
+    "IG mackygolfs"
+   ],
+   "caption": "should i try again?",
+   "views_at_copy": 143336,
+   "views_each": {
+    "6afe3238125f71dfd67690e9": 143336
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAGmQ",
+   "source_path": "/Golf/for claude/mackygolfs/Week 4 11-16/3- should i try again?",
+   "match": "weekly registry",
+   "copy_name": "143k - IG mackygolfs - should i try again.mov",
+   "copy_path": "/Golf/100k+ originals/143k - IG mackygolfs - should i try again.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHDg"
+  },
+  {
+   "zernio_post_ids": [
+    "6b079a240a46b75c27e10bf8"
+   ],
+   "platforms": [
+    "IG mackygolfs"
+   ],
+   "caption": "was this better or worse than normal?",
+   "views_at_copy": 136719,
+   "views_each": {
+    "6b079a240a46b75c27e10bf8": 136719
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAGog",
+   "source_path": "/Golf/for claude/mackygolfs/Week 5 11-23/3. was this better or worse than normal?.mov",
+   "match": "weekly registry",
+   "copy_name": "137k - IG mackygolfs - was this better or worse than normal.mov",
+   "copy_path": "/Golf/100k+ originals/137k - IG mackygolfs - was this better or worse than normal.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHDw"
+  },
+  {
+   "zernio_post_ids": [
+    "6afdd0f0cd182c8d4adfa987"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "hole 11 is my lucky hole. par 3. guess what i got #golf",
+   "views_at_copy": 128845,
+   "views_each": {
+    "6afdd0f0cd182c8d4adfa987": 128845
+   },
+   "source_dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEFtg",
+   "source_path": "/Golf/for claude/mackthegolfer/week 1/week1- 5.mp4",
+   "match": "schedule weekly_plan (FB reused TikTok untouched original)",
+   "copy_name": "129k - FB macky.golfs - hole 11 is my lucky hole. par 3. guess what i got.mp4",
+   "copy_path": "/Golf/100k+ originals/129k - FB macky.golfs - hole 11 is my lucky hole. par 3. guess what i got.mp4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHEA"
+  },
+  {
+   "zernio_post_ids": [
+    "6b03ceca0ee9b1534a52f841"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "am i right on this #golf",
+   "views_at_copy": 123814,
+   "views_each": {
+    "6b03ceca0ee9b1534a52f841": 123814
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFpA",
+   "source_path": "/Golf/for claude/mackthegolfer/Week 4 11-16/3- am i right on this.mov",
+   "match": "schedule (untouched)",
+   "copy_name": "124k - FB macky.golfs - am i right on this.mov",
+   "copy_path": "/Golf/100k+ originals/124k - FB macky.golfs - am i right on this.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHEQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6acce840deaf1a6f0e75247d"
+   ],
+   "platforms": [
+    "IG mackygolfs"
+   ],
+   "caption": "THEY CALL ME THE LAG MASTA",
+   "views_at_copy": 119959,
+   "views_each": {
+    "6acce840deaf1a6f0e75247d": 119959
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAEWA",
+   "source_path": "/Golf tracer/old stuff - to do when nothing in queue/Video Jul 22 2026, 8 27 29 PM.mov",
+   "match": "fingerprint: 44 s audio, duration 46.33 vs post 46.44",
+   "copy_name": "120k - IG mackygolfs - THEY CALL ME THE LAG MASTA.mov",
+   "copy_path": "/Golf/100k+ originals/120k - IG mackygolfs - THEY CALL ME THE LAG MASTA.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHEg"
+  },
+  {
+   "zernio_post_ids": [
+    "6ade69bb3a3f8f7ab18b8745"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "a realistic par 4 from a 27 handicap. count the strokes with me",
+   "views_at_copy": 119481,
+   "views_each": {
+    "6ade69bb3a3f8f7ab18b8745": 119481
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFQg",
+   "source_path": "/golfclips/Video Sep 28 2026, 8 23 24 AM.mov",
+   "match": "schedule media, byte size identical",
+   "copy_name": "119k - FB macky.golfs - a realistic par 4 from a 27 handicap. count the strokes.mov",
+   "copy_path": "/Golf/100k+ originals/119k - FB macky.golfs - a realistic par 4 from a 27 handicap. count the strokes.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHEw"
+  },
+  {
+   "zernio_post_ids": [
+    "6aef6c88a7b5efb8b80bd411"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "single on a cart, three groups stacked behind me, and they still won't let me play through",
+   "views_at_copy": 119199,
+   "views_each": {
+    "6aef6c88a7b5efb8b80bd411": 119199
+   },
+   "source_dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEGBA",
+   "source_path": "/Golf/for claude/mackthegolfer/week 2 11-1/wed 11-4.mp4",
+   "match": "schedule media B_w2-wed-11-4 = weekly registry",
+   "copy_name": "119k - FB macky.golfs - single on a cart, three groups stacked behind me, and they.mp4",
+   "copy_path": "/Golf/100k+ originals/119k - FB macky.golfs - single on a cart, three groups stacked behind me, and they.mp4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHFA"
+  },
+  {
+   "zernio_post_ids": [
+    "6ace57e1c4ddc3d29339ddbe"
+   ],
+   "platforms": [
+    "TikTok mackygolfs"
+   ],
+   "caption": "king of the world for 1 second",
+   "views_at_copy": 115434,
+   "views_each": {
+    "6ace57e1c4ddc3d29339ddbe": 115434
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAE2g",
+   "source_path": "/Golf Captions/Video Oct 11 2026, 9 02 57 AM.mp4",
+   "match": "registry: TikTok was an edit (011 v3) of this original",
+   "copy_name": "115k - TikTok mackygolfs - king of the world for 1 second.mp4",
+   "copy_path": "/Golf/100k+ originals/115k - TikTok mackygolfs - king of the world for 1 second.mp4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHFQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6acce840deaf1a6f0e7524e2"
+   ],
+   "platforms": [
+    "IG mackygolfs"
+   ],
+   "caption": "Arrowhead Golf Club is an absolute STUNNER as was that tee shot and lag putt",
+   "views_at_copy": 114926,
+   "views_each": {
+    "6acce840deaf1a6f0e7524e2": 114926
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAEYA",
+   "source_path": "/Golf tracer/old stuff - to do when nothing in queue/Video Aug 09 2026, 4 28 06 PM.mov",
+   "match": "fingerprint: 25 s audio + 26 s frames, duration 28.0 = post",
+   "copy_name": "115k - IG mackygolfs - Arrowhead Golf Club is an absolute STUNNER as was that tee.mov",
+   "copy_path": "/Golf/100k+ originals/115k - IG mackygolfs - Arrowhead Golf Club is an absolute STUNNER as was that tee.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHFg"
+  },
+  {
+   "zernio_post_ids": [
+    "6adccb800883ab5abfbc3917"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "said i'd par this hole. guess what i actually got",
+   "views_at_copy": 113526,
+   "views_each": {
+    "6adccb800883ab5abfbc3917": 113526
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFTA",
+   "source_path": "/golfclips/Video Sep 28 2026, 7 56 55 AM.mov",
+   "match": "schedule media, byte size identical",
+   "copy_name": "114k - FB macky.golfs - said i'd par this hole. guess what i actually got.mov",
+   "copy_path": "/Golf/100k+ originals/114k - FB macky.golfs - said i'd par this hole. guess what i actually got.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHFw"
+  },
+  {
+   "zernio_post_ids": [
+    "6ad3c620bdbd62f63f715045"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "guess my score. be nice",
+   "views_at_copy": 111165,
+   "views_each": {
+    "6ad3c620bdbd62f63f715045": 111165
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAE6Q",
+   "source_path": "/Golf Captions/Video Oct 12 2026, 7 33 50 AM.mov",
+   "match": "schedule (untouched, size checked)",
+   "copy_name": "111k - FB macky.golfs - guess my score. be nice.mov",
+   "copy_path": "/Golf/100k+ originals/111k - FB macky.golfs - guess my score. be nice.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHGA"
+  },
+  {
+   "zernio_post_ids": [
+    "6b032af9c2482d86d3d5ae1e"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "took a risk but it worked out! #golf",
+   "views_at_copy": 107746,
+   "views_each": {
+    "6b032af9c2482d86d3d5ae1e": 107746
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFxw",
+   "source_path": "/Golf/for claude/mackygolfs/Week 4 11-16/5- took a risk but it worked out!",
+   "match": "schedule + weekly registry",
+   "copy_name": "108k - FB macky.golfs - took a risk but it worked out!.mov",
+   "copy_path": "/Golf/100k+ originals/108k - FB macky.golfs - took a risk but it worked out!.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHGQ"
+  },
+  {
+   "zernio_post_ids": [
+    "6aee93c2a230b32b52bb98ed"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "my ball literally says super straight. it was not. what would you give me on this hole?",
+   "views_at_copy": 105228,
+   "views_each": {
+    "6aee93c2a230b32b52bb98ed": 105228
+   },
+   "source_dropbox_id": "id:4YNmOZ1SMOYAAAAAAAEGDw",
+   "source_path": "/Golf/for claude/mackygolfs/week 2/monday 11-2.mp4",
+   "match": "schedule media A_w2-monday-11-2 = weekly registry",
+   "copy_name": "105k - FB macky.golfs - my ball literally says super straight. it was not. what.mp4",
+   "copy_path": "/Golf/100k+ originals/105k - FB macky.golfs - my ball literally says super straight. it was not. what.mp4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHGg"
+  },
+  {
+   "zernio_post_ids": [
+    "6af12dd93c90ab804061fa9e"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "make the putt, get a kiss. fair deal? #golf",
+   "views_at_copy": 102818,
+   "views_each": {
+    "6af12dd93c90ab804061fa9e": 102818
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFxQ",
+   "source_path": "/Golf/for claude/mackygolfs/week 2/thurs 11-5.mov",
+   "match": "schedule media A_w2-thurs-11-5 = weekly registry",
+   "copy_name": "103k - FB macky.golfs - make the putt, get a kiss. fair deal.mov",
+   "copy_path": "/Golf/100k+ originals/103k - FB macky.golfs - make the putt, get a kiss. fair deal.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHGw"
+  },
+  {
+   "zernio_post_ids": [
+    "6adbfe0f7f0a89217cf77abd"
+   ],
+   "platforms": [
+    "TikTok mackygolfs"
+   ],
+   "caption": "best lag of your life. pardon my french",
+   "views_at_copy": 101391,
+   "views_each": {
+    "6adbfe0f7f0a89217cf77abd": 101391
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAFOA",
+   "source_path": "/golfclips/Video Sep 29 2026, 10 21 37 PM.mov",
+   "match": "registry (024 gorgeous-day X export), duration 120.6 vs 119.8",
+   "copy_name": "101k - TikTok mackygolfs - best lag of your life. pardon my french.mov",
+   "copy_path": "/Golf/100k+ originals/101k - TikTok mackygolfs - best lag of your life. pardon my french.mov",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHHA"
+  },
+  {
+   "zernio_post_ids": [
+    "6aea93b454948bea4880607b"
+   ],
+   "platforms": [
+    "FB macky.golfs"
+   ],
+   "caption": "eagle was right there. what went wrong? #golf",
+   "views_at_copy": 100379,
+   "views_each": {
+    "6aea93b454948bea4880607b": 100379
+   },
+   "source_dropbox_id": "id:etyjxrk_8sAAAAAAAAAEqg",
+   "source_path": "/golfclips/IMG_6394.MP4",
+   "match": "schedule note + media map (008 almost-eagle, untouched IMG_6394)",
+   "copy_name": "100k - FB macky.golfs - eagle was right there. what went wrong.MP4",
+   "copy_path": "/Golf/100k+ originals/100k - FB macky.golfs - eagle was right there. what went wrong.MP4",
+   "copy_dropbox_id": "id:etyjxrk_8sAAAAAAAAAHHQ"
+  }
+ ],
+ "unmatched": [
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752491",
+   "platform": "IG mackygolfs",
+   "caption": "lmk if you need any more tips!",
+   "views": 903223,
+   "posted": "2026-07-06",
+   "duration_s": null,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752465",
+   "platform": "IG mackygolfs",
+   "caption": "please help me out !! #golf #golfgirl",
+   "views": 271824,
+   "posted": "2026-07-08",
+   "duration_s": 35,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524e7",
+   "platform": "IG mackygolfs",
+   "caption": "if anyone says this is a par you’re dead to me",
+   "views": 249470,
+   "posted": "2026-07-13",
+   "duration_s": 53,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752449",
+   "platform": "IG mackygolfs",
+   "caption": "I’m choosing this all day",
+   "views": 232910,
+   "posted": "2026-09-23",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6accea2422786139172f03be",
+   "platform": "IG mackthegolfer",
+   "caption": "pretend like you didn’t see this   #golf #golfgirl",
+   "views": 207919,
+   "posted": "2026-07-09",
+   "duration_s": 6,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e75242f",
+   "platform": "IG mackygolfs",
+   "caption": "please help! I’m tired of triples being my best!  #golf #golfgirl",
+   "views": 191298,
+   "posted": "2026-07-21",
+   "duration_s": 23,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752456",
+   "platform": "IG mackygolfs",
+   "caption": "my favorite part of golf ⛳️🌈❤️  #wlwcouple #wlw #golfgirl",
+   "views": 181825,
+   "posted": "2026-07-05",
+   "duration_s": null,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524be",
+   "platform": "IG mackygolfs",
+   "caption": "I can’t think of anything better??  #golf #golfgirl #wlw",
+   "views": 172726,
+   "posted": "2026-09-24",
+   "duration_s": 5,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524ae",
+   "platform": "IG mackygolfs",
+   "caption": "JOIN ME! On the ROAD TO BREAKING 100 This is hole one of this journey. Par four.  Please g",
+   "views": 169997,
+   "posted": "2026-07-16",
+   "duration_s": 50,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e75248e",
+   "platform": "IG mackygolfs",
+   "caption": "and some people say golf is boring to watch 🙄",
+   "views": 167385,
+   "posted": "2026-08-07",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-08; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e75242e",
+   "platform": "IG mackygolfs",
+   "caption": "not enough people talking about this part of golf",
+   "views": 161394,
+   "posted": "2026-08-11",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-08; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524fe",
+   "platform": "IG mackygolfs",
+   "caption": "what would you say??",
+   "views": 151118,
+   "posted": "2026-07-05",
+   "duration_s": 7,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752454",
+   "platform": "IG mackygolfs",
+   "caption": "in addition to being a golfing legend I do also fish (legandarily)",
+   "views": 146924,
+   "posted": "2026-08-12",
+   "duration_s": 7,
+   "reason": "posted natively on IG in 2026-08; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752475",
+   "platform": "IG mackygolfs",
+   "caption": "NOT SO ATROCIOUS AFTER ALL AM I",
+   "views": 146035,
+   "posted": "2026-07-13",
+   "duration_s": 53,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524bd",
+   "platform": "IG mackygolfs",
+   "caption": "put some respect on my name!!!",
+   "views": 143946,
+   "posted": "2026-07-13",
+   "duration_s": 7,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752501",
+   "platform": "IG mackygolfs",
+   "caption": "family is the most important thing 🌈 wlw #wlw",
+   "views": 140001,
+   "posted": "2026-07-01",
+   "duration_s": null,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752499",
+   "platform": "IG mackygolfs",
+   "caption": "I think yes",
+   "views": 137170,
+   "posted": "2026-09-26",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6accea2422786139172f03dd",
+   "platform": "IG mackthegolfer",
+   "caption": "But we can do it together ❤️",
+   "views": 131630,
+   "posted": "2026-07-08",
+   "duration_s": null,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524dc",
+   "platform": "IG mackygolfs",
+   "caption": "I haven’t hit a hole in one yet but I imagine this tops it",
+   "views": 128776,
+   "posted": "2026-09-24",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524c0",
+   "platform": "IG mackygolfs",
+   "caption": "WELCOME TO the road to breaking 100!! Please give me golf tips so I can achieve this!! Thi",
+   "views": 127995,
+   "posted": "2026-07-16",
+   "duration_s": 50,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752459",
+   "platform": "IG mackygolfs",
+   "caption": "can you think of something better? @allylovestogolf",
+   "views": 126782,
+   "posted": "2026-09-27",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752460",
+   "platform": "IG mackygolfs",
+   "caption": "this color did not turn out how I thought it would 😩",
+   "views": 124781,
+   "posted": "2026-07-02",
+   "duration_s": 8,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524ca",
+   "platform": "IG mackygolfs",
+   "caption": "not enough people talking about this part of golf !!!",
+   "views": 118419,
+   "posted": "2026-09-22",
+   "duration_s": 11,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524bf",
+   "platform": "IG mackygolfs",
+   "caption": "I do believe that was actually a 9",
+   "views": 112076,
+   "posted": "2026-07-12",
+   "duration_s": 30,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752468",
+   "platform": "IG mackygolfs",
+   "caption": "me when my tee time gets rained out",
+   "views": 110158,
+   "posted": "2026-09-13",
+   "duration_s": 7,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6accea2422786139172f03c9",
+   "platform": "IG mackthegolfer",
+   "caption": "which is it",
+   "views": 106970,
+   "posted": "2026-09-27",
+   "duration_s": 5,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524fb",
+   "platform": "IG mackygolfs",
+   "caption": "please help me out!! #golfgirl",
+   "views": 105289,
+   "posted": "2026-07-06",
+   "duration_s": 37,
+   "reason": "posted natively on IG in 2026-07; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e752439",
+   "platform": "IG mackygolfs",
+   "caption": "The only thing better than golf",
+   "views": 104411,
+   "posted": "2026-08-16",
+   "duration_s": null,
+   "reason": "posted natively on IG in 2026-08; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  },
+  {
+   "zernio_post_id": "6acce840deaf1a6f0e7524e8",
+   "platform": "IG mackygolfs",
+   "caption": "I'm happy to be proven wrong",
+   "views": 103527,
+   "posted": "2026-09-28",
+   "duration_s": 9,
+   "reason": "posted natively on IG in 2026-09; no fingerprint/registry match against any fingerprinted Dropbox source (/Golf Captions, /golfclips, /Golf tracer, /Golf root, Final Batch Sept 25th) and no filename/caption match in Dropbox search - the untouched file may only be on her phone"
+  }
+ ]
+}
